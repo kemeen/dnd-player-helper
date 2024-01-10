@@ -203,6 +203,14 @@ erDiagram
         ANY TBD "More entries here!"
     }
 
+    Book {
+        string id PK "Natural key"
+        string group
+        string name
+        date published
+        string source "CK, AK, NK, not always the same as the id"
+    }
+
 
     Race ||--|{ RaceSize: has
     Race ||--|{ RaceSpeed: has
@@ -214,7 +222,13 @@ erDiagram
     Race ||--o{ RaceTraitTag: has
     Race ||--o{ RaceResistance: has
     Race ||--o{ RaceAbilityModifier: has
+    
     SubRace ||--o{ SubRaceModifications: has
+
+    Book ||--o{ Race: defines
+    Book ||--o{ SubRace: defines
+    Book ||--o{ SubRaceModifications: defines
+
 
 ```
 For some of the relations the data structure might change in the future. An example is the Race - Weapon Proficiency relation where the weapon is currently just a name. This can become a foreign key to a weapons table in the future. But the Weapon Proficency table does not have to change for this, other than weapon becoming a foreign key.
