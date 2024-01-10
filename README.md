@@ -89,3 +89,138 @@ Features are attributes and properties of a character. The initial features for 
 - Attributes
 - Race
 - Class
+
+# DnD Database Structure
+
+The targeted data structure targets to follow database normalization principals.
+There are 5 rules to follow when setting up the database (or data structure) which are called **Normal Forms** and if the tables in the database forllow these they can be considered normalized. Database normalization ensures that tables and therefor the data structure is:
+- Easier to understand
+- Easier to enhance and extend
+- Protected from:
+    - insertion anomolies
+    - deletion anomolies
+    - update anamolies
+all the anomolies represent forms of corrupting the database resulting in errors in the stored data.
+
+## First Normal Form (1NF)
+- Using row order to to convey information is not permitted
+- Mixing data types within the same column is not permitted
+- Having a table without a primary key is not permitted
+- Repeating groups (lists) are not permitted
+
+## Second Normal Form (2NF)
+- Each Non key attribute in the table must be dependent on the entire primary key.
+
+## Third Normal Form (3NF)
+- Each non-key attribute in the table must depent on the key, the whole key and nothing but the key.
+
+A stronger definition of 3NF also known as **Boyce-Codd Normal Form** (BCNF) is:
+
+- Each ~~non-key~~ attribute in the table must depent on the key, the whole key and nothing but the key.
+
+## Forth Normal Form (4NF)
+- The only kinds of mulivalued dependencies in a table are multivalued dependencies on the key.
+
+## Fith Normal Form (5NF)
+- It must not be possible to describe the table as being the logical result of joing multiple other tables together.
+
+```mermaid
+---
+title: DnD Data Relations
+---
+erDiagram
+    Race {
+        string name PK
+        string source PK "DnD Book where this is descibed"
+        int darkvision "Dark vision distance in feet"
+        bool basic_rules "Is part of the Basic Rules"
+        bool srd "Is part of the Systems Reference Document (SRD)"
+
+    }
+
+    RaceWeaponProficiency {
+        string race PK, FK
+        string source PK, FK
+        sting weapon PK
+    }
+
+    RaceTraitTag {
+        string race PK, FK
+        string source PK, FK
+        string tag PK
+    }
+
+    RaceResistancies {
+        string race PK, FK
+        string source PK, FK
+        string resistance PK
+    }
+
+    RaceAge {
+        string race PK, FK
+        string source PK, FK
+        string age_type PK
+        int age_in_years
+    }
+
+    RaceSize {
+        string race PK, FK
+        string source PK, FK
+        string size PK
+    }
+
+    RaceSpeed {
+        string race PK, FK
+        string source PK, FK
+        string movement_type PK "Swim, walk or fly"
+        int speed_in_feet_pre_round
+    }
+
+    RaceDescriptions {
+        string race PK, FK
+        string source PK, FK
+        string description
+    }
+
+    RaceLanguageProficiency {
+        string race PK, FK
+        string source PK, FK
+        string language PK
+    }
+
+    RaceAbilityModifier {
+        string race PK, FK
+        string source PK, FK
+        string ability PK
+        int modifier
+    }
+
+    SubRace {
+        string parent_race PK, FK
+        string parent_source PK, FK
+        string name PK
+        string source PK
+    }
+
+    SubRaceModifications {
+        string parent_race PK, FK
+        string parent_source PK, FK
+        string name PK
+        string source PK
+        ANY TBD
+    }
+
+
+    Race ||--|{ RaceSize: has
+    Race ||--|{ RaceSpeed: has
+    Race ||--|{ RaceLanguageProficiency: knows
+    Race ||--o{ SubRace: has
+    Race ||--o{ RaceDescriptions: has
+    Race ||--o{ RaceAge: has
+    Race ||--o{ RaceWeaponProficiency: has
+    Race ||--o{ RaceTraitTag: has
+    Race ||--o{ RaceResistancies: has
+    Race ||--o{ RaceAbilityModifier: has
+    SubRace ||--o{ SubRaceModifications: has
+
+```
