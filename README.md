@@ -102,27 +102,29 @@ There are 5 rules to follow when setting up the database (or data structure) whi
     - update anamolies
 all the anomolies represent forms of corrupting the database resulting in errors in the stored data.
 
-## First Normal Form (1NF)
+### First Normal Form (1NF)
 - Using row order to to convey information is not permitted
 - Mixing data types within the same column is not permitted
 - Having a table without a primary key is not permitted
 - Repeating groups (lists) are not permitted
 
-## Second Normal Form (2NF)
+### Second Normal Form (2NF)
 - Each Non key attribute in the table must be dependent on the entire primary key.
 
-## Third Normal Form (3NF)
+### Third Normal Form (3NF)
 - Each non-key attribute in the table must depent on the key, the whole key and nothing but the key.
 
 A stronger definition of 3NF also known as **Boyce-Codd Normal Form** (BCNF) is:
 
 - Each ~~non-key~~ attribute in the table must depent on the key, the whole key and nothing but the key.
 
-## Forth Normal Form (4NF)
+### Forth Normal Form (4NF)
 - The only kinds of mulivalued dependencies in a table are multivalued dependencies on the key.
 
-## Fith Normal Form (5NF)
+### Fith Normal Form (5NF)
 - It must not be possible to describe the table as being the logical result of joing multiple other tables together.
+
+## Race Data Structure
 
 ```mermaid
 ---
@@ -130,8 +132,9 @@ title: DnD Data Relations
 ---
 erDiagram
     Race {
-        string name PK
-        string source PK "DnD Book where this is descibed"
+        int race_id PK "Surrogate Key"
+        string name "Not unique!"
+        string source "DnD Book where this is descibed"
         int darkvision "Dark vision distance in feet"
         bool basic_rules "Is part of the Basic Rules"
         bool srd "Is part of the Systems Reference Document (SRD)"
@@ -139,88 +142,80 @@ erDiagram
     }
 
     RaceWeaponProficiency {
-        string race PK, FK
-        string source PK, FK
-        sting weapon PK
+        int race_id PK, FK
+        sting weapon PK 
     }
 
     RaceTraitTag {
-        string race PK, FK
-        string source PK, FK
+        int race_id PK, FK
         string tag PK
     }
 
-    RaceResistancies {
-        string race PK, FK
-        string source PK, FK
-        string resistance PK
+    RaceResistance {
+        int race_id PK, FK
+        string resistance PK 
     }
 
     RaceAge {
-        string race PK, FK
-        string source PK, FK
+        int race_id PK, FK
         string age_type PK
         int age_in_years
     }
 
     RaceSize {
-        string race PK, FK
-        string source PK, FK
-        string size PK
+        int race_id PK, FK
+        string size PK 
     }
 
     RaceSpeed {
-        string race PK, FK
-        string source PK, FK
+        int race_id PK, FK
         string movement_type PK "Swim, walk or fly"
         int speed_in_feet_pre_round
     }
 
     RaceDescriptions {
-        string race PK, FK
-        string source PK, FK
+        int race_id PK, FK
         string description
     }
 
     RaceLanguageProficiency {
-        string race PK, FK
-        string source PK, FK
+        int race_id PK, FK
         string language PK
     }
 
     RaceAbilityModifier {
-        string race PK, FK
-        string source PK, FK
+        int race_id PK, FK
         string ability PK
         int modifier
     }
 
     SubRace {
-        string parent_race PK, FK
-        string parent_source PK, FK
-        string name PK
-        string source PK
+        int race_id PK, FK
+        int sub_race_id PK "Surrogate key"
+        string name
+        string source
     }
 
     SubRaceModifications {
-        string parent_race PK, FK
-        string parent_source PK, FK
-        string name PK
-        string source PK
-        ANY TBD
+        int sub_race_id PK, FK
+        string name
+        string source
+        ANY TBD "More entries here!"
     }
 
 
     Race ||--|{ RaceSize: has
     Race ||--|{ RaceSpeed: has
-    Race ||--|{ RaceLanguageProficiency: knows
+    Race ||--|{ RaceLanguageProficiency: speaks
     Race ||--o{ SubRace: has
     Race ||--o{ RaceDescriptions: has
     Race ||--o{ RaceAge: has
     Race ||--o{ RaceWeaponProficiency: has
     Race ||--o{ RaceTraitTag: has
-    Race ||--o{ RaceResistancies: has
+    Race ||--o{ RaceResistance: has
     Race ||--o{ RaceAbilityModifier: has
     SubRace ||--o{ SubRaceModifications: has
 
 ```
+For some of the relations the data structure might change in the future. An example is the Race - Weapon Proficiency relation where the weapon is currently just a name. This can become a foreign key to a weapons table in the future. But the Weapon Proficency table does not have to change for this, other than weapon becoming a foreign key.
+If possible ,the primary key in every table is choosen from natural keys, if a unique natural keys exists. This was not possible for the race however since races sometimes have different definitions in different sources. Instead of defining a composite key from (race_name, source), a surrogate key (race_id) is used. 
