@@ -134,7 +134,7 @@ erDiagram
     Race {
         int race_id PK "Surrogate Key"
         string name "Not unique!"
-        string source "DnD Book where this is descibed"
+        string source FK "DnD Book where this is descibed"
         int darkvision "Dark vision distance in feet"
         bool basic_rules "Is part of the Basic Rules"
         bool srd "Is part of the Systems Reference Document (SRD)"
@@ -193,13 +193,13 @@ erDiagram
         int race_id PK, FK
         int sub_race_id PK "Surrogate key"
         string name
-        string source
+        string source FK
     }
 
     SubRaceModifications {
         int sub_race_id PK, FK
         string name
-        string source
+        string source FK
         ANY TBD "More entries here!"
     }
 
