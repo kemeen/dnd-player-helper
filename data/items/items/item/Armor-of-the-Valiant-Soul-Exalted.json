@@ -1,0 +1,45 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Armor of the Valiant Soul reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The AC bonus of the armor increases to +3.",
+                                            "You are immune to acid damage while wearing this armor.",
+                                            "All friendly creatures within 15 feet of you are immune to the {@condition frightened} condition as long as you are conscious.",
+                                            "The spell save DC of the armor's {@spell command} spell increases to 18, and the spell can target up to five creatures."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Armor of the Valiant Soul (Awakened)",
+        "source": "TDCSR"
+    },
+    "bonusAc": "+3",
+    "hasFluffImages": true,
+    "immune": [
+        "acid"
+    ],
+    "name": "Armor of the Valiant Soul (Exalted)",
+    "resist": null,
+    "source": "TDCSR"
+}

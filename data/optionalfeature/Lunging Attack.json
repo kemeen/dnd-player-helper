@@ -1,0 +1,14 @@
+{
+    "consumes": {
+        "name": "Superiority Die"
+    },
+    "entries": [
+        "When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll."
+    ],
+    "featureType": [
+        "MV:B"
+    ],
+    "name": "Lunging Attack",
+    "page": 74,
+    "source": "PHB"
+}

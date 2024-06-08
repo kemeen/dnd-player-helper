@@ -1,0 +1,80 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": 2,
+                "items": [
+                    {
+                        "data": {
+                            "isFeature": true
+                        },
+                        "entries": [
+                            "{@note The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate\u2014though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.}",
+                            "You've lived your entire life in the Lower or Outer City of Baldur's Gate. You grew up seeing arrogant patriars flaunt their wealth while your hardworking neighbors struggled. As a result, you know how eager commoners in Baldur's Gate are to see any patriar get what they deserve. While in a busy part of the Lower City or Outer City of Baldur's Gate, you can spend {@dice 2d10} minutes to convince {@dice 1d6} {@creature commoner||commoners} to perform a non-illegal act that inconveniences a member of the Watch or Flaming Fist, a patriar, or some other wealthy looking individual."
+                        ],
+                        "name": "Baldur's Gate Feature: Social Vengeance",
+                        "type": "entries"
+                    },
+                    {
+                        "entries": [
+                            "Folk heroes might rise from a variety of circumstances, or their origins might be a secret as they do their work anonymously. If you wish, you may roll on the Folk Hero Origins table for an event that started you down your heroic path.",
+                            {
+                                "caption": "Folk Hero Origins",
+                                "colLabels": [
+                                    "d6",
+                                    "Origin"
+                                ],
+                                "colStyles": [
+                                    "col-2 text-center",
+                                    "col-10"
+                                ],
+                                "rows": [
+                                    [
+                                        "1",
+                                        "You helped get healing for a sick child. Now the sick come to you, knowing you'll help them find a way to salvation."
+                                    ],
+                                    [
+                                        "2",
+                                        "You helped break a Guild protection racket afflicting a community of immigrants in the Outer City. Now, you can't travel through that part of the city without your dozen adopted grandparents inviting you in for a meal."
+                                    ],
+                                    [
+                                        "3",
+                                        "Seeing a lost patriar after dark in the Outer City, you guided the wayward noble through back streets to safety. The patriar repaid your help by paying for improved roofs and lamps in your neighborhood, causing the entire community to celebrate your deed."
+                                    ],
+                                    [
+                                        "4",
+                                        "Fueled by alcohol, you faced down a carrion crawler that slunk out of the sewer, knocking it out with a single punch. Since then, however, the ale you once credited with your heroism has drowned it, and even your most patient admirers are losing hope. You're hoping for one last chance to win back the goodwill you've drunk away."
+                                    ],
+                                    [
+                                        "5",
+                                        "You once defeated a raging bugbear with a hand mirror, a mounted deer's head, and two kicks to the groin. Later, you and the bugbear became friends."
+                                    ],
+                                    [
+                                        "6",
+                                        "Last winter, you dove into the frigid river to haul out a foundering fishing boat with your bare hands, saving all aboard. Now, everyone on the docks knows your name."
+                                    ]
+                                ],
+                                "type": "table"
+                            }
+                        ],
+                        "name": "Folk Hero Origins",
+                        "type": "entries"
+                    }
+                ],
+                "mode": "insertArr"
+            }
+        },
+        "name": "Folk Hero",
+        "source": "PHB"
+    },
+    "additionalSources": [
+        {
+            "page": 131,
+            "source": "PHB"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Baldur's Gate Folk Hero",
+    "page": 204,
+    "source": "BGDIA"
+}

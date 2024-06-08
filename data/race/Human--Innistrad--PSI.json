@@ -1,0 +1,51 @@
+{
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "entries": [
+        {
+            "entries": [
+                "Humans reach adulthood in their late teens and live less than a century."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Humans tend toward no particular alignment."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and one extra language of your choice."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true
+        }
+    ],
+    "name": "Human (Innistrad)",
+    "page": 8,
+    "size": [
+        "M"
+    ],
+    "source": "PSI",
+    "speed": 30
+}

@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "SCC-TMM",
+    "level": {
+        "end": 8,
+        "start": 6
+    },
+    "name": "Strixhaven: The Magister's Masquerade",
+    "parentName": "Strixhaven: A Curriculum of Chaos",
+    "parentSource": "SCC",
+    "published": "2021-12-07",
+    "publishedOrder": 2,
+    "source": "SCC-TMM",
+    "storyline": "Strixhaven"
+}

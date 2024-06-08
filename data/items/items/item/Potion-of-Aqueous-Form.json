@@ -1,0 +1,37 @@
+{
+    "entries": [
+        "When you drink this potion, you transform into a pool of water. You return to your true form after 10 minutes or if you are {@condition incapacitated} or die.",
+        "You're under the following effects while in this form:",
+        {
+            "items": [
+                {
+                    "entry": "You have a swimming speed of 30 feet. You can move over or through other liquids. You can enter and occupy the space of another creature. You can rise up to your normal height, and you can pass through even Tiny openings. You extinguish nonmagical flames in any space you enter.",
+                    "name": "Liquid Movement",
+                    "type": "item"
+                },
+                {
+                    "entry": "You have resistance to nonmagical damage. You also have advantage on Strength, Dexterity, and Constitution saving throws.",
+                    "name": "Watery Resilience",
+                    "type": "item"
+                },
+                {
+                    "entry": "You can't talk, attack, cast spells, or activate magic items. Any objects you were carrying or wearing meld into your new form and are inaccessible, though you continue to be affected by anything you're wearing, such as armor.",
+                    "name": "Limitations",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "modifySpeed": {
+        "static": {
+            "swim": 30
+        }
+    },
+    "name": "Potion of Aqueous Form",
+    "page": 197,
+    "rarity": "rare",
+    "source": "MOT",
+    "type": "P"
+}

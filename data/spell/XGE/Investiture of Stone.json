@@ -1,0 +1,65 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "prone",
+        "stunned"
+    ],
+    "damageResist": [
+        "bludgeoning",
+        "piercing",
+        "slashing"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Until the spell ends, bits of rock spread across your body, and you gain the following benefits:",
+        {
+            "items": [
+                "You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.",
+                "You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked {@condition prone}.",
+                "You can move across {@quickref difficult terrain||3} made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are {@condition stunned} until the end of your next turn."
+            ],
+            "type": "list"
+        }
+    ],
+    "level": 6,
+    "name": "Investiture of Stone",
+    "otherSources": [
+        {
+            "page": 19,
+            "source": "EEPC"
+        }
+    ],
+    "page": 159,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "T",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

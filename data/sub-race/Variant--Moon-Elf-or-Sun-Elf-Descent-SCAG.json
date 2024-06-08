@@ -1,0 +1,128 @@
+{
+    "_versions": [
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "You know one cantrip of your choice from the {@filter wizard spell list|spells|class=wizard|level=0}. Intelligence is your spellcasting ability for it."
+                        ],
+                        "name": "Variant Feature; Cantrip",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Variant Feature (Choose 1)"
+                }
+            },
+            "name": "Variant; Moon Elf or Sun Elf Descent; Cantrip",
+            "skillProficiencies": null,
+            "source": "SCAG",
+            "weaponProficiencies": null
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+                        ],
+                        "name": "Variant Feature; Elf Weapon Training",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Variant Feature (Choose 1)"
+                }
+            },
+            "additionalSpells": null,
+            "name": "Variant; Moon Elf or Sun Elf Descent; Elf Weapon Training",
+            "skillProficiencies": null,
+            "source": "SCAG"
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "You gain proficiency in two skills of your choice."
+                        ],
+                        "name": "Variant Feature; Skill Versatility",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Variant Feature (Choose 1)"
+                }
+            },
+            "additionalSpells": null,
+            "name": "Variant; Moon Elf or Sun Elf Descent; Skill Versatility",
+            "source": "SCAG",
+            "weaponProficiencies": null
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "int",
+            "known": {
+                "1": {
+                    "_": [
+                        {
+                            "choose": "level=0|class=Wizard"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "entries": [
+        {
+            "data": {
+                "overwrite": "Skill Versatility"
+            },
+            "entries": [
+                {
+                    "entries": [
+                        "You gain proficiency in two skills of your choice."
+                    ],
+                    "name": "Skill Versatility",
+                    "type": "entries"
+                },
+                {
+                    "entries": [
+                        "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+                    ],
+                    "name": "Elf Weapon Training",
+                    "type": "entries"
+                },
+                {
+                    "entries": [
+                        "You know one cantrip of your choice from the {@filter wizard spell list|spells|class=wizard|level=0}. Intelligence is your spellcasting ability for it."
+                    ],
+                    "name": "Cantrip",
+                    "type": "entries"
+                }
+            ],
+            "name": "Variant Feature (Choose 1)",
+            "type": "inset"
+        }
+    ],
+    "name": "Variant; Moon Elf or Sun Elf Descent",
+    "overwrite": {
+        "skillProficiencies": true
+    },
+    "page": 116,
+    "raceName": "Half-Elf",
+    "raceSource": "PHB",
+    "skillProficiencies": [
+        {
+            "any": 2
+        }
+    ],
+    "source": "SCAG",
+    "weaponProficiencies": [
+        {
+            "longbow|phb": true,
+            "longsword|phb": true,
+            "shortbow|phb": true,
+            "shortsword|phb": true
+        }
+    ]
+}

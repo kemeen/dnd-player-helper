@@ -1,0 +1,31 @@
+{
+    "ammoType": "arrow|phb",
+    "baseItem": "longbow|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "This gorgeous {@item longbow|phb} made of everbark from the Fey Realm flexes and shifts like a living entity. It is said to have been wielded by the legendary ranger {@creature Vex'ahlia|TDCSR} against great evils."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Fenthras (Dormant)|TDCSR",
+        "Fenthras (Awakened)|TDCSR",
+        "Fenthras (Exalted)|TDCSR"
+    ],
+    "name": "Fenthras",
+    "page": 205,
+    "property": [
+        "A",
+        "H",
+        "2H",
+        "Vst"
+    ],
+    "range": "150/600",
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "type": "R",
+    "weaponCategory": "martial",
+    "weight": 2
+}

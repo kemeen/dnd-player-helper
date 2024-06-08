@@ -1,0 +1,81 @@
+{
+    "additionalEntries": [
+        "Weaver's tools allow you to create cloth and tailor it into articles of clothing.",
+        {
+            "entries": [
+                "Weaver's tools include thread, needles, and scraps of cloth. You know how to work a loom, but such equipment is too large to transport."
+            ],
+            "name": "Components",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your expertise lends you additional insight when examining cloth objects, including cloaks and robes."
+            ],
+            "name": "Arcana, History",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Using your knowledge of the process of creating cloth objects, you can spot clues and make deductions that others would overlook when you examine tapestries, upholstery, clothing, and other woven items."
+            ],
+            "name": "Investigation",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As part of a short rest, you can repair a single damaged cloth object."
+            ],
+            "name": "Repair",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Assuming you have access to sufficient cloth and thread, you can create an outfit for a creature as part of a long rest."
+            ],
+            "name": "Craft Clothing",
+            "type": "entries"
+        },
+        {
+            "caption": "Weaver's Tools",
+            "colLabels": [
+                "Activity",
+                "DC"
+            ],
+            "colStyles": [
+                "col-10",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "Repurpose cloth",
+                    "10"
+                ],
+                [
+                    "Mend a hole in a piece of cloth",
+                    "10"
+                ],
+                [
+                    "Tailor an outfit",
+                    "15"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "additionalSources": [
+        {
+            "page": 85,
+            "source": "XGE"
+        }
+    ],
+    "basicRules": true,
+    "name": "Weaver's Tools",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "AT",
+    "value": 100,
+    "weight": 5
+}

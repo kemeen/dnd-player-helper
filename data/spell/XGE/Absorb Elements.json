@@ -1,0 +1,57 @@
+{
+    "components": {
+        "s": true
+    },
+    "damageResist": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "thunder"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "round"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra {@damage 1d6} damage of the triggering type, and the spell ends."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by {@scaledamage 1d6|1-9|1d6} for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "name": "Absorb Elements",
+    "otherSources": [
+        {
+            "page": 15,
+            "source": "EEPC"
+        }
+    ],
+    "page": 150,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "XGE",
+    "time": [
+        {
+            "condition": "which you take when you take acid, cold, fire, lightning, or thunder damage",
+            "number": 1,
+            "unit": "reaction"
+        }
+    ]
+}

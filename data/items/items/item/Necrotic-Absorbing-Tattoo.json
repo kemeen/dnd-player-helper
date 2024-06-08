@@ -1,0 +1,17 @@
+{
+    "detail1": "black",
+    "entries": [
+        "{#itemEntry Absorbing Tattoo|TCE}"
+    ],
+    "hasRefs": true,
+    "name": "Necrotic Absorbing Tattoo",
+    "page": 119,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "resist": [
+        "necrotic"
+    ],
+    "source": "TCE",
+    "tattoo": true,
+    "wondrous": true
+}

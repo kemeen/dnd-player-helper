@@ -1,0 +1,70 @@
+{
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You are Medium or Small. You choose the size when you select this race."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your walking speed is 30 feet, and you have a climbing speed equal to your walking speed."
+            ],
+            "name": "Speed",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can use your claws to make unarmed strikes. When you hit with them, the strike deals {@damage 1d6} + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
+            ],
+            "name": "Cat's Claws",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Perception} and {@skill Stealth} skills."
+            ],
+            "name": "Cat's Talent",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns."
+            ],
+            "name": "Feline Agility",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Tabaxi",
+    "page": 33,
+    "size": [
+        "S",
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "perception": true,
+            "stealth": true
+        }
+    ],
+    "source": "MPMM",
+    "speed": {
+        "climb": true,
+        "walk": 30
+    },
+    "traitTags": [
+        "Natural Weapon"
+    ]
+}

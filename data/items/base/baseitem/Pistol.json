@@ -1,0 +1,21 @@
+{
+    "age": "renaissance",
+    "ammoType": "renaissance bullet",
+    "dmg1": "1d10",
+    "dmgType": "P",
+    "firearm": true,
+    "name": "Pistol",
+    "page": 268,
+    "property": [
+        "AF",
+        "LD"
+    ],
+    "range": "30/90",
+    "rarity": "none",
+    "source": "DMG",
+    "type": "R",
+    "value": 25000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 3
+}

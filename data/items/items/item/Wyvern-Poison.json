@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "This poison must be harvested from a dead or {@condition incapacitated} {@creature wyvern}. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 ({@damage 7d6}) poison damage on a failed save, or half as much damage on a successful one."
+    ],
+    "name": "Wyvern Poison",
+    "page": 258,
+    "poison": true,
+    "poisonTypes": [
+        "injury"
+    ],
+    "rarity": "none",
+    "source": "DMG",
+    "srd": true,
+    "type": "G",
+    "value": 120000
+}

@@ -1,0 +1,10 @@
+{
+    "entries": [
+        "This sticky paste is fashioned from the powdered bone armor of a {@creature bone trader|GHLoE}. When you treat a weapon, shield, or other item that can be wielded in one or two hands, you can use a bonus action to summon and equip it, as long as the item is within 30 feet of you. After using the magic of the paste three times, it loses its potency."
+    ],
+    "name": "Ready Gunk",
+    "page": 111,
+    "rarity": "rare",
+    "source": "GHLoE",
+    "wondrous": true
+}

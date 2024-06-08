@@ -1,0 +1,50 @@
+{
+    "baseItem": "mace|PHB",
+    "bonusWeapon": "+3",
+    "charges": 6,
+    "dmg1": "1d6",
+    "dmgType": "B",
+    "entries": [
+        "This heavy mace has a dark oaken handle and a head of blackened steel trimmed with gold. In combat, the mace's head is wreathed in inky black energy.",
+        "You gain a +3 bonus to attack and damage rolls made with this weapon. When you hit with an attack roll using it, the target takes an additional {@damage 4d4} radiant damage.",
+        "If you have an evil alignment, you also gain the following benefits when attuned to Nightbringer:",
+        {
+            "entries": [
+                "You are immune to the {@condition charmed} and {@condition frightened} conditions, and you gain immunity to one of the following damage types (choose when you attune to the weapon): acid, cold, fire, lightning, or poison."
+            ],
+            "name": "Blessing of the Dragon Queen",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have {@sense darkvision} with a range of 60 feet. If you already have {@sense darkvision}, its range increases by 60 feet."
+            ],
+            "name": "Eyes of Midnight",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The weapon has 6 charges. When you hit a creature with an attack using this weapon, you can expend one charge to force the creature to make a DC 20 Constitution saving throw. On a failed save, the creature is {@condition blinded} until the start of your next turn. The weapon regains {@dice 1d6} expended charges daily at dawn."
+            ],
+            "name": "Midnight Shroud",
+            "type": "entries"
+        }
+    ],
+    "immune": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "poison"
+    ],
+    "name": "Nightbringer",
+    "page": 14,
+    "rarity": "legendary",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d6}",
+    "reqAttune": true,
+    "source": "MCV2DC",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 4
+}

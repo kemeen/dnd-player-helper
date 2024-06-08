@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "An iron pot holds 1 gallon of liquid."
+    ],
+    "name": "Iron Pot",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 200,
+    "weight": 10
+}

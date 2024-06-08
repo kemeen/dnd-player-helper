@@ -1,0 +1,31 @@
+{
+    "ac": 18,
+    "bonusAc": "+1",
+    "bonusWeapon": "+1",
+    "curse": true,
+    "entries": [
+        "While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack and damage rolls and a damage die of {@dice 1d8}.",
+        {
+            "entries": [
+                "Once you don this cursed armor, you can't doff it unless you are targeted by the {@spell remove curse} spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities."
+            ],
+            "name": "Curse",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Demon Armor",
+    "page": 165,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "stealth": true,
+    "strength": "15",
+    "tier": "major",
+    "type": "HA",
+    "weight": 65
+}

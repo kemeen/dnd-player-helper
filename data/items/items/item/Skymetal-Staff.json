@@ -1,0 +1,22 @@
+{
+    "baseItem": "quarterstaff|PHB",
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "This quarterstaff was built from refined meteoric iron and has a liquid delerium core.",
+        "Once on your turn, when you hit a creature with a melee attack using this weapon, you can force the target to make a DC 13 Intelligence saving throw. On a failed save, it takes an extra {@damage 3d6} psychic damage and can't take reactions until the start of your next turn. In addition, on its next turn, the creature must choose to take an action, bonus action, or move: it may only do one of the three."
+    ],
+    "name": "Skymetal Staff",
+    "page": 232,
+    "property": [
+        "V"
+    ],
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "DoDk",
+    "staff": true,
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 4
+}

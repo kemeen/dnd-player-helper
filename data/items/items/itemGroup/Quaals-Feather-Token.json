@@ -1,0 +1,59 @@
+{
+    "entries": [
+        "This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly.",
+        {
+            "colLabels": [
+                "d100",
+                "Feather Token"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    "01-20",
+                    "{@item Quaal's Feather Token, Anchor||Anchor}"
+                ],
+                [
+                    "21-35",
+                    "{@item Quaal's Feather Token, Bird||Bird}"
+                ],
+                [
+                    "36-50",
+                    "{@item Quaal's Feather Token, Fan||Fan}"
+                ],
+                [
+                    "51-65",
+                    "{@item Quaal's Feather Token, Swan Boat||Boat}"
+                ],
+                [
+                    "66-90",
+                    "{@item Quaal's Feather Token, Tree||Tree}"
+                ],
+                [
+                    "91-100",
+                    "{@item Quaal's Feather Token, Whip||Whip}"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Quaal's Feather Token, Anchor",
+        "Quaal's Feather Token, Bird",
+        "Quaal's Feather Token, Fan",
+        "Quaal's Feather Token, Swan Boat",
+        "Quaal's Feather Token, Tree",
+        "Quaal's Feather Token, Whip"
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Quaal's Feather Token",
+    "page": 188,
+    "rarity": "rare",
+    "source": "DMG",
+    "wondrous": true
+}

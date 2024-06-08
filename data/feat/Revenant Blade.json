@@ -1,0 +1,35 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "dex"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You are descended from a master of the {@item double-bladed scimitar|ERLW}, and some of that mastery has passed on to you. You gain the following benefits:",
+        {
+            "items": [
+                "While you are holding a double-bladed scimitar with two hands, you gain a +1 bonus to Armor Class.",
+                "A double-bladed scimitar has the finesse property when you wield it."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Revenant Blade",
+    "page": 22,
+    "prerequisite": [
+        {
+            "race": [
+                {
+                    "name": "elf"
+                }
+            ]
+        }
+    ],
+    "source": "ERLW"
+}

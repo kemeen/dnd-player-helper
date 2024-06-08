@@ -1,0 +1,24 @@
+{
+    "entries": [
+        "While you are wearing armor, you gain a +1 bonus to AC."
+    ],
+    "featureType": [
+        "FS:F",
+        "FS:P",
+        "FS:R"
+    ],
+    "name": "Defense",
+    "otherSources": [
+        {
+            "page": 84,
+            "source": "PHB"
+        },
+        {
+            "page": 91,
+            "source": "PHB"
+        }
+    ],
+    "page": 72,
+    "source": "PHB",
+    "srd": true
+}

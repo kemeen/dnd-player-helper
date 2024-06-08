@@ -1,0 +1,36 @@
+{
+    "ability": [
+        {
+            "con": 1,
+            "str": 1
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency in the {@skill Intimidation} skill."
+            ],
+            "name": "Daunting",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your hit point maximum increases by 2, and it increases by 2 every time you gain a level."
+            ],
+            "name": "Tough",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Stensia",
+    "page": 8,
+    "raceName": "Human (Innistrad)",
+    "raceSource": "PSI",
+    "skillProficiencies": [
+        {
+            "intimidation": true
+        }
+    ],
+    "source": "PSI"
+}

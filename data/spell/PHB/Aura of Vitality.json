@@ -1,0 +1,43 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain {@dice 2d6} hit points."
+    ],
+    "level": 3,
+    "miscTags": [
+        "HL",
+        "UBA"
+    ],
+    "name": "Aura of Vitality",
+    "page": 216,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "radius"
+    },
+    "school": "V",
+    "source": "PHB",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "entries": [
+        "Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra {@damage 1d8} force damage to the target, plus another {@damage 1d8} per level of the spell slot, and you can knock the target {@condition prone} if it is Huge or smaller."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Eldritch Smite",
+    "page": 56,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 5
+            },
+            "pact": "Blade"
+        }
+    ],
+    "source": "XGE"
+}

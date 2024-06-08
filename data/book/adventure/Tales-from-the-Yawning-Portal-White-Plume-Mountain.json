@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "TftYP-WPM",
+    "level": {
+        "end": 9,
+        "start": 8
+    },
+    "name": "Tales from the Yawning Portal: White Plume Mountain",
+    "parentName": "Tales from the Yawning Portal",
+    "parentSource": "TftYP",
+    "published": "2017-03-24",
+    "publishedOrder": 3,
+    "source": "TftYP-WPM",
+    "storyline": "Tales from the Yawning Portal"
+}

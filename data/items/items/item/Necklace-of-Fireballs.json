@@ -1,0 +1,21 @@
+{
+    "attachedSpells": [
+        "fireball"
+    ],
+    "entries": [
+        "This necklace has {@dice 1d6 + 3} beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level {@spell fireball} spell (save DC 15).",
+        "You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the level of the {@spell fireball} by 1 for each bead beyond the first."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Necklace of Fireballs",
+    "page": 182,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "weight": 1,
+    "wondrous": true
+}

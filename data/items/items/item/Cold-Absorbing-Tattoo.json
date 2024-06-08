@@ -1,0 +1,17 @@
+{
+    "detail1": "blue",
+    "entries": [
+        "{#itemEntry Absorbing Tattoo|TCE}"
+    ],
+    "hasRefs": true,
+    "name": "Cold Absorbing Tattoo",
+    "page": 119,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "resist": [
+        "cold"
+    ],
+    "source": "TCE",
+    "tattoo": true,
+    "wondrous": true
+}

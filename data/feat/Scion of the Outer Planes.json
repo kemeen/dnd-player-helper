@@ -1,0 +1,145 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    "minor illusion#c"
+                ]
+            },
+            "name": "Chaotic Outer Plane"
+        },
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    "chill touch#c"
+                ]
+            },
+            "name": "Evil Outer Plane"
+        },
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    "sacred flame#c"
+                ]
+            },
+            "name": "Good Outer Plane"
+        },
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    "guidance#c"
+                ]
+            },
+            "name": "Lawful Outer Plane"
+        },
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    "mage hand#c"
+                ]
+            },
+            "name": "The Outlands"
+        }
+    ],
+    "entries": [
+        "Your connection to an Outer Plane infuses you with the energy there. Choose a type of plane listed in the Planar Infusion table. Your choice gives you resistance to a damage type and the ability to cast a cantrip, as specified in the table. You can cast this cantrip without material components, and your spellcasting ability for it is Intelligence, Wisdom, or Charisma (choose when you select this feat).",
+        {
+            "colLabels": [
+                "Plane",
+                "Damage Resistance",
+                "Cantrip"
+            ],
+            "colStyles": [
+                "col-4",
+                "col-4",
+                "col-4"
+            ],
+            "rows": [
+                [
+                    "Chaotic Outer Plane",
+                    "Poison",
+                    "{@spell Minor illusion}"
+                ],
+                [
+                    "Evil Outer Plane",
+                    "Necrotic",
+                    "{@spell Chill touch}"
+                ],
+                [
+                    "Good Outer Plane",
+                    "Radiant",
+                    "{@spell Sacred flame}"
+                ],
+                [
+                    "Lawful Outer Plane",
+                    "Force",
+                    "{@spell Guidance}"
+                ],
+                [
+                    "The Outlands",
+                    "Psychic",
+                    "{@spell Mage hand}"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "name": "Scion of the Outer Planes",
+    "page": 12,
+    "prerequisite": [
+        {
+            "campaign": [
+                "Planescape"
+            ]
+        }
+    ],
+    "resist": [
+        {
+            "choose": {
+                "from": [
+                    "poison",
+                    "necrotic",
+                    "radiant",
+                    "force",
+                    "psychic"
+                ]
+            }
+        }
+    ],
+    "source": "SatO"
+}

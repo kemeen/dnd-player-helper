@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "name": "Common Wine (Pitcher)",
+    "page": 158,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "FD",
+    "value": 20
+}

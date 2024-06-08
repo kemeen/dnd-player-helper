@@ -1,0 +1,39 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "_": {
+                    "resource": {
+                        "4": [
+                            "gaseous form"
+                        ]
+                    }
+                }
+            },
+            "resourceName": "Ki"
+        }
+    ],
+    "entries": [
+        "You can spend 4 ki points to cast {@spell gaseous form}, targeting yourself."
+    ],
+    "featureType": [
+        "ED"
+    ],
+    "name": "Mist Stance",
+    "page": 81,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Monk"
+                },
+                "level": 11,
+                "subclass": {
+                    "name": "Four Elements"
+                }
+            }
+        }
+    ],
+    "source": "PHB"
+}

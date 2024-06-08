@@ -1,0 +1,23 @@
+{
+    "hasFluffImages": true,
+    "inherits": {
+        "bonusWeapon": "+2",
+        "entries": [
+            "This sword has a small delerium sliver encased in glass and set in the hilt like a gemstone. The blade is made of meteoric iron infused with delerium dust, which causes it to softly glow with octarine light.",
+            "You gain a {=bonusWeapon} bonus to attack and damage rolls made with this weapon.",
+            "When you make an attack with this weapon, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls. In addition, you can use this weapon as a spellcasting focus.",
+            "When you roll a 20 on an attack roll made with this weapon against a humanoid, the humanoid must succeed on a DC 15 Constitution saving throw or take an extra ({@dice 3d6}) necrotic damage and gain one {@adventure level of contamination|DoDk|12}."
+        ],
+        "namePrefix": "Delerium-Forged Blade ",
+        "page": 230,
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    "name": "Delerium-Forged Blade",
+    "requires": [
+        {
+            "sword": true
+        }
+    ],
+    "type": "GV"
+}

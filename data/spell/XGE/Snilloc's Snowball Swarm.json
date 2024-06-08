@@ -1,0 +1,57 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "m": "a piece of ice or a small white rock chip",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "cold"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "A flurry of magic snowballs erupts from a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity saving throw. A creature takes {@damage 3d6} cold damage on a failed save, or half as much damage on a successful one."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by {@scaledamage 3d6|2-9|1d6} for each slot level above 2nd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "name": "Snilloc's Snowball Swarm",
+    "otherSources": [
+        {
+            "page": 22,
+            "source": "EEPC"
+        }
+    ],
+    "page": 165,
+    "range": {
+        "distance": {
+            "amount": 90,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "V",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

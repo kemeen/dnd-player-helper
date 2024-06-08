@@ -1,0 +1,15 @@
+{
+    "detail1": "issues green gas",
+    "entries": [
+        "{#itemEntry Chromatic Rose|WBtW}"
+    ],
+    "hasRefs": true,
+    "name": "Green Chromatic Rose",
+    "page": 208,
+    "rarity": "rare",
+    "resist": [
+        "poison"
+    ],
+    "source": "WBtW",
+    "wondrous": true
+}

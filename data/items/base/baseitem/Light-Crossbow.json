@@ -1,0 +1,23 @@
+{
+    "ammoType": "crossbow bolt|phb",
+    "basicRules": true,
+    "crossbow": true,
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "name": "Light Crossbow",
+    "page": 149,
+    "property": [
+        "A",
+        "LD",
+        "2H"
+    ],
+    "range": "80/320",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "R",
+    "value": 2500,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 5
+}

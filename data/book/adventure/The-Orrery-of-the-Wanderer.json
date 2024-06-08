@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "OoW",
+    "level": {
+        "end": 6,
+        "start": 1
+    },
+    "name": "The Orrery of the Wanderer",
+    "published": "2019-06-18",
+    "source": "OoW",
+    "storyline": "Acquisitions Incorporated"
+}

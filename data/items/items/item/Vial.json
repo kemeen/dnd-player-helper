@@ -1,0 +1,13 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A vial can hold up to 4 ounces of liquid."
+    ],
+    "name": "Vial",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 100
+}

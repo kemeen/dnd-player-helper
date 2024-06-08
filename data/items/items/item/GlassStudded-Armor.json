@@ -1,0 +1,18 @@
+{
+    "ac": 12,
+    "baseItem": "studded leather armor|PHB",
+    "entries": [
+        "While wearing this armor, you have resistance to radiant damage. Each time a creature makes a melee attack against you, it takes 3 piercing damage. A creature can choose to make an attack with disadvantage to avoid this damage.",
+        "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes."
+    ],
+    "name": "Glass-Studded Armor",
+    "page": 111,
+    "rarity": "rare",
+    "reqAttune": true,
+    "resist": [
+        "radiant"
+    ],
+    "source": "GHLoE",
+    "type": "LA",
+    "weight": 13
+}

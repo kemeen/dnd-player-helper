@@ -1,0 +1,37 @@
+{
+    "attachedSpells": [
+        "faerie fire",
+        "see invisibility",
+        "fly"
+    ],
+    "baseItem": "longsword|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "entries": [
+        "The thick, grooved blade of this shining silver {@item longsword|phb} is lined with etched runes that sparkle blue in the light. Star Razor\u2014known also as Dwueth'var\u2014was thought to have been destroyed or lost after the {@book Calamity|TDCSR|1|The Calamity}, but new rumors suggest that it might be wielded by a half-orc somewhere in {@book Wildemount|TDCSR|3|Wildemount}."
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "items": [
+        "Star Razor (Dormant)|TDCSR",
+        "Star Razor (Awakened)|TDCSR",
+        "Star Razor (Exalted)|TDCSR"
+    ],
+    "name": "Star Razor",
+    "page": 210,
+    "property": [
+        "V",
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "resist": [
+        "radiant"
+    ],
+    "source": "TDCSR",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

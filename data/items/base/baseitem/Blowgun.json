@@ -1,0 +1,21 @@
+{
+    "ammoType": "blowgun needle|phb",
+    "basicRules": true,
+    "dmg1": "1",
+    "dmgType": "P",
+    "name": "Blowgun",
+    "page": 149,
+    "property": [
+        "A",
+        "LD"
+    ],
+    "range": "25/100",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "R",
+    "value": 1000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 1
+}

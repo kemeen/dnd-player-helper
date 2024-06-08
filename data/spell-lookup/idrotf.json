@@ -1,0 +1,53 @@
+{
+    "create magen": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "frost fingers": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

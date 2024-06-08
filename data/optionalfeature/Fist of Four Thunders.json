@@ -1,0 +1,26 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "_": {
+                    "resource": {
+                        "2": [
+                            "thunderwave"
+                        ]
+                    }
+                }
+            },
+            "resourceName": "Ki"
+        }
+    ],
+    "entries": [
+        "You can spend 2 ki points to cast {@spell thunderwave}."
+    ],
+    "featureType": [
+        "ED"
+    ],
+    "name": "Fist of Four Thunders",
+    "page": 81,
+    "source": "PHB"
+}

@@ -1,0 +1,50 @@
+{
+    "abilityCheck": [
+        "wisdom"
+    ],
+    "components": {
+        "v": true
+    },
+    "conditionInflict": [
+        "frightened"
+    ],
+    "damageInflict": [
+        "psychic"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra {@damage 1d6} psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be {@condition frightened} of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell."
+    ],
+    "level": 1,
+    "miscTags": [
+        "AAD"
+    ],
+    "name": "Wrathful Smite",
+    "page": 289,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "wisdom"
+    ],
+    "school": "V",
+    "source": "PHB",
+    "time": [
+        {
+            "number": 1,
+            "unit": "bonus"
+        }
+    ]
+}

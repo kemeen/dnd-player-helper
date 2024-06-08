@@ -1,0 +1,51 @@
+{
+    "areaTags": [
+        "MT"
+    ],
+    "basicRules": true,
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing."
+    ],
+    "level": 3,
+    "miscTags": [
+        "ADV"
+    ],
+    "name": "Beacon of Hope",
+    "otherSources": [
+        {
+            "page": 50,
+            "source": "RMR"
+        }
+    ],
+    "page": 217,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

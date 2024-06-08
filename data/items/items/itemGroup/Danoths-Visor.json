@@ -1,0 +1,20 @@
+{
+    "entries": [
+        "These mithral-frame goggles with clear diamond lenses were used by the evoker Danoth Oro to spot {@condition invisible} enemies and scout areas from afar."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Danoth's Visor (Dormant)|EGW",
+        "Danoth's Visor (Awakened)|EGW",
+        "Danoth's Visor (Exalted)|EGW"
+    ],
+    "name": "Danoth's Visor",
+    "page": 270,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "EGW",
+    "wondrous": true
+}

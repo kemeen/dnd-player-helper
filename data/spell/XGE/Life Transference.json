@@ -1,0 +1,51 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "necrotic"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You sacrifice some of your health to mend another creature's injuries. You take {@damage 4d8} necrotic damage, which can't be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 4th level or higher, the damage increases by {@scaledamage 4d8|3-9|1d8} for each slot level above 3rd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 3,
+    "miscTags": [
+        "HL",
+        "SGT"
+    ],
+    "name": "Life Transference",
+    "page": 160,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "N",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "ability": {
+        "str": 2
+    },
+    "entries": [
+        "This book describes fitness exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Strength score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century."
+    ],
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Manual of Gainful Exercise",
+    "page": 180,
+    "rarity": "very rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "weight": 5,
+    "wondrous": true
+}

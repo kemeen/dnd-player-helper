@@ -1,0 +1,18 @@
+{
+    "attachedSpells": [
+        "bless"
+    ],
+    "entries": [
+        "For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the {@spell bless} spell (no {@status concentration} required). This blue potion bubbles and steams as if boiling."
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Potion of Heroism",
+    "page": 188,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

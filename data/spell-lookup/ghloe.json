@@ -1,0 +1,109 @@
+{
+    "arboreal curse": {
+        "class": {
+            "PHB": {
+                "Druid": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                }
+            }
+        }
+    },
+    "consume mind": {
+        "class": {
+            "PHB": {
+                "Cleric": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                }
+            }
+        }
+    },
+    "heartseeker": {
+        "class": {
+            "PHB": {
+                "Sorcerer": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                }
+            }
+        }
+    },
+    "hunter sense": {
+        "class": {
+            "PHB": {
+                "Druid": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                }
+            }
+        }
+    },
+    "magic mirror": {
+        "class": {
+            "PHB": {
+                "Sorcerer": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                }
+            }
+        }
+    },
+    "suffocate": {
+        "class": {
+            "PHB": {
+                "Bard": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                }
+            }
+        }
+    },
+    "wrack": {
+        "class": {
+            "PHB": {
+                "Cleric": {
+                    "definedInSources": [
+                        "GHLoE"
+                    ]
+                }
+            }
+        }
+    }
+}

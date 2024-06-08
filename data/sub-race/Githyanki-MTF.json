@@ -1,0 +1,110 @@
+{
+    "ability": [
+        {
+            "str": 2
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "int",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "jump"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "misty step"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "mage hand#c"
+                ]
+            }
+        }
+    ],
+    "armorProficiencies": [
+        {
+            "light": true,
+            "medium": true
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "Githyanki tend toward lawful evil. They are aggressive and arrogant, and they remain the faithful servants of their lich-queen, Vlaakith. Renegade githyanki tend toward chaos."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You learn one language of your choice, and you are proficient with one skill or {@book tool|phb|5|tools} of your choice. In the timeless city of Tu'narath, githyanki have bountiful time to master odd bits of knowledge."
+            ],
+            "name": "Decadent Mastery",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are proficient with light and medium armor and with {@item shortsword|phb|shortswords}, {@item longsword|phb|longswords}, and {@item greatsword|phb|greatswords}."
+            ],
+            "name": "Martial Prodigy",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell mage hand} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
+                "When you reach 3rd level, you can cast {@spell jump} once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell misty step} spell once with this trait, and you regain the ability to do so when you finish a long rest.",
+                "Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components."
+            ],
+            "name": "Githyanki Psionics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 60,
+        "baseWeight": 100,
+        "heightMod": "2d12",
+        "weightMod": "2d4"
+    },
+    "name": "Githyanki",
+    "page": 96,
+    "raceName": "Gith",
+    "raceSource": "MTF",
+    "reprintedAs": [
+        "Githyanki|MPMM"
+    ],
+    "skillToolLanguageProficiencies": [
+        {
+            "choose": [
+                {
+                    "from": [
+                        "anySkill",
+                        "anyTool"
+                    ]
+                }
+            ]
+        }
+    ],
+    "source": "MTF",
+    "traitTags": [
+        "Skill Proficiency",
+        "Tool Proficiency"
+    ],
+    "weaponProficiencies": [
+        {
+            "greatsword|phb": true,
+            "longsword|phb": true,
+            "shortsword|phb": true
+        }
+    ]
+}

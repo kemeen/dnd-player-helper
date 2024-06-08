@@ -1,0 +1,76 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            "Orcs reach adulthood at age 16, and live up to 80 years."
+                        ],
+                        "name": "Age",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Age"
+                },
+                {
+                    "items": {
+                        "entries": [
+                            "Orcs fear the curse of ruin that is said to plague their race, and tend strongly toward either chaos (accepting their fate), or toward law (rejecting it)."
+                        ],
+                        "name": "Alignment",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Alignment"
+                },
+                {
+                    "items": {
+                        "entries": [
+                            "Orcs stand easily 8 feet tall and corded with powerful muscles, weighing up to 280 pounds. Your size is Medium."
+                        ],
+                        "name": "Size",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Size"
+                },
+                {
+                    "items": {
+                        "entries": [
+                            "You have proficiency in two of the following skills of your choice: {@skill Animal Handling}, {@skill Insight}, {@skill Intimidation}, {@skill Medicine}, {@skill Perception}, and {@skill Survival}."
+                        ],
+                        "name": "Primal Intuition",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Primal Intuition"
+                }
+            ]
+        },
+        "_preserve": {
+            "reprintedAs": true
+        },
+        "name": "Orc",
+        "source": "ERLW"
+    },
+    "heightAndWeight": null,
+    "name": "Orc",
+    "page": 178,
+    "skillProficiencies": [
+        {
+            "choose": {
+                "count": 2,
+                "from": [
+                    "animal handling",
+                    "insight",
+                    "intimidation",
+                    "medicine",
+                    "perception",
+                    "survival"
+                ]
+            }
+        }
+    ],
+    "source": "EGW"
+}

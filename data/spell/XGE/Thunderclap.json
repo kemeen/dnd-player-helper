@@ -1,0 +1,59 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "s": true
+    },
+    "damageInflict": [
+        "thunder"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You create a burst of thunderous sound that can be heard up to 100 feet away. Each creature within range, other than you, must make a Constitution saving throw or take {@damage 1d6} thunder damage.",
+        "The spell's damage increases by {@dice 1d6} when you reach 5th level ({@damage 2d6}), 11th level ({@damage 3d6}), and 17th level ({@damage 4d6})."
+    ],
+    "level": 0,
+    "miscTags": [
+        "SCL"
+    ],
+    "name": "Thunderclap",
+    "otherSources": [
+        {
+            "page": 22,
+            "source": "EEPC"
+        }
+    ],
+    "page": 168,
+    "range": {
+        "distance": {
+            "amount": 5,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "scalingLevelDice": {
+        "label": "thunder damage",
+        "scaling": {
+            "1": "1d6",
+            "11": "3d6",
+            "17": "4d6",
+            "5": "2d6"
+        }
+    },
+    "school": "V",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

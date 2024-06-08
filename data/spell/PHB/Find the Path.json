@@ -1,0 +1,43 @@
+{
+    "basicRules": true,
+    "components": {
+        "m": {
+            "cost": 10000,
+            "text": "a set of divinatory tools\u2014such as bones, ivory sticks, cards, teeth, or carved runes\u2014worth 100 gp and an object from the location you wish to find"
+        },
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "day"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence. If you name a destination on another plane of existence, a destination that moves (such as a mobile fortress), or a destination that isn't specific (such as \"a green dragon's lair\"), the spell fails.",
+        "For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. While you are traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination."
+    ],
+    "level": 6,
+    "name": "Find the Path",
+    "page": 240,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "minute"
+        }
+    ]
+}

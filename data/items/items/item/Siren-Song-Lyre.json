@@ -1,0 +1,19 @@
+{
+    "attachedSpells": [
+        "animal friendship",
+        "charm person",
+        "enthrall",
+        "suggestion"
+    ],
+    "entries": [
+        "You can use an action to play this lyre and cast one of the following spells from it: {@spell animal friendship}, {@spell charm person}, {@spell enthrall}, {@spell suggestion}. If the spell requires a saving throw, the spell save DC is 13.",
+        "Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn."
+    ],
+    "name": "Siren Song Lyre",
+    "page": 198,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "MOT",
+    "type": "INS",
+    "wondrous": true
+}

@@ -1,0 +1,240 @@
+{
+    "additionalSpells": [
+        {
+            "expanded": {
+                "s1": [
+                    "dissonant whispers",
+                    "silvery barbs|scc"
+                ],
+                "s2": [
+                    "calm emotions",
+                    "darkness"
+                ],
+                "s3": [
+                    "beacon of hope",
+                    "daylight"
+                ],
+                "s4": [
+                    "compulsion",
+                    "confusion"
+                ],
+                "s5": [
+                    "dominate person",
+                    "rary's telepathic bond"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Intimidation}, {@skill Persuasion}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Two of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A {@item Ink (1-ounce bottle)|PHB|bottle of black ink}, an {@item ink pen|PHB}, a book of poetry, a school uniform, and a {@item pouch|phb} containing 15 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You gain the {@feat Strixhaven Initiate|SCC} feat and must choose Silverquill within it.",
+                "In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Silverquill Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)",
+                {
+                    "caption": "Silverquill Spells",
+                    "colLabels": [
+                        "Spell Level",
+                        "Spells"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1st",
+                            "{@spell Dissonant Whispers}, {@spell Silvery Barbs|SCC}"
+                        ],
+                        [
+                            "2nd",
+                            "{@spell Calm Emotions}, {@spell Darkness}"
+                        ],
+                        [
+                            "3rd",
+                            "{@spell Beacon of Hope}, {@spell Daylight}"
+                        ],
+                        [
+                            "4th",
+                            "{@spell Compulsion}, {@spell Confusion}"
+                        ],
+                        [
+                            "5th",
+                            "{@spell Dominate Person}, {@spell Rary's Telepathic Bond}"
+                        ]
+                    ],
+                    "type": "table"
+                },
+                "Consider customizing how your spells look when you cast them. Your Silverquill spells might be accompanied by visual effects resembling splotches of ink or radiating ripples of golden light. Any auditory effects of your spells often sound like amplified echoes of your own voice speaking the spells' verbal components\u2014even amid the crash of lightning or a fiery eruption."
+            ],
+            "name": "Feature: Silverquill Initiate",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Many bards find a home in Silverquill, putting the power of their voices to use with Silverquill magic. Wizards (especially those who study the Schools of {@class Wizard|PHB|Illusion|Illusion|PHB} and {@class Wizard|PHB|Enchantment|Enchantment|PHB}) are common in Silverquill, as are warlocks. Clerics with the Divine Domains of {@class Cleric|PHB|Light|Light|PHB} and {@class Cleric|PHB|Trickery|Trickery|PHB} also fit in well among the mages of Silverquill.",
+                "A number of both paladins and rogues attend Silverquill College as well, highlighting the diversity of the student body.",
+                {
+                    "entries": [
+                        "With the college's intense standards looming over them, Silverquill students range from cocky and cutthroat to overwhelmed perfectionists. The Silverquill Personality Traits table suggests a variety of traits you might adopt for your character.",
+                        {
+                            "caption": "Silverquill Personality Traits",
+                            "colLabels": [
+                                "d6",
+                                "Personality Trait"
+                            ],
+                            "colStyles": [
+                                "col-2 text-center",
+                                "col-10"
+                            ],
+                            "rows": [
+                                [
+                                    "1",
+                                    "I'll say whatever I need to in order to maintain my high social status."
+                                ],
+                                [
+                                    "2",
+                                    "I prefer saying the blunt truth over a pretty lie, and I don't particularly care whose feelings I hurt."
+                                ],
+                                [
+                                    "3",
+                                    "I believe that uplifting my peers is the best way to succeed."
+                                ],
+                                [
+                                    "4",
+                                    "I've mastered the art of using humor as a defense, and I always have a charming joke ready."
+                                ],
+                                [
+                                    "5",
+                                    "I always wait before speaking, analyzing the situation for whichever angle is most advantageous to my goals."
+                                ],
+                                [
+                                    "6",
+                                    "No one knows about the all-nighters I've pulled to keep my magic looking effortless, and I'm going to keep it that way."
+                                ]
+                            ],
+                            "type": "table"
+                        }
+                    ],
+                    "name": "Suggested Characteristics",
+                    "type": "entries"
+                },
+                {
+                    "entries": [
+                        "When you make your character, you may roll once on the Silverquill Trinkets table, instead of on the {@item trinket|phb|Trinkets table} in the {@book Player's Handbook|PHB}, for your starting trinket.",
+                        {
+                            "caption": "Silverquill Trinkets",
+                            "colLabels": [
+                                "d6",
+                                "Trinket"
+                            ],
+                            "colStyles": [
+                                "col-2 text-center",
+                                "col-10"
+                            ],
+                            "data": {
+                                "tableInclude": true
+                            },
+                            "rows": [
+                                [
+                                    "1",
+                                    "A black leather notebook filled with half-finished poems"
+                                ],
+                                [
+                                    "2",
+                                    "A set of flashcards detailing different colloquialisms and their meanings"
+                                ],
+                                [
+                                    "3",
+                                    "A canteen that makes any liquid drunk from it taste sweet"
+                                ],
+                                [
+                                    "4",
+                                    "A forged permission slip granting access to the special archives of Strixhaven's libraries"
+                                ],
+                                [
+                                    "5",
+                                    "A stylish silver pin that references a famous series of novels about warlocks"
+                                ],
+                                [
+                                    "6",
+                                    "A stack of small pieces of parchment, each enchanted to stick to whatever surface it's pressed against and peel off easily"
+                                ]
+                            ],
+                            "type": "table"
+                        }
+                    ],
+                    "name": "Silverquill Trinkets",
+                    "type": "entries"
+                }
+            ],
+            "name": "Building a Silverquill Character",
+            "type": "entries"
+        }
+    ],
+    "feats": [
+        {
+            "strixhaven initiate|scc": true
+        }
+    ],
+    "fromFeature": {
+        "additionalSpells": true,
+        "feats": true
+    },
+    "hasFluff": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 2
+        }
+    ],
+    "name": "Silverquill Student",
+    "page": 35,
+    "skillProficiencies": [
+        {
+            "intimidation": true,
+            "persuasion": true
+        }
+    ],
+    "source": "SCC",
+    "startingEquipment": [
+        {
+            "_": [
+                "ink (1-ounce bottle)|phb",
+                "ink pen|phb",
+                {
+                    "special": "book of poetry"
+                },
+                {
+                    "special": "school uniform"
+                },
+                {
+                    "containsValue": 1500,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ]
+}

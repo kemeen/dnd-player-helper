@@ -1,0 +1,50 @@
+{
+    "entries": [
+        "This enormous telescope allows you to view distant celestial objects, including stars, Wildspace systems, and Astral Sea phenomena like the cities of deities or the petrified husks of dead gods.",
+        "After spending 1 hour calibrating the telescope, you can attempt to travel to the planet or celestial body at which the telescope is currently pointed. At the end of the hour, make a DC 17 Intelligence ({@skill Arcana}) check. On a successful check, you and eight other willing creatures touching the telescope, along with everything all travelers are wearing and carrying, safely teleport to unoccupied spaces at the intended destination. On a failed check, a mishap occurs instead. The DM rolls on the Telescope Travel Mishaps table to determine the mishap or chooses a mishap that's good for the campaign.",
+        {
+            "caption": "Telescope Travel Mishaps",
+            "colLabels": [
+                "d6",
+                "Mishap"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "The travelers appear adrift in the Astral Sea."
+                ],
+                [
+                    "2",
+                    "The travelers appear on a different plane of existence, determined randomly or chosen by the DM."
+                ],
+                [
+                    "3",
+                    "Excess cosmic energy overloads the telescope, causing it to explode. Each creature within 60 feet of the telescope takes {@damage 8d6} necrotic damage. Any Humanoid who survives this damage is transformed into a different kind of creature, as if it had been subject to the {@spell Reincarnate} spell."
+                ],
+                [
+                    "4",
+                    "A creature from the Astral Sea (such as a {@creature githyanki knight}) appears within 60 feet of the telescope. The DM decides its attitude."
+                ],
+                [
+                    "5",
+                    "The travelers appear on a different planet or celestial body in the Wildspace system nearest to their target destination."
+                ],
+                [
+                    "6",
+                    "The travelers arrive at their intended destination, but they each appear coated in harmless slime."
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Telescopic Transporter",
+    "page": 105,
+    "rarity": "legendary",
+    "source": "BMT",
+    "wondrous": true
+}

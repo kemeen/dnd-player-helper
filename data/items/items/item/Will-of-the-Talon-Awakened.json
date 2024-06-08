@@ -1,0 +1,42 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "When the war pick reaches an awakened state, it gains the following properties:",
+                        {
+                            "items": [
+                                "The weapon's bonus to attack and damage rolls increases to +2.",
+                                "The saving throw DC for the war pick's Breath Weapon property increases to 15, and that property deals {@damage 4d6} damage on a failed save, or half as much damage on a successful one.",
+                                "The saving throw DC for the war pick's Frightful Presence property increases to 15.",
+                                "While carrying the weapon, you have resistance to acid, cold, fire, lightning, and poison damage."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Awakened",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Will of the Talon (Dormant)",
+        "source": "EGW"
+    },
+    "bonusWeapon": "+2",
+    "name": "Will of the Talon (Awakened)",
+    "resist": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "poison"
+    ],
+    "source": "EGW"
+}

@@ -1,0 +1,23 @@
+{
+    "entries": [
+        "You regain {@dice 2d4 + 2} hit points when you drink this potion. The potion's red liquid glimmers when agitated."
+    ],
+    "lootTables": [
+        "Magic Item Table A"
+    ],
+    "name": "Potion of Healing",
+    "otherSources": [
+        {
+            "page": 153,
+            "source": "PHB"
+        }
+    ],
+    "page": 187,
+    "rarity": "common",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P",
+    "value": 5000,
+    "weight": 0.5
+}

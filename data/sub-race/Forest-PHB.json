@@ -1,0 +1,40 @@
+{
+    "ability": [
+        {
+            "dex": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "int",
+            "known": {
+                "1": [
+                    "minor illusion#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You know the {@spell minor illusion} cantrip. Intelligence is your spellcasting ability for it."
+            ],
+            "name": "Natural Illusionist",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets."
+            ],
+            "name": "Speak with Small Beasts",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Forest",
+    "page": 37,
+    "raceName": "Gnome",
+    "raceSource": "PHB",
+    "source": "PHB"
+}

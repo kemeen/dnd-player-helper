@@ -1,0 +1,38 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 8,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch a willing creature. For the duration, the target can add {@dice 1d8} to its initiative rolls."
+    ],
+    "level": 1,
+    "name": "Gift of Alacrity",
+    "page": 186,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "EGW",
+    "time": [
+        {
+            "number": 1,
+            "unit": "minute"
+        }
+    ]
+}

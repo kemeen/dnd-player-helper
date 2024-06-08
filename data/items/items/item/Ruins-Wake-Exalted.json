@@ -1,0 +1,35 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "When the spear reaches an exalted state, it gains the following properties:",
+                        {
+                            "items": [
+                                "The weapon's bonus to attack and damage rolls increases to +3.",
+                                "While holding the spear, you can let out a battle cry as a bonus action. Each creature you choose within 30 feet of you gains advantage on attack rolls until the start of your next turn. This property can't be used again until the next dawn.",
+                                "When you reduce a creature to 0 hit points with an attack from the spear, you can regain hit points equal to the damage you dealt with the attack. This property can't be used again until the next dawn."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Exalted",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Ruin's Wake (Awakened)",
+        "source": "EGW"
+    },
+    "bonusWeapon": "+3",
+    "hasFluffImages": true,
+    "name": "Ruin's Wake (Exalted)",
+    "source": "EGW"
+}

@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Most commonly found inside a {@item Ball Bearings (Bag of 1,000)|phb|bag of ball bearings}."
+    ],
+    "name": "Ball Bearing",
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 0.1,
+    "weight": 0.002
+}

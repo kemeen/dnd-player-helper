@@ -1,0 +1,24 @@
+{
+    "entries": [
+        "While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table B"
+    ],
+    "modifySpeed": {
+        "static": {
+            "swim": 60
+        }
+    },
+    "name": "Cloak of the Manta Ray",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 159,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "wondrous": true
+}

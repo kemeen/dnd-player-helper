@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "{#itemEntry Potion of Resistance}"
+    ],
+    "hasRefs": true,
+    "name": "Potion of Necrotic Resistance",
+    "page": 188,
+    "rarity": "uncommon",
+    "resist": [
+        "necrotic"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

@@ -1,0 +1,52 @@
+{
+    "antagonize": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "house of cards": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        }
+    },
+    "spirit of death": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "spray of cards": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "summon warrior spirit": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    }
+}

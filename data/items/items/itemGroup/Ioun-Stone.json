@@ -1,0 +1,16 @@
+{
+    "items": [
+        "Ioun Stone, Supreme Intellect|LLK",
+        "Ioun Stone, Historical Knowledge|LLK",
+        "Ioun Stone, Natural Knowledge|LLK",
+        "Ioun Stone, Religious Knowledge|LLK",
+        "Ioun Stone, Language Knowledge|LLK",
+        "Ioun Stone, Self-Preservation|LLK"
+    ],
+    "name": "Ioun Stone",
+    "page": 55,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "LLK",
+    "wondrous": true
+}

@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "An exotic saddle is required for riding any aquatic or flying mount."
+    ],
+    "name": "Exotic Saddle",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "TAH",
+    "value": 6000,
+    "weight": 40
+}

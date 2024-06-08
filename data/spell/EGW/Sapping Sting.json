@@ -1,0 +1,58 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "prone"
+    ],
+    "damageInflict": [
+        "necrotic"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take {@damage 1d4} necrotic damage and fall {@condition prone}.",
+        "This spell's damage increases by {@dice 1d4} when you reach 5th level ({@dice 2d4}), 11th level ({@dice 3d4}), and 17th level ({@dice 4d4})."
+    ],
+    "level": 0,
+    "miscTags": [
+        "SCL",
+        "SGT"
+    ],
+    "name": "Sapping Sting",
+    "page": 189,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "scalingLevelDice": {
+        "label": "necrotic damage",
+        "scaling": {
+            "1": "1d4",
+            "11": "3d4",
+            "17": "4d4",
+            "5": "2d4"
+        }
+    },
+    "school": "N",
+    "source": "EGW",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

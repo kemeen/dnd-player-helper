@@ -1,0 +1,24 @@
+{
+    "hasFluffImages": true,
+    "inherits": {
+        "entries": [
+            "While wearing this armor, you can use it to cast either {@spell Speak with Dead} or {@spell Animate Dead}. Once the armor has cast a spell in this way, it can't cast either spell until the next dawn.",
+            "Your soul keeps this armor together. If you die while you are attuned to the armor, the armor is destroyed."
+        ],
+        "nameSuffix": " of the Fallen",
+        "page": 65,
+        "rarity": "uncommon",
+        "reqAttune": true,
+        "source": "BMT"
+    },
+    "name": "Armor of the Fallen",
+    "requires": [
+        {
+            "type": "MA"
+        },
+        {
+            "type": "HA"
+        }
+    ],
+    "type": "GV"
+}

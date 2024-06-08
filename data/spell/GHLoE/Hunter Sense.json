@@ -1,0 +1,35 @@
+{
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch one willing creature. While this spell is active, the target's senses are heightened. If the target rolls a 9 or below on the die when making a Wisdom ({@skill Perception}) check, they instead act as if they rolled a 10."
+    ],
+    "level": 0,
+    "name": "Hunter Sense",
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "GHLoE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

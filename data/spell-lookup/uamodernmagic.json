@@ -1,0 +1,128 @@
+{
+    "arcane hacking (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "commune with city (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "conjure knowbot (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "digital phantom (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "find vehicle (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "haywire (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "infallible relay (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "invisibility to cameras (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "on/off (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "protection from ballistics (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "remote access (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "shutdown (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "synchronicity (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "system backdoor (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "basicRules": true,
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "deafened"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are {@condition deafened} while entirely inside it. Casting a spell that includes a verbal component is impossible there."
+    ],
+    "level": 2,
+    "meta": {
+        "ritual": true
+    },
+    "miscTags": [
+        "OBJ"
+    ],
+    "name": "Silence",
+    "otherSources": [
+        {
+            "page": 59,
+            "source": "RMR"
+        }
+    ],
+    "page": 275,
+    "range": {
+        "distance": {
+            "amount": 120,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "I",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

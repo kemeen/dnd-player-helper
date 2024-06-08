@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The DM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips."
+    ],
+    "name": "Acrobatics",
+    "page": 176,
+    "source": "PHB",
+    "srd": true
+}

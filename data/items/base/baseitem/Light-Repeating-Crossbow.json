@@ -1,0 +1,22 @@
+{
+    "ammoType": "crossbow bolt|phb",
+    "crossbow": true,
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action."
+    ],
+    "name": "Light Repeating Crossbow",
+    "page": 224,
+    "property": [
+        "A",
+        "2H"
+    ],
+    "range": "40/160",
+    "rarity": "unknown",
+    "source": "OotA",
+    "type": "R",
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 5
+}

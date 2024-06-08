@@ -1,0 +1,21 @@
+{
+    "entries": [
+        "You can use an action to speak the horn's command word and then blow the horn, which emits a thunderous blast in a 30-foot cone that is audible 600 feet away. Each creature in the cone must make a DC 15 Constitution saving throw. On a failed save, a creature takes {@damage 5d6} thunder damage and is {@condition deafened} for 1 minute. On a successful save, a creature takes half as much damage and isn't {@condition deafened}. Creatures and objects made of glass or crystal have disadvantage on the saving throw and take {@damage 10d6} thunder damage instead of {@dice 5d6}.",
+        "Each use of the horn's magic has a {@chance 20} chance of causing the horn to explode. The explosion deals {@damage 10d6} fire damage to the blower and destroys the horn."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Horn of Blasting",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 174,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "weight": 2,
+    "wondrous": true
+}

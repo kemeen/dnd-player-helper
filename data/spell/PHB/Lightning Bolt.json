@@ -1,0 +1,63 @@
+{
+    "areaTags": [
+        "L"
+    ],
+    "basicRules": true,
+    "components": {
+        "m": "a bit of fur and a rod of amber, crystal, or glass",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "lightning"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes {@damage 8d6} lightning damage on a failed save, or half as much damage on a successful one.",
+        "The lightning ignites flammable objects in the area that aren't being worn or carried."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 4th level or higher, the damage increases by {@scaledamage 8d6|3-9|1d6} for each slot level above 3rd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 3,
+    "miscTags": [
+        "OBJ"
+    ],
+    "name": "Lightning Bolt",
+    "otherSources": [
+        {
+            "page": 56,
+            "source": "RMR"
+        }
+    ],
+    "page": 255,
+    "range": {
+        "distance": {
+            "amount": 100,
+            "type": "feet"
+        },
+        "type": "line"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "V",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

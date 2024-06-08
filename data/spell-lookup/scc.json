@@ -1,0 +1,204 @@
+{
+    "borrowed knowledge": {
+        "background": {
+            "SCC": {
+                "Lorehold Student": true
+            }
+        },
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Cleric": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the White Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                },
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "kinetic jaunt": {
+        "background": {
+            "SCC": {
+                "Prismari Student": true
+            }
+        },
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Red Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "silvery barbs": {
+        "background": {
+            "SCC": {
+                "Silverquill Student": true
+            }
+        },
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            },
+            "TCE": {
+                "Fey Touched": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "vortex warp": {
+        "background": {
+            "SCC": {
+                "Quandrix Student": true
+            }
+        },
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "wither and bloom": {
+        "background": {
+            "SCC": {
+                "Witherbloom Student": true
+            }
+        },
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Black Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

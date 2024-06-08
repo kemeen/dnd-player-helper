@@ -1,0 +1,78 @@
+{
+    "creatureTypeTags": [
+        "goblinoid"
+    ],
+    "creatureTypes": [
+        "humanoid"
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You are a Humanoid. You are also considered a goblinoid for any prerequisite or effect that requires you to be a goblinoid."
+            ],
+            "name": "Creature Type",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws you make to avoid or end the {@condition charmed} condition on yourself."
+            ],
+            "name": "Fey Ancestry",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you make a melee attack on your turn, your reach for it is 5 feet greater than normal."
+            ],
+            "name": "Long-Limbed",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+            ],
+            "name": "Powerful Build",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are proficient in the {@skill Stealth} skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature."
+            ],
+            "name": "Sneaky",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you hit a creature with an attack roll, the creature takes an extra {@damage 2d6} damage if it hasn't taken a turn yet in the current combat."
+            ],
+            "name": "Surprise Attack",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Bugbear",
+    "page": 8,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "stealth": true
+        }
+    ],
+    "source": "MPMM",
+    "speed": 30,
+    "traitTags": [
+        "Powerful Build"
+    ]
+}

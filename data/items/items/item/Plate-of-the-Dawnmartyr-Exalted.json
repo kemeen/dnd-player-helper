@@ -1,0 +1,41 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Plate of the Dawnmartyr reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The armor's bonus to AC increases to +3.",
+                                            "When you rebuke an attacker, you can choose to deal either fire damage or radiant damage.",
+                                            "When you are reduced to 0 hit points, you can choose to have a blast of healing flame surround you. You regain 1 hit point and are lifted to your feet. Each enemy within 10 feet of you takes {@damage 2d6} fire damage or radiant damage (your choice). This property of the armor can't be used again until you finish a {@quickref resting|PHB|2|0|long rest}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Plate of the Dawnmartyr (Awakened)",
+        "source": "TDCSR"
+    },
+    "bonusAc": "+3",
+    "hasFluffImages": true,
+    "name": "Plate of the Dawnmartyr (Exalted)",
+    "recharge": "restLong",
+    "source": "TDCSR"
+}

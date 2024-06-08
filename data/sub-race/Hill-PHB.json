@@ -1,0 +1,31 @@
+{
+    "ability": [
+        {
+            "wis": 1
+        }
+    ],
+    "basicRules": true,
+    "entries": [
+        {
+            "entries": [
+                "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
+            ],
+            "name": "Dwarven Toughness",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 44,
+        "baseWeight": 115,
+        "heightMod": "2d4",
+        "weightMod": "2d6"
+    },
+    "name": "Hill",
+    "page": 20,
+    "raceName": "Dwarf",
+    "raceSource": "PHB",
+    "source": "PHB",
+    "srd": true
+}

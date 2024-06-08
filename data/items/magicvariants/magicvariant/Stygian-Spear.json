@@ -1,0 +1,37 @@
+{
+    "inherits": {
+        "bonusWeapon": "+2",
+        "curse": true,
+        "entries": [
+            "You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon. When you throw it, it deals one extra die of damage on a hit. After you throw it and it hits or misses, it flies back to your hand immediately.",
+            {
+                "entries": [
+                    "You're unwilling to part with this weapon while attuned to it. In addition, you have disadvantage on attack rolls made with weapons other than this one.",
+                    "Whenever you roll a 1 on an attack roll using this weapon, your target changes to your closest ally.",
+                    "If there are multiple allies, randomly determine which is the target. Make a new attack roll with advantage against your ally. If the attack hits, in addition to the standard damage you deal an extra {@damage 2d6} poison damage. Only the {@spell Remove Curse} spell allows you to end attunement to this item."
+                ],
+                "name": "Curse",
+                "type": "entries"
+            },
+            {
+                "entries": [
+                    "This item corrupts. See the \"{@adventure Infernal Item Corruption|CoA|16|Infernal Item Corruption}\" section."
+                ],
+                "name": "Corrupting",
+                "type": "entries"
+            }
+        ],
+        "namePrefix": "Stygian ",
+        "page": 270,
+        "rarity": "very rare",
+        "reqAttune": true,
+        "source": "CoA"
+    },
+    "name": "Stygian Spear",
+    "requires": [
+        {
+            "spear": true
+        }
+    ],
+    "type": "GV"
+}

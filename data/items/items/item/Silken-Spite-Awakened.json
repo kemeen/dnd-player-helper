@@ -1,0 +1,40 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "The rapier grants the following benefits in its awakened state:",
+                        {
+                            "items": [
+                                "The weapon's bonus to attack and damage rolls increases to +2.",
+                                "The saving throw DC for the weapon's poison increases to 15.",
+                                "While holding the rapier, you can use an action to cast one of the following spells from it (save DC 15): {@spell cloudkill}, {@spell darkness}, {@spell levitate}, or {@spell web}. Once a spell has been cast using the rapier, that spell can't be cast from the rapier again until the next dawn."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Awakened",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Silken Spite (Dormant)",
+        "source": "EGW"
+    },
+    "attachedSpells": [
+        "cloudkill",
+        "darkness",
+        "levitate",
+        "web"
+    ],
+    "bonusWeapon": "+2",
+    "name": "Silken Spite (Awakened)",
+    "source": "EGW"
+}

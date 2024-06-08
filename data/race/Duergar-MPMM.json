@@ -1,0 +1,90 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "enlarge/reduce"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "invisibility"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "age": {
+        "max": 350
+    },
+    "creatureTypeTags": [
+        "dwarf"
+    ],
+    "creatureTypes": [
+        "humanoid"
+    ],
+    "darkvision": 120,
+    "entries": [
+        {
+            "entries": [
+                "You are a Humanoid. You are also considered a dwarf for any prerequisite or effect that requires you to be a dwarf."
+            ],
+            "name": "Creature Type",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 120 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Starting at 3rd level, you can cast the {@spell enlarge/reduce} spell on yourself with this trait, without requiring a material component. Starting at 5th level, you can also cast the {@spell invisibility} spell on yourself with this trait, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.",
+                "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+            ],
+            "name": "Duergar Magic",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws you make to avoid or end the {@condition poisoned} condition on yourself. You also have resistance to poison damage."
+            ],
+            "name": "Dwarven Resilience",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws you make to avoid or end the {@condition charmed} or {@condition stunned} condition on yourself."
+            ],
+            "name": "Psionic Fortitude",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Duergar",
+    "page": 12,
+    "resist": [
+        "poison"
+    ],
+    "size": [
+        "M"
+    ],
+    "source": "MPMM",
+    "speed": 30
+}

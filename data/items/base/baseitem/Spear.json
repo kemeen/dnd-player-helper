@@ -1,0 +1,22 @@
+{
+    "basicRules": true,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "P",
+    "name": "Spear",
+    "page": 149,
+    "property": [
+        "T",
+        "V"
+    ],
+    "range": "20/60",
+    "rarity": "none",
+    "source": "PHB",
+    "spear": true,
+    "srd": true,
+    "type": "M",
+    "value": 100,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 3
+}

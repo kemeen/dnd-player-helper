@@ -1,0 +1,15 @@
+{
+    "abbreviation": "RLD",
+    "entries": [
+        {
+            "entries": [
+                "A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
+            ],
+            "name": "Reload",
+            "type": "entries"
+        }
+    ],
+    "page": 267,
+    "source": "DMG",
+    "template": "{{prop_name}} ({{item.reload}} shots)"
+}

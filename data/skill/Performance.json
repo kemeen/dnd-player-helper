@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Your Charisma (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment."
+    ],
+    "name": "Performance",
+    "page": 179,
+    "source": "PHB",
+    "srd": true
+}

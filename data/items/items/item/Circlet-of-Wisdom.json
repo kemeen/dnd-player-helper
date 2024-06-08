@@ -1,0 +1,13 @@
+{
+    "ability": {
+        "wis": 2
+    },
+    "entries": [
+        "{@note Worn by {@creature Keyleth, Voice of the Tempest|TDCSR}, increases her Wisdom score by +2.}"
+    ],
+    "name": "Circlet of Wisdom",
+    "page": 263,
+    "rarity": "unknown (magic)",
+    "source": "TDCSR",
+    "wondrous": true
+}

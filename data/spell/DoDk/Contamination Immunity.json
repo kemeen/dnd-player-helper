@@ -1,0 +1,42 @@
+{
+    "components": {
+        "m": {
+            "consume": true,
+            "cost": 25000,
+            "text": "An eldritch lily mixed into 250 gp worth of specially-prepared purified fluids, which the spell consumes"
+        },
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 24,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Until the spell ends, one willing creature you touch is immune to necrotic damage and cannot gain {@adventure contamination levels|DoDk|12}. The affected creature may rest normally within the Haze.",
+        "This spell ends immediately if the creature casts a contaminated spell."
+    ],
+    "hasFluff": true,
+    "level": 7,
+    "name": "Contamination Immunity",
+    "page": 226,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "DoDk",
+    "time": [
+        {
+            "number": 1,
+            "unit": "minute"
+        }
+    ]
+}

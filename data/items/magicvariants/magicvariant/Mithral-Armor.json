@@ -1,0 +1,31 @@
+{
+    "excludes": {
+        "name": "Hide Armor"
+    },
+    "inherits": {
+        "entries": [
+            "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ({@skill Stealth}) checks or has a Strength requirement, the mithral version of the armor doesn't."
+        ],
+        "lootTables": [
+            "Magic Item Table B"
+        ],
+        "namePrefix": "Mithral ",
+        "page": 182,
+        "rarity": "uncommon",
+        "source": "DMG",
+        "srd": true,
+        "stealth": false,
+        "strength": null,
+        "tier": "minor"
+    },
+    "name": "Mithral Armor",
+    "requires": [
+        {
+            "type": "HA"
+        },
+        {
+            "type": "MA"
+        }
+    ],
+    "type": "GV"
+}

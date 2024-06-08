@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "BGDIA",
+    "level": {
+        "end": 13,
+        "start": 1
+    },
+    "name": "Baldur's Gate: Descent Into Avernus",
+    "published": "2019-09-18",
+    "source": "BGDIA",
+    "storyline": "Baldur's Gate"
+}

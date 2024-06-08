@@ -1,0 +1,27 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "items": {
+                    "data": {
+                        "isFeature": true
+                    },
+                    "entries": [
+                        "If they wish to have any hope of survival, whether hiding within the city or cast out into the desert, dissenters must help each other. You can find a place to hide, rest, or recuperate among other dissenters. They will help shield you from those who hunt you, possibly even risking their lives for you."
+                    ],
+                    "name": "Feature: Shelter of Dissenters",
+                    "type": "entries"
+                },
+                "mode": "replaceArr",
+                "replace": "Feature: Voice of Authority"
+            }
+        },
+        "name": "Vizier",
+        "source": "PSA"
+    },
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Vizier (Dissenter)",
+    "page": 11,
+    "source": "PSA"
+}

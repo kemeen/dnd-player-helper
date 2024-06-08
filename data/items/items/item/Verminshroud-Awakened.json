@@ -1,0 +1,40 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "While wearing the Verminshroud in its awakened state, you gain the following benefits:",
+                        {
+                            "items": [
+                                "You have resistance to poison damage.",
+                                "You can use an action to cast the {@spell insect plague} spell (save DC 15) from the Verminshroud, requiring no material components. This property can't be used again until the next dawn.",
+                                "When you cast the {@spell polymorph} spell using the Verminshroud, you can transform into a {@creature giant wasp}."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Awakened",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Verminshroud (Dormant)",
+        "source": "EGW"
+    },
+    "attachedSpells": [
+        "polymorph",
+        "insect plague"
+    ],
+    "name": "Verminshroud (Awakened)",
+    "resist": [
+        "poison"
+    ],
+    "source": "EGW"
+}

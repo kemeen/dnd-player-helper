@@ -1,0 +1,35 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "When the morningstar reaches an awakened state, it gains the following properties:",
+                        {
+                            "items": [
+                                "The weapon's bonus to attack and damage rolls increases to +2.",
+                                "The saving throw DC for spells cast from the morningstar increases to 15.",
+                                "When you reduce a creature to 0 hit points with an attack using The Bloody End, you can cause the following effect: each creature of your choice within 15 feet of you must succeed on a DC 15 Wisdom saving throw or be {@condition frightened} of you until the end of your next turn. This property can't be used again until the next dawn.",
+                                "When a creature hits you with a melee attack, you can use your reaction to deal {@damage 1d6} psychic damage to the attacker."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Awakened",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "The Bloody End (Dormant)",
+        "source": "EGW"
+    },
+    "bonusWeapon": "+2",
+    "name": "The Bloody End (Awakened)",
+    "source": "EGW"
+}

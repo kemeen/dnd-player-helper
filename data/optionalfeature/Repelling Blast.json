@@ -1,0 +1,19 @@
+{
+    "entries": [
+        "When you hit a creature with {@spell eldritch blast}, you can push the creature up to 10 feet away from you in a straight line."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Repelling Blast",
+    "page": 111,
+    "prerequisite": [
+        {
+            "spell": [
+                "eldritch blast#c"
+            ]
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

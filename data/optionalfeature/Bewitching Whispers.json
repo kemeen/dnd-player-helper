@@ -1,0 +1,35 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": {
+                    "daily": {
+                        "1e": [
+                            "compulsion"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell compulsion} once using a warlock spell slot. You can't do so again until you finish a long rest."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Bewitching Whispers",
+    "page": 110,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 7
+            }
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

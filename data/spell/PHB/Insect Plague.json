@@ -1,0 +1,63 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "m": "a few grains of sugar, some kernels of grain, and a smear of fat",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "piercing"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is {@quickref Vision and Light|PHB|2||lightly obscured}. The sphere's area is {@quickref difficult terrain||3}.",
+        "When the area appears, each creature in it must make a Constitution saving throw. A creature takes {@damage 4d10} piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 6th level or higher, the damage increases by {@scaledamage 4d10|5-9|1d10} for each slot level above 5th."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "level": 5,
+    "miscTags": [
+        "DFT",
+        "OBS"
+    ],
+    "name": "Insect Plague",
+    "page": 254,
+    "range": {
+        "distance": {
+            "amount": 300,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "school": "C",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

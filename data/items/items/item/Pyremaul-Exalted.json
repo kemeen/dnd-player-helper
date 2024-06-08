@@ -1,0 +1,43 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Pyremaul reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The weapon's bonus to attack rolls increases to +3.",
+                                            "The extra fire damage dealt by the weapon increases to {@dice 3d6}.",
+                                            "When you cast {@spell burning hands} with the weapon, you do so at 3rd level and the save DC increases to 17.",
+                                            "When you score a critical hit with this weapon, the {@quickref saving throws|PHB|2|1|saving throw} to avoid being knocked {@condition prone} increases to 17. You also roll an extra {@damage 3d6} fire damage when determining the extra damage for the critical hit.",
+                                            "When you kill a creature with an attack using this weapon, you can take {@damage 10d10} fire damage and immolate the creature's corpse. This damage can't be reduced in any way, and you die if this damage reduces you to 0 hit points. The immolated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of ash. The creature can be restored to life only by means of a {@spell true resurrection} or a {@spell wish} spell. You can't use this property of the maul again until 7 days have passed."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Pyremaul (Awakened)",
+        "source": "TDCSR"
+    },
+    "bonusWeaponAttack": "+3",
+    "hasFluffImages": true,
+    "name": "Pyremaul (Exalted)",
+    "recharge": "special",
+    "source": "TDCSR"
+}

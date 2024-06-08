@@ -1,0 +1,28 @@
+{
+    "excludes": {
+        "net": true
+    },
+    "inherits": {
+        "basicRules": true,
+        "bonusWeapon": "+1",
+        "entries": [
+            "You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon."
+        ],
+        "lootTables": [
+            "Magic Item Table F"
+        ],
+        "namePrefix": "+1 ",
+        "page": 213,
+        "rarity": "uncommon",
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "+1 Weapon",
+    "requires": [
+        {
+            "weapon": true
+        }
+    ],
+    "type": "GV"
+}

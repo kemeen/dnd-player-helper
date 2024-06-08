@@ -1,0 +1,91 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "a crystal prism",
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "stunned",
+        "prone",
+        "blinded"
+    ],
+    "damageInflict": [
+        "psychic",
+        "force",
+        "cold"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You shatter the barriers between realities and timelines, thrusting a creature into turmoil and madness. The target must succeed on a Wisdom saving throw, or it can't take reactions until the spell ends. The affected target must also roll a {@dice d10} at the start of each of its turns; the number rolled determines what happens to the target, as shown on the Reality Break Effects table.",
+        "At the end of each of its turns, the affected target can repeat the Wisdom saving throw, ending the spell on itself on a success.",
+        {
+            "caption": "Reality Break Effects",
+            "colLabels": [
+                "d10",
+                "Effect"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    "1-2",
+                    "{@b Vision of the Far Realm.} The target takes {@damage 6d12} psychic damage, and it is {@condition stunned} until the end of the turn."
+                ],
+                [
+                    "3-5",
+                    "{@b Rending Rift.} The target must make a Dexterity saving throw, taking {@damage 8d12} force damage on a failed save, or half as much damage on a successful one."
+                ],
+                [
+                    "6-8",
+                    "{@b Wormhole.} The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes {@damage 10d12} force damage and is knocked {@condition prone}."
+                ],
+                [
+                    "9-10",
+                    "{@b Chill of the Dark Void.} The target takes {@damage 10d12} cold damage, and it is {@condition blinded} until the end of the turn."
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "hasFluffImages": true,
+    "level": 8,
+    "miscTags": [
+        "RO",
+        "SGT"
+    ],
+    "name": "Reality Break",
+    "page": 189,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "wisdom",
+        "dexterity"
+    ],
+    "school": "C",
+    "source": "EGW",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

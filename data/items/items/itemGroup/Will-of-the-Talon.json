@@ -1,0 +1,25 @@
+{
+    "baseItem": "war pick|PHB",
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "Black, blue, green, red, and white gems carved in the form of dragon heads cover this ostentatious gold war pick, marking it as a weapon channeling the power of Tiamat."
+    ],
+    "items": [
+        "Will of the Talon (Dormant)|EGW",
+        "Will of the Talon (Awakened)|EGW",
+        "Will of the Talon (Exalted)|EGW"
+    ],
+    "name": "Will of the Talon",
+    "page": 279,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "artifact",
+    "reqAttune": true,
+    "sentient": true,
+    "source": "EGW",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 2
+}

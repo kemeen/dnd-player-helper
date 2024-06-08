@@ -1,0 +1,21 @@
+{
+    "entries": [
+        "While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as {@spell cloudkill} and {@spell stinking cloud} effects, inhaled poisons, and the breath weapons of some dragons)."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Necklace of Adaptation",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 182,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "weight": 1,
+    "wondrous": true
+}

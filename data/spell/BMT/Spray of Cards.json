@@ -1,0 +1,51 @@
+{
+    "components": {
+        "m": "a deck of cards",
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "blinded"
+    ],
+    "damageInflict": [
+        "force"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You spray a 15-foot cone of spectral cards. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes {@damage 2d10} force damage and has the {@condition blinded} condition until the end of its next turn. On a successful save, a creature takes half as much damage only."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by {@dice 1d10} for each slot level above 2nd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "name": "Spray of Cards",
+    "page": 50,
+    "range": {
+        "distance": {
+            "amount": 15,
+            "type": "feet"
+        },
+        "type": "cone"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "C",
+    "source": "BMT",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

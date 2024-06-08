@@ -1,0 +1,44 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can channel cosmic forces of good to gain these benefits:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "When you or a creature within 30 feet of you takes damage, you can use your reaction to reduce that damage by {@dice 1d10} + your proficiency bonus. You can use this benefit a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+                    ],
+                    "name": "Soothe Pain",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "name": "Righteous Heritor",
+    "page": 11,
+    "prerequisite": [
+        {
+            "feat": [
+                "scion of the outer planes|sato|scion of the outer planes (good outer plane)"
+            ],
+            "level": 4
+        }
+    ],
+    "source": "SatO"
+}

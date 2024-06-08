@@ -1,0 +1,129 @@
+{
+    "antagonize": {
+        "classVariant": {
+            "PHB": {
+                "Bard": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "spirit of death": {
+        "classVariant": {
+            "PHB": {
+                "Sorcerer": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "spray of cards": {
+        "classVariant": {
+            "PHB": {
+                "Bard": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "BMT"
+                    ]
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

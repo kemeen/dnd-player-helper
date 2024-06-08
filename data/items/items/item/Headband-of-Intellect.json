@@ -1,0 +1,26 @@
+{
+    "ability": {
+        "static": {
+            "int": 19
+        }
+    },
+    "basicRules": true,
+    "entries": [
+        "Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher without it."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Headband of Intellect",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 173,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

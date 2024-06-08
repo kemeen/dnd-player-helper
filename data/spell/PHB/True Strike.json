@@ -1,0 +1,43 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "s": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "round"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended."
+    ],
+    "level": 0,
+    "miscTags": [
+        "ADV"
+    ],
+    "name": "True Strike",
+    "page": 284,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

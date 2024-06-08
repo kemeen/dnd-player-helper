@@ -1,0 +1,18 @@
+{
+    "attachedSpells": [
+        "detect thoughts"
+    ],
+    "entries": [
+        "When you drink this potion, you gain the effect of the {@spell detect thoughts} spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it."
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Potion of Mind Reading",
+    "page": 188,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

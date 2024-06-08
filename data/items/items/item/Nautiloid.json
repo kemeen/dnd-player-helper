@@ -1,0 +1,21 @@
+{
+    "capCargo": 17,
+    "crew": 20,
+    "entries": [
+        "Built and used by mind flayers, nautiloids are designed exclusively for space travel. They can't float on water, nor can they land safely on the ground.",
+        "As an action, a creature attuned to a nautiloid's spelljamming helm and in physical contact with the ship can transport the nautiloid and all creatures and objects aboard it to a different plane of existence, at or near a destination envisioned by the spelljammer (or to a random location on the plane if no destination is envisioned). This property is a feature of the ship, not the spelljamming helm. Each time this property is used, roll a {@dice d6}. On a 5\u20136, the property recharges after 1 minute; otherwise, it can't be used again for 24 hours."
+    ],
+    "name": "Nautiloid",
+    "page": 38,
+    "rarity": "none",
+    "seeAlsoVehicle": [
+        "Nautiloid|AAG"
+    ],
+    "source": "AAG",
+    "type": "SPC",
+    "value": 5000000,
+    "vehAc": 15,
+    "vehDmgThresh": 15,
+    "vehHp": 400,
+    "vehSpeed": 4.5
+}

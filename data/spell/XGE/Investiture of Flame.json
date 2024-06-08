@@ -1,0 +1,68 @@
+{
+    "areaTags": [
+        "L"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageImmune": [
+        "fire"
+    ],
+    "damageInflict": [
+        "fire"
+    ],
+    "damageResist": [
+        "cold"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Flames race across your body, shedding bright light in a 30-foot radius and dim light for an additional 30 feet for the spell's duration. The flames don't harm you. Until the spell ends, you gain the following benefits:",
+        {
+            "items": [
+                "You are immune to fire damage and have resistance to cold damage.",
+                "Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes {@damage 1d10} fire damage.",
+                "You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes {@damage 4d8} fire damage on a failed save, or half as much damage on a successful one."
+            ],
+            "type": "list"
+        }
+    ],
+    "level": 6,
+    "miscTags": [
+        "LGT"
+    ],
+    "name": "Investiture of Flame",
+    "otherSources": [
+        {
+            "page": 19,
+            "source": "EEPC"
+        }
+    ],
+    "page": 159,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "T",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

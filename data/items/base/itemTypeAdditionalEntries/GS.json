@@ -1,0 +1,57 @@
+{
+    "appliesTo": "GS",
+    "entries": [
+        "Proficiency with a gaming set applies to one type of game, such as Three-Dragon Ante or games of chance that use dice.",
+        {
+            "entries": [
+                "A gaming set has all the pieces needed to play a specific game or type of game, such as a complete deck of cards or a board and tokens."
+            ],
+            "name": "Components",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your mastery of a game includes knowledge of its history, as well as of important events it was connected to or prominent historical figures involved with it."
+            ],
+            "name": "History",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Playing games with someone is a good way to gain understanding of their personality, granting you a better ability to discern their lies from their truths and read their mood."
+            ],
+            "name": "Insight",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Sleight of Hand is a useful skill for cheating at a game, as it allows you to swap pieces, palm cards, or alter a die roll. Alternatively, engrossing a target in a game by manipulating the components with dexterous movements is a great distraction for a pickpocketing attempt."
+            ],
+            "name": "Sleight of Hand",
+            "type": "entries"
+        },
+        {
+            "caption": "Gaming Set",
+            "colLabels": [
+                "Activity",
+                "DC"
+            ],
+            "colStyles": [
+                "col-10",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "Catch a player cheating",
+                    "15"
+                ],
+                [
+                    "Gain insight into an opponent's personality",
+                    "15"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "source": "XGE"
+}

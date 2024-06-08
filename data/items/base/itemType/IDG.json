@@ -1,0 +1,9 @@
+{
+    "abbreviation": "IDG",
+    "entriesTemplate": [
+        "{@note This item is an illegal drug; see {@variantrule Illegal Drugs|TDCSR} for more information.}"
+    ],
+    "name": "Illegal Drug",
+    "page": 85,
+    "source": "TDCSR"
+}

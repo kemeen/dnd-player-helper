@@ -1,0 +1,58 @@
+{
+    "areaTags": [
+        "R"
+    ],
+    "components": {
+        "m": "paper or leaf in the shape of a funnel",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "bludgeoning"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a point you can see within range. The point must be on the ground or in a body of water. Until the spell ends, that area is {@quickref difficult terrain||3}, and any creature that starts its turn there must succeed on a Strength saving throw or take {@damage 6d6} bludgeoning damage and be pulled 10 feet toward the center."
+    ],
+    "level": 5,
+    "miscTags": [
+        "DFT",
+        "FMV",
+        "SGT"
+    ],
+    "name": "Maelstrom",
+    "otherSources": [
+        {
+            "page": 20,
+            "source": "EEPC"
+        }
+    ],
+    "page": 160,
+    "range": {
+        "distance": {
+            "amount": 120,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "strength"
+    ],
+    "school": "V",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

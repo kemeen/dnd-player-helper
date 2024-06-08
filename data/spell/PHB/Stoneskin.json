@@ -1,0 +1,51 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "m": {
+            "consume": true,
+            "cost": 10000,
+            "text": "diamond dust worth 100 gp, which the spell consumes"
+        },
+        "s": true,
+        "v": true
+    },
+    "damageResist": [
+        "bludgeoning",
+        "piercing",
+        "slashing"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage."
+    ],
+    "level": 4,
+    "name": "Stoneskin",
+    "page": 278,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

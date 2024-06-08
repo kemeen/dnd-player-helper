@@ -1,0 +1,12 @@
+{
+    "basicRules": true,
+    "bolt": true,
+    "name": "Crossbow Bolt",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "A",
+    "value": 5,
+    "weight": 0.075
+}

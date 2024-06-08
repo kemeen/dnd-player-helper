@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "PotA",
+    "level": {
+        "end": 15,
+        "start": 1
+    },
+    "name": "Princes of the Apocalypse",
+    "published": "2015-04-07",
+    "source": "PotA",
+    "storyline": "Elemental Evil"
+}

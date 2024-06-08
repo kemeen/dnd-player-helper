@@ -1,0 +1,102 @@
+{
+    "attachedSpells": [
+        "guiding bolt",
+        "sunbeam",
+        "daylight"
+    ],
+    "baseItem": "spear|PHB",
+    "bonusWeapon": "+3",
+    "charges": 10,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "Heliod wields Khrusor, a spear blessed with the power of the sun. In his hands, it can be pitched from Nyx to any point on Theros. When Heliod lends his weapon to a mortal, it's typically so they can perform some great work in his name or as a test of their worthiness.",
+        {
+            "entries": [
+                "This spear grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using this spear, the target takes an extra {@damage 2d8} radiant damage."
+            ],
+            "name": "Spear of the Sun",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you are a worshiper of Heliod, you gain all the following benefits for which you have the required piety:",
+                {
+                    "items": [
+                        {
+                            "entry": "You gain 15 temporary hit points each dawn.",
+                            "name": "Piety 3+",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "The spear has 1 randomly determined {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} property.",
+                            "name": "Piety 10+",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "The spear has 1 additional randomly determined {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} property.",
+                            "name": "Piety 25+",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "The spear has 1 randomly determined {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} property.",
+                            "name": "Piety 50+",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                },
+                "If you aren't a worshiper of Heliod, the spear has 2 randomly determined {@table Artifact Properties; Major Detrimental Properties|dmg|major detrimental} properties.",
+                "See \"Artifacts\" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties."
+            ],
+            "name": "Blessing of the Sun",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The spear sheds bright light in a 30-foot radius and dim light for an additional 30 feet. The light is sunlight."
+            ],
+            "name": "Luminous",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you take damage from a creature within 5 feet of you, you can use your reaction to make a melee attack with the spear against that creature. On a hit, the spear deals damage as normal, and the creature is {@condition blinded} until the start of its next turn. This property of the spear can't be used again until the next dawn."
+            ],
+            "name": "Sun's Retaliation",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The spear has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: {@spell guiding bolt} (1 charge), {@spell daylight} (3 charges, targeting the tip of the spear only), {@spell sunbeam} (6 charges). The spear regains {@dice 1d6 + 4} expended charges daily at dawn."
+            ],
+            "name": "Spells",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If taken to Erebos's palace in Tizerus, and used to sacrifice a champion of Heliod to Erebos, Khrusor is either destroyed or fundamentally twisted to Erebos's service."
+            ],
+            "name": "Destroying the Spear",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Khrusor, Spear of Heliod",
+    "page": 200,
+    "property": [
+        "T",
+        "V"
+    ],
+    "range": "20/60",
+    "rarity": "artifact",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d6 + 4}",
+    "reqAttune": true,
+    "source": "MOT",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 3
+}

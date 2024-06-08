@@ -1,0 +1,25 @@
+{
+    "entries": [
+        "This magic weapon grants a +1 bonus to attack and damage rolls made with it.",
+        "The bonus increases to +2 when you reach 10th level in this class."
+    ],
+    "featureType": [
+        "AI"
+    ],
+    "name": "Enhanced Weapon",
+    "otherSources": [
+        {
+            "page": 62,
+            "source": "ERLW"
+        }
+    ],
+    "page": 21,
+    "prerequisite": [
+        {
+            "item": [
+                "A simple or martial weapon"
+            ]
+        }
+    ],
+    "source": "TCE"
+}

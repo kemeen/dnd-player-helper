@@ -1,0 +1,25 @@
+{
+    "inherits": {
+        "entries": [
+            "{#itemEntry Armor of Resistance}"
+        ],
+        "hasRefs": true,
+        "nameSuffix": " of Fire Resistance",
+        "page": 152,
+        "rarity": "rare",
+        "reqAttune": true,
+        "resist": [
+            "fire"
+        ],
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "Armor of Fire Resistance",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

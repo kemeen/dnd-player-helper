@@ -1,0 +1,49 @@
+{
+    "attachedSpells": [
+        "spider climb",
+        "web"
+    ],
+    "charges": 10,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "The top of this magic quarterstaff is shaped like a spider. It deals an extra {@damage 1d6} poison damage on a hit when used to make a weapon attack.",
+        {
+            "entries": [
+                "The staff has 10 charges. While holding it, you can expend the requisite number of charges to cast one of the following spells from the staff: {@spell spider climb} (1 charge) or {@spell web} (2 charges; spell save DC 15).",
+                "The staff regains {@dice 1d6 + 4} expended charges daily at dusk. If you expend the staff's last charge, roll a {@dice d20}. On a 1, the staff crumbles to dust and is destroyed."
+            ],
+            "name": "Spells",
+            "type": "entries"
+        }
+    ],
+    "name": "Spider Staff",
+    "page": 220,
+    "property": [
+        "V"
+    ],
+    "rarity": "rare",
+    "recharge": "dusk",
+    "rechargeAmount": "{@dice 1d6 + 4}",
+    "reqAttune": "by a bard, sorcerer, warlock, or wizard",
+    "reqAttuneTags": [
+        {
+            "class": "bard"
+        },
+        {
+            "class": "sorcerer"
+        },
+        {
+            "class": "warlock"
+        },
+        {
+            "class": "wizard"
+        }
+    ],
+    "source": "PaBTSO",
+    "staff": true,
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 4
+}

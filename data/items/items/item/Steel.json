@@ -1,0 +1,47 @@
+{
+    "attachedSpells": [
+        "revivify"
+    ],
+    "baseItem": "longsword|PHB",
+    "bonusWeapon": "+2",
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "entries": [
+        "You have a +2 bonus to attack and damage rolls made with this magic weapon.",
+        {
+            "entries": [
+                "You can use an action to cast the {@spell revivify} spell from the sword. You must touch the target with the sword to cast the spell. Once this property of the weapon is used, it can't be used again until the next dawn."
+            ],
+            "name": "Revivify",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Steel is a sentient, lawful good longsword with an Intelligence of 8, a Wisdom of 11, and a Charisma of 15. It can see and hear out to a range of 60 feet. The sword can speak, read, and understand Common and Draconic. It frets over your well-being while you are attuned to it, and it doesn't like to back down from a fight."
+            ],
+            "name": "Sentience",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Steel",
+    "page": 214,
+    "property": [
+        "V"
+    ],
+    "rarity": "very rare",
+    "reqAttune": "by a good-aligned creature",
+    "reqAttuneTags": [
+        {
+            "alignment": [
+                "G"
+            ]
+        }
+    ],
+    "sentient": true,
+    "source": "WBtW",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

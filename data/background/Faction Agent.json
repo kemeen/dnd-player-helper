@@ -1,0 +1,91 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Insight} and one Intelligence, Wisdom, or Charisma skill of your choice, as appropriate to your faction",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Any two of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Badge or emblem of your faction, a copy of a seminal faction text (or code-book for a covert faction), a set of {@item common clothes|phb}, and a {@item pouch|phb} containing 15 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "As a faction agent, you have access to a secret network of supporters and operatives who can provide assistance on your adventures. You know a set of secret signs and passwords you can use to identify such operatives, who can provide you with access to a hidden safe house, free room and board, or assistance in finding information. These agents never risk their lives for you or risk revealing their true identities."
+            ],
+            "name": "Feature: Safe Haven",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Use the tables for the {@background acolyte} background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a faction agent. (For instance, consider the words \"faith\" and \"faction\" to be interchangeable.)",
+                "Your bond might be associated with other members of your faction, or a location or an object that is important to your faction. The ideal you strive for is probably in keeping with the tenets and principles of your faction, but might be more personal in nature."
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 2
+        }
+    ],
+    "name": "Faction Agent",
+    "page": 147,
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "arcana",
+                    "animal handling",
+                    "deception",
+                    "history",
+                    "intimidation",
+                    "investigation",
+                    "medicine",
+                    "nature",
+                    "perception",
+                    "performance",
+                    "persuasion",
+                    "religion",
+                    "survival"
+                ]
+            },
+            "insight": true
+        }
+    ],
+    "source": "SCAG",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "special": "Badge or emblem of your faction"
+                },
+                {
+                    "special": "copy of a seminal faction text (or code-book for a covert faction)"
+                },
+                "common clothes|phb",
+                {
+                    "containsValue": 1500,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ]
+}

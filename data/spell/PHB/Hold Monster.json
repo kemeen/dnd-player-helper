@@ -1,0 +1,75 @@
+{
+    "affectsCreatureType": [
+        "aberration",
+        "beast",
+        "celestial",
+        "construct",
+        "dragon",
+        "elemental",
+        "fey",
+        "fiend",
+        "giant",
+        "humanoid",
+        "monstrosity",
+        "ooze",
+        "plant"
+    ],
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "a small, straight piece of iron",
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "paralyzed"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be {@condition paralyzed} for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 5,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Hold Monster",
+    "page": 251,
+    "range": {
+        "distance": {
+            "amount": 90,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "wisdom"
+    ],
+    "school": "E",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

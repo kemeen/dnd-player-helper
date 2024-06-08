@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "detail1": "pearl",
+    "entries": [
+        "{#itemEntry Ring of Resistance}"
+    ],
+    "hasRefs": true,
+    "name": "Ring of Acid Resistance",
+    "page": 192,
+    "rarity": "rare",
+    "reqAttune": true,
+    "resist": [
+        "acid"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

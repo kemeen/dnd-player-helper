@@ -1,0 +1,42 @@
+{
+    "attachedSpells": [
+        "hallucinatory terrain",
+        "major image",
+        "mirror image",
+        "mislead",
+        "nystul's magic aura",
+        "phantasmal force",
+        "silent image"
+    ],
+    "charges": 3,
+    "entries": [
+        "To you, this book is a magical spellbook. To anyone else, the book appears to be a volume of verbose romance fiction. As an action, you can change the book's appearance and alter the plot of the romance.",
+        "When found, the book contains the following spells: {@spell hallucinatory terrain}, {@spell major image}, {@spell mirror image}, {@spell mislead}, {@spell Nystul's magic aura}, {@spell phantasmal force}, and {@spell silent image}. It functions as a spellbook for you.",
+        "While you are holding the book, you can use it as a spellcasting focus for your wizard spells.",
+        "The book has 3 charges, and it regains {@dice 1d3} expended charges daily at dawn. You can use the charges in the following ways while holding it:",
+        {
+            "items": [
+                "If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the illusion school.",
+                "When a creature you can see makes an Intelligence ({@skill Investigation}) check to discern the true nature of an illusion spell you cast, or makes a saving throw against an illusion spell you cast, you can use your reaction and expend 1 charge to impose disadvantage on the roll."
+            ],
+            "type": "list"
+        }
+    ],
+    "focus": [
+        "Wizard"
+    ],
+    "name": "Duplicitous Manuscript",
+    "page": 126,
+    "rarity": "rare",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d3}",
+    "reqAttune": "by a wizard",
+    "reqAttuneTags": [
+        {
+            "class": "wizard"
+        }
+    ],
+    "source": "TCE",
+    "weight": 3,
+    "wondrous": true
+}

@@ -1,0 +1,127 @@
+{
+    "entries": [
+        {
+            "caption": "Icewind Dale Trinkets",
+            "colLabels": [
+                "d100",
+                "Trinket"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    "01\u201304",
+                    "A small wooden figurine of a yawning walrus, painted in red and black"
+                ],
+                [
+                    "05\u201308",
+                    "A pair of scrimshaw cufflinks with an image of a fisherman on a boat engraved on them"
+                ],
+                [
+                    "09\u201312",
+                    "A small iron key with a frayed blue and gold cord tied to it"
+                ],
+                [
+                    "13\u201316",
+                    "A small illustrated book of Northlander myths that has pages missing"
+                ],
+                [
+                    "17\u201320",
+                    "A damaged scrimshaw cameo depicting a merfolk"
+                ],
+                [
+                    "21\u201324",
+                    "A stone from a burial cairn with a tiny Dwarvish rune carved into it"
+                ],
+                [
+                    "25\u201328",
+                    "A ripped cloth sail with a symbol you don't recognize"
+                ],
+                [
+                    "29\u201332",
+                    "An Ulu knife with a scrimshaw handle"
+                ],
+                [
+                    "33\u201336",
+                    "A jar containing an unidentifiable, sweet, sticky substance"
+                ],
+                [
+                    "37\u201340",
+                    "A delicate glass ball painted with snowflakes, capped by a metal loop with a tiny hook attached to it"
+                ],
+                [
+                    "41\u201344",
+                    "An expedition log with missing pages and a pressed flower used as a bookmark"
+                ],
+                [
+                    "45\u201348",
+                    "An owl figurine carved from whalebone"
+                ],
+                [
+                    "49\u201352",
+                    "A sewing box that smells of old wood and has three spools of blue thread inside"
+                ],
+                [
+                    "53\u201356",
+                    "A scrimshaw-handled ink pen with black runic designs along its length"
+                ],
+                [
+                    "57\u201360",
+                    "A brooch made from a small insect encased in amber"
+                ],
+                [
+                    "61\u201364",
+                    "A scrimshaw pepper shaker etched with the letter W"
+                ],
+                [
+                    "65\u201368",
+                    "An old, wooden-handled ice pick stained with blood that won't wash off"
+                ],
+                [
+                    "69\u201372",
+                    "A fabric doll bearing an angry expression"
+                ],
+                [
+                    "73\u201376",
+                    "A set of wind chimes made from seashells"
+                ],
+                [
+                    "77\u201380",
+                    "A beautiful silver tin that, when opened, emits the smell of rotting fish"
+                ],
+                [
+                    "81\u201384",
+                    "A bloodstained dreamcatcher made from fishing line, gold wire, and snowy owlbear feathers"
+                ],
+                [
+                    "85\u201388",
+                    "A figurine of a polar bear made of ice that never melts"
+                ],
+                [
+                    "89\u201392",
+                    "A snow globe that doesn't need to be shaken"
+                ],
+                [
+                    "93\u201396",
+                    "A piece of sea glass shaped like a unicorn's horn"
+                ],
+                [
+                    "97\u201300",
+                    "A dark blue scarf that gets lighter in shade the higher the altitude of the wearer"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "hasFluffImages": true,
+    "miscTags": [
+        "TT"
+    ],
+    "name": "Icewind Dale Trinket",
+    "page": 263,
+    "rarity": "none",
+    "source": "IDRotF",
+    "type": "G"
+}

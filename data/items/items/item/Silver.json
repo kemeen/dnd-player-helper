@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Silver",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "TG",
+    "value": 500,
+    "weight": 1
+}

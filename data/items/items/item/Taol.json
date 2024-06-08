@@ -1,0 +1,11 @@
+{
+    "entries": [
+        "Brass coin, about two inches square with a hold large enough for a {@item nib|wdh} to fit in (1 taol = 200 {@item nib|wdh|nibs})"
+    ],
+    "name": "Taol",
+    "page": 169,
+    "rarity": "none",
+    "source": "WDH",
+    "type": "$",
+    "value": 200
+}

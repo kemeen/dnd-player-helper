@@ -1,0 +1,56 @@
+{
+    "excludes": {
+        "name": "Hide Armor"
+    },
+    "inherits": {
+        "bonusAc": "+1",
+        "entries": [
+            "This magic armor has a dull, rusty color or has veins of ruidium running through it. While you wear this armor, you gain the following benefits:",
+            {
+                "items": [
+                    "You have resistance to psychic damage.",
+                    "You can breathe water.",
+                    "You gain a swimming speed equal to your walking speed."
+                ],
+                "type": "list"
+            },
+            {
+                "entries": [
+                    "When you roll a 1 on a saving throw while wearing this armor, you must make a DC 15 Charisma saving throw. On a failed save, you gain 1 level of {@condition exhaustion}. If you are not already suffering from ruidium corruption, you become corrupted when you fail this save."
+                ],
+                "name": "Ruidium Corruption",
+                "type": "entries"
+            },
+            {
+                "entries": [
+                    "If the Apotheon is killed or redeemed, all the ruidium in Exandria is destroyed instantly, and ruidium armor becomes {@item +1 armor}."
+                ],
+                "name": "If Ruidium Is Destroyed",
+                "type": "entries"
+            }
+        ],
+        "modifySpeed": {
+            "equal": {
+                "swim": "walk"
+            }
+        },
+        "namePrefix": "Ruidium ",
+        "page": 215,
+        "rarity": "very rare",
+        "reqAttune": true,
+        "resist": [
+            "psychic"
+        ],
+        "source": "CRCotN"
+    },
+    "name": "Ruidium Armor",
+    "requires": [
+        {
+            "type": "MA"
+        },
+        {
+            "type": "HA"
+        }
+    ],
+    "type": "GV"
+}

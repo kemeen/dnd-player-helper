@@ -1,0 +1,40 @@
+{
+    "affectsCreatureType": [
+        "beast",
+        "plant"
+    ],
+    "components": {
+        "m": "a bit of fur from a bloodhound",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present."
+    ],
+    "level": 2,
+    "meta": {
+        "ritual": true
+    },
+    "name": "Locate Animals or Plants",
+    "page": 256,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

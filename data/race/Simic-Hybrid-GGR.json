@@ -1,0 +1,134 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "count": 1,
+                "from": [
+                    "str",
+                    "dex",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "con": 2
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Hybrids begin their lives as adult humans, elves, or vedalken. They age at a slightly accelerated rate, so their maximum life spans are probably reduced somewhat. The Guardian Project has not been operating long enough to observe the full effect of this phenomenon."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Most hybrids share the generally neutral outlook of the Simic Combine. They are more interested in scientific research and the standing of their guild than in moral or ethical questions. Those who leave the Combine, however, often do so because their philosophical outlook and alignment are more in line with a different guild's."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your size is Medium, within the normal range of your humanoid base race."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and your choice of Elvish or Vedalken."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your body has been altered to incorporate certain animal characteristics. You choose one animal enhancement now and a second enhancement at 5th level.",
+                "At 1st level, choose one of the following options:",
+                {
+                    "items": [
+                        {
+                            "entry": "You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren't {@condition incapacitated}, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.",
+                            "name": "Manta Glide",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "You have a climbing speed equal to your walking speed.",
+                            "name": "Nimble Climber",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "You can breathe air and water, and you have a swimming speed equal to your walking speed.",
+                            "name": "Underwater Adaptation",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                },
+                "At 5th level, your body evolves further, developing new characteristics. Choose one of the options you didn't take at 1st level, or one of the following options:",
+                {
+                    "items": [
+                        {
+                            "entry": "You have two special appendages growing alongside your arms. Choose whether they're both claws or tentacles. As an action, you can use one of them to try to grapple a creature. Each one is also a natural weapon, which you can use to make an unarmed strike. If you hit with it, the target takes bludgeoning damage equal to {@dice 1d6} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action. These appendages can't precisely manipulate anything and can't wield weapons, magic items, or other specialized equipment.",
+                            "name": "Grappling Appendage",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "Your skin in places is covered by a thick shell. You gain a +1 bonus to AC when you're not wearing heavy armor.",
+                            "name": "Carapace",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "As an action, you can spray acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target takes {@dice 2d10} acid damage unless it succeeds on a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. This damage increases by {@dice 1d10} when you reach 11th level ({@dice 3d10}) and 17th level ({@dice 4d10}). You can use this trait a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.",
+                            "name": "Acid Spit",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                }
+            ],
+            "name": "Animal Enhancement",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "choose": {
+                "count": 1,
+                "from": [
+                    "elvish",
+                    "other"
+                ]
+            },
+            "common": true
+        }
+    ],
+    "name": "Simic Hybrid",
+    "page": 20,
+    "size": [
+        "M"
+    ],
+    "source": "GGR",
+    "speed": {
+        "walk": 30
+    },
+    "traitTags": [
+        "Amphibious",
+        "Natural Armor",
+        "Natural Weapon"
+    ]
+}

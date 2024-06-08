@@ -1,0 +1,48 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "con",
+                    "wis"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You've manifested the resilience emblematic of hill giants, granting you the following benefits:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "When you are subjected to an effect that would move you at least 5 feet or give you the prone condition, you can use your reaction to steady yourself. You aren't moved and don't have the prone condition."
+                    ],
+                    "name": "Bulwark",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "Whenever you eat food as part of a short rest and spend one or more Hit Dice to regain hit points, you regain additional hit points equal to your Constitution modifier + your proficiency bonus."
+                    ],
+                    "name": "Iron Stomach",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "name": "Vigor of the Hill Giant",
+    "page": 19,
+    "prerequisite": [
+        {
+            "feat": [
+                "strike of the giants|BGG|strike of the giants (hill strike)"
+            ],
+            "level": 4
+        }
+    ],
+    "source": "BGG"
+}

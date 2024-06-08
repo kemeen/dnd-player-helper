@@ -1,0 +1,20 @@
+{
+    "baseItem": "greataxe|phb",
+    "bonusWeapon": "+1",
+    "dmg1": "1d12",
+    "dmgType": "S",
+    "entries": [
+        "When you wield this +1 greataxe, you always know the way to the nearest passage leading from underground toward the surface, as well as the approximate depth the axe is underground."
+    ],
+    "name": "Pathfinder's Greataxe",
+    "page": 175,
+    "property": [
+        "H",
+        "2H"
+    ],
+    "rarity": "unknown (magic)",
+    "source": "PotA",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 7
+}

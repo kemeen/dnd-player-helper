@@ -1,0 +1,39 @@
+{
+    "entries": [
+        "The wizard Mordenkainen crafted this sleek, golden helmet. If he created other helms of disjunction, they have yet to be found.",
+        "As an action while wearing this helm, you can use it to emit an antimagic pulse in a 300-foot-radius sphere centered on yourself. The pulse has the following effects:",
+        {
+            "entries": [
+                "Potions and scrolls in the area are destroyed. All other magic items in the area have their magical properties suppressed for 1 minute. Artifacts are unaffected by this property, as are magic items on your person."
+            ],
+            "name": "Magic Item Disjunction",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Any ongoing spell ends if the creature, object, or area affected by it is even partly in the pulse's area."
+            ],
+            "name": "Spell Disjunction",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The antimagic pulse is strong enough to knock down creatures close to you. Each creature within 30 feet of you must succeed on a DC 15 Strength saving throw or have the {@condition prone} condition.",
+                "Once you use the helm's property, it can't be used again until {@dice 1d4} days have passed."
+            ],
+            "name": "Wave of Force",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Helm of Disjunction",
+    "rarity": "legendary",
+    "reqAttune": "by a sorcerer",
+    "reqAttuneTags": [
+        {
+            "class": "sorcerer"
+        }
+    ],
+    "source": "HAT-LMI",
+    "wondrous": true
+}

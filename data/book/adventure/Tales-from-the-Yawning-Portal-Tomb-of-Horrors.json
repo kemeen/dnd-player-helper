@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "TftYP-ToH",
+    "level": {
+        "end": 14,
+        "start": 10
+    },
+    "name": "Tales from the Yawning Portal: Tomb of Horrors",
+    "parentName": "Tales from the Yawning Portal",
+    "parentSource": "TftYP",
+    "published": "2017-03-24",
+    "publishedOrder": 6,
+    "source": "TftYP-ToH",
+    "storyline": "Tales from the Yawning Portal"
+}

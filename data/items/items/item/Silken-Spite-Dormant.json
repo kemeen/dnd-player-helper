@@ -1,0 +1,66 @@
+{
+    "baseItem": "rapier|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "The blade of this rapier is made of spider silk. Its onyx pommel is tipped with a ruby cut in the shape of a spider, and the blade carries the blessing of Lolth.",
+        {
+            "entries": [
+                "Silken Spite is a sentient chaotic evil weapon with an Intelligence of 13, a Wisdom of 15, and a Charisma of 15. It has hearing and {@sense darkvision} out to a range of 120 feet.",
+                "The weapon communicates telepathically with its wielder and can speak, read, and understand Abyssal, Common, Elvish, and Undercommon."
+            ],
+            "name": "Sentience",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "A murderous {@creature yochlol} named Sinnafex lives within Silken Spite. The weapon speaks in whispers, pushing its wielder to trust no one and to kill those who cause the slightest personal offense."
+            ],
+            "name": "Personality",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The rapier grants the following benefits in its dormant state:",
+                {
+                    "items": [
+                        "You can speak, read, and write Abyssal, Elvish, and Undercommon.",
+                        "You have {@sense darkvision} out to a range of 60 feet. If you already have {@sense darkvision}, being attuned to the rapier increases the range of your {@sense darkvision} by 60 feet.",
+                        "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
+                        "You can use an action to cause poison to coat the rapier's blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 13 Constitution saving throw or become {@condition poisoned} for 1 hour. If the saving throw fails by 5 or more, the creature is also {@condition unconscious} while {@condition poisoned} in this way. The creature wakes up if it takes damage or if another creature uses its action to shake the creature awake.",
+                        "While carrying the rapier, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. You have a climbing speed equal to your walking speed. Additionally, you can't be caught in webs of any sort and can move through webs as if they were {@quickref difficult terrain||3}."
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Dormant",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The Arms of the Betrayers advance in power in the same manner as the Vestiges of Divergence. In its dormant state, each of these artifacts has one {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} property and one {@table Artifact Properties; Minor Detrimental Properties|dmg|minor detrimental} property. When the artifact attains an awakened state, it gains an additional {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} property and an additional {@table Artifact Properties; Minor Detrimental Properties|dmg|minor detrimental} property. When the item reaches its exalted state, it gains a {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} property. See \"Artifact Properties\" in chapter 7 of the Dungeon Master's Guide for more information."
+            ],
+            "name": "Betrayer Artifact Properties",
+            "type": "inset"
+        }
+    ],
+    "modifySpeed": {
+        "equal": {
+            "climb": "walk"
+        }
+    },
+    "name": "Silken Spite (Dormant)",
+    "page": 277,
+    "property": [
+        "F",
+        "Vst"
+    ],
+    "rarity": "artifact",
+    "reqAttune": true,
+    "sentient": true,
+    "source": "EGW",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 2
+}

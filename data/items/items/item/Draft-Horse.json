@@ -1,0 +1,12 @@
+{
+    "basicRules": true,
+    "carryingCapacity": 540,
+    "name": "Draft Horse",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "speed": 40,
+    "srd": true,
+    "type": "MNT",
+    "value": 5000
+}

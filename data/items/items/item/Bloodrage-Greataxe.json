@@ -1,0 +1,20 @@
+{
+    "baseItem": "greataxe|PHB",
+    "bonusWeapon": "+2",
+    "dmg1": "1d12",
+    "dmgType": "S",
+    "entries": [
+        "You gain a +2 bonus to attack and damage rolls made with this magic greataxe while you have half your hit points or fewer."
+    ],
+    "name": "Bloodrage Greataxe",
+    "page": 66,
+    "property": [
+        "H",
+        "2H"
+    ],
+    "rarity": "uncommon",
+    "source": "BMT",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 7
+}

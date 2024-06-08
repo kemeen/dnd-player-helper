@@ -1,0 +1,18 @@
+{
+    "bonusAc": "+1",
+    "entries": [
+        "This coat made of the severed tongues of a {@creature Harvester of Lies|GHLoE|harvester}'s victims provides a +1 bonus to your AC, and you have advantage on Charisma ({@skill Deception}) checks.",
+        "Additionally, as a bonus action three times per day, you can activate the magic of the cloak. If you do, the next spell you cast before the start of your next turn can be cast without any somatic or verbal components."
+    ],
+    "name": "Coat of Lies",
+    "page": 111,
+    "rarity": "rare",
+    "reqAttune": "by a spellcaster",
+    "reqAttuneTags": [
+        {
+            "spellcasting": true
+        }
+    ],
+    "source": "GHLoE",
+    "wondrous": true
+}

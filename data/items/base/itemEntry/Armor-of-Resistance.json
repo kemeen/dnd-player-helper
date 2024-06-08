@@ -1,0 +1,7 @@
+{
+    "entriesTemplate": [
+        "You have resistance to {{item.resist}} damage while you wear this armor."
+    ],
+    "name": "Armor of Resistance",
+    "source": "DMG"
+}

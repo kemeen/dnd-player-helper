@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "GoS",
+    "level": {
+        "end": 12,
+        "start": 1
+    },
+    "name": "Ghosts of Saltmarsh",
+    "published": "2019-05-21",
+    "source": "GoS",
+    "storyline": "Ghosts of Saltmarsh"
+}

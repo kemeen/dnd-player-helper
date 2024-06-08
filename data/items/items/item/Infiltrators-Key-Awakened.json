@@ -1,0 +1,40 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "When the Infiltrator's Key reaches an awakened state, it gains the following properties:",
+                        {
+                            "items": [
+                                "While holding the key, you can use a bonus action to transform the key into a magic dagger or back into a key. While the key is in the form of a dagger, you gain a +1 bonus to attack and damage rolls made with it, and it returns to your hand immediately after it is used to make a ranged attack.",
+                                "While holding the key, you can use an action to cast one of the following spells from it: {@spell alter self}, {@spell invisibility}, {@spell knock}, or {@spell pass without trace}. Once a spell has been cast using the key, it can't be used to cast that spell again until the next dawn."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Awakened",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Infiltrator's Key (Dormant)",
+        "source": "EGW"
+    },
+    "attachedSpells": [
+        "alter self",
+        "invisibility",
+        "knock",
+        "pass without trace"
+    ],
+    "bonusWeapon": "+2",
+    "hasFluffImages": true,
+    "name": "Infiltrator's Key (Awakened)",
+    "source": "EGW"
+}

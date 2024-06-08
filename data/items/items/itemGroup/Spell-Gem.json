@@ -1,0 +1,26 @@
+{
+    "items": [
+        "Spell Gem (Amber)|OotA",
+        "Spell Gem (Bloodstone)|OotA",
+        "Spell Gem (Diamond)|OotA",
+        "Spell Gem (Jade)|OotA",
+        "Spell Gem (Lapis lazuli)|OotA",
+        "Spell Gem (Obsidian)|OotA",
+        "Spell Gem (Quartz)|OotA",
+        "Spell Gem (Ruby)|OotA",
+        "Spell Gem (Star ruby)|OotA",
+        "Spell Gem (Topaz)|OotA"
+    ],
+    "name": "Spell Gem",
+    "otherSources": [
+        {
+            "page": 95,
+            "source": "IMR"
+        }
+    ],
+    "page": 223,
+    "rarity": "varies",
+    "reqAttune": "optional",
+    "source": "OotA",
+    "wondrous": true
+}

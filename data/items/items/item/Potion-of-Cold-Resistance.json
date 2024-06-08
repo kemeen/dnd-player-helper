@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "{#itemEntry Potion of Resistance}"
+    ],
+    "hasRefs": true,
+    "name": "Potion of Cold Resistance",
+    "page": 188,
+    "rarity": "uncommon",
+    "resist": [
+        "cold"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

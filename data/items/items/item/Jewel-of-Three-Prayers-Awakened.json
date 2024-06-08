@@ -1,0 +1,44 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "In this state, the jewel has received the blessing of Avandra the Change Bringer. Three delicate spires unfurl from the jewel's center, like the buds of flowers opening in the spring. Three lapis lazuli stones rest like dewdrops on these spires.",
+                        {
+                            "items": [
+                                "The following benefits of the jewel improve:",
+                                "The bonus that the jewel confers to your AC increases to +2.",
+                                "Its number of charges increases to 5."
+                            ],
+                            "type": "list"
+                        },
+                        "The jewel gains the following additional properties, which you can use while wearing or holding it:",
+                        {
+                            "items": [
+                                "You can expend 1 of the jewel's charges (no action required) to end one of the following conditions on yourself: {@condition grappled}, {@condition paralyzed}, or {@condition restrained}.",
+                                "When another creature you can see within 60 feet of you fails a saving throw, you can expend 1 of the jewel's charges as a reaction to enable that creature to reroll the saving throw, potentially turning a failure into a success. The creature must use the new roll."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Awakened State",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Jewel of Three Prayers (Dormant)",
+        "source": "CRCotN"
+    },
+    "bonusAc": "+2",
+    "charges": 5,
+    "hasFluffImages": true,
+    "name": "Jewel of Three Prayers (Awakened)",
+    "source": "CRCotN"
+}

@@ -1,0 +1,33 @@
+{
+    "inherits": {
+        "attachedSpells": [
+            "jump",
+            "levitate"
+        ],
+        "charges": 5,
+        "entries": [
+            "This armor has 5 charges. While you wear it, you can use a bonus action to expend 1 or more charges to cast one of the following spells from the armor, targeting yourself: {@spell Jump} (1 charge) or {@spell Levitate} (2 charges).",
+            "This armor regains {@dice 1d4 + 1} expended charges daily at dawn."
+        ],
+        "nameSuffix": " of Weightlessness",
+        "page": 65,
+        "rarity": "uncommon",
+        "recharge": "dawn",
+        "rechargeAmount": "{@dice 1d4 + 1}",
+        "reqAttune": true,
+        "source": "BMT"
+    },
+    "name": "Armor of Weightlessness",
+    "requires": [
+        {
+            "type": "LA"
+        },
+        {
+            "type": "MA"
+        },
+        {
+            "type": "HA"
+        }
+    ],
+    "type": "GV"
+}

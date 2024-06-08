@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "detail1": "garnet",
+    "entries": [
+        "{#itemEntry Ring of Resistance}"
+    ],
+    "hasRefs": true,
+    "name": "Ring of Fire Resistance",
+    "page": 192,
+    "rarity": "rare",
+    "reqAttune": true,
+    "resist": [
+        "fire"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

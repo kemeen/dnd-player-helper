@@ -1,0 +1,47 @@
+{
+    "attachedSpells": [
+        "burning hands",
+        "fireball",
+        "conjure elemental",
+        "ice storm",
+        "chain lightning",
+        "fire storm"
+    ],
+    "basicRules": true,
+    "bonusSpellAttack": "+2",
+    "bonusSpellSaveDc": "+2",
+    "charges": 20,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "A powerful relic passed down from generation to generation of Ashari leaders, the Spire of Conflux was lost over three centuries ago when Joran the Sea-Speaker, a respected leader of {@book the Water Ashari|TDCSR|2|The Ashari}, was devoured by a demon of the Abyss. It was rediscovered by the legendary druid {@creature Keyleth, Voice of the Tempest|TDCSR|Keyleth of Zephrah, Voice of the Tempest}. However, rumors swirl that she is seeking another hero to wield it\u2014one who can travel the land and do good in small ways as she once did."
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "items": [
+        "Spire of Conflux (Dormant)|TDCSR",
+        "Spire of Conflux (Awakened)|TDCSR",
+        "Spire of Conflux (Exalted)|TDCSR"
+    ],
+    "name": "Spire of Conflux",
+    "page": 209,
+    "property": [
+        "V",
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "recharge": "dawn",
+    "reqAttune": "by a spellcaster",
+    "reqAttuneTags": [
+        {
+            "spellcasting": true
+        }
+    ],
+    "source": "TDCSR",
+    "srd": true,
+    "staff": true,
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 4
+}

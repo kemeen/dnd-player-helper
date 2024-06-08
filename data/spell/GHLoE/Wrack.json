@@ -1,0 +1,43 @@
+{
+    "components": {
+        "m": "a frayed piece of cord",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Choose a creature that you can see within range. The target must succeed on a Constitution saving throw or be afflicted with excruciating muscle spasms for the duration. A creature affected in this way has its speed halved and rolls attacks with disadvantage. At the end of each of its turns, the target can make another Constitution saving throw. On a success, the spell ends on the target."
+    ],
+    "level": 2,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Wrack",
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "school": "N",
+    "source": "GHLoE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

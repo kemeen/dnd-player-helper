@@ -1,0 +1,37 @@
+{
+    "components": {
+        "m": "a pinch of talc and a small sprinkling of powdered silver",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "For the duration, you see {@condition invisible} creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent."
+    ],
+    "level": 2,
+    "name": "See Invisibility",
+    "page": 274,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

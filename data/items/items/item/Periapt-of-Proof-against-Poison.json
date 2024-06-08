@@ -1,0 +1,22 @@
+{
+    "conditionImmune": [
+        "poisoned"
+    ],
+    "entries": [
+        "This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the {@condition poisoned} condition and have immunity to poison damage."
+    ],
+    "immune": [
+        "poison"
+    ],
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Periapt of Proof against Poison",
+    "page": 184,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "weight": 1,
+    "wondrous": true
+}

@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "DoSI",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "Dragons of Stormwreck Isle",
+    "published": "2022-07-31",
+    "source": "DoSI",
+    "storyline": "Starter Set"
+}

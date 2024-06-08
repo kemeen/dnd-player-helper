@@ -1,0 +1,82 @@
+{
+    "age": {
+        "mature": 10,
+        "max": 70
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Shifters tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive shifters toward chaotic alignments."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your base walking speed is 30 feet."
+            ],
+            "name": "Speed",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.",
+                "Once you shift, you can't do so again until you finish a short or long rest."
+            ],
+            "name": "Shifting",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 54,
+        "baseWeight": 90,
+        "heightMod": "2d8",
+        "weightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "common": true
+        }
+    ],
+    "name": "Shifter",
+    "page": 33,
+    "reprintedAs": [
+        "Shifter|MPMM"
+    ],
+    "size": [
+        "M"
+    ],
+    "source": "ERLW",
+    "speed": 30
+}

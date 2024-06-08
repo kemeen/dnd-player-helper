@@ -1,0 +1,64 @@
+{
+    "entries": [
+        "This ordinary bag, made from rust cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.",
+        "You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a {@dice d8} and consulting the table. The creature vanishes at the next dawn or when it is reduced to 0 hit points.",
+        "The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.",
+        "Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.",
+        {
+            "colLabels": [
+                "{@dice d8}",
+                "Creature"
+            ],
+            "colStyles": [
+                "col-1 text-center",
+                "col-11"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "{@creature Rat}"
+                ],
+                [
+                    "2",
+                    "{@creature Owl}"
+                ],
+                [
+                    "3",
+                    "{@creature Mastiff}"
+                ],
+                [
+                    "4",
+                    "{@creature Goat}"
+                ],
+                [
+                    "5",
+                    "{@creature Giant goat}"
+                ],
+                [
+                    "6",
+                    "{@creature Giant boar}"
+                ],
+                [
+                    "7",
+                    "{@creature Lion}"
+                ],
+                [
+                    "8",
+                    "{@creature Brown bear}"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Bag of Tricks, Rust",
+    "page": 154,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "weight": 0.5,
+    "wondrous": true
+}

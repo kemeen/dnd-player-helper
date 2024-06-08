@@ -1,0 +1,20 @@
+{
+    "attachedSpells": [
+        "scrying"
+    ],
+    "entries": [
+        "This {@item crystal ball} is about 6 inches in diameter. While touching it, you can cast the {@spell scrying} spell (save DC 17) with it.",
+        "While {@spell scrying} with the {@item crystal ball}, you have {@sense truesight} with a radius of 120 feet centered on the spell's sensor."
+    ],
+    "lootTables": [
+        "Magic Item Table I"
+    ],
+    "name": "Crystal Ball of True Seeing",
+    "page": 159,
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "DMG",
+    "tier": "major",
+    "weight": 3,
+    "wondrous": true
+}

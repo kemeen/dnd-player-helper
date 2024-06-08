@@ -1,0 +1,9 @@
+{
+    "name": "dwarvish",
+    "typical_speakers": [
+        "dwarfs"
+    ],
+    "script": "dwarvish",
+    "type": "standard",
+    "parent": null
+}

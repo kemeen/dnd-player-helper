@@ -1,0 +1,53 @@
+{
+    "ability": [
+        {
+            "wis": 1
+        }
+    ],
+    "basicRules": true,
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+            ],
+            "name": "Elf Weapon Training",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your base walking speed increases to 35 feet."
+            ],
+            "name": "Fleet of Foot",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+            ],
+            "name": "Mask of the Wild",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 54,
+        "baseWeight": 100,
+        "heightMod": "2d10",
+        "weightMod": "1d4"
+    },
+    "name": "Wood",
+    "page": 24,
+    "raceName": "Elf",
+    "raceSource": "PHB",
+    "source": "PHB",
+    "speed": 35,
+    "weaponProficiencies": [
+        {
+            "longbow|phb": true,
+            "longsword|phb": true,
+            "shortbow|phb": true,
+            "shortsword|phb": true
+        }
+    ]
+}

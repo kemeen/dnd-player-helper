@@ -1,0 +1,58 @@
+{
+    "attachedSpells": [
+        "elemental weapon",
+        "call lightning",
+        "wall of fire",
+        "conjure elemental",
+        "tsunami"
+    ],
+    "charges": 6,
+    "entries": [
+        "This copper-hued helm contains a shard of the Elemental Chaos embedded in its forehead, surrounded by a motif of a rising sun. Legend says Annam fashioned this helm for his daughter Diancastra to hold the fragment of chaos she used to prove her worth to her father.",
+        {
+            "entries": [
+                "The helm has the following random properties, determined by rolling on the appropriate table in the Dungeon Master's Guide:",
+                {
+                    "items": [
+                        "2 {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} properties",
+                        "1 {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} property",
+                        "1 {@table Artifact Properties; Minor Detrimental Properties|dmg|minor detrimental} property"
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Random Properties",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While wearing the helm, you have advantage on Charisma ({@skill Deception}) and Wisdom ({@skill Insight}) checks."
+            ],
+            "name": "Master of Guile",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As a bonus action while wearing the helm, you can launch a bolt of searing elemental energy toward a creature you can see within 90 feet of yourself. The target must make a DC 20 Dexterity saving throw. On a failed save, the creature takes {@damage 4d6} acid, cold, fire, lightning, or thunder damage (your choice). On a successful save, the creature takes half as much damage."
+            ],
+            "name": "Arrow of Elemental Havoc",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The helm has 6 charges and regains {@dice 1d6} charges each dawn. As an action while wearing the helm, you can expend 1 or more of its charges to cast one of the following spells (save DC 20): {@spell elemental weapon} (1 charge), {@spell call lightning} (2 charges), {@spell wall of fire} (3 charges), {@spell conjure elemental} (4 charges), {@spell tsunami} (5 charges)."
+            ],
+            "name": "Spellcasting",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Helm of Perfect Potential",
+    "page": 112,
+    "rarity": "artifact",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d6}",
+    "reqAttune": true,
+    "source": "BGG",
+    "wondrous": true
+}

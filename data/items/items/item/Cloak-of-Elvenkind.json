@@ -1,0 +1,21 @@
+{
+    "basicRules": true,
+    "entries": [
+        "While you wear this cloak with its hood up, Wisdom ({@skill Perception}) checks made to see you have disadvantage, and you have advantage on Dexterity ({@skill Stealth}) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Cloak of Elvenkind",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 158,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

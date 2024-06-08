@@ -1,0 +1,12 @@
+{
+    "group": "supplement-alt",
+    "id": "SjA",
+    "level": {
+        "end": 4,
+        "start": 1
+    },
+    "name": "Spelljammer Academy",
+    "published": "2022-08-01",
+    "source": "SjA",
+    "storyline": "Spelljammer"
+}

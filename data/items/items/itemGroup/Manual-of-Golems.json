@@ -1,0 +1,19 @@
+{
+    "hasFluffImages": true,
+    "items": [
+        "Manual of Clay Golems",
+        "Manual of Flesh Golems",
+        "Manual of Iron Golems",
+        "Manual of Stone Golems"
+    ],
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Manual of Golems",
+    "page": 180,
+    "rarity": "very rare",
+    "source": "DMG",
+    "tier": "major",
+    "weight": 5,
+    "wondrous": true
+}

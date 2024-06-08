@@ -1,0 +1,180 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Intimidation}, {@skill Survival}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Giant and one other language of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A {@item backpack|phb}, a set of {@item traveler's clothes|phb}, a small stone or sprig that reminds you of home, and a {@item pouch|phb} containing 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "entries": [
+                "How you came to live among colossal creatures is up to you to determine, but the Foundling Origin table suggests a variety of possibilities.",
+                {
+                    "caption": "Foundling Origin",
+                    "colLabels": [
+                        "d6",
+                        "Origin"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "You were found as a baby by a family of nomadic giants who raised you as one of their own."
+                        ],
+                        [
+                            "2",
+                            "A family of stone giants rescued you when you fell into a mountain chasm, and you have lived with them underground ever since."
+                        ],
+                        [
+                            "3",
+                            "You were lost or abandoned as a child in a jungle that teemed with ravenous dinosaurs. There, you found an equally lost frost giant; together, you survived."
+                        ],
+                        [
+                            "4",
+                            "Your farm was crushed and your family killed in a battle between warring groups of giants. Racked with guilt over the destruction, a sympathetic giant soldier promised to care for you."
+                        ],
+                        [
+                            "5",
+                            "After you had a series of strange dreams as a child, your superstitious parents sent you to study with a powerful but aloof storm giant oracle."
+                        ],
+                        [
+                            "6",
+                            "While playing hide-and-seek with your friends, you stumbled into the castle of a cloud giant, who immediately adopted you."
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Origin Stories",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your life among giants has given you a unique perspective. Though you are unusually large for your kind, you're no larger than a giant child, so you might be very mindful of your size."
+            ],
+            "name": "Building a Giant Foundling Character",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You gain the {@feat Strike of the Giants|BGG} feat."
+            ],
+            "name": "Feature: Strike of the Giants",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The Giant Foundling Personality Traits table suggests a variety of traits you might adopt for your character.",
+                {
+                    "colLabels": [
+                        "d6",
+                        "Personality Trait"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "What I lack in stature compared to giants, I make up for with sheer spite."
+                        ],
+                        [
+                            "2",
+                            "I insist on being taken seriously as a full-grown adult. Nobody talks down to me!"
+                        ],
+                        [
+                            "3",
+                            "Crowded spaces make me uncomfortable. I'd much rather be in an open field than a bustling tavern."
+                        ],
+                        [
+                            "4",
+                            "I embrace my shorter stature. It helps me stay unnoticed\u2014and underestimated."
+                        ],
+                        [
+                            "5",
+                            "Every avalanche begins as a single pebble."
+                        ],
+                        [
+                            "6",
+                            "The world always feels too big, and I'm afraid I'll never find my place in it."
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        }
+    ],
+    "feats": [
+        {
+            "strike of the giants|bgg": true
+        }
+    ],
+    "fromFeature": {
+        "feats": true
+    },
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "giant": true
+        }
+    ],
+    "name": "Giant Foundling",
+    "page": 6,
+    "skillProficiencies": [
+        {
+            "intimidation": true,
+            "survival": true
+        }
+    ],
+    "source": "BGG",
+    "startingEquipment": [
+        {
+            "_": [
+                "backpack|phb",
+                "traveler's clothes|phb",
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        },
+        {
+            "a": [
+                {
+                    "special": "small stone that reminds you of home"
+                }
+            ],
+            "b": [
+                {
+                    "special": "sprig that reminds you of home"
+                }
+            ]
+        }
+    ]
+}

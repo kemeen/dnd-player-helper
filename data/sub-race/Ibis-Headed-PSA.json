@@ -1,0 +1,23 @@
+{
+    "ability": [
+        {
+            "int": 1
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You can add half your proficiency bonus, rounded down, to any Intelligence check you make that doesn't already include your proficiency bonus."
+            ],
+            "name": "Kefnet's Blessing",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Ibis-Headed",
+    "page": 16,
+    "raceName": "Aven",
+    "raceSource": "PSA",
+    "source": "PSA"
+}

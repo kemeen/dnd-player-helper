@@ -1,0 +1,12 @@
+{
+    "entries": [
+        "This unique explosive can be primed and thrown up to 30 feet as an action. It explodes on impact. Creatures within 20 feet of it must make a {@dc 12} Dexterity {@quickref saving throws|PHB|2|1|saving throw} or be {@condition restrained} for 1 minute. A {@condition restrained} creature can make a {@dc 12} Strength check as an action, escaping on a success."
+    ],
+    "name": "Gluebomb",
+    "page": 100,
+    "range": "30",
+    "rarity": "none",
+    "source": "TDCSR",
+    "type": "EXP",
+    "value": 5000
+}

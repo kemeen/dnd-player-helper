@@ -1,0 +1,24 @@
+{
+    "hasFluffImages": true,
+    "inherits": {
+        "entries": [
+            "This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be {@quickref Surprise|PHB|3|0|surprised}, except when {@condition incapacitated} by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins."
+        ],
+        "lootTables": [
+            "Magic Item Table F"
+        ],
+        "nameSuffix": " of Warning",
+        "page": 213,
+        "rarity": "uncommon",
+        "reqAttune": true,
+        "source": "DMG",
+        "tier": "major"
+    },
+    "name": "Weapon of Warning",
+    "requires": [
+        {
+            "weapon": true
+        }
+    ],
+    "type": "GV"
+}

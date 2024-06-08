@@ -1,0 +1,50 @@
+{
+    "ability": [
+        {
+            "int": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "cha",
+            "known": {
+                "1": {
+                    "rest": {
+                        "1": [
+                            "misty step"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+            ],
+            "name": "Elf Weapon Training",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell misty step} spell once using this trait. You regain the ability to do so when you finish a short or long rest."
+            ],
+            "name": "Fey Step",
+            "type": "entries"
+        }
+    ],
+    "name": "Eladrin",
+    "page": 286,
+    "raceName": "Elf",
+    "raceSource": "PHB",
+    "source": "DMG",
+    "weaponProficiencies": [
+        {
+            "longbow|phb": true,
+            "longsword|phb": true,
+            "shortbow|phb": true,
+            "shortsword|phb": true
+        }
+    ]
+}

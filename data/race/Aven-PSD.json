@@ -1,0 +1,79 @@
+{
+    "ability": [
+        {
+            "dex": 2,
+            "wis": 2
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "entries": [
+        {
+            "entries": [
+                "Like humans, aven reach adulthood in their late teens and can live into their 80s."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Aven are inclined toward the lawful good alignment of the Church of Serra"
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Aven stand from 5 to 6 feet tall, but their bodies are slender and their bones are partially hollow to facilitate their flight. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have a flying speed of 30 feet. You can't use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for {@variantrule encumbrance|PHB}, you can't use your flying speed if you are encumbered.) "
+            ],
+            "name": "Flight",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and {@language Aven|PSD}."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Perception} skill. In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls."
+            ],
+            "name": "Hawkeyed",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Aven",
+    "page": 6,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "perception": true
+        }
+    ],
+    "source": "PSD",
+    "speed": {
+        "fly": 30,
+        "walk": 25
+    }
+}

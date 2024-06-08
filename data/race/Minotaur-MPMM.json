@@ -1,0 +1,45 @@
+{
+    "entries": [
+        {
+            "entries": [
+                "You have horns that you can use to make unarmed strikes. When you hit with them, the strike deals {@damage 1d6} + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike."
+            ],
+            "name": "Horns",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Immediately after you take the {@action Dash} action on your turn and move at least 20 feet, you can make one melee attack with your Horns as a bonus action."
+            ],
+            "name": "Goring Rush",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Immediately after you hit a creature with a melee attack as part of the {@action Attack} action on your turn, you can use a bonus action to attempt to push that target with your horns. The target must be within 5 feet of you and no more than one size larger than you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you can push it up to 10 feet away from you."
+            ],
+            "name": "Hammering Horns",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You always know which direction is north, and you have advantage on any Wisdom ({@skill Survival}) check you make to navigate or track."
+            ],
+            "name": "Labyrinthine Recall",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Minotaur",
+    "page": 27,
+    "size": [
+        "M"
+    ],
+    "source": "MPMM",
+    "speed": 30,
+    "traitTags": [
+        "Natural Weapon"
+    ]
+}

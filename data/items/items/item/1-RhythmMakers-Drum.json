@@ -1,0 +1,21 @@
+{
+    "bonusSpellAttack": "+1",
+    "bonusSpellSaveDc": "+1",
+    "entries": [
+        "While holding this {@item drum|PHB}, you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your bard spells.",
+        "As an action, you can play the {@item drum|PHB} to regain one use of your Bardic Inspiration feature. This property of the {@item drum|PHB} can't be used again until the next dawn."
+    ],
+    "name": "+1 Rhythm-Maker's Drum",
+    "page": 134,
+    "rarity": "uncommon",
+    "reqAttune": "by a bard",
+    "reqAttuneTags": [
+        {
+            "class": "bard"
+        }
+    ],
+    "source": "TCE",
+    "type": "INS",
+    "weight": 3,
+    "wondrous": true
+}

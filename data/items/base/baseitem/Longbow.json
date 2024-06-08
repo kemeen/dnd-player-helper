@@ -1,0 +1,23 @@
+{
+    "ammoType": "arrow|phb",
+    "basicRules": true,
+    "bow": true,
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "name": "Longbow",
+    "page": 149,
+    "property": [
+        "A",
+        "H",
+        "2H"
+    ],
+    "range": "150/600",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "R",
+    "value": 5000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 2
+}

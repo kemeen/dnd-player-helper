@@ -1,0 +1,49 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "count": 2,
+                "from": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        }
+    ],
+    "basicRules": true,
+    "entries": [
+        {
+            "entries": [
+                "You gain proficiency in one skill of your choice."
+            ],
+            "name": "Skills",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain one {@5etools feat|feats.html} of your choice."
+            ],
+            "name": "Feat",
+            "type": "entries"
+        }
+    ],
+    "feats": [
+        {
+            "any": 1
+        }
+    ],
+    "name": "Variant",
+    "page": 31,
+    "raceName": "Human",
+    "raceSource": "PHB",
+    "skillProficiencies": [
+        {
+            "any": 1
+        }
+    ],
+    "source": "PHB"
+}

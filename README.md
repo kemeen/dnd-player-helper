@@ -173,9 +173,21 @@ erDiagram
         int speed_in_feet_pre_round
     }
 
-    RaceDescriptions {
+    RaceDescription {
         int race_id PK, FK
         string description
+    }
+
+    RaceDescriptionTableEntry{
+        string entry_type
+        string entry
+        int column_id
+        int row_id
+    }
+
+    RaceDescriptionListEntry{
+        string name
+        string entry
     }
 
     RaceLanguageProficiency {
@@ -216,12 +228,14 @@ erDiagram
     Race ||--|{ RaceSpeed: has
     Race ||--|{ RaceLanguageProficiency: speaks
     Race ||--o{ SubRace: has
-    Race ||--o{ RaceDescriptions: has
+    Race ||--o{ RaceDescription: has
     Race ||--o{ RaceAge: has
     Race ||--o{ RaceWeaponProficiency: has
     Race ||--o{ RaceTraitTag: has
     Race ||--o{ RaceResistance: has
     Race ||--o{ RaceAbilityModifier: has
+    RaceDescription ||--o{ RaceDescriptionListEntry: "may have"
+    RaceDescription ||--o{ RaceDescriptionTableEntry: "may have"
     
     SubRace ||--o{ SubRaceModifications: has
 
@@ -233,3 +247,72 @@ erDiagram
 ```
 For some of the relations the data structure might change in the future. An example is the Race - Weapon Proficiency relation where the weapon is currently just a name. This can become a foreign key to a weapons table in the future. But the Weapon Proficency table does not have to change for this, other than weapon becoming a foreign key.
 If possible ,the primary key in every table is choosen from natural keys, if a unique natural keys exists. This was not possible for the race however since races sometimes have different definitions in different sources. Instead of defining a composite key from (race_name, source), a surrogate key (race_id) is used. 
+
+## Background Data Structure
+
+```mermaid
+---
+title: DnD Data Relations
+---
+erDiagram
+    Background {
+        bool basic_rules
+        string name
+        string source
+        bool srd
+    }
+
+    AdditionalSpells {
+    }
+
+    Entries {
+    }
+
+    Feats {
+    }
+
+    LanguageProficiencies {
+    }
+
+    LanguageProficiencyChoices {
+
+    }
+
+    SkillProficiencies {
+    }
+
+    ProficiencyChoices {
+    }
+
+    StartingEquipment{
+    }
+
+    ToolProficiencies {
+    }
+
+    WeaponProficiencies {
+    }
+
+
+    Background }o--o{ AdditionalSpells: "may have"
+    Background ||--o{ Entries: "may have"
+    Background }o--o{ Feats:"may have"
+    Background }o--o{ LanguageProficiencies:"may have"
+    Background ||--o{ LanguageProficiencyChoices:"may have"
+    Background }o--o{ ClassPrerequisites:"may have"
+    Background }o--o{ CampaignPrerequisites:"may have"
+    Background }o--o{ SkillProficiencies:"may have"
+    Background ||--o{ SkillProficiencyChoices:"may have"
+    Background ||--o{ ProficiencyChoices:"may have"
+    Background ||--o{ StartingEquipment:"may have"
+    Background ||--o{ StartingEquipmentChoices:"may have"
+    Background }o--o{ ToolProficiencies:"may have"
+    Background ||--o{ ToolProficiencyChoices:"may have"
+    Background }o--o{ WeaponProficiencies:"may have"
+
+    LanguageProficiencyChoices }o--o{ LanguageProficiencies:"may have"
+    SkillProficiencyChoices }o--o{ SkillProficiencies:"may have"
+    StartingEquipmentChoices ||--o{ StartingEquipment:"may have"
+    ToolProficiencyChoices }o--o{ ToolProficiencies:"may have"
+
+```

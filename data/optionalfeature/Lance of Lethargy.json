@@ -1,0 +1,18 @@
+{
+    "entries": [
+        "Once on each of your turns when you hit a creature with your {@spell eldritch blast}, you can reduce that creature's speed by 10 feet until the end of your next turn."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Lance of Lethargy",
+    "page": 57,
+    "prerequisite": [
+        {
+            "spell": [
+                "eldritch blast#c"
+            ]
+        }
+    ],
+    "source": "XGE"
+}

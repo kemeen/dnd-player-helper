@@ -1,0 +1,22 @@
+{
+    "attachedSpells": [
+        "levitate"
+    ],
+    "entries": [
+        "While you wear these boots, you can use an action to cast the {@spell levitate} spell on yourself at will."
+    ],
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Boots of Levitation",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 155,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

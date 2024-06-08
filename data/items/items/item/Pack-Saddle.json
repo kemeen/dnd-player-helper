@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Pack Saddle",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "TAH",
+    "value": 500,
+    "weight": 15
+}

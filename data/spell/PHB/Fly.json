@@ -1,0 +1,57 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "m": "a wing feather from any bird",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 3,
+    "name": "Fly",
+    "otherSources": [
+        {
+            "page": 54,
+            "source": "RMR"
+        }
+    ],
+    "page": 243,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

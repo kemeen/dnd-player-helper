@@ -1,0 +1,27 @@
+{
+    "inherits": {
+        "barding": true,
+        "basicRules": true,
+        "entries": [
+            "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+        ],
+        "nameRemove": " Armor",
+        "nameSuffix": " Barding",
+        "page": 157,
+        "rarity": "none",
+        "source": "PHB",
+        "srd": true,
+        "type": "TAH",
+        "valueExpression": "[[baseItem.value]] * 4",
+        "valueMult": 4,
+        "weightExpression": "[[baseItem.weight]] * 2",
+        "weightMult": 2
+    },
+    "name": "Barding",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

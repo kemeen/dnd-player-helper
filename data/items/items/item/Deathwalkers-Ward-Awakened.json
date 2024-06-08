@@ -1,0 +1,47 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Deathwalker's Ward reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The AC bonus of the armor increases to +2.",
+                                            "While wearing the armor, you have resistance to one of the following damage types of your choice: acid, cold, fire, lightning, necrotic, or poison. You can change the damage type when you finish a {@quickref resting|PHB|2|0|short rest}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Deathwalker's Ward (Dormant)",
+        "source": "TDCSR"
+    },
+    "bonusWeapon": "+2",
+    "hasFluffImages": true,
+    "name": "Deathwalker's Ward (Awakened)",
+    "resist": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "necrotic",
+        "poison"
+    ],
+    "source": "TDCSR"
+}

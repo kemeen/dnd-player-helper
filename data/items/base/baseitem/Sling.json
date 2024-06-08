@@ -1,0 +1,19 @@
+{
+    "ammoType": "sling bullet|phb",
+    "basicRules": true,
+    "dmg1": "1d4",
+    "dmgType": "B",
+    "name": "Sling",
+    "page": 149,
+    "property": [
+        "A"
+    ],
+    "range": "30/120",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "R",
+    "value": 10,
+    "weapon": true,
+    "weaponCategory": "simple"
+}

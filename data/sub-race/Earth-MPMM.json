@@ -1,0 +1,48 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "innate": {
+                "5": [
+                    "pass without trace"
+                ]
+            },
+            "known": {
+                "1": [
+                    "blade ward#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You can move across {@quickref difficult terrain||3} without expending extra movement if you are using your walking speed on the ground or a floor."
+            ],
+            "name": "Earth Walk",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell blade ward} cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.",
+                "Starting at 5th level, you can cast the {@spell pass without trace} spell with this trait, without requiring a material component. Once you cast that spell with this trait, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.",
+                "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+            ],
+            "name": "Merge with Stone",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Earth",
+    "page": 17,
+    "raceName": "Genasi",
+    "raceSource": "MPMM",
+    "source": "MPMM"
+}

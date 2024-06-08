@@ -1,0 +1,80 @@
+{
+    "_copy": {
+        "_preserve": {
+            "page": true
+        },
+        "name": "Stirring Dragon-Touched Focus",
+        "source": "FTD"
+    },
+    "attachedSpells": [
+        "hold monster",
+        "rime's binding ice|ftd",
+        "rary's telepathic bond",
+        "raulothim's psychic lance|ftd",
+        "fizban's platinum shield|ftd",
+        "legend lore"
+    ],
+    "entries": [
+        "This wondrous item can be a scepter, an orb, an amulet, a crystal, or another finely crafted object. It typically incorporates imagery of dragons' wings, claws, teeth, or scales.",
+        "You have advantage on initiative rolls. While you are holding the focus, it can function as a spellcasting focus for all your spells.",
+        "The focus gains an additional property determined by the family of the dragon in whose hoard it became Stirring:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "Whenever you use a spell slot to cast a spell that deals acid, cold, fire, lightning, or poison damage, roll a {@dice d6}, and you gain a bonus equal to the number rolled to one of the spell's damage rolls."
+                    ],
+                    "name": "Chromatic",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "Whenever you use a spell slot to cast a spell, you can immediately teleport to an unoccupied space you can see within 15 feet of you."
+                    ],
+                    "name": "Gem",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "When a creature you can see within 30 feet of you makes a saving throw, you can use your reaction to give that creature advantage on the saving throw."
+                    ],
+                    "name": "Metallic",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        "While you are holding a Wakened focus, you can use it to cast certain spells. Once the item is used to cast a given spell, it can't be used to cast that spell again until the next dawn. The spells are determined by the family of the dragon in whose hoard it became Wakened.",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "{@spell Hold monster}, {@spell Rime's binding ice|FTD}"
+                    ],
+                    "name": "Chromatic",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "{@spell Rary's telepathic bond}, {@spell Raulothim's psychic lance|FTD}"
+                    ],
+                    "name": "Gem",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "{@spell Fizban's platinum shield|FTD}, {@spell legend lore}"
+                    ],
+                    "name": "Metallic",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "name": "Wakened Dragon-Touched Focus",
+    "rarity": "very rare",
+    "source": "FTD"
+}

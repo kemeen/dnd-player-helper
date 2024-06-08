@@ -1,0 +1,57 @@
+{
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageImmune": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "thunder"
+    ],
+    "damageResist": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "thunder"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You have resistance to acid, cold, fire, lightning, and thunder damage for the spell's duration.",
+        "When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends."
+    ],
+    "level": 6,
+    "name": "Primordial Ward",
+    "otherSources": [
+        {
+            "page": 21,
+            "source": "EEPC"
+        }
+    ],
+    "page": 163,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

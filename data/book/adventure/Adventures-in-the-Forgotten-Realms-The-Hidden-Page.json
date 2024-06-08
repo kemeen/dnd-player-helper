@@ -1,0 +1,14 @@
+{
+    "group": "supplement-alt",
+    "id": "AitFR-THP",
+    "level": {
+        "end": 9,
+        "start": 8
+    },
+    "name": "Adventures in the Forgotten Realms: The Hidden Page",
+    "parentName": "Adventures in the Forgotten Realms",
+    "parentSource": "AitFR",
+    "published": "2021-07-07",
+    "source": "AitFR-THP",
+    "storyline": "Adventures in the Forgotten Realms"
+}

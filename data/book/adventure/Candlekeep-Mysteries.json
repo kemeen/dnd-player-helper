@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "CM",
+    "level": {
+        "end": 16,
+        "start": 1
+    },
+    "name": "Candlekeep Mysteries",
+    "published": "2021-03-16",
+    "source": "CM",
+    "storyline": "Candlekeep Mysteries"
+}

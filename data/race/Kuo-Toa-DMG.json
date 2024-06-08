@@ -1,0 +1,67 @@
+{
+    "darkvision": 120,
+    "entries": [
+        {
+            "entries": [
+                "You can breathe air and water."
+            ],
+            "name": "Amphibious",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can sense the presence of any creature within 30 feet of you that is {@condition invisible} or on the Ethereal Plane. You can pinpoint such a creature that is moving."
+            ],
+            "name": "Otherworldly Perception",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on ability checks and saving throws made to escape a grapple."
+            ],
+            "name": "Slippery",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on sight."
+            ],
+            "name": "Sunlight Sensitivity",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Superior Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Undercommon."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "undercommon": true
+        }
+    ],
+    "name": "Kuo-Toa",
+    "page": 282,
+    "size": [
+        "M"
+    ],
+    "source": "DMG",
+    "speed": {
+        "swim": 30,
+        "walk": 30
+    },
+    "traitTags": [
+        "Amphibious",
+        "NPC Race",
+        "Sunlight Sensitivity"
+    ]
+}

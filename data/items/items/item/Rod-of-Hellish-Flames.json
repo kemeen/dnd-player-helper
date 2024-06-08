@@ -1,0 +1,51 @@
+{
+    "attachedSpells": [
+        "hellish rebuke"
+    ],
+    "entries": [
+        "Glowing cinders orbit the flanged head of this black iron rod.",
+        "This rod can be used as an arcane focus. While holding this rod, you gain the following benefits:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "You have resistance to fire and necrotic damage."
+                    ],
+                    "name": "Hellish Resistance",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "You can cast the {@spell Hellish Rebuke} spell as a 4th-level spell (save DC 16) from the rod. Once you use the rod to cast the spell, the rod can't cast the spell again until the next dawn."
+                    ],
+                    "name": "Searing Rebuke",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "Whenever you cast a spell that deals fire or necrotic damage, you can use the rod to deal the maximum damage instead of rolling. Once this property is used, it can't be used again until the next dawn."
+                    ],
+                    "name": "Surge of Brimstone",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "name": "Rod of Hellish Flames",
+    "page": 37,
+    "rarity": "very rare",
+    "reqAttune": "by a spellcaster",
+    "reqAttuneTags": [
+        {
+            "spellcasting": true
+        }
+    ],
+    "resist": [
+        "fire",
+        "necrotic"
+    ],
+    "source": "BMT",
+    "type": "RD"
+}

@@ -1,0 +1,66 @@
+{
+    "areaTags": [
+        "C",
+        "S"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "blinded"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "Choose an area of nonmagical flame that you can see and that fits within a 5-foot cube within range. You can extinguish the fire in that area, and you create either fireworks or smoke when you do so.",
+        {
+            "entries": [
+                "The target explodes with a dazzling display of colors. Each creature within 10 feet of the target must succeed on a Constitution saving throw or become {@condition blinded} until the end of your next turn."
+            ],
+            "name": "Fireworks",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Thick black smoke spreads out from the target in a 20-foot radius, moving around corners. The area of the smoke is heavily obscured. The smoke persists for 1 minute or until a strong wind disperses it."
+            ],
+            "name": "Smoke",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "miscTags": [
+        "OBS",
+        "SGT"
+    ],
+    "name": "Pyrotechnics",
+    "otherSources": [
+        {
+            "page": 21,
+            "source": "EEPC"
+        }
+    ],
+    "page": 163,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "school": "T",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

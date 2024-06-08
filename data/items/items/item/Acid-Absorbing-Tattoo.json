@@ -1,0 +1,17 @@
+{
+    "detail1": "green",
+    "entries": [
+        "{#itemEntry Absorbing Tattoo|TCE}"
+    ],
+    "hasRefs": true,
+    "name": "Acid Absorbing Tattoo",
+    "page": 119,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "resist": [
+        "acid"
+    ],
+    "source": "TCE",
+    "tattoo": true,
+    "wondrous": true
+}

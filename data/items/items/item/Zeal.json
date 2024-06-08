@@ -1,0 +1,12 @@
+{
+    "entries": [
+        "Distilled from the ichor of demons, {@item zeal|TDCSR} was originally used by Tal'Dorei's ancient berserkers to grant them incredible strength and courage before battles. These days, it's most commonly used by criminal bruisers before a brawl. Most modern warriors stay well away from {@item zeal|TDCSR}, due both to its addictive nature and to the mental and physical degeneration it can cause over long periods of time. When prepared properly, {@item zeal|TDCSR} is a purple, ashy-tasting gel that typically costs 150 gp per dose.",
+        "After slathering {@item zeal|TDCSR} across your exposed skin as an action, you must make a {@dc 12} Constitution {@quickref saving throws|PHB|2|1|saving throw}. On a failure, you become {@condition paralyzed} for {@dice 1d4} rounds as your muscles lock up. On a success, your weapon attacks deal an additional {@damage 1d6} damage for the next minute. After this effect ends, you gain one level of {@condition exhaustion}."
+    ],
+    "name": "Zeal",
+    "page": 85,
+    "rarity": "unknown",
+    "source": "TDCSR",
+    "type": "IDG",
+    "value": 15000
+}

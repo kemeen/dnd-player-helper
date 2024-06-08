@@ -1,0 +1,26 @@
+{
+    "hasFluffImages": true,
+    "inherits": {
+        "entries": [
+            "When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.",
+            "{@note Note: According to the SRD, it is an extra {@dice 3d6} necrotic damage, although {@link this is incorrect|https://rpg.stackexchange.com/a/174522/53884}.}"
+        ],
+        "lootTables": [
+            "Magic Item Table G"
+        ],
+        "nameSuffix": " of Life Stealing",
+        "page": 206,
+        "rarity": "rare",
+        "reqAttune": true,
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "Sword of Life Stealing",
+    "requires": [
+        {
+            "sword": true
+        }
+    ],
+    "type": "GV"
+}

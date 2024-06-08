@@ -1,0 +1,22 @@
+{
+    "attachedSpells": [
+        "disguise self"
+    ],
+    "entries": [
+        "While wearing this hat, you can use an action to cast the {@spell disguise self} spell from it at will. The spell ends if the hat is removed."
+    ],
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Hat of Disguise",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 173,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

@@ -1,0 +1,10 @@
+{
+    "_copy": {
+        "abbreviation": "SHP",
+        "source": "DMG"
+    },
+    "abbreviation": "AIR",
+    "name": "Vehicle (Air)",
+    "page": 119,
+    "source": "DMG"
+}

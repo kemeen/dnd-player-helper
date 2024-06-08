@@ -1,0 +1,16 @@
+{
+    "items": [
+        "Spellwrought Tattoo (Cantrip)|TCE",
+        "Spellwrought Tattoo (1st Level)|TCE",
+        "Spellwrought Tattoo (2nd Level)|TCE",
+        "Spellwrought Tattoo (3rd Level)|TCE",
+        "Spellwrought Tattoo (4th Level)|TCE",
+        "Spellwrought Tattoo (5th Level)|TCE"
+    ],
+    "name": "Spellwrought Tattoo",
+    "page": 135,
+    "rarity": "varies",
+    "source": "TCE",
+    "tattoo": true,
+    "wondrous": true
+}

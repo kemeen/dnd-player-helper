@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "detail1": "topaz",
+    "entries": [
+        "{#itemEntry Ring of Resistance}"
+    ],
+    "hasRefs": true,
+    "name": "Ring of Radiant Resistance",
+    "page": 192,
+    "rarity": "rare",
+    "reqAttune": true,
+    "resist": [
+        "radiant"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

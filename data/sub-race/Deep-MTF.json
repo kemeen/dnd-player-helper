@@ -1,0 +1,89 @@
+{
+    "ability": [
+        {
+            "dex": 1
+        }
+    ],
+    "age": {
+        "mature": 25,
+        "max": 250
+    },
+    "darkvision": 120,
+    "entries": [
+        {
+            "data": {
+                "overwrite": "Age"
+            },
+            "entries": [
+                "Deep gnomes are short-lived for gnomes. They mature at the same rate humans do and are considered full-grown adults by 25. They live 200 to 250 years, although hard toil and the dangers of the Underdark often claim them before their time."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Size"
+            },
+            "entries": [
+                "Unlike other gnomes, svirfneblin tend to weigh 80 to 120 pounds. Your size is Small."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Alignment"
+            },
+            "entries": [
+                "Svirfneblin believe that survival depends on avoiding entanglements with other creatures and not making enemies, so they favor neutral alignments. They rarely wish others ill, and they are unlikely to take risks on behalf of others, except those dearest to them."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Darkvision"
+            },
+            "entries": [
+                "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Superior Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on Dexterity ({@skill Stealth}) checks to hide in rocky terrain."
+            ],
+            "name": "Stone Camouflage",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Languages"
+            },
+            "entries": [
+                "You can speak, read, and write Common, Gnomish, and Undercommon."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "common": true,
+            "gnomish": true,
+            "undercommon": true
+        }
+    ],
+    "name": "Deep",
+    "overwrite": {
+        "languageProficiencies": true
+    },
+    "page": 113,
+    "raceName": "Gnome",
+    "raceSource": "PHB",
+    "reprintedAs": [
+        "Deep Gnome|MPMM"
+    ],
+    "source": "MTF"
+}

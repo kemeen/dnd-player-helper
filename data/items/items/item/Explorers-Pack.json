@@ -1,0 +1,43 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Includes:",
+        {
+            "items": [
+                "a {@item backpack|phb}",
+                "a {@item bedroll|phb}",
+                "a {@item mess kit|phb}",
+                "a {@item tinderbox|phb}",
+                "10 {@item torch|phb|torches}",
+                "10 days of {@item Rations (1 day)|phb|rations}",
+                "a {@item waterskin|phb}",
+                "{@item Hempen Rope (50 feet)|phb|50 feet of hempen rope}"
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Explorer's Pack",
+    "packContents": [
+        "backpack|phb",
+        "bedroll|phb",
+        "mess kit|phb",
+        "tinderbox|phb",
+        {
+            "item": "torch|phb",
+            "quantity": 10
+        },
+        {
+            "item": "rations (1 day)|phb",
+            "quantity": 10
+        },
+        "waterskin|phb",
+        "hempen rope (50 feet)|phb"
+    ],
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 1000,
+    "weight": 59
+}

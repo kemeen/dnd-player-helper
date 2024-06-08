@@ -1,0 +1,22 @@
+{
+    "baseItem": "greataxe|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d12",
+    "dmgType": "S",
+    "entries": [
+        "Carvings of decapitated mind flayers adorn this greataxe's metal blade. You gain a +1 bonus to attack and damage rolls made with this greataxe.",
+        "An Aberration hit with this greataxe takes an extra {@damage 1d12} slashing damage. If the Aberration is currently grappling a creature, the Aberration must succeed on a DC 15 Strength saving throw or release each creature it is grappling."
+    ],
+    "name": "Flayer Slayer",
+    "page": 217,
+    "property": [
+        "H",
+        "2H"
+    ],
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "PaBTSO",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 7
+}

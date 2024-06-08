@@ -1,0 +1,18 @@
+{
+    "basicRules": true,
+    "entries": [
+        "This glass jar, 3 inches in diameter, contains {@dice 1d4 + 1} doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh \u00bd pound.",
+        "As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains {@dice 2d8 + 2} hit points, ceases to be {@condition poisoned}, and is cured of any disease."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table B"
+    ],
+    "name": "Keoghtom's Ointment",
+    "page": 179,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": "Restorative Ointment",
+    "tier": "minor",
+    "wondrous": true
+}

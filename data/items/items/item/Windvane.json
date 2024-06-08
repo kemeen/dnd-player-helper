@@ -1,0 +1,62 @@
+{
+    "attachedSpells": [
+        "dominate monster"
+    ],
+    "baseItem": "spear|phb",
+    "bonusWeapon": "+2",
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "A silver spear, Windvane has dark sapphires on the filigreed surface of its polished head. Held by its shining haft, the weapon feels insubstantial, as if clutching a cool, gently flowing breeze. The spear contains a spark of {@creature Yan-C-Bin|PotA}, the Prince of Evil Air.",
+        "You have a +2 bonus to attack and damage rolls made with this magic weapon, which has the finesse weapon property. When you hit with it, the target takes an extra {@damage 1d6} lightning damage.",
+        {
+            "entries": [
+                "You gain the following benefits while you hold Windvane:"
+            ],
+            "name": "Air Mastery",
+            "type": "entries"
+        },
+        {
+            "items": [
+                "You can speak Auran fluently.",
+                "You have resistance to lightning damage.",
+                "You can cast {@spell dominate monster} (save DC 17) on an {@creature air elemental}. Once you have done so, Windvane can't be used this way again until the next dawn."
+            ],
+            "type": "list"
+        },
+        {
+            "entries": [
+                "While inside an air node, you can perform a ritual called the Song of the Four Winds, using Windvane to create a {@item devastation orb of air|PotA}. Once you perform the ritual, Windvane can't be used to perform the ritual again until the next dawn."
+            ],
+            "name": "Song of the Four Winds",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Windvane makes its wielder mercurial and unreliable. While attuned to the weapon, you gain the following flaw: \"I break my vows and plans. Duty and honor mean nothing to me.\""
+            ],
+            "name": "Flaw",
+            "type": "entries"
+        }
+    ],
+    "grantsLanguage": true,
+    "hasFluffImages": true,
+    "name": "Windvane",
+    "page": 224,
+    "property": [
+        "T",
+        "V",
+        "F"
+    ],
+    "range": "20/60",
+    "rarity": "legendary",
+    "reqAttune": true,
+    "resist": [
+        "lightning"
+    ],
+    "source": "PotA",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 3
+}

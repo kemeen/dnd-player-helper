@@ -1,0 +1,23 @@
+{
+    "age": "modern",
+    "ammoType": "modern bullet",
+    "dmg1": "2d8",
+    "dmgType": "P",
+    "firearm": true,
+    "name": "Automatic Rifle",
+    "page": 268,
+    "property": [
+        "AF",
+        "BF",
+        "RLD",
+        "2H"
+    ],
+    "range": "80/240",
+    "rarity": "none",
+    "reload": 30,
+    "source": "DMG",
+    "type": "R",
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 8
+}

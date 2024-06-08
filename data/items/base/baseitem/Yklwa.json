@@ -1,0 +1,20 @@
+{
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "A yklwa (pronounced YICK-ul-wah) is a simple melee weapon that is the traditional weapon of Chultan warriors. A yklwa consists of a 3-foot wooden shaft with a steel or stone blade up to 18 inches long. Although it has the thrown weapon property, the yklwa is not well balanced for throwing."
+    ],
+    "name": "Yklwa",
+    "page": 32,
+    "property": [
+        "T"
+    ],
+    "range": "10/30",
+    "rarity": "none",
+    "source": "ToA",
+    "type": "M",
+    "value": 100,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 3
+}

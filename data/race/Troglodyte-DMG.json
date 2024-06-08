@@ -1,0 +1,72 @@
+{
+    "ability": [
+        {
+            "cha": -4,
+            "con": 2,
+            "int": -4,
+            "str": 2
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You have advantage on Dexterity ({@skill Stealth}) checks made to hide."
+            ],
+            "name": "Chameleon Skin",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be {@condition poisoned} until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour."
+            ],
+            "name": "Stench",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on sight."
+            ],
+            "name": "Sunlight Sensitivity",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your thick hide grants you a +1 bonus to Armor Class."
+            ],
+            "name": "Natural Armor",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Troglodyte."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "other": true
+        }
+    ],
+    "name": "Troglodyte",
+    "page": 282,
+    "size": [
+        "M"
+    ],
+    "source": "DMG",
+    "speed": 30,
+    "traitTags": [
+        "Natural Armor",
+        "NPC Race",
+        "Sunlight Sensitivity"
+    ]
+}

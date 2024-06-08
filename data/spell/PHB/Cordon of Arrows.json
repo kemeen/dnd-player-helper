@@ -1,0 +1,56 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "m": "four or more arrows or bolts",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "piercing"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 8,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You plant four pieces of nonmagical ammunition\u2014{@item arrow|phb|arrows} or {@item crossbow bolt|phb|crossbow bolts}\u2014in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take {@damage 1d6} piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains.",
+        "When you cast this spell, you can designate any creatures you choose, and the spell ignores them."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "name": "Cordon of Arrows",
+    "page": 228,
+    "range": {
+        "distance": {
+            "amount": 5,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "T",
+    "source": "PHB",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

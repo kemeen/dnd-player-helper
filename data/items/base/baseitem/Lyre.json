@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Lyre",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "INS",
+    "value": 3000,
+    "weight": 2
+}

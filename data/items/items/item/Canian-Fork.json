@@ -1,0 +1,39 @@
+{
+    "baseItem": "trident|PHB",
+    "bonusWeapon": "+3",
+    "curse": true,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "You have a +3 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one additional attack with it as a bonus action on each of your turns.",
+        {
+            "entries": [
+                "You're unwilling to part with this weapon while attuned to it. You're also vulnerable to radiant damage and each time you receive magical healing, you must make a DC 15 Constitution saving throw.",
+                "On a failed save, the healing has no effect. Only the {@spell Remove Curse} spell allows you to end attunement to this item."
+            ],
+            "name": "Curse",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "This item corrupts. See the \"{@adventure Infernal Item Corruption|CoA|16|Infernal Item Corruption}\" section."
+            ],
+            "name": "Corrupting",
+            "type": "entries"
+        }
+    ],
+    "name": "Canian Fork",
+    "page": 267,
+    "property": [
+        "T",
+        "V"
+    ],
+    "range": "20/60",
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "CoA",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 4
+}

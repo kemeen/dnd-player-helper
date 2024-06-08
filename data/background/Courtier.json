@@ -1,0 +1,69 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Insight}, {@skill Persuasion}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Any two of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A set of {@item fine clothes|phb} and a {@item pouch|phb} containing 5 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "Your knowledge of how bureaucracies function lets you gain access to the records and inner workings of any noble court or government you encounter. You know who the movers and shakers are, whom to go to for the favors you seek, and what the current intrigues of interest in the group are."
+            ],
+            "name": "Feature: Court Functionary",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Use the tables for the {@background guild artisan} background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a courtier.",
+                "The noble court or bureaucratic organization where you got your start is directly or indirectly associated with your bond (which could pertain to certain individuals in the group, such as your sponsor or mentor). Your ideal might be concerned with the prevailing philosophy of your court or organization."
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 2
+        }
+    ],
+    "name": "Courtier",
+    "page": 146,
+    "skillProficiencies": [
+        {
+            "insight": true,
+            "persuasion": true
+        }
+    ],
+    "source": "SCAG",
+    "startingEquipment": [
+        {
+            "_": [
+                "fine clothes|phb",
+                {
+                    "containsValue": 500,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ]
+}

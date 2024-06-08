@@ -1,0 +1,21 @@
+{
+    "basicRules": true,
+    "dmg1": "1d10",
+    "dmgType": "S",
+    "name": "Glaive",
+    "page": 149,
+    "polearm": true,
+    "property": [
+        "H",
+        "R",
+        "2H"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 2000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 6
+}

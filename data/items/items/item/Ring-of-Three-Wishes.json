@@ -1,0 +1,19 @@
+{
+    "attachedSpells": [
+        "wish"
+    ],
+    "entries": [
+        "While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the {@spell wish} spell from it. The ring becomes nonmagical when you use the last charge."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table I"
+    ],
+    "name": "Ring of Three Wishes",
+    "page": 193,
+    "rarity": "legendary",
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

@@ -1,0 +1,60 @@
+{
+    "entries": [
+        "This magic rose comes in one of five colors, as noted in the Chromatic Roses table. While a rose is held, it gains a harmless visual effect as indicated on the table.",
+        "While holding the rose by its stem, you gain resistance to damage of the type associated with the rose's color. If you would take more than 10 damage of this type from a single source (after applying the resistance), the rose disintegrates, and you take no damage instead.",
+        "As an action, you can blow the petals from the rose to produce a 20-foot cone of acid, lightning, poisonous gas, fire, or cold, as dictated by the rose's damage type. Each creature in the cone must make a DC 15 Constitution saving throw, taking {@damage 3d10} damage of the appropriate type on a failed save, or half as much damage on a successful one. Using this property destroys the rose.",
+        {
+            "caption": "Chromatic Roses",
+            "colLabels": [
+                "Color",
+                "Visual Effect",
+                "Damage Type"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-7 text-center",
+                "col-3 text-center"
+            ],
+            "rows": [
+                [
+                    "{@item Black Chromatic Rose|WBtW|Black}",
+                    "Drips acid",
+                    "Acid"
+                ],
+                [
+                    "{@item Blue Chromatic Rose|WBtW|Blue}",
+                    "Crackles with lightning",
+                    "Lightning"
+                ],
+                [
+                    "{@item Green Chromatic Rose|WBtW|Green}",
+                    "Issues green gas",
+                    "Poison"
+                ],
+                [
+                    "{@item Red Chromatic Rose|WBtW|Red}",
+                    "Wreathed in fire",
+                    "Fire"
+                ],
+                [
+                    "{@item White Chromatic Rose|WBtW|White}",
+                    "Covered in frost",
+                    "Cold"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "items": [
+        "Black Chromatic Rose|WBtW",
+        "Blue Chromatic Rose|WBtW",
+        "Green Chromatic Rose|WBtW",
+        "Red Chromatic Rose|WBtW",
+        "White Chromatic Rose|WBtW"
+    ],
+    "name": "Chromatic Rose",
+    "page": 208,
+    "rarity": "rare",
+    "source": "WBtW",
+    "wondrous": true
+}

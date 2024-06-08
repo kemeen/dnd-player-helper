@@ -1,0 +1,34 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "When the dagger reaches an exalted state, it gains the following properties:",
+                        {
+                            "items": [
+                                "The weapon's bonus to attack and damage rolls increases to +3.",
+                                "The saving throw DC for spells cast from the dagger increases to 17.",
+                                "While holding the dagger, you can turn {@condition invisible} as an action. Anything you are wearing or carrying is {@condition invisible} with you. You remain {@condition invisible} until you stop holding the dagger, until you attack or cast a spell that forces a creature to make a saving throw, or until you use a bonus action to become visible again."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Exalted",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Blade of Broken Mirrors (Awakened)",
+        "source": "EGW"
+    },
+    "bonusWeapon": "+3",
+    "name": "Blade of Broken Mirrors (Exalted)",
+    "source": "EGW"
+}

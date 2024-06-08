@@ -1,0 +1,40 @@
+{
+    "conditionImmune": [
+        "poisoned"
+    ],
+    "entries": [
+        "When you don this circlet of gnarled onyx, black barbs dig into your head, imparting power to you as the circlet twists your appearance to amuse the {@deity The Spider Queen|Exandria|TDCSR}. The current resting place of the Circlet of Barbed Vision is unknown, but rumor has it that a spectral assassin known as {@creature Jourrael, the Caedogeist|TDCSR|the Inevitable End} seeks this relic."
+    ],
+    "hasFluffImages": true,
+    "immune": [
+        "poison"
+    ],
+    "items": [
+        "Circlet of Barbed Vision (Dormant)|TDCSR",
+        "Circlet of Barbed Vision (Awakened)|TDCSR",
+        "Circlet of Barbed Vision (Exalted)|TDCSR"
+    ],
+    "name": "Circlet of Barbed Vision",
+    "page": 203,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": "by a creature of non-good alignment",
+    "reqAttuneTags": [
+        {
+            "alignment": [
+                "N",
+                "E",
+                "C",
+                "L",
+                "A"
+            ]
+        }
+    ],
+    "resist": [
+        "poison"
+    ],
+    "source": "TDCSR",
+    "wondrous": true
+}

@@ -1,0 +1,33 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": 2,
+                "items": {
+                    "data": {
+                        "isFeature": true
+                    },
+                    "entries": [
+                        "{@note The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate\u2014though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.}",
+                        "You're familiar with the city's crews, their territories, and inter-crew politics. Choose one of the three districts of Baldur's Gate: the Upper City, the Lower City, or the Outer City. This is the district where you conduct most of your business. Whenever you need information about something in one of that district's neighborhoods, you can seek out crew members in that area and learn the local gossip. You can also gain unimpeded entry to nearly any bank, guild hall, place of business, workhouse, or crew meeting place in your district."
+                    ],
+                    "name": "Baldur's Gate Feature: Professional Courtesy",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "name": "Guild Artisan",
+        "source": "PHB"
+    },
+    "additionalSources": [
+        {
+            "page": 132,
+            "source": "PHB"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Baldur's Gate Guild Artisan",
+    "page": 204,
+    "source": "BGDIA"
+}

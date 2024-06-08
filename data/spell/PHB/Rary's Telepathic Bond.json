@@ -1,0 +1,45 @@
+{
+    "areaTags": [
+        "MT"
+    ],
+    "components": {
+        "m": "pieces of eggshell from two different kinds of creatures",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of 2 or less aren't affected by this spell.",
+        "Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence."
+    ],
+    "level": 5,
+    "meta": {
+        "ritual": true
+    },
+    "name": "Rary's Telepathic Bond",
+    "page": 270,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "PHB",
+    "srd": "Telepathic Bond",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "basicRules": true,
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "name": "War Pick",
+    "page": 149,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 500,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 2
+}

@@ -1,0 +1,34 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "When the war pick reaches an exalted state, it gains the following properties:",
+                        {
+                            "items": [
+                                "The weapon's bonus to attack and damage rolls increases to +3.",
+                                "The saving throw DC for the war pick's Breath Weapon property increases to 17, and that property deals {@damage 5d6} damage on a failed save, or half as much damage on a successful one.",
+                                "The saving throw DC for the war pick's Frightful Presence property increases to 17."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Exalted",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Will of the Talon (Awakened)",
+        "source": "EGW"
+    },
+    "bonusWeapon": "+3",
+    "name": "Will of the Talon (Exalted)",
+    "source": "EGW"
+}

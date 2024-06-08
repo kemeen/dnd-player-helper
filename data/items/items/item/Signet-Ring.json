@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "name": "Signet Ring",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 500
+}

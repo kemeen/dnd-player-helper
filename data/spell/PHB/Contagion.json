@@ -1,0 +1,94 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "blinded",
+        "stunned",
+        "poisoned"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 7,
+                "type": "day"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is {@condition poisoned}.",
+        "At the end of each of the {@condition poisoned} target's turns, the target must make a Constitution saving throw. If the target succeeds on three of these saves, it is no longer {@condition poisoned}, and the spell ends. If the target fails three of these saves, the target is no longer {@condition poisoned}, but choose one of the diseases below. The target is subjected to the chosen disease for the spell's duration.",
+        "Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it.",
+        {
+            "entries": [
+                "Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is {@condition blinded}."
+            ],
+            "name": "Blinding Sickness",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength."
+            ],
+            "name": "Filth Fever",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage."
+            ],
+            "name": "Flesh Rot",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the {@spell confusion} spell during combat."
+            ],
+            "name": "Mindfire",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity."
+            ],
+            "name": "Seizure",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is {@condition stunned} until the end of its next turn."
+            ],
+            "name": "Slimy Doom",
+            "type": "entries"
+        }
+    ],
+    "level": 5,
+    "name": "Contagion",
+    "page": 227,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "school": "N",
+    "source": "PHB",
+    "spellAttack": [
+        "M"
+    ],
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

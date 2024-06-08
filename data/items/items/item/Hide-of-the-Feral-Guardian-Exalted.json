@@ -1,0 +1,35 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "When the armor reaches an exalted state, it gains the following properties:",
+                        {
+                            "items": [
+                                "The AC bonus of the armor increases to +3.",
+                                "While you are transformed by an effect that replaces any of your game statistics with those of another creature, your bonus to melee attack and damage rolls increases by 1 (to +3).",
+                                "When you cast the {@spell polymorph} spell using this armor, you can transform into a {@creature guardian wolf|EGW}."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Exalted",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Hide of the Feral Guardian (Awakened)",
+        "source": "EGW"
+    },
+    "bonusAc": "+3",
+    "bonusWeapon": "+3",
+    "name": "Hide of the Feral Guardian (Exalted)",
+    "source": "EGW"
+}

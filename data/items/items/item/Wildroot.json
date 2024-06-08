@@ -1,0 +1,11 @@
+{
+    "entries": [
+        "Introducing the juice of a wildroot into a {@condition poisoned} creature's bloodstream (for example, by rubbing it on an open wound) rids the creature of the {@condition poisoned} condition. Once used in this way, a wildroot loses this property."
+    ],
+    "name": "Wildroot",
+    "page": 205,
+    "rarity": "unknown",
+    "source": "ToA",
+    "type": "G",
+    "value": 2500
+}

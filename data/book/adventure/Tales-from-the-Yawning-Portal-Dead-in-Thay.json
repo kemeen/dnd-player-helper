@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "TftYP-DiT",
+    "level": {
+        "end": 11,
+        "start": 9
+    },
+    "name": "Tales from the Yawning Portal: Dead in Thay",
+    "parentName": "Tales from the Yawning Portal",
+    "parentSource": "TftYP",
+    "published": "2017-03-24",
+    "publishedOrder": 4,
+    "source": "TftYP-DiT",
+    "storyline": "Tales from the Yawning Portal"
+}

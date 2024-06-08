@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "name": "Signal Whistle",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 5
+}

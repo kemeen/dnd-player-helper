@@ -1,0 +1,54 @@
+{
+    "attachedSpells": [
+        "light",
+        "ray of frost",
+        "shocking grasp",
+        "darkness"
+    ],
+    "entries": [
+        "This twelve-sided metal die is 12 inches across and bears the numbers 1 through 12 engraved on its pentagonal sides. The dodecahedron contains arcane clockwork mechanisms that whir and click whenever the die is cast.",
+        "The dodecahedron can be hurled up to 60 feet as an action. A random magical effect occurs when the die comes to rest after rolling across the ground for at least 10 feet. If an effect requires a target and no eligible target is within range, nothing happens. Spells cast by the dodecahedron require no components. Roll a {@dice d12} and consult the following table to determine the effect:",
+        {
+            "colLabels": [
+                "d12",
+                "effect"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    "1\u20132",
+                    "The dodecahedron explodes and is destroyed. Each creature within 20 feet of the exploding die must make a DC 13 Dexterity saving throw, taking 40 ({@damage 9d8}) force damage on a failed save, or half as much damage on a successful one."
+                ],
+                [
+                    "3\u20134",
+                    "The dodecahedron casts {@spell light} on itself. The effect lasts until a creature touches the die."
+                ],
+                [
+                    "5\u20136",
+                    "The dodecahedron casts {@spell ray of frost} (+5 to hit), targeting a random creature within 60 feet of it that doesn't have total cover against the attack."
+                ],
+                [
+                    "7\u20138",
+                    "The dodecahedron casts {@spell shocking grasp} (+5 to hit) on the next creature that touches it."
+                ],
+                [
+                    "9\u201310",
+                    "The dodecahedron casts {@spell darkness} on itself. The effect has a duration of 10 minutes."
+                ],
+                [
+                    "11\u201312",
+                    "The next creature to touch the dodecahedron gains {@dice 1d10} temporary hit points that last for 1 hour."
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "name": "Dodecahedron of Doom",
+    "page": 284,
+    "rarity": "rare",
+    "source": "WDMM",
+    "wondrous": true
+}

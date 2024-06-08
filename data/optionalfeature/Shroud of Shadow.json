@@ -1,0 +1,30 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": [
+                    "invisibility"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell invisibility} at will, without expending a spell slot."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Shroud of Shadow",
+    "page": 57,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 15
+            }
+        }
+    ],
+    "source": "XGE"
+}

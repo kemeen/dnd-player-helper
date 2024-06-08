@@ -1,0 +1,28 @@
+{
+    "ammo": true,
+    "inherits": {
+        "bonusWeapon": "+3",
+        "entries": [
+            "You have a {=bonusWeapon} bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical."
+        ],
+        "lootTables": [
+            "Magic Item Table D"
+        ],
+        "namePrefix": "+3 ",
+        "page": 150,
+        "rarity": "very rare",
+        "source": "DMG",
+        "srd": true,
+        "tier": "minor"
+    },
+    "name": "+3 Ammunition",
+    "requires": [
+        {
+            "type": "A"
+        },
+        {
+            "type": "AF"
+        }
+    ],
+    "type": "GV"
+}

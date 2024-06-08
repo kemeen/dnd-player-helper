@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "ToFW",
+    "level": {
+        "end": 18,
+        "start": 3
+    },
+    "name": "Turn of Fortune's Wheel",
+    "published": "2023-10-17",
+    "source": "ToFW",
+    "storyline": "Planescape"
+}

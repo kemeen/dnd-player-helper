@@ -1,0 +1,148 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Survival}, plus one from among {@skill Arcana}, {@skill History}, and {@skill Religion}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Any one of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Your choice of a {@filter gaming set|items|source=phb|miscellaneous=mundane|type=gaming set} or a {@filter musical instrument|items|source=phb|miscellaneous=mundane|type=instrument}",
+                    "name": "Tool Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Your inheritance, a set of {@item traveler's clothes|phb}, the tool you choose for this background's tool proficiency ({@filter gaming set|items|source=phb|miscellaneous=mundane|type=gaming set} or {@filter musical instrument|items|source=phb|miscellaneous=mundane|type=instrument}), and a {@item pouch|phb} containing 15 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "Choose or randomly determine your inheritance from the possibilities in the table below. Work with your Dungeon Master to come up with details: Why is your inheritance so important, and what is its full story? You might prefer for the DM to invent these details as part of the game, allowing you to learn more about your inheritance as your character does.",
+                "The Dungeon Master is free to use your inheritance as a story hook, sending you on quests to learn more about its history or true nature, or confronting you with foes who want to claim it for themselves or prevent you from learning what you seek. The DM also determines the properties of your inheritance and how they figure into the item's history and importance. For instance, the object might be a minor magic item, or one that begins with a modest ability and increases in potency with the passage of time. Or, the true nature of your inheritance might not be apparent at first and is revealed only when certain conditions are met.",
+                "When you begin your adventuring career, you can decide whether to tell your companions about your inheritance right away. Rather than attracting attention to yourself, you might want to keep your inheritance a secret until you learn more about what it means to you and what it can do for you.",
+                {
+                    "colLabels": [
+                        "d8",
+                        "Object or item:"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-11"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "A document such as a map, a letter, or a journal"
+                        ],
+                        [
+                            "2-3",
+                            "a trinket (see \"Trinkets\" in chapter 5 of the Player's Handbook)"
+                        ],
+                        [
+                            "4",
+                            "an article of clothing"
+                        ],
+                        [
+                            "5",
+                            "a piece of jewelry"
+                        ],
+                        [
+                            "6",
+                            "an arcane book or formulary"
+                        ],
+                        [
+                            "7",
+                            "a written story, song, poem, or secret"
+                        ],
+                        [
+                            "8",
+                            "a tattoo or other body marking"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Feature: Inheritance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Use the tables for the {@background folk hero} background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as an inheritor.",
+                "Your bond might be directly related to your inheritance, or to the person from whom you received it. Your ideal might be influenced by what you know about your inheritance, or by what you intend to do with your gift once you realize what it is capable of."
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 1
+        }
+    ],
+    "name": "Inheritor",
+    "page": 150,
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "arcana",
+                    "history",
+                    "religion"
+                ]
+            },
+            "survival": true
+        }
+    ],
+    "source": "SCAG",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "special": "Your inheritance"
+                },
+                "traveler's clothes|phb",
+                {
+                    "containsValue": 1500,
+                    "item": "pouch|phb"
+                }
+            ]
+        },
+        {
+            "a": [
+                {
+                    "equipmentType": "setGaming"
+                }
+            ],
+            "b": [
+                {
+                    "equipmentType": "instrumentMusical"
+                }
+            ]
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "musical instrument",
+                    "gaming set"
+                ]
+            }
+        }
+    ]
+}

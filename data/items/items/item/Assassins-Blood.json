@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 ({@damage 1d12}) poison damage and is {@condition poisoned} for 24 hours. On a successful save, the creature takes half damage and isn't {@condition poisoned}."
+    ],
+    "name": "Assassin's Blood",
+    "page": 258,
+    "poison": true,
+    "poisonTypes": [
+        "ingested"
+    ],
+    "rarity": "none",
+    "source": "DMG",
+    "srd": true,
+    "type": "G",
+    "value": 15000
+}

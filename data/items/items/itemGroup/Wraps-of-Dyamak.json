@@ -1,0 +1,29 @@
+{
+    "attachedSpells": [
+        "misty step"
+    ],
+    "bonusWeapon": "+3",
+    "entries": [
+        "Created and wielded by the ancient warrior-monk Dyamak, these thick strips of enchanted cloth are stained to appear dark crimson with blood of unknown origin. The current resting place of the wraps is unknown."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Wraps of Dyamak (Dormant)|TDCSR",
+        "Wraps of Dyamak (Awakened)|TDCSR",
+        "Wraps of Dyamak (Exalted)|TDCSR"
+    ],
+    "name": "Wraps of Dyamak",
+    "page": 212,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": "by a monk",
+    "reqAttuneTags": [
+        {
+            "class": "monk"
+        }
+    ],
+    "source": "TDCSR",
+    "wondrous": true
+}

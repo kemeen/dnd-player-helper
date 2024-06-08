@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "detail1": "sapphire",
+    "entries": [
+        "{#itemEntry Ring of Resistance}"
+    ],
+    "hasRefs": true,
+    "name": "Ring of Force Resistance",
+    "page": 192,
+    "rarity": "rare",
+    "reqAttune": true,
+    "resist": [
+        "force"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

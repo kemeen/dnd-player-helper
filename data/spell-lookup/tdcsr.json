@@ -1,0 +1,42 @@
+{
+    "freedom of the waves": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true,
+                "Sorcerer": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Paladin": {
+                    "TDCSR": {
+                        "Open Sea": {
+                            "name": "Oath of the Open Sea"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "freedom of the winds": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true,
+                "Sorcerer": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Paladin": {
+                    "TDCSR": {
+                        "Open Sea": {
+                            "name": "Oath of the Open Sea"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "ac": 12,
+    "attachedSpells": [
+        "polymorph"
+    ],
+    "baseItem": "studded leather armor|PHB",
+    "entries": [
+        "It is believed that this polished and beautifully detailed leather armor was a gift from Melora, bestowed on a long-forgotten archdruid and champion of the natural world before the terrors of the Calamity."
+    ],
+    "items": [
+        "Hide of the Feral Guardian (Dormant)|EGW",
+        "Hide of the Feral Guardian (Awakened)|EGW",
+        "Hide of the Feral Guardian (Exalted)|EGW"
+    ],
+    "name": "Hide of the Feral Guardian",
+    "page": 271,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "EGW",
+    "type": "LA",
+    "weight": 13
+}

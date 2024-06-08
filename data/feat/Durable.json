@@ -1,0 +1,19 @@
+{
+    "ability": [
+        {
+            "con": 1
+        }
+    ],
+    "entries": [
+        "Hardy and resilient, you gain the following benefits:",
+        {
+            "items": [
+                "When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2)."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Durable",
+    "page": 166,
+    "source": "PHB"
+}

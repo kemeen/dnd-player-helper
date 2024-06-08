@@ -1,0 +1,26 @@
+{
+    "bonusSavingThrow": "+1",
+    "conditionImmune": [
+        "grappled"
+    ],
+    "entries": [
+        "A beautiful, glittering emerald is set within this silver chain, humming with power and possibility. It is said that this amulet was stolen from the neck of {@deity The Changebringer|Exandria|TDCSR} herself by the {@deity The Lord of the Hells|Exandria|TDCSR}, and locked within the vaults of Bazzoxan in {@book Wildemount|TDCSR|3|Wildemount}. It was later claimed there by a group of Aurora Watch soldiers during an expedition into that grim fortress's abandoned temples.",
+        {
+            "entries": [
+                "While the Kiss of the Changebringer is in a dormant state, you have a +1 bonus to {@quickref saving throws|PHB|2|1} and are immune to the {@condition grappled} condition while wearing it."
+            ],
+            "name": "Dormant",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Kiss of the Changebringer (Dormant)",
+    "page": 206,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "wondrous": true
+}

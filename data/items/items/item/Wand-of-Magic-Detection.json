@@ -1,0 +1,27 @@
+{
+    "attachedSpells": [
+        "detect magic"
+    ],
+    "basicRules": true,
+    "charges": 3,
+    "entries": [
+        "This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the {@spell detect magic} spell from it. The wand regains {@dice 1d3} expended charges daily at dawn."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table B"
+    ],
+    "name": "Wand of Magic Detection",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 211,
+    "rarity": "uncommon",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d3}",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "WD",
+    "weight": 1
+}

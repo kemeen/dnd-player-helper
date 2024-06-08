@@ -1,0 +1,25 @@
+{
+    "entries": [
+        "{@note * This generic variant has the same name and source as the item {@item +2 shield}}.",
+        "While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
+    ],
+    "inherits": {
+        "bonusAc": "+2",
+        "entries": [
+            "While holding this shield, you have a {=bonusAc} bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
+        ],
+        "namePrefix": "+2 ",
+        "page": 200,
+        "rarity": "rare",
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "+2 Shield (*)",
+    "requires": [
+        {
+            "type": "S"
+        }
+    ],
+    "type": "GV"
+}

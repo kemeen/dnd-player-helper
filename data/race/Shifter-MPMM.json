@@ -1,0 +1,149 @@
+{
+    "_versions": [
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to 2 \u00d7 your proficiency bonus + {@dice 1d6}, and you regain all expended uses when you finish a long rest.",
+                            "While shifted, you have a +1 bonus to your Armor Class."
+                        ],
+                        "name": "Shifting (Beasthide)",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Shifting"
+                }
+            },
+            "name": "Shifter; Beasthide",
+            "source": "MPMM"
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to 2 \u00d7 your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+                            "When you shift and as a bonus action on your other turns while shifted, you can use your elongated fangs to make an unarmed strike. If you hit with your fangs, you can deal piercing damage equal to {@dice 1d6} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+                        ],
+                        "name": "Shifting (Longtooth)",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Shifting"
+                }
+            },
+            "name": "Shifter; Longtooth",
+            "source": "MPMM"
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to 2 \u00d7 your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+                            "While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke opportunity attacks."
+                        ],
+                        "name": "Shifting (Swiftstride)",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Shifting"
+                }
+            },
+            "name": "Shifter; Swiftstride",
+            "source": "MPMM"
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to 2 \u00d7 your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+                            "While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you unless you're {@condition incapacitated}."
+                        ],
+                        "name": "Shifting (Wildhunt)",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Shifting"
+                }
+            },
+            "name": "Shifter; Wildhunt",
+            "source": "MPMM"
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Channeling the beast within, you have proficiency in one of the following skills of your choice: {@skill Acrobatics}, {@skill Athletics}, {@skill Intimidation}, or {@skill Survival}."
+            ],
+            "name": "Bestial Instincts",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were in dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to 2 \u00d7 your proficiency bonus. You can shift a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+                "Whenever you shift, you gain an additional benefit based on one of the following options (choose when you select this race):",
+                {
+                    "items": [
+                        {
+                            "entry": "You gain {@dice 1d6} additional temporary hit points. While shifted, you have a +1 bonus to your Armor Class.",
+                            "name": "Beasthide",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "When you shift and as a bonus action on your other turns while shifted, you can use your elongated fangs to make an unarmed strike. If you hit with your fangs, you can deal piercing damage equal to {@dice 1d6} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.",
+                            "name": "Longtooth",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke opportunity attacks.",
+                            "name": "Swiftstride",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you unless you're {@condition incapacitated}.",
+                            "name": "Wildhunt",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                }
+            ],
+            "name": "Shifting",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Shifter",
+    "page": 32,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "acrobatics",
+                    "athletics",
+                    "intimidation",
+                    "survival"
+                ]
+            }
+        }
+    ],
+    "source": "MPMM",
+    "speed": 30
+}

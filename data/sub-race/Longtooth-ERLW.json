@@ -1,0 +1,39 @@
+{
+    "ability": [
+        {
+            "dex": 1,
+            "str": 2
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency in the {@skill Intimidation} skill."
+            ],
+            "name": "Fierce",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While shifted, you can use your elongated fangs to make an unarmed strike as a bonus action. If you hit with your fangs, you can deal piercing damage equal to {@dice 1d6} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+            ],
+            "name": "Shifting Feature",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Longtooth",
+    "page": 34,
+    "raceName": "Shifter",
+    "raceSource": "ERLW",
+    "skillProficiencies": [
+        {
+            "intimidation": true
+        }
+    ],
+    "source": "ERLW",
+    "traitTags": [
+        "Natural Weapon"
+    ]
+}

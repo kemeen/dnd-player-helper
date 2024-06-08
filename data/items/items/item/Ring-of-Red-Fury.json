@@ -1,0 +1,54 @@
+{
+    "entries": [
+        "This ring has a stripe of ruidium running through it. While wearing the ring, you gain the following benefits:",
+        {
+            "items": [
+                "You can breathe water.",
+                "You gain a swimming speed equal to your walking speed."
+            ],
+            "type": "list"
+        },
+        {
+            "entries": [
+                "As a bonus action, you can use the ring to gain the following benefits, which last for 1 minute or until you are {@condition incapacitated}:",
+                {
+                    "items": [
+                        "You have advantage on Strength checks and Strength saving throws.",
+                        "When you hit with an attack, you can add your proficiency bonus to the damage roll.",
+                        "Difficult terrain doesn't cost you extra movement, and you are immune to the {@condition paralyzed} and {@condition restrained} conditions."
+                    ],
+                    "type": "list"
+                },
+                "You can't use this property of the ring again until you finish a long rest."
+            ],
+            "name": "Ruidium Rage",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you use the Ruidium Rage property of the ring, you must make a DC 20 Charisma saving throw. On a failed save, you gain 1 level of {@condition exhaustion}. If you are not already suffering from ruidium corruption, you become corrupted when you fail this save."
+            ],
+            "name": "Ruidium Corruption",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If the Apotheon is killed or redeemed, all the ruidium in Exandria is destroyed instantly, and the ring of red fury becomes a {@item ring of free action}."
+            ],
+            "name": "If Ruidium Is Destroyed",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "modifySpeed": {
+        "equal": {
+            "swim": "walk"
+        }
+    },
+    "name": "Ring of Red Fury",
+    "page": 214,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "CRCotN",
+    "type": "RG"
+}

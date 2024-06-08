@@ -1,0 +1,16 @@
+{
+    "ac": 14,
+    "armor": true,
+    "basicRules": true,
+    "entries": [
+        "This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered."
+    ],
+    "name": "Breastplate",
+    "page": 145,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "MA",
+    "value": 40000,
+    "weight": 20
+}

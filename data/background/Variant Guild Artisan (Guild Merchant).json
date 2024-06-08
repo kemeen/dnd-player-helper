@@ -1,0 +1,60 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "items": {
+                    "items": [
+                        {
+                            "entry": "{@skill Insight}, {@skill Persuasion}",
+                            "name": "Skill Proficiencies:",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "One type of {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools}, or {@item navigator's tools|phb}, or an additional language",
+                            "name": "Tool Proficiencies:",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "One of your choice",
+                            "name": "Languages:",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "A set of {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools} (one of your choice) or a {@item mule|phb} and {@item cart|phb}, a letter of introduction from your guild, a set of {@item traveler's clothes|phb}, and a belt {@item pouch|phb} containing 15 gp",
+                            "name": "Equipment:",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                },
+                "mode": "replaceArr",
+                "replace": {
+                    "index": 0
+                }
+            }
+        },
+        "name": "Guild Artisan",
+        "source": "PHB"
+    },
+    "hasFluff": true,
+    "name": "Variant Guild Artisan (Guild Merchant)",
+    "page": 133,
+    "skillProficiencies": [
+        {
+            "insight": true,
+            "persuasion": true
+        }
+    ],
+    "source": "PHB",
+    "toolProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "anyArtisansTool",
+                    "navigator's tools"
+                ]
+            }
+        }
+    ]
+}

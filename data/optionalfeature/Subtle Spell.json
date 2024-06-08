@@ -1,0 +1,15 @@
+{
+    "consumes": {
+        "name": "Sorcery Point"
+    },
+    "entries": [
+        "When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components."
+    ],
+    "featureType": [
+        "MM"
+    ],
+    "name": "Subtle Spell",
+    "page": 102,
+    "source": "PHB",
+    "srd": true
+}

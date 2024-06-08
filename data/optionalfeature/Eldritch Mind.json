@@ -1,0 +1,12 @@
+{
+    "entries": [
+        "You have advantage on Constitution saving throws that you make to maintain your {@status concentration} on a spell."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "isClassFeatureVariant": true,
+    "name": "Eldritch Mind",
+    "page": 71,
+    "source": "TCE"
+}

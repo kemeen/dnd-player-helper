@@ -1,0 +1,43 @@
+{
+    "ability": [
+        {
+            "str": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "con",
+            "known": {
+                "1": [
+                    "pass without trace"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You can move across {@quickref difficult terrain||3} made of earth or stone without expending extra movement."
+            ],
+            "name": "Earth Walk",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell pass without trace} spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell."
+            ],
+            "name": "Merge with Stone",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Earth",
+    "page": 9,
+    "raceName": "Genasi",
+    "raceSource": "EEPC",
+    "reprintedAs": [
+        "Genasi (Earth)|MPMM"
+    ],
+    "source": "EEPC"
+}

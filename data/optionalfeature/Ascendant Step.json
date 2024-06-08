@@ -1,0 +1,31 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": [
+                    "levitate"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell levitate} on yourself at will, without expending a spell slot or material components."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Ascendant Step",
+    "page": 110,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 9
+            }
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

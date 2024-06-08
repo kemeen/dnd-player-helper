@@ -1,0 +1,62 @@
+{
+    "entries": [
+        "The Accounting and Valuation of All Things is bound in gold leaf, with pages of silver and text of blood.",
+        "This is a magic tome that functions as a spellbook and arcane focus. You have a +3 bonus to your spell attack and spell save DC.",
+        {
+            "entries": [
+                "The Accounting and Valuation of All Things has the following random properties:",
+                {
+                    "items": [
+                        "1 {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} property",
+                        "1 {@table Artifact Properties; Major Detrimental Properties|dmg|major detrimental} property"
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Random Properties",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "One section of the book is dedicated to negotiating and valuing mortal souls. When the book is opened within 10 feet of a creature with a soul, that creature must make a DC 22 Wisdom saving throw. On a failed save, the tome analyzes their greatest desires and calculates exactly what they would need to give up their soul. That information is then displayed within the tome, such that the user can offer a trade to acquire a soul. Creatures that succeed on the saving throw simply show up as a question mark in the book's pages and are immune to further valuations."
+            ],
+            "name": "The Soul Trade",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When the Accounting and Valuation of All Things is used as a spellbook, it maintains a unique ability to forcibly acquire souls. Any creature killed by a spell transcribed within the book has their soul ripped from their body and sent to Minauros. This process renders the subject immune to all forms of resurrection aside from {@spell True Resurrection}. In payment for their soul, Mammon drops gold equal to (20 \u00d7 CR) or (2 \u00d7 Level) on their corpse."
+            ],
+            "name": "Mammon's Tax",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The tome is capable of providing some assistance to all negotiations, not just those made for souls. You gain a passive +5 to Charisma ({@skill Persuasion}) checks made to barter. Additionally, as an action, you can surrender your consciousness to the tome, allowing it to take over. For 1 minute, the Accounting and Valuation of All Things speaks for you, using a +12 Charisma ({@skill Persuasion}) skill and gaining advantage on your rolls. Using the book in this manner has a corrupting influence, and each use compels you to become increasingly greedy, vain, and evil\u2014much like its original owner, Mammon. When the duration ends, if your alignment is non-evil, you suffer {@damage 6d6} necrotic damage."
+            ],
+            "name": "Negotiation Tactics",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The spellbook section of the Accounting and Valuation of All Things comes with some spells already recorded. For each spell level, roll ({@dice 1d4 - 1}). The DM will determine the necessary spells of each level that already exist within the tome. If you copy spells from the tome to your own spellbook, the cost in gold is doubled. On the opposite end, copying spells from your spellbook to the tome only costs half the gold it normally would."
+            ],
+            "name": "Transcribed Spells",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Destroying the Accounting and Valuation of All Things can be done in two ways. The first option is a simple bribe to Mammon to have him destroy the tome. An offering of 99,999 gp must be made, at midnight, by opening the book and placing the gold inside. If Mammon accepts the offering, the gold melts around the book, then both vanish.",
+                "The second route, in case Mammon is unavailable or unwilling, is to incinerate the book. To accomplish this task, a pot of platinum (valued at no less than 99,999 gp) must be melted, enough to fully submerge the book. Once the platinum is prepared, dropping the tome into the molten solution melts the tome. The process completely destroys the tome, as well as the platinum."
+            ],
+            "name": "Destroying the Tome",
+            "type": "entries"
+        }
+    ],
+    "name": "Accounting and Valuation of All Things",
+    "page": 272,
+    "rarity": "artifact",
+    "reqAttune": true,
+    "source": "CoA",
+    "wondrous": true
+}

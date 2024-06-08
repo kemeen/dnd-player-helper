@@ -1,0 +1,93 @@
+{
+    "ability": [
+        {
+            "con": 1,
+            "str": 2
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 40
+    },
+    "entries": [
+        {
+            "entries": [
+                "Minotaurs develop more slowly than humans, reaching full maturity around the age of 20. They typically become acolytes at around 8 or 9 years old, making them among the older members of their crops. Once they reach maturity, though, minotaurs age quickly, rushing headlong through the trials (as they do all aspects of life) to complete them before they pass their peak. A minotaur allowed to die of old age would rarely live beyond 40."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Most minotaurs lean toward chaotic alignments, and they have a slight inclination toward evil."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Minotaurs average over 6 feet in height, and they have strong, stocky builds. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can use your horns as a natural weapon to make unarmed strikes. If you hit with your horns, you deal bludgeoning damage equal to {@dice 1d6} + your Strength modifier."
+            ],
+            "name": "Natural Weapon",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain proficiency in the {@skill Intimidation} skill."
+            ],
+            "name": "Menacing",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest."
+            ],
+            "name": "Relentless Endurance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
+            ],
+            "name": "Savage Attacks",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Minotaur."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Minotaur (Amonkhet)",
+    "page": 19,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "intimidation": true
+        }
+    ],
+    "source": "PSA",
+    "speed": 30,
+    "traitTags": [
+        "Natural Weapon"
+    ]
+}

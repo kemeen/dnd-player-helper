@@ -1,0 +1,68 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "Two of your choice",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Two of your choice",
+                    "name": "Languages and Tool Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "The equipment package from any background",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "Choose a feature from any background."
+            ],
+            "name": "Feature: Choose a Feature",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Use the suggested characteristics from any background."
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        },
+        "{@note See the section on {@book Customizing a Background|PHB|4|Customizing a Background} in the {@book Player's Handbook|PHB} for more information.}"
+    ],
+    "languageProficiencies": [
+        {
+            "anyStandard": 2
+        }
+    ],
+    "name": "Custom Background",
+    "page": 126,
+    "skillProficiencies": [
+        {
+            "any": 2
+        }
+    ],
+    "skillToolLanguageProficiencies": [
+        {
+            "anyLanguage": 2
+        },
+        {
+            "anyLanguage": 1,
+            "anyTool": 1
+        },
+        {
+            "anyTool": 1
+        }
+    ],
+    "source": "PHB"
+}

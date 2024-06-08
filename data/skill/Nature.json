@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles."
+    ],
+    "name": "Nature",
+    "page": 178,
+    "source": "PHB",
+    "srd": true
+}

@@ -1,0 +1,33 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "While wearing the Stormgirdle in its awakened state, you gain the following benefits:",
+                        {
+                            "items": [
+                                "Your Strength score becomes 23 if it isn't already 23 or higher.",
+                                "Your Storm Avatar's lightning strike deals {@damage 4d6} lightning damage (instead of {@dice 3d6}).",
+                                "While transformed into a Storm Avatar, you gain a flying speed of 30 feet and can hover."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Awakened",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Stormgirdle (Dormant)",
+        "source": "EGW"
+    },
+    "name": "Stormgirdle (Awakened)",
+    "source": "EGW"
+}

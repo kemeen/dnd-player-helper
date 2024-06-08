@@ -1,0 +1,40 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Whisper reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The weapon's bonus to attack and damage rolls increases to +3, and the extra psychic damage it deals increases to {@dice 1d8}.",
+                                            "The DC to resist being {@condition frightened} from a critical hit increases to 17.",
+                                            "When this dagger is used to make a ranged attack, you can choose to transform into shadow and merge with the blade as part of the action used to attack, teleporting to another location. If the attack hits, you appear in an unoccupied space of your choice within 5 feet of the target. If the attack misses, you appear where the GM determines the dagger lands (typically within {@dice 1d6 \u00d7 5} feet of the target). In either case, you appear with the dagger in your hand."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Whisper (Awakened)",
+        "source": "TDCSR"
+    },
+    "bonusWeapon": "+3",
+    "hasFluffImages": true,
+    "name": "Whisper (Exalted)",
+    "source": "TDCSR"
+}

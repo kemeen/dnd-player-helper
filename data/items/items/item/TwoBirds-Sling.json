@@ -1,0 +1,21 @@
+{
+    "ammoType": "sling bullet|phb",
+    "baseItem": "sling|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d4",
+    "dmgType": "B",
+    "entries": [
+        "You have a +1 bonus to attack and damage rolls made with this weapon.",
+        "When you make a ranged attack with this sling and hit a target, you can cause the ammunition to ricochet toward a second target within 10 feet of the first, and then make a ranged attack against the second target."
+    ],
+    "name": "Two-Birds Sling",
+    "page": 198,
+    "property": [
+        "A"
+    ],
+    "range": "30/120",
+    "rarity": "rare",
+    "source": "MOT",
+    "type": "R",
+    "weaponCategory": "simple"
+}

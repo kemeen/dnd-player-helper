@@ -1,0 +1,19 @@
+{
+    "inherits": {
+        "entries": [
+            "Wisps of harmless, odorless smoke rise from this armor while it is worn."
+        ],
+        "namePrefix": "Smoldering ",
+        "page": 139,
+        "rarity": "common",
+        "source": "XGE",
+        "tier": "minor"
+    },
+    "name": "Smoldering Armor",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

@@ -1,0 +1,10 @@
+{
+    "entries": [
+        "The sheer amount of leftover arcane power within the whitestone of the {@book Alabaster Sierra|TDCSR|3|Alabaster Sierras} mountains is incredibly receptive to enchantment. Magic items that incorporate at least an ounce of whitestone into their construction require only one-quarter the creation time of other magic items. Some alchemists in {@book Emon|TDCSR|3|Emon, the City of Fellowship} have discovered that dissolving whitestone with specific acids can leave behind pure {@item residuum|TDCSR}, which can substitute for expensive spell components when such materials are not readily available."
+    ],
+    "name": "Whitestone",
+    "page": 75,
+    "rarity": "unknown (magic)",
+    "source": "TDCSR",
+    "type": "TG"
+}

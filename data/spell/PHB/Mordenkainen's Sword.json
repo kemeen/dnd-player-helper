@@ -1,0 +1,58 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "m": {
+            "cost": 25000,
+            "text": "a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp"
+        },
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "force"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You create a sword-shaped plane of force that hovers within range. It lasts for the duration.",
+        "When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes {@damage 3d10} force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one."
+    ],
+    "hasFluffImages": true,
+    "level": 7,
+    "miscTags": [
+        "SGT",
+        "UBA"
+    ],
+    "name": "Mordenkainen's Sword",
+    "page": 262,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "V",
+    "source": "PHB",
+    "spellAttack": [
+        "M"
+    ],
+    "srd": "Arcane Sword",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

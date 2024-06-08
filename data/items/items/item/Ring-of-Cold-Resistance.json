@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "detail1": "tourmaline",
+    "entries": [
+        "{#itemEntry Ring of Resistance}"
+    ],
+    "hasRefs": true,
+    "name": "Ring of Cold Resistance",
+    "page": 192,
+    "rarity": "rare",
+    "reqAttune": true,
+    "resist": [
+        "cold"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

@@ -1,0 +1,58 @@
+{
+    "attachedSpells": [
+        "detect magic",
+        "detect evil and good",
+        "detect thoughts"
+    ],
+    "baseItem": "greatsword|phb",
+    "bonusWeapon": "+1",
+    "charges": 4,
+    "dmg1": "2d6",
+    "dmgType": "S",
+    "entries": [
+        "A sentient (neutral evil) greatsword, Hazirawn is capable of speech in Common and Netherese. Even if you aren't attuned to the sword, you gain a +1 bonus to attack and damage rolls made with this weapon. If you are not attuned to Hazirawn, you deal an extra {@damage 1d6} necrotic damage when you hit with the weapon.",
+        {
+            "entries": [
+                "While you are attuned to this weapon, its bonus on attack and damage rolls increases to +2, and a hit deals an extra {@damage 2d6} necrotic damage (instead of {@dice 1d6})."
+            ],
+            "name": "Increased Potency",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can cast {@spell detect magic} (1 charge), {@spell detect evil and good} (1 charge), or {@spell detect thoughts} (2 charges). Each night at midnight, Hazirawn regains {@dice 1d4} expended charges."
+            ],
+            "name": "Spells",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While you are attuned to the weapon, any creature that you hit with Hazirawn can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success."
+            ],
+            "name": "Wounding",
+            "type": "entries"
+        }
+    ],
+    "name": "Hazirawn",
+    "otherSources": [
+        {
+            "page": 178,
+            "source": "ToD"
+        }
+    ],
+    "page": 94,
+    "property": [
+        "H",
+        "2H"
+    ],
+    "rarity": "legendary",
+    "recharge": "midnight",
+    "rechargeAmount": "{@dice 1d4}",
+    "reqAttune": true,
+    "reqAttuneAlt": "optional",
+    "sentient": true,
+    "source": "HotDQ",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 6
+}

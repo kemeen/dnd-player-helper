@@ -1,0 +1,31 @@
+{
+    "baseItem": "rapier|PHB",
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "The blade of this rapier is made of spider silk. Its onyx pommel is tipped with a ruby cut in the shape of a spider, and the blade carries the blessing of Lolth."
+    ],
+    "items": [
+        "Silken Spite (Dormant)|EGW",
+        "Silken Spite (Awakened)|EGW",
+        "Silken Spite (Exalted)|EGW"
+    ],
+    "modifySpeed": {
+        "equal": {
+            "climb": "walk"
+        }
+    },
+    "name": "Silken Spite",
+    "page": 277,
+    "property": [
+        "F",
+        "Vst"
+    ],
+    "rarity": "artifact",
+    "reqAttune": true,
+    "sentient": true,
+    "source": "EGW",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 2
+}

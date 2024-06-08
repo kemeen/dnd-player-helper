@@ -1,0 +1,26 @@
+{
+    "bonusWeapon": "+3",
+    "dmg1": "2d6",
+    "dmgType": "S",
+    "entries": [
+        "You have a +3 bonus to attack and damage rolls made with this magic weapon. On a critical hit against a target in an astral body (as with the {@spell astral projection} spell), you can cut the silvery cord that tethers the target to its material body, instead of dealing damage."
+    ],
+    "name": "Silver Sword",
+    "page": 89,
+    "property": [
+        "H",
+        "2H"
+    ],
+    "rarity": "unknown (magic)",
+    "reqAttune": "by a creature that has psionic ability",
+    "reqAttuneTags": [
+        {
+            "psionics": true
+        }
+    ],
+    "source": "MTF",
+    "tier": "major",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 6
+}

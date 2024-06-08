@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "RoT",
+    "level": {
+        "end": 15,
+        "start": 8
+    },
+    "name": "Rise of Tiamat",
+    "published": "2014-11-04",
+    "source": "RoT",
+    "storyline": "Tyranny of Dragons"
+}

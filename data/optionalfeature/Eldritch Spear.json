@@ -1,0 +1,19 @@
+{
+    "entries": [
+        "When you cast {@spell eldritch blast}, its range is 300 feet."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Eldritch Spear",
+    "page": 111,
+    "prerequisite": [
+        {
+            "spell": [
+                "eldritch blast#c"
+            ]
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

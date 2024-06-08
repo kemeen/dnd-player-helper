@@ -1,0 +1,24 @@
+{
+    "charges": 3,
+    "entries": [
+        "A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of the guild's recognition and favor."
+    ],
+    "items": [
+        "Azorius Guild Signet|GGR",
+        "Boros Guild Signet|GGR",
+        "Dimir Guild Signet|GGR",
+        "Golgari Guild Signet|GGR",
+        "Gruul Guild Signet|GGR",
+        "Izzet Guild Signet|GGR",
+        "Orzhov Guild Signet|GGR",
+        "Rakdos Guild Signet|GGR",
+        "Selesnya Guild Signet|GGR",
+        "Simic Guild Signet|GGR"
+    ],
+    "name": "Guild Signet",
+    "page": 178,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "GGR",
+    "type": "RG"
+}

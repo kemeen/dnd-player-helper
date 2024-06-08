@@ -1,0 +1,12 @@
+{
+    "ac": 2,
+    "entries": [
+        "A {@spell detect magic} spell reveals an aura of transmutation magic around this shield, which has a minor magical property: words spoken by the shield's bearer are amplified and sound ten times louder than normal."
+    ],
+    "name": "Shield of Shouting",
+    "page": 116,
+    "rarity": "unknown (magic)",
+    "source": "ToA",
+    "type": "S",
+    "weight": 6
+}

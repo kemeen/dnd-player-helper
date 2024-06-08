@@ -1,0 +1,45 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            "Dankwood goblins are typically neutral or neutral good, though some mischievous dankwood goblins are chaotic neutral."
+                        ],
+                        "name": "Alignment",
+                        "type": "entries"
+                    },
+                    "mode": "appendArr"
+                },
+                {
+                    "items": {
+                        "entries": [
+                            "Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Dankwood goblins love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets."
+                        ],
+                        "name": "Speak with Small Beasts",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Fury of the Small"
+                }
+            ]
+        },
+        "_preserve": {
+            "reprintedAs": true
+        },
+        "name": "Goblin",
+        "source": "VGM"
+    },
+    "ability": [
+        {
+            "dex": 2,
+            "wis": 1
+        }
+    ],
+    "hasFluff": true,
+    "heightAndWeight": null,
+    "name": "Goblin (Dankwood)",
+    "page": 35,
+    "source": "AWM"
+}

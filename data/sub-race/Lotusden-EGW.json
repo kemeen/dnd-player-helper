@@ -1,0 +1,56 @@
+{
+    "ability": [
+        {
+            "wis": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "entangle"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "spike growth"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "druidcraft#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You know the {@spell druidcraft} cantrip. When you reach 3rd level, you can cast the {@spell entangle} spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell spike growth} spell once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells."
+            ],
+            "name": "Child of the Wood",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Ability checks made to track you have disadvantage, and you can move across {@quickref difficult terrain||3} made of nonmagical plants and undergrowth without expending extra movement."
+            ],
+            "name": "Timberwalk",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Lotusden",
+    "page": 164,
+    "raceName": "Halfling",
+    "raceSource": "PHB",
+    "source": "EGW"
+}

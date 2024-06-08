@@ -1,0 +1,216 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Deception}, {@skill Stealth}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "{@item Poisoner's kit|phb}",
+                    "name": "Tool Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "One of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A set of {@item common clothes|phb}, a black cloak with a hood, a {@item poisoner's kit|phb}, and a {@item pouch|phb} containing 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You have access to the Volstrucker shadow network, which allows you to communicate with other members of the order over long distances. If you write a letter in a special arcane ink, address it to a member of the Volstrucker, and cast it into a fire, the letter will burn to cinders and materialize whole again on the person of the agent you addressed it to.",
+                "The ink used to send a letter across the shadow network is the same as that used by a wizard to scribe spells in a spellbook. Writing a letter in this ink costs 10 gp per page."
+            ],
+            "name": "Feature: Shadow Network",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Agents of the Volstrucker are groomed to follow orders without question and to kill without mercy. The trauma that brings one into the order can fester even more strongly against the darkness of a Volstrucker agent's assignments. Officially, no one ever leaves the order\u2014but those desperate enough do whatever it takes to gain some measure of freedom.",
+                {
+                    "colLabels": [
+                        "d6",
+                        "Personality Trait"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I prefer to keep my thoughts to myself."
+                        ],
+                        [
+                            "2",
+                            "I indulge vice in excess to quiet my conscience."
+                        ],
+                        [
+                            "3",
+                            "I've left emotion behind me. I'm now perfectly placid."
+                        ],
+                        [
+                            "4",
+                            "Some event from the past keeps worming its way into my mind, making me restless."
+                        ],
+                        [
+                            "5",
+                            "I always keep my word\u2014except when I'm commanded to break it."
+                        ],
+                        [
+                            "6",
+                            "I laugh off insults and never take them personally."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "colLabels": [
+                        "d6",
+                        "Ideal"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "Order. The will of the crown is absolute. (Law)"
+                        ],
+                        [
+                            "2",
+                            "True Loyalty. The Cerberus Assembly is greater than any power, even the crown. (Law)"
+                        ],
+                        [
+                            "3",
+                            "Death. The penalty for disloyalty is death. (Evil)"
+                        ],
+                        [
+                            "4",
+                            "Determination. I cannot fail. Not ever. (Neutral)"
+                        ],
+                        [
+                            "5",
+                            "Fear. People should not respect power. They should fear it. (Evil)"
+                        ],
+                        [
+                            "6",
+                            "Escape. The Volstrucker are pure evil! I can't atone for what I've done for them, but I can escape with my life. (Any)"
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "colLabels": [
+                        "d4",
+                        "Bond"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "The job is all that matters. I will see it through."
+                        ],
+                        [
+                            "2",
+                            "My orders are important, but my comrades are worth more than anything. I would die for them."
+                        ],
+                        [
+                            "3",
+                            "Everything I've done, I've done to protect someone close to me."
+                        ],
+                        [
+                            "4",
+                            "If the empire falls, all of civilization falls with it. I will hold back chaos and barbarism at any cost."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "colLabels": [
+                        "d4",
+                        "Flaw"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I drink to dull the pain in the back of my head."
+                        ],
+                        [
+                            "2",
+                            "I go a bit mad when I see blood."
+                        ],
+                        [
+                            "3",
+                            "I can hear the voices of everyone I've killed. I see their faces. I can't be free of these ghosts."
+                        ],
+                        [
+                            "4",
+                            "Fear is a powerful motivator. I will do whatever it takes to prevent those who know what I am from seeing me fail, and from those I care about from knowing what I am."
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 1
+        }
+    ],
+    "name": "Volstrucker Agent",
+    "page": 202,
+    "skillProficiencies": [
+        {
+            "deception": true,
+            "stealth": true
+        }
+    ],
+    "source": "EGW",
+    "startingEquipment": [
+        {
+            "_": [
+                "common clothes|phb",
+                {
+                    "special": "black cloak with a hood"
+                },
+                "poisoner's kit|phb",
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "poisoner's kit": true
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "attachedSpells": [
+        "wish"
+    ],
+    "entries": [
+        "This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an {@creature efreeti} appears in an unoccupied space within 30 feet of you.",
+        "The first time the bottle is opened, the DM rolls to determine what happens.",
+        {
+            "colLabels": [
+                "{@dice d100}",
+                "Effect"
+            ],
+            "colStyles": [
+                "col-1 text-center",
+                "col-11"
+            ],
+            "rows": [
+                [
+                    "01-10",
+                    "The {@creature efreeti} attacks you. After fighting for 5 rounds, the {@creature efreeti} disappears, and the bottle loses its magic."
+                ],
+                [
+                    "11-90",
+                    "The {@creature efreeti} serves you for 1 hour, doing as you command. Then the {@creature efreeti} returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the {@creature efreeti} escapes and disappears, and the bottle loses its magic."
+                ],
+                [
+                    "91-00",
+                    "The {@creature efreeti} can cast the {@spell wish} spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic."
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Efreeti Bottle",
+    "page": 167,
+    "rarity": "very rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "weight": 1,
+    "wondrous": true
+}

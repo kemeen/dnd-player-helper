@@ -1,0 +1,63 @@
+{
+    "areaTags": [
+        "C"
+    ],
+    "basicRules": true,
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "thunder"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes {@damage 2d8} thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.",
+        "In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by {@scaledamage 2d8|1-9|1d8} for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "miscTags": [
+        "FMV",
+        "OBJ"
+    ],
+    "name": "Thunderwave",
+    "otherSources": [
+        {
+            "page": 61,
+            "source": "RMR"
+        }
+    ],
+    "page": 282,
+    "range": {
+        "distance": {
+            "amount": 15,
+            "type": "feet"
+        },
+        "type": "cube"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "school": "V",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

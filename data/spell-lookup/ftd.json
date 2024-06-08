@@ -1,0 +1,166 @@
+{
+    "ashardalon's stride": {
+        "class": {
+            "PHB": {
+                "Ranger": true,
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "draconic transformation": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "fizban's platinum shield": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "nathair's mischief": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Red Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "raulothim's psychic lance": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rime's binding ice": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "summon draconic spirit": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    }
+}

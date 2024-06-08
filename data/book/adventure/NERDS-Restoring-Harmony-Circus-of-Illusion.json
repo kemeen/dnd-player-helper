@@ -1,0 +1,15 @@
+{
+    "group": "supplement-alt",
+    "id": "NRH-CoI",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "NERDS Restoring Harmony: Circus of Illusion",
+    "parentName": "NERDS Restoring Harmony",
+    "parentSource": "NRH",
+    "published": "2021-09-01",
+    "publishedOrder": 3,
+    "source": "NRH-CoI",
+    "storyline": "NERDS Restoring Harmony"
+}

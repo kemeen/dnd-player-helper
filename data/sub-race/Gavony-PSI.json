@@ -1,0 +1,19 @@
+{
+    "ability": [
+        {
+            "cha": 1,
+            "con": 1,
+            "dex": 1,
+            "int": 1,
+            "str": 1,
+            "wis": 1
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Gavony",
+    "page": 8,
+    "raceName": "Human (Innistrad)",
+    "raceSource": "PSI",
+    "source": "PSI"
+}

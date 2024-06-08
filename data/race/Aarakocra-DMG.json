@@ -1,0 +1,50 @@
+{
+    "ability": [
+        {
+            "dex": 2,
+            "wis": 2
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "If you are flying and dive at least 30 ft. straight toward a target and then hit it with a melee weapon attack, the attack deals an extra {@dice 1d6} damage to the target."
+            ],
+            "name": "Dive Attack",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are proficient with your unarmed strikes, which deal {@damage 1d4} slashing damage on a hit."
+            ],
+            "name": "Talons",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Auran."
+            ],
+            "name": "Language",
+            "type": "entries"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "auran": true
+        }
+    ],
+    "name": "Aarakocra",
+    "page": 282,
+    "size": [
+        "M"
+    ],
+    "source": "DMG",
+    "speed": {
+        "fly": 50,
+        "walk": 20
+    },
+    "traitTags": [
+        "Natural Weapon",
+        "NPC Race"
+    ]
+}

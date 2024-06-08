@@ -1,0 +1,421 @@
+{
+    "attachedSpells": [
+        "augury",
+        "knock"
+    ],
+    "bonusSavingThrow": "+1",
+    "bonusWeapon": "+1",
+    "entries": [
+        "Created in the image of the Deck of Many Things, this deck of ivory or vellum cards bestows an assortment of minor benefits and penalties on those who draw from it. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.",
+        "Before you draw a card, you must declare how many cards you intend to draw, then draw them randomly. Any additional cards drawn have no effect. Unless a card states otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card you declared no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck and take effect simultaneously.",
+        "Unless it is the Mystery card, a drawn card immediately takes effect, fades from existence, and reappears in the deck, making it possible to draw the same card multiple times.",
+        "You can use an altered deck of playing cards to simulate the deck, as shown in the Deck of Wonder table.",
+        {
+            "caption": "Deck of Wonder",
+            "colLabels": [
+                "{@dice 1d22|Card}",
+                "Card Title"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    {
+                        "entry": "A {@color \u2666|#ff0000}",
+                        "roll": {
+                            "exact": 1
+                        },
+                        "type": "cell"
+                    },
+                    "Chancellor*"
+                ],
+                [
+                    {
+                        "entry": "K {@color \u2666|#ff0000}",
+                        "roll": {
+                            "exact": 2
+                        },
+                        "type": "cell"
+                    },
+                    "Day"
+                ],
+                [
+                    {
+                        "entry": "Q {@color \u2666|#ff0000}",
+                        "roll": {
+                            "exact": 3
+                        },
+                        "type": "cell"
+                    },
+                    "Night"
+                ],
+                [
+                    {
+                        "entry": "J {@color \u2666|#ff0000}",
+                        "roll": {
+                            "exact": 4
+                        },
+                        "type": "cell"
+                    },
+                    "Dawn"
+                ],
+                [
+                    {
+                        "entry": "2 {@color \u2666|#ff0000}",
+                        "roll": {
+                            "exact": 5
+                        },
+                        "type": "cell"
+                    },
+                    "Dusk*"
+                ],
+                [
+                    {
+                        "entry": "A {@color \u2665|#ff0000}",
+                        "roll": {
+                            "exact": 6
+                        },
+                        "type": "cell"
+                    },
+                    "Destiny*"
+                ],
+                [
+                    {
+                        "entry": "K {@color \u2665|#ff0000}",
+                        "roll": {
+                            "exact": 7
+                        },
+                        "type": "cell"
+                    },
+                    "Crown"
+                ],
+                [
+                    {
+                        "entry": "Q {@color \u2665|#ff0000}",
+                        "roll": {
+                            "exact": 8
+                        },
+                        "type": "cell"
+                    },
+                    "Lock"
+                ],
+                [
+                    {
+                        "entry": "J {@color \u2665|#ff0000}",
+                        "roll": {
+                            "exact": 9
+                        },
+                        "type": "cell"
+                    },
+                    "Champion"
+                ],
+                [
+                    {
+                        "entry": "2 {@color \u2665|#ff0000}",
+                        "roll": {
+                            "exact": 10
+                        },
+                        "type": "cell"
+                    },
+                    "Coin*"
+                ],
+                [
+                    {
+                        "entry": "A \u2663",
+                        "roll": {
+                            "exact": 11
+                        },
+                        "type": "cell"
+                    },
+                    "Vulture*"
+                ],
+                [
+                    {
+                        "entry": "K \u2663",
+                        "roll": {
+                            "exact": 12
+                        },
+                        "type": "cell"
+                    },
+                    "Chaos"
+                ],
+                [
+                    {
+                        "entry": "Q \u2663",
+                        "roll": {
+                            "exact": 13
+                        },
+                        "type": "cell"
+                    },
+                    "Order"
+                ],
+                [
+                    {
+                        "entry": "J \u2663",
+                        "roll": {
+                            "exact": 14
+                        },
+                        "type": "cell"
+                    },
+                    "Beginning"
+                ],
+                [
+                    {
+                        "entry": "2 \u2663",
+                        "roll": {
+                            "exact": 15
+                        },
+                        "type": "cell"
+                    },
+                    "Mystery*"
+                ],
+                [
+                    {
+                        "entry": "A \u2660",
+                        "roll": {
+                            "exact": 16
+                        },
+                        "type": "cell"
+                    },
+                    "Isolation*"
+                ],
+                [
+                    {
+                        "entry": "K \u2660",
+                        "roll": {
+                            "exact": 17
+                        },
+                        "type": "cell"
+                    },
+                    "End"
+                ],
+                [
+                    {
+                        "entry": "Q \u2660",
+                        "roll": {
+                            "exact": 18
+                        },
+                        "type": "cell"
+                    },
+                    "Monster"
+                ],
+                [
+                    {
+                        "entry": "J \u2660",
+                        "roll": {
+                            "exact": 19
+                        },
+                        "type": "cell"
+                    },
+                    "Knife"
+                ],
+                [
+                    {
+                        "entry": "2 \u2660",
+                        "roll": {
+                            "exact": 20
+                        },
+                        "type": "cell"
+                    },
+                    "Justice*"
+                ],
+                [
+                    {
+                        "entry": "Joker (with \u2122)",
+                        "roll": {
+                            "exact": 21
+                        },
+                        "type": "cell"
+                    },
+                    "Student*"
+                ],
+                [
+                    {
+                        "entry": "Joker (without \u2122)",
+                        "roll": {
+                            "exact": 22
+                        },
+                        "type": "cell"
+                    },
+                    "Mischief"
+                ]
+            ],
+            "type": "table"
+        },
+        {
+            "entries": [
+                "Your hit point maximum and current hit points increase by {@dice 2d10}. Your hit point maximum remains increased in this way for the next 8 hours."
+            ],
+            "name": "Beginning",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain a +1 bonus to weapon attack and damage rolls. This bonus lasts for 8 hours."
+            ],
+            "name": "Champion",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Within 8 hours of drawing this card, you can cast {@spell Augury} once as an action, requiring no material components. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice)."
+            ],
+            "name": "Chancellor",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain resistance to one of the following damage types (chosen by the DM): acid, cold, fire, lightning, or thunder. This resistance lasts for {@dice 1d12} days."
+            ],
+            "name": "Chaos",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Five pieces of jewelry, each worth 100 gp, or ten gemstones, each worth 50 gp, appear at your feet."
+            ],
+            "name": "Coin",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You learn the {@spell Friends} cantrip. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). If you already know this cantrip, the card has no effect."
+            ],
+            "name": "Crown",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "This card invigorates you. For the next 8 hours, you can add your proficiency bonus to your initiative rolls."
+            ],
+            "name": "Dawn",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain a +1 bonus to saving throws. This benefit lasts until you finish a long rest."
+            ],
+            "name": "Day",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "This card protects you against an untimely demise. The first time after drawing this card that you would drop to 0 hit points from taking damage, you instead drop to 1 hit point."
+            ],
+            "name": "Destiny",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "This card supernaturally saps your energy. You have disadvantage on initiative rolls. This effect lasts until you finish a long rest, but it can be ended early by a {@spell Remove Curse} spell or similar magic."
+            ],
+            "name": "Dusk",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "This card is an omen of death. You take {@damage 2d10} necrotic damage, and your hit point maximum is reduced by an amount equal to the damage taken. This effect can't reduce your hit point maximum below 10 hit points. This reduction lasts until you finish a long rest, but it can be ended early by a {@spell Remove Curse} spell or similar magic."
+            ],
+            "name": "End",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You disappear, along with anything you are wearing or carrying, and become trapped in a harmless extradimensional space for {@dice 1d4} minutes. You draw no more cards. You then reappear in the space you left or the nearest unoccupied space. When you reappear, you must succeed on a DC 11 Constitution saving throw or have the poisoned condition for 1 hour as your body reels from the extradimensional travel."
+            ],
+            "name": "Isolation",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You momentarily gain the ability to balance the scales of fate. For the next 8 hours, whenever you or a creature within 60 feet of you is about to roll a {@dice d20} with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage or disadvantage."
+            ],
+            "name": "Justice",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "An uncommon magic weapon you're proficient with appears in your hands. The DM chooses the weapon."
+            ],
+            "name": "Knife",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain the ability to cast {@spell Knock} {@dice 1d3} times. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice)."
+            ],
+            "name": "Lock",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You receive an uncommon wondrous item (chosen by the DM), or you can draw two additional cards beyond your declared draws."
+            ],
+            "name": "Mischief",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "This card's monstrous visage curses you. While cursed in this way, whenever you make a saving throw, you must roll {@dice 1d4} and subtract the number rolled from the total. The curse lasts until you finish a long rest, but it can be ended early with a {@spell Remove Curse} spell or similar magic."
+            ],
+            "name": "Monster",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have disadvantage on Intelligence saving throws for 1 hour. Discard this card and draw from the deck again; together, the two draws count as one of your declared draws."
+            ],
+            "name": "Mystery",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain {@sense darkvision} within a range of 300 feet. This {@sense darkvision} lasts for 8 hours."
+            ],
+            "name": "Night",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain resistance to one of the following damage types (chosen by the DM): force, necrotic, poison, psychic, or radiant. This resistance lasts for {@dice 1d12} days."
+            ],
+            "name": "Order",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice)."
+            ],
+            "name": "Student",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "One nonmagical item or piece of equipment in your possession (chosen by the DM) disappears. The item remains nearby but concealed for a short time, so it can be found with a successful DC 15 Wisdom ({@skill Perception}) check. If the item isn't recovered within 1 hour, it disappears forever."
+            ],
+            "name": "Vulture",
+            "type": "entries"
+        }
+    ],
+    "grantsProficiency": true,
+    "hasFluffImages": true,
+    "name": "Deck of Wonder",
+    "page": 55,
+    "rarity": "uncommon",
+    "resist": [
+        "acid",
+        "cold",
+        "fire",
+        "force",
+        "lightning",
+        "necrotic",
+        "poison",
+        "psychic",
+        "radiant",
+        "thunder"
+    ],
+    "source": "BMT",
+    "wondrous": true
+}

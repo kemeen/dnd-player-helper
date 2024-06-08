@@ -1,0 +1,23 @@
+{
+    "entries": [
+        "While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the {@spell magic missile} spell."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Brooch of Shielding",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 156,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "resist": [
+        "force"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

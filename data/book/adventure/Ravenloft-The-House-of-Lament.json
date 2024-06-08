@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "HoL",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "Ravenloft: The House of Lament",
+    "published": "2021-05-18",
+    "source": "HoL",
+    "storyline": "Ravenloft"
+}

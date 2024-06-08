@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "name": "Rapier",
+    "page": 149,
+    "property": [
+        "F"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "sword": true,
+    "type": "M",
+    "value": 2500,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 2
+}

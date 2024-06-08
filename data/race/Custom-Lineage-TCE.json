@@ -1,0 +1,120 @@
+{
+    "_versions": [
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "You gain {@sense darkvision} with a range of 60 feet."
+                        ],
+                        "name": "Variable Trait; Darkvision",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Variable Trait"
+                }
+            },
+            "name": "Custom Lineage; Darkvision",
+            "skillProficiencies": null,
+            "source": "TCE"
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "You gain proficiency in one skill of your choice."
+                        ],
+                        "name": "Variable Trait; Skill Proficiency",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Variable Trait"
+                }
+            },
+            "darkvision": null,
+            "name": "Custom Lineage; Skill Proficiency",
+            "source": "TCE"
+        }
+    ],
+    "ability": [
+        {
+            "choose": {
+                "amount": 2,
+                "from": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        "Instead of choosing one of the game's races for your character at 1st level, you can use the following traits to represent your character's lineage, giving you full control over how your character's origin shaped them:",
+        {
+            "entries": [
+                "You are a humanoid. You determine your appearance and whether you resemble any of your kin."
+            ],
+            "name": "Creature Type",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are Small or Medium (your choice)."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain one {@5etools feat|feats.html} of your choice for which you qualify."
+            ],
+            "name": "Feat",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain one of the following options of your choice: (a) {@sense darkvision} with a range of 60 feet or (b) proficiency in one skill of your choice."
+            ],
+            "name": "Variable Trait",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        },
+        "Your race is considered to be a Custom Lineage for any game feature that requires a certain race, such as elf or dwarf."
+    ],
+    "feats": [
+        {
+            "any": 1
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true
+        }
+    ],
+    "lineage": true,
+    "name": "Custom Lineage",
+    "page": 8,
+    "size": [
+        "S",
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "any": 1
+        }
+    ],
+    "source": "TCE",
+    "speed": 30
+}

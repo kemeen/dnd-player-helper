@@ -1,0 +1,20 @@
+{
+    "capCargo": 20,
+    "crew": 20,
+    "entries": [
+        "The space galleon is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons. Because they can land on water and move across it like their namesakes, they can sail into ports on terrestrial worlds without attracting undue attention. Like an ordinary galleon, a space galleon isn't built to land on the ground (its keel would cause it to roll on its side). The ship's standard weaponry includes two forward-mounted ballistae and an aft-mounted mangonel."
+    ],
+    "name": "Space Galleon",
+    "page": 46,
+    "rarity": "none",
+    "seeAlsoVehicle": [
+        "Space Galleon|AAG"
+    ],
+    "source": "AAG",
+    "type": "SPC",
+    "value": 3000000,
+    "vehAc": 15,
+    "vehDmgThresh": 15,
+    "vehHp": 400,
+    "vehSpeed": 4
+}

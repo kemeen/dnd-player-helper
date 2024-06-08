@@ -1,0 +1,54 @@
+{
+    "areaTags": [
+        "Y"
+    ],
+    "basicRules": true,
+    "components": {
+        "m": "pinch of sulfur",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "fire",
+        "radiant"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes {@damage 4d6} fire damage and {@damage 4d6} radiant damage on a failed save, or half as much damage on a successful one."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by {@scaledamage 4d6|5-9|1d6} for each slot level above 5th."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 5,
+    "name": "Flame Strike",
+    "page": 242,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "V",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

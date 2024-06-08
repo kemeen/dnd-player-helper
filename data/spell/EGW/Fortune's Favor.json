@@ -1,0 +1,57 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": {
+            "consume": true,
+            "cost": 10000,
+            "text": "a white pearl worth at least 100 gp, which the spell consumes"
+        },
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You impart latent luck to yourself or one willing creature you can see within range. When the chosen creature makes an attack roll, an ability check, or a saving throw before the spell ends, it can dismiss this spell on itself to roll an additional {@dice d20} and choose which of the {@dice d20}s to use. Alternatively, when an attack roll is made against the chosen creature, it can dismiss this spell on itself to roll a {@dice d20} and choose which of the {@dice d20}s to use, the one it rolled or the one the attacker rolled.",
+        "If the original {@dice d20} roll has advantage or disadvantage, the creature rolls the additional {@dice d20} after advantage or disadvantage has been applied to the original roll."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Fortune's Favor",
+    "page": 186,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "EGW",
+    "time": [
+        {
+            "number": 1,
+            "unit": "minute"
+        }
+    ]
+}

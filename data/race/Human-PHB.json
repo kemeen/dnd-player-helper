@@ -1,0 +1,56 @@
+{
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "basicRules": true,
+    "entries": [
+        {
+            "entries": [
+                "Humans reach adulthood in their late teens and live less than a century."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 56,
+        "baseWeight": 110,
+        "heightMod": "2d10",
+        "weightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true
+        }
+    ],
+    "name": "Human",
+    "page": 29,
+    "size": [
+        "M"
+    ],
+    "soundClip": {
+        "path": "races/human.mp3",
+        "type": "internal"
+    },
+    "source": "PHB",
+    "speed": 30,
+    "srd": true
+}

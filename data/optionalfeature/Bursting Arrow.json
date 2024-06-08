@@ -1,0 +1,15 @@
+{
+    "consumes": {
+        "name": "Arcane Shot"
+    },
+    "entries": [
+        "You imbue your arrow with force energy drawn from the school of evocation. The energy detonates after your attack. Immediately after the arrow hits the creature, the target and all other creatures within 10 feet of it take {@damage 2d6} force damage each.",
+        "The force damage increases to {@damage 4d6} when you reach 18th level in this class."
+    ],
+    "featureType": [
+        "AS"
+    ],
+    "name": "Bursting Arrow",
+    "page": 29,
+    "source": "XGE"
+}

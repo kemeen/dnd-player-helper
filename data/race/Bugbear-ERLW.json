@@ -1,0 +1,110 @@
+{
+    "ability": [
+        {
+            "dex": 1,
+            "str": 2
+        }
+    ],
+    "age": {
+        "mature": 16,
+        "max": 80
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Bugbears reach adulthood at age 16 and live up to 80 years."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Bugbears live on the fringes of society even in Darguun, where they value self-sufficiency and violence. They are generally chaotic, organizing in loose tribes under charismatic and powerful leaders."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you make a melee attack on your turn, your reach for it is 5 feet greater than normal."
+            ],
+            "name": "Long-Limbed",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+            ],
+            "name": "Powerful Build",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are proficient in the {@skill Stealth} skill."
+            ],
+            "name": "Sneaky",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra {@dice 2d6} damage to it. You can use this trait only once per combat."
+            ],
+            "name": "Surprise Attack",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Goblin."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 72,
+        "baseWeight": 200,
+        "heightMod": "2d12",
+        "weightMod": "2d6"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "goblin": true
+        }
+    ],
+    "name": "Bugbear",
+    "page": 25,
+    "reprintedAs": [
+        "Bugbear|MPMM"
+    ],
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "stealth": true
+        }
+    ],
+    "source": "ERLW",
+    "speed": 30,
+    "traitTags": [
+        "Monstrous Race",
+        "Powerful Build"
+    ]
+}

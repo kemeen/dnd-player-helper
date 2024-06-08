@@ -1,0 +1,19 @@
+{
+    "capCargo": 10,
+    "capPassenger": 30,
+    "crewMax": 10,
+    "crewMin": 6,
+    "entries": [
+        "Purchasing a {@item skyship|TDCSR} costs 100,000 gp, and requires a personal connection with the Alsfarin Union in {@book Ank'Harel|TDCSR|3|Marquet}. A {@item skyship|TDCSR} travels at a top speed of 10 miles per hour, can carry total cargo of 10 tons, and requires a crew of six to ten humanoids to operate at peak performance. Most {@item skyship|TDCSR|skyships} have maximum accommodations for up to 30 passengers. Most {@item skyship|TDCSR|skyships} only travel between existing skyports (see \"{@book Emon Skyport|TDCSR|3|8. Emon Skyport},\"), and charge a fee of 2 gp per mile for a passenger ticket. Chartering a {@item skyship|TDCSR} to a destination off the standard sky routes costs 15 gp per mile, if the captain is available and willing to undertake the journey. Shipping cargo costs 1 gp per mile per 100 pounds of cargo along normal sky routes, and twice that to other destinations."
+    ],
+    "hasFluffImages": true,
+    "name": "Skyship",
+    "page": 137,
+    "rarity": "none",
+    "shippingCost": 100,
+    "source": "TDCSR",
+    "travelCost": 200,
+    "type": "AIR",
+    "value": 10000000,
+    "vehSpeed": 10
+}

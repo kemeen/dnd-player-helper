@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "dmg1": "1d10",
+    "dmgType": "P",
+    "name": "Pike",
+    "page": 149,
+    "property": [
+        "H",
+        "R",
+        "2H"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 500,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 18
+}

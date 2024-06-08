@@ -1,0 +1,41 @@
+{
+    "attachedSpells": [
+        "antagonize|bmt"
+    ],
+    "entries": [
+        "This dark, hooded mantle of thick cloth is infused with secretive and deceptive magic. While wearing it, you gain the following benefits:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "You gain {@sense darkvision} within a range of 60 feet. If you already have {@sense darkvision}, the mantle increases your {@sense darkvision}'s range by 60 feet instead."
+                    ],
+                    "name": "Darkvision",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "While you are in {@quickref Vision and Light||2||dim light} or darkness, you can use a bonus action to teleport, along with anything you are wearing or carrying, up to 30 feet to an unoccupied space you can see that is also in {@quickref Vision and Light||2||dim light} or darkness. You then have advantage on the first melee attack you make before the end of the turn."
+                    ],
+                    "name": "Move in Shadows",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "You can cast the {@spell Antagonize|BMT} spell (save DC 15) from the mantle. Once the mantle has cast the spell, it can't cast the spell again until the next dawn."
+                    ],
+                    "name": "Willful Enmity",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "name": "Rogue's Mantle",
+    "page": 37,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "BMT",
+    "wondrous": true
+}

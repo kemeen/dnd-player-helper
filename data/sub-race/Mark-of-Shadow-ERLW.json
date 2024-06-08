@@ -1,0 +1,113 @@
+{
+    "ability": [
+        {
+            "cha": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "cha",
+            "expanded": {
+                "s1": [
+                    "disguise self",
+                    "silent image"
+                ],
+                "s2": [
+                    "darkness",
+                    "pass without trace"
+                ],
+                "s3": [
+                    "clairvoyance",
+                    "major image"
+                ],
+                "s4": [
+                    "greater invisibility",
+                    "hallucinatory terrain"
+                ],
+                "s5": [
+                    "mislead"
+                ]
+            },
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "invisibility"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "minor illusion#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "When you make a Charisma ({@skill Performance}) or Dexterity ({@skill Stealth}) check, you can roll a {@dice d4} and add the number rolled to the ability check."
+            ],
+            "name": "Cunning Intuition",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell minor illusion} cantrip. Starting at 3rd level, you can cast the {@spell invisibility} spell once with this trait, and you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+            ],
+            "name": "Shape Shadows",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Shadow Spells table are added to the spell list of your spellcasting class.",
+                {
+                    "caption": "Mark of Shadow Spells",
+                    "colLabels": [
+                        "Spell Level",
+                        "Spells"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1st",
+                            "{@spell disguise self}, {@spell silent image}"
+                        ],
+                        [
+                            "2nd",
+                            "{@spell darkness}, {@spell pass without trace}"
+                        ],
+                        [
+                            "3rd",
+                            "{@spell clairvoyance}, {@spell major image}"
+                        ],
+                        [
+                            "4th",
+                            "{@spell greater invisibility}, {@spell hallucinatory terrain}"
+                        ],
+                        [
+                            "5th",
+                            "{@spell mislead}"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Spells of the Mark",
+            "type": "entries"
+        }
+    ],
+    "name": "Mark of Shadow",
+    "page": 49,
+    "raceName": "Elf",
+    "raceSource": "PHB",
+    "source": "ERLW",
+    "traitTags": [
+        "Dragonmark",
+        "Skill Bonus Dice"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "entries": [
+        "You have a knack for learning new things. You gain the following benefits:",
+        {
+            "items": [
+                "You gain one {@table skills|phb|skill proficiency} of your choice, one {@filter tool proficiency|items|type=tool;artisan's tools} of your choice, and fluency in one language of your choice.",
+                "Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus."
+            ],
+            "type": "list"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "any": 1
+        }
+    ],
+    "name": "Prodigy",
+    "page": 75,
+    "prerequisite": [
+        {
+            "race": [
+                {
+                    "name": "half-elf"
+                },
+                {
+                    "name": "half-orc"
+                },
+                {
+                    "name": "human"
+                }
+            ]
+        }
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "athletics",
+                    "acrobatics",
+                    "sleight of hand",
+                    "stealth",
+                    "arcana",
+                    "history",
+                    "investigation",
+                    "nature",
+                    "religion",
+                    "animal handling",
+                    "insight",
+                    "medicine",
+                    "perception",
+                    "survival",
+                    "deception",
+                    "intimidation",
+                    "performance",
+                    "persuasion"
+                ]
+            }
+        }
+    ],
+    "source": "XGE",
+    "toolProficiencies": [
+        {
+            "any": 1
+        }
+    ]
+}

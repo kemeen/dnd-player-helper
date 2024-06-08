@@ -1,0 +1,15 @@
+{
+    "group": "supplement-alt",
+    "id": "NRH-TCMC",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "NERDS Restoring Harmony: The Candy Mountain Caper",
+    "parentName": "NERDS Restoring Harmony",
+    "parentSource": "NRH",
+    "published": "2021-09-01",
+    "publishedOrder": 0,
+    "source": "NRH-TCMC",
+    "storyline": "NERDS Restoring Harmony"
+}

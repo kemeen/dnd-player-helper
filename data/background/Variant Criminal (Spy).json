@@ -1,0 +1,27 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "items": {
+                    "data": {
+                        "isFeature": true
+                    },
+                    "entries": [
+                        "You have a reliable and trustworthy contact who acts as your liaison to a network of other spies. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you."
+                    ],
+                    "name": "Feature: Spy Contact",
+                    "type": "entries"
+                },
+                "mode": "replaceArr",
+                "replace": "Feature: Criminal Contact"
+            }
+        },
+        "name": "Criminal",
+        "source": "PHB"
+    },
+    "basicRules": true,
+    "hasFluff": true,
+    "name": "Variant Criminal (Spy)",
+    "page": 130,
+    "source": "PHB"
+}

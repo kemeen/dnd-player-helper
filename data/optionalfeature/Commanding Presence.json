@@ -1,0 +1,15 @@
+{
+    "consumes": {
+        "name": "Superiority Die"
+    },
+    "entries": [
+        "When you make a Charisma ({@skill Intimidation}), a Charisma ({@skill Performance}), or a Charisma ({@skill Persuasion}) check, you can expend one superiority die and add the superiority die to the ability check."
+    ],
+    "featureType": [
+        "MV:B"
+    ],
+    "isClassFeatureVariant": true,
+    "name": "Commanding Presence",
+    "page": 42,
+    "source": "TCE"
+}

@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A bottle holds 1\u00bd pints of liquid."
+    ],
+    "name": "Glass Bottle",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 200,
+    "weight": 2
+}

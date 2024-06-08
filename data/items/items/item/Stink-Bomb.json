@@ -1,0 +1,12 @@
+{
+    "entries": [
+        "This smelly explosive can be primed and thrown up to 30 feet as an action. It explodes at the start of your next turn. Creatures within 20 feet of it must make a {@dc 12} Constitution {@quickref saving throws|PHB|2|1|saving throw} or be {@condition poisoned} for 1 minute. A creature can repeat this save at the end of each of its turns, ending the effect on itself on a success."
+    ],
+    "name": "Stink Bomb",
+    "page": 100,
+    "range": "30",
+    "rarity": "none",
+    "source": "TDCSR",
+    "type": "EXP",
+    "value": 2500
+}

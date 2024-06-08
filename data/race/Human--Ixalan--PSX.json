@@ -1,0 +1,67 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            "Humans tend toward no particular alignment. The best and the worst are found among them."
+                        ],
+                        "name": "Alignment",
+                        "type": "entries"
+                    },
+                    "mode": "appendArr"
+                },
+                {
+                    "items": {
+                        "entries": [
+                            "Your base walking speed is 30 feet."
+                        ],
+                        "name": "Speed",
+                        "type": "entries"
+                    },
+                    "mode": "appendArr"
+                },
+                {
+                    "items": {
+                        "entries": [
+                            "You can speak, read, and write {@language Common} and one extra language of your choice. Or, if your campaign uses the optional rules for languages found in the previous section, your national origin determines your native language: {@language Itzocan|PSX} for the Sun Empire, {@language Coalition pidgin|PSX} for the Brazen Coalition, or {@language Vampire|PSX} for the Legion of Dusk. You still speak one additional language of your choice, and {@language Common Trade Pidgin|PSX|Common} if it exists in your campaign."
+                        ],
+                        "name": "Languages",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Languages"
+                }
+            ]
+        },
+        "name": "Human",
+        "source": "PHB"
+    },
+    "ability": [
+        {
+            "cha": 1,
+            "con": 1,
+            "dex": 1,
+            "int": 1,
+            "str": 1,
+            "wis": 1
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true
+        },
+        {
+            "anyStandard": 1,
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Human (Ixalan)",
+    "page": 11,
+    "source": "PSX"
+}

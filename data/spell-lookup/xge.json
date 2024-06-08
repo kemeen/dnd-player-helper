@@ -1,0 +1,3155 @@
+{
+    "abi-dalzim's horrid wilting": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "absorb elements": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true,
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Divinely Favored": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            },
+            "TCE": {
+                "Artificer Initiate": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "aganazzar's scorcher": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "beast bond": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Divinely Favored": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            },
+            "TCE": {
+                "Fey Touched": true
+            }
+        }
+    },
+    "bones of the earth": {
+        "class": {
+            "PHB": {
+                "Druid": true
+            }
+        }
+    },
+    "catapult": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "feat": {
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            },
+            "TCE": {
+                "Artificer Initiate": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "catnap": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "cause fear": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Divinely Favored": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            },
+            "TCE": {
+                "Shadow Touched": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "ceremony": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Paladin": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Divinely Favored": true
+            },
+            "PHB": {
+                "Magic Initiate": true,
+                "Ritual Caster": true
+            },
+            "PSK": {
+                "Quicksmithing": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Book of Ancient Secrets": {
+                    "featureType": [
+                        "EI"
+                    ]
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "chaos bolt": {
+        "background": {
+            "GGR": {
+                "Izzet Engineer": true
+            }
+        },
+        "class": {
+            "PHB": {
+                "Sorcerer": true
+            }
+        },
+        "feat": {
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            }
+        }
+    },
+    "charm monster": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "control flames": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Initiate of High Sorcery": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "XGE": {
+                "Wood Elf Magic": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Druidic Warrior": {
+                    "featureType": [
+                        "FS:R"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "MPMM": {
+                "Kobold": true
+            },
+            "PHB": {
+                "Elf (High)": {
+                    "baseName": "Elf",
+                    "baseSource": "PHB"
+                }
+            },
+            "PSK": {
+                "Elf (Kaladesh; Vahadar)": {
+                    "baseName": "Elf (Kaladesh)",
+                    "baseSource": "PSK"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Blue)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Ixalan; Green)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Emeria Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Zendikar; Ula Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "SCAG": {
+                "Half-Elf (Variant; Moon Elf or Sun Elf Descent)": {
+                    "baseName": "Half-Elf",
+                    "baseSource": "PHB"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "PHB": {
+                        "Nature": {
+                            "name": "Nature Domain"
+                        }
+                    },
+                    "PSA": {
+                        "Strength (PSA)": {
+                            "name": "Strength Domain (PSA)"
+                        }
+                    },
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                },
+                "Druid": {
+                    "PHB": {
+                        "Land": {
+                            "name": "Circle of the Land"
+                        }
+                    }
+                },
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "control winds": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "create bonfire": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Initiate of High Sorcery": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "TCE": {
+                "Artificer Initiate": true
+            },
+            "XGE": {
+                "Wood Elf Magic": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Druidic Warrior": {
+                    "featureType": [
+                        "FS:R"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "MPMM": {
+                "Kobold": true
+            },
+            "PHB": {
+                "Elf (High)": {
+                    "baseName": "Elf",
+                    "baseSource": "PHB"
+                }
+            },
+            "PSK": {
+                "Elf (Kaladesh; Vahadar)": {
+                    "baseName": "Elf (Kaladesh)",
+                    "baseSource": "PSK"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Blue)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Ixalan; Green)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Emeria Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Zendikar; Ula Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "SCAG": {
+                "Half-Elf (Variant; Moon Elf or Sun Elf Descent)": {
+                    "baseName": "Half-Elf",
+                    "baseSource": "PHB"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "PHB": {
+                        "Nature": {
+                            "name": "Nature Domain"
+                        }
+                    },
+                    "PSA": {
+                        "Strength (PSA)": {
+                            "name": "Strength Domain (PSA)"
+                        }
+                    },
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                },
+                "Druid": {
+                    "PHB": {
+                        "Land": {
+                            "name": "Circle of the Land"
+                        }
+                    }
+                },
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "create homunculus": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "crown of stars": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "danse macabre": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "dawn": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "dragon's breath": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Red Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "druid grove": {
+        "class": {
+            "PHB": {
+                "Druid": true
+            }
+        }
+    },
+    "dust devil": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "earth tremor": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Divinely Favored": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "earthbind": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Red Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "elemental bane": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Warlock": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "enemies abound": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "enervation": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "erupting earth": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "far step": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "find greater steed": {
+        "class": {
+            "PHB": {
+                "Paladin": true
+            }
+        }
+    },
+    "flame arrows": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true,
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "frostbite": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Initiate of High Sorcery": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "TCE": {
+                "Artificer Initiate": true
+            },
+            "XGE": {
+                "Wood Elf Magic": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Druidic Warrior": {
+                    "featureType": [
+                        "FS:R"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "MPMM": {
+                "Kobold": true
+            },
+            "PHB": {
+                "Elf (High)": {
+                    "baseName": "Elf",
+                    "baseSource": "PHB"
+                }
+            },
+            "PSK": {
+                "Elf (Kaladesh; Vahadar)": {
+                    "baseName": "Elf (Kaladesh)",
+                    "baseSource": "PSK"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Blue)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Ixalan; Green)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Emeria Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Zendikar; Ula Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "SCAG": {
+                "Half-Elf (Variant; Moon Elf or Sun Elf Descent)": {
+                    "baseName": "Half-Elf",
+                    "baseSource": "PHB"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "PHB": {
+                        "Nature": {
+                            "name": "Nature Domain"
+                        }
+                    },
+                    "PSA": {
+                        "Strength (PSA)": {
+                            "name": "Strength Domain (PSA)"
+                        }
+                    },
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                },
+                "Druid": {
+                    "PHB": {
+                        "Land": {
+                            "name": "Circle of the Land"
+                        }
+                    }
+                },
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "guardian of nature": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true
+            }
+        }
+    },
+    "gust": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Initiate of High Sorcery": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "XGE": {
+                "Wood Elf Magic": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Druidic Warrior": {
+                    "featureType": [
+                        "FS:R"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "ERLW": {
+                "Half-Elf (Variant; Mark of Storm)": {
+                    "baseName": "Half-Elf",
+                    "baseSource": "PHB"
+                }
+            },
+            "MPMM": {
+                "Kobold": true
+            },
+            "PHB": {
+                "Elf (High)": {
+                    "baseName": "Elf",
+                    "baseSource": "PHB"
+                }
+            },
+            "PSK": {
+                "Elf (Kaladesh; Vahadar)": {
+                    "baseName": "Elf (Kaladesh)",
+                    "baseSource": "PSK"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Blue)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Ixalan; Green)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Emeria Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Zendikar; Ula Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "SCAG": {
+                "Half-Elf (Variant; Moon Elf or Sun Elf Descent)": {
+                    "baseName": "Half-Elf",
+                    "baseSource": "PHB"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "PHB": {
+                        "Nature": {
+                            "name": "Nature Domain"
+                        }
+                    },
+                    "PSA": {
+                        "Strength (PSA)": {
+                            "name": "Strength Domain (PSA)"
+                        }
+                    },
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                },
+                "Druid": {
+                    "PHB": {
+                        "Land": {
+                            "name": "Circle of the Land"
+                        }
+                    }
+                },
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "healing spirit": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true
+            }
+        }
+    },
+    "holy weapon": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Paladin": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "ice knife": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Divinely Favored": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "illusory dragon": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "immolation": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "infernal calling": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "infestation": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Initiate of High Sorcery": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "XGE": {
+                "Wood Elf Magic": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Druidic Warrior": {
+                    "featureType": [
+                        "FS:R"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "MPMM": {
+                "Kobold": true
+            },
+            "PHB": {
+                "Elf (High)": {
+                    "baseName": "Elf",
+                    "baseSource": "PHB"
+                }
+            },
+            "PSK": {
+                "Elf (Kaladesh; Vahadar)": {
+                    "baseName": "Elf (Kaladesh)",
+                    "baseSource": "PSK"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Blue)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Ixalan; Green)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Emeria Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Zendikar; Ula Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "SCAG": {
+                "Half-Elf (Variant; Moon Elf or Sun Elf Descent)": {
+                    "baseName": "Half-Elf",
+                    "baseSource": "PHB"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "PHB": {
+                        "Nature": {
+                            "name": "Nature Domain"
+                        }
+                    },
+                    "PSA": {
+                        "Strength (PSA)": {
+                            "name": "Strength Domain (PSA)"
+                        }
+                    },
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                },
+                "Druid": {
+                    "PHB": {
+                        "Land": {
+                            "name": "Circle of the Land"
+                        }
+                    }
+                },
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "investiture of flame": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "investiture of ice": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "investiture of stone": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "investiture of wind": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "invulnerability": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "life transference": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                },
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "maddening darkness": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "maelstrom": {
+        "class": {
+            "PHB": {
+                "Druid": true
+            }
+        }
+    },
+    "magic stone": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Warlock": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "feat": {
+            "PHB": {
+                "Magic Initiate": true,
+                "Spell Sniper": true
+            },
+            "TCE": {
+                "Artificer Initiate": true
+            },
+            "XGE": {
+                "Wood Elf Magic": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Druidic Warrior": {
+                    "featureType": [
+                        "FS:R"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "PSK": {
+                "Elf (Kaladesh; Vahadar)": {
+                    "baseName": "Elf (Kaladesh)",
+                    "baseSource": "PSK"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Green)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Emeria Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "PHB": {
+                        "Nature": {
+                            "name": "Nature Domain"
+                        }
+                    },
+                    "PSA": {
+                        "Strength (PSA)": {
+                            "name": "Strength Domain (PSA)"
+                        }
+                    }
+                },
+                "Druid": {
+                    "PHB": {
+                        "Land": {
+                            "name": "Circle of the Land"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "mass polymorph": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "maximilian's earthen grasp": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Red Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "melf's minute meteors": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "mental prison": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "mighty fortress": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "mind spike": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the White Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "mold earth": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Initiate of High Sorcery": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "XGE": {
+                "Wood Elf Magic": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Druidic Warrior": {
+                    "featureType": [
+                        "FS:R"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "MPMM": {
+                "Kobold": true
+            },
+            "PHB": {
+                "Elf (High)": {
+                    "baseName": "Elf",
+                    "baseSource": "PHB"
+                }
+            },
+            "PSK": {
+                "Elf (Kaladesh; Vahadar)": {
+                    "baseName": "Elf (Kaladesh)",
+                    "baseSource": "PSK"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Blue)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Ixalan; Green)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Emeria Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Zendikar; Ula Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "SCAG": {
+                "Half-Elf (Variant; Moon Elf or Sun Elf Descent)": {
+                    "baseName": "Half-Elf",
+                    "baseSource": "PHB"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "PHB": {
+                        "Nature": {
+                            "name": "Nature Domain"
+                        }
+                    },
+                    "PSA": {
+                        "Strength (PSA)": {
+                            "name": "Strength Domain (PSA)"
+                        }
+                    },
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                },
+                "Druid": {
+                    "PHB": {
+                        "Land": {
+                            "name": "Circle of the Land"
+                        }
+                    }
+                },
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "negative energy flood": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "power word pain": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "primal savagery": {
+        "class": {
+            "PHB": {
+                "Druid": true
+            }
+        },
+        "feat": {
+            "PHB": {
+                "Magic Initiate": true,
+                "Spell Sniper": true
+            },
+            "XGE": {
+                "Wood Elf Magic": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Druidic Warrior": {
+                    "featureType": [
+                        "FS:R"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "PSK": {
+                "Elf (Kaladesh; Vahadar)": {
+                    "baseName": "Elf (Kaladesh)",
+                    "baseSource": "PSK"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Green)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Emeria Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "PHB": {
+                        "Nature": {
+                            "name": "Nature Domain"
+                        }
+                    },
+                    "PSA": {
+                        "Strength (PSA)": {
+                            "name": "Strength Domain (PSA)"
+                        }
+                    }
+                },
+                "Druid": {
+                    "PHB": {
+                        "Land": {
+                            "name": "Circle of the Land"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "primordial ward": {
+        "class": {
+            "PHB": {
+                "Druid": true
+            }
+        }
+    },
+    "psychic scream": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "pyrotechnics": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Red Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "scatter": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "shadow blade": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Red Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "shadow of moil": {
+        "class": {
+            "PHB": {
+                "Warlock": true
+            }
+        }
+    },
+    "shape water": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Initiate of High Sorcery": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "XGE": {
+                "Wood Elf Magic": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Druidic Warrior": {
+                    "featureType": [
+                        "FS:R"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "EEPC": {
+                "Genasi (Water)": {
+                    "baseName": "Genasi",
+                    "baseSource": "EEPC"
+                }
+            },
+            "MPMM": {
+                "Kobold": true
+            },
+            "PHB": {
+                "Elf (High)": {
+                    "baseName": "Elf",
+                    "baseSource": "PHB"
+                }
+            },
+            "PSK": {
+                "Elf (Kaladesh; Vahadar)": {
+                    "baseName": "Elf (Kaladesh)",
+                    "baseSource": "PSK"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Blue)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Ixalan; Green)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Emeria Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Zendikar; Ula Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "SCAG": {
+                "Half-Elf (Variant; Moon Elf or Sun Elf Descent)": {
+                    "baseName": "Half-Elf",
+                    "baseSource": "PHB"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "PHB": {
+                        "Nature": {
+                            "name": "Nature Domain"
+                        }
+                    },
+                    "PSA": {
+                        "Strength (PSA)": {
+                            "name": "Strength Domain (PSA)"
+                        }
+                    },
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                },
+                "Druid": {
+                    "PHB": {
+                        "Land": {
+                            "name": "Circle of the Land"
+                        }
+                    }
+                },
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "sickening radiance": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "skill empowerment": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        }
+    },
+    "skywrite": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Druid": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Red Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "snare": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Divinely Favored": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            },
+            "TCE": {
+                "Artificer Initiate": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "snilloc's snowball swarm": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "soul cage": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "steel wind strike": {
+        "class": {
+            "PHB": {
+                "Ranger": true,
+                "Wizard": true
+            }
+        }
+    },
+    "storm sphere": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "summon greater demon": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "summon lesser demons": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "synaptic static": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "temple of the gods": {
+        "class": {
+            "PHB": {
+                "Cleric": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "tenser's transformation": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "thunder step": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "thunderclap": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Initiate of High Sorcery": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "TCE": {
+                "Artificer Initiate": true
+            },
+            "XGE": {
+                "Wood Elf Magic": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Druidic Warrior": {
+                    "featureType": [
+                        "FS:R"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "MPMM": {
+                "Kobold": true
+            },
+            "PHB": {
+                "Elf (High)": {
+                    "baseName": "Elf",
+                    "baseSource": "PHB"
+                }
+            },
+            "PSK": {
+                "Elf (Kaladesh; Vahadar)": {
+                    "baseName": "Elf (Kaladesh)",
+                    "baseSource": "PSK"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Blue)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Ixalan; Green)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Cosi Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Zendikar; Emeria Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                },
+                "Merfolk (Zendikar; Ula Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "SCAG": {
+                "Half-Elf (Variant; Moon Elf or Sun Elf Descent)": {
+                    "baseName": "Half-Elf",
+                    "baseSource": "PHB"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "PHB": {
+                        "Nature": {
+                            "name": "Nature Domain"
+                        }
+                    },
+                    "PSA": {
+                        "Strength (PSA)": {
+                            "name": "Strength Domain (PSA)"
+                        }
+                    },
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                },
+                "Druid": {
+                    "PHB": {
+                        "Land": {
+                            "name": "Circle of the Land"
+                        }
+                    }
+                },
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "tidal wave": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "tiny servant": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "toll the dead": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Divinely Favored": true,
+                "Initiate of High Sorcery": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Blessed Warrior": {
+                    "featureType": [
+                        "FS:P"
+                    ]
+                }
+            }
+        },
+        "race": {
+            "PHB": {
+                "Elf (High)": {
+                    "baseName": "Elf",
+                    "baseSource": "PHB"
+                }
+            },
+            "PSX": {
+                "Merfolk (Ixalan; Blue)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "PSZ": {
+                "Merfolk (Zendikar; Ula Creed)": {
+                    "baseName": "Merfolk",
+                    "baseSource": "PSZ"
+                }
+            },
+            "SCAG": {
+                "Half-Elf (Variant; Moon Elf or Sun Elf Descent)": {
+                    "baseName": "Half-Elf",
+                    "baseSource": "PHB"
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "DMG": {
+                        "Death": {
+                            "name": "Death Domain"
+                        }
+                    },
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                },
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                },
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "transmute rock": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        }
+    },
+    "vitriolic sphere": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "wall of light": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "wall of sand": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "wall of water": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "race": {
+            "MOT": {
+                "Triton": true
+            },
+            "VGM": {
+                "Triton": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "warding wind": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "watery sphere": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "whirlwind": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Cleric": {
+                    "SCAG": {
+                        "Arcana": {
+                            "name": "Arcana Domain"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "word of radiance": {
+        "class": {
+            "PHB": {
+                "Cleric": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Divinely Favored": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            },
+            "TCE": {
+                "Blessed Warrior": {
+                    "featureType": [
+                        "FS:P"
+                    ]
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "wrath of nature": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true
+            }
+        }
+    },
+    "zephyr strike": {
+        "class": {
+            "PHB": {
+                "Ranger": true
+            }
+        }
+    }
+}

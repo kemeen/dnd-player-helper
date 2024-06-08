@@ -1,0 +1,57 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "s": true
+    },
+    "damageInflict": [
+        "psychic"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You reach into the mind of one creature you can see within range. The target must make a Wisdom saving throw, taking {@damage 3d8} psychic damage on a failed save, or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it's {@condition invisible}, it gains no benefit from that condition against you."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by {@scaledamage 3d8|2-9|1d8} for each slot level above 2nd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Mind Spike",
+    "page": 162,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "wisdom"
+    ],
+    "school": "D",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

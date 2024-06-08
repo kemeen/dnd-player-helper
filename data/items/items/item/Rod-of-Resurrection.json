@@ -1,0 +1,36 @@
+{
+    "attachedSpells": [
+        "heal",
+        "resurrection"
+    ],
+    "charges": 5,
+    "entries": [
+        "The rod has 5 charges. While you hold it, you can use an action to cast one of the following spells from it: {@spell heal} (expends 1 charge) or {@spell resurrection} (expends 5 charges).",
+        "The rod regains 1 expended charge daily at dawn. If the rod is reduced to 0 charges, roll a {@dice d20}. On a 1, the rod disappears in a burst of radiance."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table I"
+    ],
+    "name": "Rod of Resurrection",
+    "page": 197,
+    "rarity": "legendary",
+    "recharge": "dawn",
+    "rechargeAmount": 1,
+    "reqAttune": "by a cleric, druid, or paladin",
+    "reqAttuneTags": [
+        {
+            "class": "cleric"
+        },
+        {
+            "class": "druid"
+        },
+        {
+            "class": "paladin"
+        }
+    ],
+    "source": "DMG",
+    "tier": "major",
+    "type": "RD",
+    "weight": 2
+}

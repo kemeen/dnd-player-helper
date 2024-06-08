@@ -1,0 +1,9 @@
+{
+    "name": "gnomish",
+    "typical_speakers": [
+        "gnomes"
+    ],
+    "script": "dwarvish",
+    "type": "standard",
+    "parent": null
+}

@@ -1,0 +1,10 @@
+{
+    "entries": [
+        "When you drink this potion, you gain the effect of a {@spell comprehend languages} spell for 1 hour. This liquid is a clear concoction with bits of salt and soot swirling in it."
+    ],
+    "name": "Potion of Comprehension",
+    "page": 62,
+    "rarity": "common",
+    "source": "WDMM",
+    "type": "P"
+}

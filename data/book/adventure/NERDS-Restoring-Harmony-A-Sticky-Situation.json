@@ -1,0 +1,15 @@
+{
+    "group": "supplement-alt",
+    "id": "NRH-ASS",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "NERDS Restoring Harmony: A Sticky Situation",
+    "parentName": "NERDS Restoring Harmony",
+    "parentSource": "NRH",
+    "published": "2021-09-01",
+    "publishedOrder": 2,
+    "source": "NRH-ASS",
+    "storyline": "NERDS Restoring Harmony"
+}

@@ -1,0 +1,12 @@
+{
+    "group": "supplement-alt",
+    "id": "LLK",
+    "level": {
+        "end": 10,
+        "start": 5
+    },
+    "name": "Lost Laboratory of Kwalish",
+    "published": "2018-11-10",
+    "source": "LLK",
+    "storyline": "Extra Life"
+}

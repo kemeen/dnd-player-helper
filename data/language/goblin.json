@@ -1,0 +1,9 @@
+{
+    "name": "goblin",
+    "typical_speakers": [
+        "goblinoids"
+    ],
+    "script": "dwarvish",
+    "type": "standard",
+    "parent": null
+}

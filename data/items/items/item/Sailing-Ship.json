@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "capCargo": 100,
+    "capPassenger": 20,
+    "crew": 20,
+    "name": "Sailing Ship",
+    "page": 119,
+    "rarity": "none",
+    "seeAlsoVehicle": [
+        "Sailing Ship"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "type": "SHP",
+    "value": 1000000,
+    "vehAc": 15,
+    "vehDmgThresh": 15,
+    "vehHp": 300,
+    "vehSpeed": 2
+}

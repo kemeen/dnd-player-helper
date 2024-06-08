@@ -1,0 +1,19 @@
+{
+    "ac": 2,
+    "bonusAc": "+2",
+    "entries": [
+        "You gain a +2 bonus to AC against ranged attacks while you wield this shield. This bonus is in addition to the shield's normal bonus to AC. In addition, whenever an attacker makes a ranged attack against a target within 5 feet of you, you can use your reaction to become the target of the attack instead."
+    ],
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Arrow-Catching Shield",
+    "page": 152,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "S",
+    "weight": 6
+}

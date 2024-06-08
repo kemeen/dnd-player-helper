@@ -1,0 +1,28 @@
+{
+    "ability": [
+        {
+            "str": 1
+        }
+    ],
+    "entries": [
+        "You can use your armor to deflect strikes that would kill others. You gain the following benefits:",
+        {
+            "items": [
+                "While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical attacks is reduced by 3."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Heavy Armor Master",
+    "page": 167,
+    "prerequisite": [
+        {
+            "proficiency": [
+                {
+                    "armor": "heavy"
+                }
+            ]
+        }
+    ],
+    "source": "PHB"
+}

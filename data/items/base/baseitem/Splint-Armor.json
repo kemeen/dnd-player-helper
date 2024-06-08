@@ -1,0 +1,18 @@
+{
+    "ac": 17,
+    "armor": true,
+    "basicRules": true,
+    "entries": [
+        "This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints."
+    ],
+    "name": "Splint Armor",
+    "page": 145,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "stealth": true,
+    "strength": "15",
+    "type": "HA",
+    "value": 20000,
+    "weight": 60
+}

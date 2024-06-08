@@ -1,0 +1,17 @@
+{
+    "ac": 11,
+    "armor": true,
+    "basicRules": true,
+    "entries": [
+        "Padded armor consists of quilted layers of cloth and batting."
+    ],
+    "name": "Padded Armor",
+    "page": 144,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "stealth": true,
+    "type": "LA",
+    "value": 500,
+    "weight": 8
+}

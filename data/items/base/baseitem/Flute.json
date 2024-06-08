@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Flute",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "INS",
+    "value": 200,
+    "weight": 1
+}

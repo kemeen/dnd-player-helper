@@ -1,0 +1,15 @@
+{
+    "basicRules": true,
+    "entries": [
+        "This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom ({@skill Medicine}) check."
+    ],
+    "hasFluffImages": true,
+    "name": "Healer's Kit",
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 500,
+    "weight": 3
+}

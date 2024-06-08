@@ -1,0 +1,50 @@
+{
+    "affectsCreatureType": [
+        "aberration",
+        "beast",
+        "celestial",
+        "dragon",
+        "elemental",
+        "fey",
+        "fiend",
+        "giant",
+        "humanoid",
+        "monstrosity",
+        "ooze",
+        "plant"
+    ],
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs."
+    ],
+    "level": 0,
+    "name": "Spare the Dying",
+    "page": 277,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "N",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

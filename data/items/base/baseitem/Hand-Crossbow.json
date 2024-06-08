@@ -1,0 +1,23 @@
+{
+    "ammoType": "crossbow bolt|phb",
+    "basicRules": true,
+    "crossbow": true,
+    "dmg1": "1d6",
+    "dmgType": "P",
+    "name": "Hand Crossbow",
+    "page": 149,
+    "property": [
+        "A",
+        "L",
+        "LD"
+    ],
+    "range": "30/120",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "R",
+    "value": 7500,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 3
+}

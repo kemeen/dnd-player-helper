@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "dmg1": "1d6",
+    "dmgType": "P",
+    "name": "Shortsword",
+    "page": 149,
+    "property": [
+        "F",
+        "L"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "sword": true,
+    "type": "M",
+    "value": 1000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 2
+}

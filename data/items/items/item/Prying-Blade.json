@@ -1,0 +1,9 @@
+{
+    "entries": [
+        "A hooked blade useful on board a ship or as a cutting tool in the wilderness, this {@item +1 shortsword} grants its wielder advantage on Strength ({@skill Athletics}) checks to climb or to escape while {@condition restrained}."
+    ],
+    "name": "Prying Blade",
+    "page": 19,
+    "rarity": "unknown (magic)",
+    "source": "XMtS"
+}

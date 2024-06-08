@@ -1,0 +1,78 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "faerie fire"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "enlarge/reduce"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "druidcraft#c"
+                ]
+            }
+        }
+    ],
+    "creatureTypes": [
+        "fey"
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You are a Fey."
+            ],
+            "name": "Creature Type",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor."
+            ],
+            "name": "Flight",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell druidcraft} cantrip.",
+                "Starting at 3rd level, you can cast the {@spell faerie fire} spell with this trait. Starting at 5th level, you can also cast the {@spell enlarge/reduce} spell with this trait. Once you cast {@spell faerie fire} or {@spell enlarge/reduce} with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.",
+                "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+            ],
+            "name": "Fairy Magic",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Fairy",
+    "page": 12,
+    "reprintedAs": [
+        "Fairy|MPMM"
+    ],
+    "size": [
+        "S"
+    ],
+    "source": "WBtW",
+    "speed": {
+        "fly": true,
+        "walk": 30
+    }
+}

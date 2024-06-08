@@ -1,0 +1,39 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded."
+    ],
+    "level": 3,
+    "miscTags": [
+        "OBJ"
+    ],
+    "name": "Remove Curse",
+    "page": 271,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

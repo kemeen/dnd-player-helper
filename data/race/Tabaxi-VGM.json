@@ -1,0 +1,110 @@
+{
+    "ability": [
+        {
+            "cha": 1,
+            "dex": 2
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Tabaxi have lifespans equivalent to humans."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Tabaxi are taller on average than humans and relatively slender. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have a cat's keen senses, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns."
+            ],
+            "name": "Feline Agility",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to {@damage 1d4} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+            ],
+            "name": "Cat's Claws",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Perception} and {@skill Stealth} skills."
+            ],
+            "name": "Cat's Talents",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and one other language of your choice."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 58,
+        "baseWeight": 90,
+        "heightMod": "2d10",
+        "weightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true
+        }
+    ],
+    "name": "Tabaxi",
+    "otherSources": [
+        {
+            "page": 179,
+            "source": "EGW"
+        }
+    ],
+    "page": 113,
+    "reprintedAs": [
+        "Tabaxi|MPMM"
+    ],
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "perception": true,
+            "stealth": true
+        }
+    ],
+    "soundClip": {
+        "path": "races/tabaxi.mp3",
+        "type": "internal"
+    },
+    "source": "VGM",
+    "speed": {
+        "climb": 20,
+        "walk": 30
+    },
+    "traitTags": [
+        "Natural Weapon"
+    ]
+}

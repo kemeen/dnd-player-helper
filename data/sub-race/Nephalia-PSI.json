@@ -1,0 +1,41 @@
+{
+    "ability": [
+        {
+            "cha": 1,
+            "int": 1
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You gain proficiency in any combination of four skills or with four {@book tools|phb|5|tools} of your choice."
+            ],
+            "name": "Breadth of Knowledge",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Nephalia",
+    "page": 8,
+    "raceName": "Human (Innistrad)",
+    "raceSource": "PSI",
+    "skillToolLanguageProficiencies": [
+        {
+            "choose": [
+                {
+                    "count": 4,
+                    "from": [
+                        "anySkill",
+                        "anyTool"
+                    ]
+                }
+            ]
+        }
+    ],
+    "source": "PSI",
+    "traitTags": [
+        "Skill Proficiency",
+        "Tool Proficiency"
+    ]
+}

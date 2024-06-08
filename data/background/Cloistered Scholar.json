@@ -1,0 +1,97 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill History}, plus your choice of one from among {@skill Arcana}, {@skill Nature}, and {@skill Religion}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "any two of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "The scholar's {@item robes|phb} of your cloister, a writing kit (small {@item pouch|phb} with a quill, ink, folded parchment, and a small penknife), a borrowed {@item book|phb} on the subject of your current study, and a {@item pouch|phb} containing 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "Though others must often endure extensive interviews and significant fees to gain access to even the most common archives in your library, you have free and easy access to the majority of the library, though it might also have repositories of lore that are too valuable, magical, or secret to permit anyone immediate access.",
+                "You have a working knowledge of your cloister's personnel and bureaucracy, and you know how to navigate those connections with some ease.",
+                "Additionally, you are likely to gain preferential treatment at other libraries across the Realms, as professional courtesy to a fellow scholar."
+            ],
+            "name": "Feature: Library Access",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Use the tables for the {@background sage} background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a cloistered scholar.",
+                "Your bond is almost certainly associated either with the place where you grew up or with the knowledge you hope to acquire through adventuring. Your ideal is no doubt related to how you view the quest for knowledge and truth - perhaps as a worthy goal in itself, or maybe as a means to a desirable end."
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 2
+        }
+    ],
+    "name": "Cloistered Scholar",
+    "page": 146,
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "arcana",
+                    "nature",
+                    "religion"
+                ]
+            },
+            "history": true
+        }
+    ],
+    "source": "SCAG",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "displayName": "The scholar's robes of your cloister",
+                    "item": "robes|phb"
+                },
+                "pouch|phb",
+                {
+                    "special": "quill"
+                },
+                {
+                    "special": "ink"
+                },
+                {
+                    "special": "folded parchment"
+                },
+                {
+                    "special": "small penknife"
+                },
+                {
+                    "displayName": "borrowed book on the subject of your current study",
+                    "item": "book|phb"
+                },
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ]
+}

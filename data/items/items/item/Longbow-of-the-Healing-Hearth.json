@@ -1,0 +1,49 @@
+{
+    "ammoType": "arrow|phb",
+    "attachedSpells": [
+        "create food and water",
+        "warding bond",
+        "guardian of faith"
+    ],
+    "baseItem": "longbow|PHB",
+    "bonusWeapon": "+3",
+    "charges": 8,
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "This ivory longbow is inscribed with a prayer to the god Hiatea, the runes of which are entwined with gilded engravings of wheat stalks and deer antlers.",
+        "You gain a +3 bonus to attack and damage rolls made with this weapon. If you load no ammunition in the weapon, it produces its own, automatically creating one magic arrow when you pull back the string. The arrow created by the bow vanishes the instant after it hits or misses a target.",
+        "The bow has 8 charges for the following properties, which you can use while wielding the bow. The bow regains {@dice 1d4 + 1} charges daily at dawn.",
+        {
+            "entries": [
+                "When you take the {@action Attack} action using the bow, you can expend 1 charge to replace one of your attacks with a blazing arrow of curative magic, which automatically hits one creature you can see within 150 feet of you. The target can then immediately spend and roll one of its unspent Hit Dice and regain a number of hit points equal to the roll plus your Wisdom modifier (minimum of +1).",
+                "If the target has no unspent Hit Dice remaining, nothing happens. You can use a curative arrow only once per turn."
+            ],
+            "name": "Curative Arrow",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While holding the bow, you can use an action to expend 1 or more of its charges to cast one of the following spells from it (save DC 18): {@spell create food and water} (1 charge), {@spell warding bond} (2 charges), {@spell guardian of faith} (3 charges)."
+            ],
+            "name": "Spellcasting",
+            "type": "entries"
+        }
+    ],
+    "name": "Longbow of the Healing Hearth",
+    "page": 113,
+    "property": [
+        "A",
+        "H",
+        "2H"
+    ],
+    "range": "150/600",
+    "rarity": "legendary",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d4 + 1}",
+    "reqAttune": true,
+    "source": "BGG",
+    "type": "R",
+    "weaponCategory": "martial",
+    "weight": 2
+}

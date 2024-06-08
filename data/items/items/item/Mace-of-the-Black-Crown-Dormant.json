@@ -1,0 +1,64 @@
+{
+    "baseItem": "mace|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d6",
+    "dmgType": "B",
+    "entries": [
+        "This mace has a haft of black iron and a ruby head with a fiendish countenance. Carrying the boon of Asmodeus, it is fit for the most powerful servants of the Nine Hells.",
+        {
+            "entries": [
+                "The Mace of the Black Crown is a sentient lawful evil weapon with an Intelligence of 20, a Wisdom of 12, and a Charisma of 18. It has hearing and {@sense darkvision} out to a range of 120 feet.",
+                "The weapon communicates telepathically with its wielder and can speak, read, and understand Common and Infernal."
+            ],
+            "name": "Sentience",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "A greedy {@creature erinyes} named Xartaza lives within the Mace of the Black Crown. Xartaza wants to recruit more souls for Asmodeus, so the weapon pushes its wielder toward lawful evil actions by manipulating the wielder's dreams. A former Blood War general, Xartaza hates demons and relishes crafting sound battle plans in any conflict."
+            ],
+            "name": "Personality",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The mace grants the following benefits in its dormant state:",
+                {
+                    "items": [
+                        "You can speak, read, and write Infernal.",
+                        "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
+                        "While holding the mace, you can use a bonus action to speak its Infernal command word, causing flames to erupt from the head. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the mace is ablaze, it deals an extra {@damage 1d6} fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you are no longer holding the mace.",
+                        "While holding the mace, you can use an action to summon an {@creature imp}. Any devil you summon with this mace is friendly to you and your companions for the duration. The imp obeys any verbal commands that you issue to it and returns to the Nine Hells 10 minutes after you summoned it. This property can't be used again until the next dawn."
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Dormant",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The Arms of the Betrayers advance in power in the same manner as the Vestiges of Divergence. In its dormant state, each of these artifacts has one {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} property and one {@table Artifact Properties; Minor Detrimental Properties|dmg|minor detrimental} property. When the artifact attains an awakened state, it gains an additional {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} property and an additional {@table Artifact Properties; Minor Detrimental Properties|dmg|minor detrimental} property. When the item reaches its exalted state, it gains a {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} property. See \"Artifact Properties\" in chapter 7 of the Dungeon Master's Guide for more information."
+            ],
+            "name": "Betrayer Artifact Properties",
+            "type": "inset"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Mace of the Black Crown (Dormant)",
+    "page": 276,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "artifact",
+    "reqAttune": true,
+    "resist": [
+        "fire",
+        "poison"
+    ],
+    "sentient": true,
+    "source": "EGW",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 4
+}

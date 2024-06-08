@@ -1,0 +1,21 @@
+{
+    "ac": 12,
+    "bonusAc": "+2",
+    "entries": [
+        "You have a +2 bonus to AC while wearing this armor.",
+        "You have resistance to cold damage while you wear this armor.",
+        "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.",
+        "{@note Worn by {@creature Vex'ahlia|TDCSR}.}"
+    ],
+    "name": "+2 Studded White Dragon Leather Armor of Cold Resistance",
+    "page": 267,
+    "rarity": "unknown (magic)",
+    "reqAttune": true,
+    "resist": [
+        "cold"
+    ],
+    "source": "TDCSR",
+    "tier": "major",
+    "type": "LA",
+    "weight": 13
+}

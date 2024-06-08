@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "SCC-CK",
+    "level": {
+        "end": 4,
+        "start": 1
+    },
+    "name": "Strixhaven: Campus Kerfuffle",
+    "parentName": "Strixhaven: A Curriculum of Chaos",
+    "parentSource": "SCC",
+    "published": "2021-12-07",
+    "publishedOrder": 0,
+    "source": "SCC-CK",
+    "storyline": "Strixhaven"
+}

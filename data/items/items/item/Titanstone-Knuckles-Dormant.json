@@ -1,0 +1,27 @@
+{
+    "ability": {
+        "static": {
+            "str": 22
+        }
+    },
+    "entries": [
+        "Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbarian {@creature Grog Strongjaw|TDCSR}, who continues to use them as he seeks worthy challengers across Tal'Dorei and Exandria.",
+        {
+            "entries": [
+                "While the Titanstone Knuckles are in a dormant state, your Strength score becomes 22 while you wear these gauntlets. Additionally, your weapon attacks deal double damage to objects and structures."
+            ],
+            "name": "Dormant",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Titanstone Knuckles (Dormant)",
+    "page": 211,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "wondrous": true
+}

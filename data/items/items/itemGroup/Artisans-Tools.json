@@ -1,0 +1,28 @@
+{
+    "basicRules": true,
+    "items": [
+        "Alchemist's Supplies|PHB",
+        "Brewer's Supplies|PHB",
+        "Calligrapher's Supplies|PHB",
+        "Carpenter's Tools|PHB",
+        "Cartographer's Tools|PHB",
+        "Cobbler's Tools|PHB",
+        "Cook's Utensils|PHB",
+        "Glassblower's Tools|PHB",
+        "Jeweler's Tools|PHB",
+        "Leatherworker's Tools|PHB",
+        "Mason's Tools|PHB",
+        "Painter's Supplies|PHB",
+        "Potter's Tools|PHB",
+        "Smith's Tools|PHB",
+        "Tinker's Tools|PHB",
+        "Weaver's Tools|PHB",
+        "Woodcarver's Tools|PHB"
+    ],
+    "name": "Artisan's Tools",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "AT"
+}

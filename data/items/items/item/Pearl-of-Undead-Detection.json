@@ -1,0 +1,11 @@
+{
+    "entries": [
+        "This black pearl glows faintly when undead are within 120 feet of it."
+    ],
+    "name": "Pearl of Undead Detection",
+    "page": 76,
+    "rarity": "unknown (magic)",
+    "source": "WDMM",
+    "type": "OTH",
+    "value": 50000
+}

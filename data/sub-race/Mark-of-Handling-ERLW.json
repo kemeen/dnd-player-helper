@@ -1,0 +1,126 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "count": 1,
+                "from": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "cha"
+                ]
+            },
+            "wis": 2
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "expanded": {
+                "s1": [
+                    "animal friendship",
+                    "speak with animals"
+                ],
+                "s2": [
+                    "beast sense",
+                    "calm emotions"
+                ],
+                "s3": [
+                    "beacon of hope",
+                    "conjure animals"
+                ],
+                "s4": [
+                    "aura of life",
+                    "dominate beast"
+                ],
+                "s5": [
+                    "awaken"
+                ]
+            },
+            "known": {
+                "1": {
+                    "rest": {
+                        "1": [
+                            "animal friendship",
+                            "speak with animals"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "When you make a Wisdom ({@skill Animal Handling}) or Intelligence ({@skill Nature}) check, you can roll a {@dice d4} and add the number rolled to the ability check."
+            ],
+            "name": "Wild Intuition",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell animal friendship} and {@spell speak with animals} spells with this trait, requiring no material component. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a short or long rest. Wisdom is your spellcasting ability for these spells."
+            ],
+            "name": "Primal Connection",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Starting at 3rd level, you can target a beast or monstrosity when you cast {@spell animal friendship} or {@spell speak with animals}, provided the creature's Intelligence score is 3 or lower."
+            ],
+            "name": "The Bigger They Are",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Handling Spells table are added to the spell list of your spellcasting class.",
+                {
+                    "caption": "Mark of Handling Spells",
+                    "colLabels": [
+                        "Spell Level",
+                        "Spells"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1st",
+                            "{@spell animal friendship}, {@spell speak with animals}"
+                        ],
+                        [
+                            "2nd",
+                            "{@spell beast sense}, {@spell calm emotions}"
+                        ],
+                        [
+                            "3rd",
+                            "{@spell beacon of hope}, {@spell conjure animals}"
+                        ],
+                        [
+                            "4th",
+                            "{@spell aura of life}, {@spell dominate beast}"
+                        ],
+                        [
+                            "5th",
+                            "{@spell awaken}"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Spells of the Mark",
+            "type": "entries"
+        }
+    ],
+    "name": "Mark of Handling",
+    "page": 42,
+    "raceName": "Human",
+    "raceSource": "PHB",
+    "source": "ERLW",
+    "traitTags": [
+        "Dragonmark",
+        "Skill Bonus Dice"
+    ]
+}

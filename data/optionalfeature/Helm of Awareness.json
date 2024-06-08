@@ -1,0 +1,24 @@
+{
+    "entries": [
+        "While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be {@quickref Surprise|PHB|3|0|surprised}, provided it isn't {@condition incapacitated}."
+    ],
+    "featureType": [
+        "AI"
+    ],
+    "name": "Helm of Awareness",
+    "page": 21,
+    "prerequisite": [
+        {
+            "item": [
+                "A helmet (requires attunement)"
+            ],
+            "level": {
+                "class": {
+                    "name": "Artificer"
+                },
+                "level": 10
+            }
+        }
+    ],
+    "source": "TCE"
+}

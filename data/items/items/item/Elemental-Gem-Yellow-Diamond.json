@@ -1,0 +1,15 @@
+{
+    "attachedSpells": [
+        "conjure elemental"
+    ],
+    "entries": [
+        "This gem contains a mote of elemental energy. When you use an action to break the gem, an {@creature earth elemental} is summoned as if you had cast the {@spell conjure elemental} spell, and the gem's magic is lost."
+    ],
+    "name": "Elemental Gem, Yellow Diamond",
+    "page": 167,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "wondrous": true
+}

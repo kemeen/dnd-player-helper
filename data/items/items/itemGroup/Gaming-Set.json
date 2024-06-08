@@ -1,0 +1,15 @@
+{
+    "basicRules": true,
+    "items": [
+        "Dice Set|PHB",
+        "Dragonchess Set|PHB",
+        "Playing Card Set|PHB",
+        "Three-Dragon Ante Set|PHB"
+    ],
+    "name": "Gaming Set",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "GS"
+}

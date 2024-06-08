@@ -1,0 +1,16 @@
+{
+    "basicRules": true,
+    "entries": [
+        "This potion's container looks empty but feels as though it holds liquid. When you drink it, you become {@condition invisible} for 1 hour. Anything you wear or carry is {@condition invisible} with you. The effect ends early if you attack or cast a spell."
+    ],
+    "lootTables": [
+        "Magic Item Table D"
+    ],
+    "name": "Potion of Invisibility",
+    "page": 188,
+    "rarity": "very rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

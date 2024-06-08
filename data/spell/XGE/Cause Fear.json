@@ -1,0 +1,71 @@
+{
+    "affectsCreatureType": [
+        "aberration",
+        "beast",
+        "celestial",
+        "dragon",
+        "elemental",
+        "fey",
+        "fiend",
+        "giant",
+        "humanoid",
+        "monstrosity",
+        "ooze",
+        "plant"
+    ],
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "v": true
+    },
+    "conditionInflict": [
+        "frightened"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become {@condition frightened} of you until the spell ends. The {@condition frightened} target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Cause Fear",
+    "page": 151,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "wisdom"
+    ],
+    "school": "N",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

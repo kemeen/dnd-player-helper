@@ -1,0 +1,30 @@
+{
+    "ammo": true,
+    "entries": [
+        "Ammunition made of or coated with adamantine is unusually effective when used to break objects. Whenever a piece of adamantine ammunition hits an object, the hit is a critical hit.",
+        "The adamantine version of ten pieces of ammunition costs 500 gp more than the normal version, whether the ammunition is made of the metal or coated with it."
+    ],
+    "excludes": {
+        "name": "Energy Cell"
+    },
+    "inherits": {
+        "entries": [
+            "Whenever you hit an object using this ammunition, the hit is a critical hit."
+        ],
+        "namePrefix": "Adamantine ",
+        "page": 78,
+        "rarity": "unknown",
+        "source": "XGE",
+        "tier": "minor"
+    },
+    "name": "Adamantine Ammunition",
+    "requires": [
+        {
+            "type": "A"
+        },
+        {
+            "type": "AF"
+        }
+    ],
+    "type": "GV"
+}

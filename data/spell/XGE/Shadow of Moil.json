@@ -1,0 +1,53 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "m": {
+            "cost": 15000,
+            "text": "an undead eyeball encased in a gem worth at least 150 gp"
+        },
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "necrotic"
+    ],
+    "damageResist": [
+        "radiant"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Flame-like shadows wreathe your body until the spell ends, causing you to become heavily obscured to others. The shadows turn dim light within 10 feet of you into darkness, and bright light in the same area to dim light.",
+        "Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it {@damage 2d8} necrotic damage."
+    ],
+    "level": 4,
+    "miscTags": [
+        "OBS"
+    ],
+    "name": "Shadow of Moil",
+    "page": 164,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "N",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

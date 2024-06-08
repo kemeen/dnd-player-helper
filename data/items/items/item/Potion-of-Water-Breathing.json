@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table B"
+    ],
+    "name": "Potion of Water Breathing",
+    "page": 188,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

@@ -1,0 +1,27 @@
+{
+    "attachedSpells": [
+        "blink"
+    ],
+    "bonusSavingThrow": "+1",
+    "conditionImmune": [
+        "grappled"
+    ],
+    "entries": [
+        "A beautiful, glittering emerald is set within this silver chain, humming with power and possibility. It is said that this amulet was stolen from the neck of {@deity The Changebringer|Exandria|TDCSR} herself by the {@deity The Lord of the Hells|Exandria|TDCSR}, and locked within the vaults of Bazzoxan in {@book Wildemount|TDCSR|3|Wildemount}. It was later claimed there by a group of Aurora Watch soldiers during an expedition into that grim fortress's abandoned temples."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Kiss of the Changebringer (Dormant)|TDCSR",
+        "Kiss of the Changebringer (Awakened)|TDCSR",
+        "Kiss of the Changebringer (Exalted)|TDCSR"
+    ],
+    "name": "Kiss of the Changebringer",
+    "page": 206,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "wondrous": true
+}

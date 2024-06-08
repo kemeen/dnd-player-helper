@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 ({@damage 9d6}) poison damage on a failed save, or half as much damage on a successful one."
+    ],
+    "name": "Midnight Tears",
+    "page": 258,
+    "poison": true,
+    "poisonTypes": [
+        "ingested"
+    ],
+    "rarity": "none",
+    "source": "DMG",
+    "srd": true,
+    "type": "G",
+    "value": 150000
+}

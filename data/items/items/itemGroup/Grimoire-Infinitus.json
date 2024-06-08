@@ -1,0 +1,26 @@
+{
+    "entries": [
+        "Several of these spellbooks with gilded pages and silver-plated covers were created during the Age of Arcanum, but only one has been found since the Calamity ended. The book has an infinite number of pages, is three inches thick, eight inches wide, twelve inches long, and weighs three pounds."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Grimoire Infinitus (Dormant)|EGW",
+        "Grimoire Infinitus (Awakened)|EGW",
+        "Grimoire Infinitus (Exalted)|EGW"
+    ],
+    "name": "Grimoire Infinitus",
+    "page": 271,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": "by a wizard",
+    "reqAttuneTags": [
+        {
+            "class": "wizard"
+        }
+    ],
+    "source": "EGW",
+    "weight": 3,
+    "wondrous": true
+}

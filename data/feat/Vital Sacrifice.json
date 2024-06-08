@@ -1,0 +1,18 @@
+{
+    "entries": [
+        "You've learned secrets of {@variantrule hemocraft|TDCSR} that grant you esoteric power at the price of your own life force. As a bonus action, you can choose to take {@damage 1d6} necrotic damage to gain a blood boon. Your blood boon lasts for 1 hour or until expended.",
+        "You can expend this blood boon to gain one of the following benefits:",
+        {
+            "items": [
+                "When you make an attack roll, you roll {@dice 1d6} and add it to the total.",
+                "When you hit with an attack or spell, you deal an additional {@damage 2d6} necrotic damage.",
+                "When you cause a creature to make a Strength, Dexterity, or Constitution {@quickref saving throws|PHB|2|1|saving throw}, roll a {@dice d4} and reduce their save by the amount rolled."
+            ],
+            "type": "list"
+        },
+        "The damage you take to gain a blood boon can't be reduced in any way."
+    ],
+    "name": "Vital Sacrifice",
+    "page": 191,
+    "source": "TDCSR"
+}

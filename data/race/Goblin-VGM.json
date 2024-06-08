@@ -1,0 +1,89 @@
+{
+    "ability": [
+        {
+            "con": 1,
+            "dex": 2
+        }
+    ],
+    "age": {
+        "mature": 8,
+        "max": 60
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Goblins reach adulthood at age 8 and live up to 60 years."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+            ],
+            "name": "Fury of the Small",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can take the {@action Disengage} or {@action Hide} action as a bonus action on each of your turns."
+            ],
+            "name": "Nimble Escape",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Goblin."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 41,
+        "baseWeight": 35,
+        "heightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "goblin": true
+        }
+    ],
+    "name": "Goblin",
+    "otherSources": [
+        {
+            "page": 174,
+            "source": "EGW"
+        }
+    ],
+    "page": 119,
+    "reprintedAs": [
+        "Goblin|MPMM"
+    ],
+    "size": [
+        "S"
+    ],
+    "source": "VGM",
+    "speed": 30,
+    "traitTags": [
+        "Monstrous Race"
+    ]
+}

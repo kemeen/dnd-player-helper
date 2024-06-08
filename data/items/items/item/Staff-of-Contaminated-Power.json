@@ -1,0 +1,50 @@
+{
+    "attachedSpells": [
+        "delerium orb|dodk",
+        "warp bolt|dodk",
+        "ride the rifts|dodk",
+        "delerium blast|dodk",
+        "conjure the deep haze|dodk",
+        "ray of contamination|dodk"
+    ],
+    "bonusWeapon": "+2",
+    "charges": 20,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it.",
+        "The staff has 20 charges for the following properties. The staff regains 1 charge each hour it rests in the Deep Haze. You can also touch a delerium crystal to the staff, which causes it to regain {@dice 2d8 + 4} charges, then the crystal crumbles to dust. If you expend the last charge, you immediately gain {@dice 1d6} {@adventure levels of contamination|DoDk|12}.",
+        {
+            "entries": [
+                "While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: {@spell delerium orb|DoDk} (1 charge), {@spell warp bolt|DoDk} (2 charges), {@spell ride the rifts|DoDk} (3 charges), {@spell delerium blast|DoDk} (4 charges), {@spell conjure the deep haze|DoDk} (5 charges), and {@spell ray of contamination|DoDk} (6 charges). You don't gain any {@adventure contamination levels|DoDk|12} when you cast these spells using charges from this staff."
+            ],
+            "name": "Spells",
+            "type": "entries"
+        }
+    ],
+    "name": "Staff of Contaminated Power",
+    "page": 232,
+    "property": [
+        "V"
+    ],
+    "rarity": "legendary",
+    "recharge": "special",
+    "reqAttune": "by a sorcerer, warlock, or wizard",
+    "reqAttuneTags": [
+        {
+            "class": "sorcerer"
+        },
+        {
+            "class": "warlock"
+        },
+        {
+            "class": "wizard"
+        }
+    ],
+    "source": "DoDk",
+    "staff": true,
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 4
+}

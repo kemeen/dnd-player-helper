@@ -1,0 +1,112 @@
+{
+    "ability": [
+        {
+            "con": 1,
+            "str": 2
+        }
+    ],
+    "age": {
+        "mature": 12,
+        "max": 50
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Orcs reach adulthood at age 12 and live up to 50 years."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The orcs of Eberron are a passionate people, given to powerful emotion and deep faith. They are generally chaotic, but can be any alignment."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started."
+            ],
+            "name": "Aggressive",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in two of the following skills of your choice: {@skill Animal Handling}, {@skill Insight}, {@skill Intimidation}, {@skill Medicine}, {@skill Nature}, {@skill Perception}, and {@skill Survival}."
+            ],
+            "name": "Primal Intuition",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+            ],
+            "name": "Powerful Build",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Orc."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "heightAndWeight": {
+        "baseHeight": 64,
+        "baseWeight": 175,
+        "heightMod": "2d8",
+        "weightMod": "2d6"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "orc": true
+        }
+    ],
+    "name": "Orc",
+    "page": 31,
+    "reprintedAs": [
+        "Orc|MPMM"
+    ],
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "count": 2,
+                "from": [
+                    "animal handling",
+                    "insight",
+                    "intimidation",
+                    "medicine",
+                    "nature",
+                    "perception",
+                    "survival"
+                ]
+            }
+        }
+    ],
+    "source": "ERLW",
+    "speed": 30,
+    "traitTags": [
+        "Powerful Build"
+    ]
+}

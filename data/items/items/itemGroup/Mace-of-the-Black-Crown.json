@@ -1,0 +1,30 @@
+{
+    "baseItem": "mace|PHB",
+    "dmg1": "1d6",
+    "dmgType": "B",
+    "entries": [
+        "This mace has a haft of black iron and a ruby head with a fiendish countenance. Carrying the boon of Asmodeus, it is fit for the most powerful servants of the Nine Hells."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Mace of the Black Crown (Dormant)|EGW",
+        "Mace of the Black Crown (Awakened)|EGW",
+        "Mace of the Black Crown (Exalted)|EGW"
+    ],
+    "name": "Mace of the Black Crown",
+    "page": 276,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "artifact",
+    "reqAttune": true,
+    "resist": [
+        "fire",
+        "poison"
+    ],
+    "sentient": true,
+    "source": "EGW",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 4
+}

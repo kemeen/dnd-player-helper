@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "name": "Bell",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 100
+}

@@ -1,0 +1,56 @@
+{
+    "components": {
+        "m": {
+            "consume": true,
+            "cost": 50000,
+            "text": "a delerium shard worth 500 gp, which the spell consumes"
+        },
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "necrotic"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "When you cast this spell, you gain one {@adventure level of contamination|DoDk|12}. You draw unrestrained arcane magic from the delerium shard you hold in your hand. Until the spell ends, you gain the following benefits:",
+        {
+            "items": [
+                "When you cast a spell that deals acid, fire, cold, lightning, or poison damage, you can change the damage type to force, necrotic, psychic, or radiant damage.",
+                "Once per turn when you deal damage with a spell, you can deal an extra {@damage 1d12} necrotic damage for each {@adventure contamination level|DoDk|12} you have gained to one target of that spell.",
+                "When you cast a spell that forces a creature to make a saving throw to resist its effects, you can choose to gain one {@adventure level of contamination|DoDk|12}. If you do, one target of the spell has disadvantage on its first saving throw made against that spell."
+            ],
+            "type": "list"
+        },
+        "This spell can't be dispelled by {@spell dispel magic}."
+    ],
+    "hasFluff": true,
+    "level": 8,
+    "name": "Contaminated Power",
+    "page": 226,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "DoDk",
+    "subschools": [
+        "contaminated"
+    ],
+    "time": [
+        {
+            "number": 1,
+            "unit": "bonus"
+        }
+    ]
+}

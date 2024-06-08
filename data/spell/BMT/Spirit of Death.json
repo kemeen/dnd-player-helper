@@ -1,0 +1,54 @@
+{
+    "components": {
+        "m": {
+            "cost": 40000,
+            "text": "a gilded playing card worth at least 400 gp and depicting an avatar of death"
+        },
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You call forth a spirit that embodies death. The spirit manifests in an unoccupied space you can see within range and uses the {@creature reaper spirit|BMT} stat block. The spirit disappears when it is reduced to 0 hit points or when the spell ends.",
+        "The spirit is an ally to you and your companions. In combat, the spirit shares your initiative count and takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue the spirit any commands, it takes the {@action Dodge} action and uses its movement to avoid danger."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the reaper spirit stat block."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 4,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Spirit of Death",
+    "page": 50,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "N",
+    "source": "BMT",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

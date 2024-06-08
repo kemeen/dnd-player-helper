@@ -1,0 +1,15 @@
+{
+    "attachedSpells": [
+        "haste"
+    ],
+    "entries": [
+        "While you wear these boots, you can click your heels together to cast the {@spell haste} spell on yourself as a bonus action. You don't suffer from lethargy when the spell ends when cast using these boots. Once this property is used, it can't be used again until next dawn."
+    ],
+    "name": "Boots of Haste",
+    "page": 194,
+    "rarity": "very rare",
+    "recharge": "dawn",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "wondrous": true
+}

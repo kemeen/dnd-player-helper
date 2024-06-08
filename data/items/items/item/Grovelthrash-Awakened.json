@@ -1,0 +1,40 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "When the warhammer reaches an awakened state, it gains the following properties:",
+                        {
+                            "items": [
+                                "The weapon's bonus to attack and damage rolls increases to +2.",
+                                "You gain a burrowing speed equal to your walking speed. You can use your burrowing speed to move through sand, loose earth, mud, or ice, not solid rock.",
+                                "When a creature you can see within 30 feet of you hits you with an attack while you are wielding the warhammer, you can use your reaction to deal an amount of psychic damage to that creature equal to the damage you took from the attack. This property can't be used again until the next dawn."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Awakened",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Grovelthrash (Dormant)",
+        "source": "EGW"
+    },
+    "bonusWeapon": "+2",
+    "hasFluffImages": true,
+    "modifySpeed": {
+        "equal": {
+            "burrow": "walk"
+        }
+    },
+    "name": "Grovelthrash (Awakened)",
+    "source": "EGW"
+}

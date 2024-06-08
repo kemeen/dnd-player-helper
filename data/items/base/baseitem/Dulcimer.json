@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Dulcimer",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "INS",
+    "value": 2500,
+    "weight": 10
+}

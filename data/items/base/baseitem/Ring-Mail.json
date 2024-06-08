@@ -1,0 +1,17 @@
+{
+    "ac": 14,
+    "armor": true,
+    "basicRules": true,
+    "entries": [
+        "This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor."
+    ],
+    "name": "Ring Mail",
+    "page": 145,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "stealth": true,
+    "type": "HA",
+    "value": 3000,
+    "weight": 40
+}

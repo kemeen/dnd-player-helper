@@ -1,0 +1,10 @@
+{
+    "entries": [
+        "This clockwork device resembles a metal crab the size of a dinner plate. Every action used to wind up the device allows it to operate for 1 minute, to a maximum of 10 minutes. While operational, the item uses the accompanying {@creature Vox Seeker|EGW} stat block. This automaton is under the DM's control. A vox seeker reduced to 0 hit points is destroyed."
+    ],
+    "name": "Vox Seeker",
+    "page": 270,
+    "rarity": "common",
+    "source": "EGW",
+    "wondrous": true
+}

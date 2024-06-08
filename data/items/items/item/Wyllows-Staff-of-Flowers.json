@@ -1,0 +1,16 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "items": "Wyllow's staff is peculiar in that it can't create roses, which the archdruid dislikes. If a rose is chosen, a daisy grows instead.",
+                "mode": "appendArr"
+            }
+        },
+        "name": "Staff of Flowers",
+        "source": "XGE"
+    },
+    "name": "Wyllow's Staff of Flowers",
+    "page": 75,
+    "reqAttune": true,
+    "source": "WDMM"
+}

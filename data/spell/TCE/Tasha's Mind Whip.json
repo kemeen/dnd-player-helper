@@ -1,0 +1,57 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "v": true
+    },
+    "damageInflict": [
+        "psychic"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "round"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You psychically lash out at one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes {@damage 3d6} psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "level": 2,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Tasha's Mind Whip",
+    "page": 115,
+    "range": {
+        "distance": {
+            "amount": 90,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "intelligence"
+    ],
+    "school": "E",
+    "source": "TCE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

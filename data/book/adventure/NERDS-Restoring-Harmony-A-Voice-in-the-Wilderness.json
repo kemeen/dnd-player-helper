@@ -1,0 +1,15 @@
+{
+    "group": "supplement-alt",
+    "id": "NRH-AVitW",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "NERDS Restoring Harmony: A Voice in the Wilderness",
+    "parentName": "NERDS Restoring Harmony",
+    "parentSource": "NRH",
+    "published": "2021-09-01",
+    "publishedOrder": 1,
+    "source": "NRH-AVitW",
+    "storyline": "NERDS Restoring Harmony"
+}

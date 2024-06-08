@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied."
+    ],
+    "name": "Crowbar",
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 200,
+    "weight": 5
+}

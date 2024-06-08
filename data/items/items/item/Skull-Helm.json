@@ -1,0 +1,20 @@
+{
+    "attachedSpells": [
+        "spirit of death|bmt"
+    ],
+    "entries": [
+        "While wearing this skull-shaped helm, you have resistance to cold, poison, and necrotic damage.",
+        "Additionally, while wearing the helm, you can cast {@spell Spirit of Death|BMT} from it without requiring material components. Once you use the helm to cast the spell, the helm can't cast this spell again until the next dawn."
+    ],
+    "name": "Skull Helm",
+    "page": 38,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "resist": [
+        "cold",
+        "necrotic",
+        "poison"
+    ],
+    "source": "BMT",
+    "wondrous": true
+}

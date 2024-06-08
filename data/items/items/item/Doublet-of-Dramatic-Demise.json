@@ -1,0 +1,11 @@
+{
+    "entries": [
+        "This striking satin jacket allows you to make the most of your dying moments. When you drop to 0 hit points while wearing this doublet, you do not fall {@condition unconscious}. Instead, you are {@condition incapacitated} and your speed becomes 0, but you can speak and communicate.",
+        "You make death {@quickref saving throws|PHB|2|1} as normal, but if you roll a 1 on the {@dice d20}, you swoon with a loud gasp and die instantly."
+    ],
+    "name": "Doublet of Dramatic Demise",
+    "page": 195,
+    "rarity": "common",
+    "source": "TDCSR",
+    "wondrous": true
+}

@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "dmg1": "1d4",
+    "dmgType": "P",
+    "name": "Dart",
+    "page": 149,
+    "property": [
+        "F",
+        "T"
+    ],
+    "range": "20/60",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "R",
+    "value": 5,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 0.25
+}

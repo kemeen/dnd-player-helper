@@ -1,0 +1,40 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Agony reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The weapon's bonus to attack and damage rolls increases to +3.",
+                                            "The extra damage when you hit a marked creature increases to {@dice 2d8}.",
+                                            "When you score a critical hit with this weapon, the target must succeed on a {@dc 17} Wisdom {@quickref saving throws|PHB|2|1|saving throw} or become {@condition frightened} of you for 1 minute. On a success, the target is immune to this effect for 24 hours."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Agony (Awakened)",
+        "source": "TDCSR"
+    },
+    "bonusWeapon": "+3",
+    "hasFluffImages": true,
+    "name": "Agony (Exalted)",
+    "source": "TDCSR"
+}

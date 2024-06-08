@@ -1,0 +1,28 @@
+{
+    "baseItem": "spear|PHB",
+    "bonusWeapon": "+3",
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra {@damage 1d8} damage or, if the target is a Giant, {@damage 2d8} damage. Immediately after the attack, the weapon flies back to your hand."
+    ],
+    "name": "Elven Thrower",
+    "page": 64,
+    "property": [
+        "T",
+        "V"
+    ],
+    "range": "20/60",
+    "rarity": "very rare",
+    "reqAttune": "by a elf",
+    "reqAttuneTags": [
+        {
+            "race": "elf"
+        }
+    ],
+    "source": "BGG",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 3
+}

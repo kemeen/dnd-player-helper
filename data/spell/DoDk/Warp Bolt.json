@@ -1,0 +1,61 @@
+{
+    "components": {
+        "m": {
+            "consume": true,
+            "cost": 10000,
+            "text": "a delerium fragment worth 100 gp, which the spell consumes"
+        },
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "necrotic"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "When you cast this spell, you gain one {@adventure level of contamination|DoDk|12}. An arcing bolt of octarine lightning strikes a creature within range. If the target has one or more {@adventure contamination levels|DoDk|12}, it is hit automatically. Otherwise, make a ranged spell attack against that creature. On a hit, the target takes {@damage 6d6} necrotic damage and gains one {@adventure level of contamination|DoDk|12}.",
+        "You can create a new bolt of lightning as your action on any turn until the spell ends."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 3rd level or higher, you can target 1 additional creature for each spell level above 2nd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "name": "Warp Bolt",
+    "page": 229,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "V",
+    "source": "DoDk",
+    "spellAttack": [
+        "R"
+    ],
+    "subschools": [
+        "contaminated"
+    ],
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

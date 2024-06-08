@@ -1,0 +1,107 @@
+{
+    "ability": [
+        {
+            "con": 2,
+            "str": 1
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Leonin mature and age at about the same rate as humans."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Leonin tend toward good alignments. Leonin who are focused on the pride lean toward lawful good."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Leonin are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to {@damage 1d4} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+            ],
+            "name": "Claws",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in one of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill Survival}."
+            ],
+            "name": "Hunter's Instincts",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become {@condition frightened} of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest."
+            ],
+            "name": "Daunting Roar",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Leonin."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 66,
+        "baseWeight": 180,
+        "heightMod": "2d10",
+        "weightMod": "2d6"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Leonin",
+    "page": 20,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "athletics",
+                    "intimidation",
+                    "perception",
+                    "survival"
+                ]
+            }
+        }
+    ],
+    "source": "MOT",
+    "speed": 35,
+    "traitTags": [
+        "Natural Weapon"
+    ]
+}

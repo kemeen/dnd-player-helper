@@ -1,0 +1,20 @@
+{
+    "inherits": {
+        "bonusWeaponAttack": "+3",
+        "entries": [
+            "You have a {=bonusWeaponAttack} bonus to attack rolls made with this weapon."
+        ],
+        "namePrefix": "+3 ",
+        "page": 213,
+        "rarity": "very rare",
+        "source": "DMG",
+        "tier": "major"
+    },
+    "name": "+3 Weapon (no damage)",
+    "requires": [
+        {
+            "net": true
+        }
+    ],
+    "type": "GV"
+}

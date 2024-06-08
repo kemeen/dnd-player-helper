@@ -1,0 +1,22 @@
+{
+    "basicRules": true,
+    "containerCapacity": {
+        "item": [
+            {
+                "paper (one sheet)|phb": 10,
+                "parchment (one sheet)|phb": 5
+            }
+        ]
+    },
+    "entries": [
+        "This cylindrical leather case can hold up to ten rolled-up {@item paper (one sheet)|phb|sheets of paper} or five rolled-up {@item parchment (one sheet)|phb|sheets of parchment}."
+    ],
+    "name": "Map or Scroll Case",
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 100,
+    "weight": 1
+}

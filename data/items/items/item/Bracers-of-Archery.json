@@ -1,0 +1,22 @@
+{
+    "bonusWeaponDamage": "+2",
+    "entries": [
+        "While wearing these bracers, you have proficiency with the longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons."
+    ],
+    "grantsProficiency": true,
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Bracers of Archery",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 156,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

@@ -1,0 +1,22 @@
+{
+    "baseItem": "dagger|phb",
+    "dmg1": "1d4",
+    "dmgType": "P",
+    "entries": [
+        "This rare magic item requires attunement. A creature attuned to it gains {@sense blindsight} out to a range of 30 feet. The dagger has a saw-toothed edge and a black pearl nested in its pommel."
+    ],
+    "name": "Dagger of Blindsight",
+    "page": 86,
+    "property": [
+        "F",
+        "L",
+        "T"
+    ],
+    "range": "20/60",
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "WDMM",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 1
+}

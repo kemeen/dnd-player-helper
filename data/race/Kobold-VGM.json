@@ -1,0 +1,90 @@
+{
+    "ability": [
+        {
+            "dex": 2
+        }
+    ],
+    "age": {
+        "mature": 6,
+        "max": 120
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Kobolds reach adulthood at age 6 and can live up to 120 years but rarely do so."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Kobolds are between 2 and 3 feet tall and weigh between 25 and 35 pounds. Your size is Small."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As an action on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that you can see. Once you use this trait, you can't use it again until you finish a short or long rest."
+            ],
+            "name": "Grovel, Cower, and Beg",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't {@condition incapacitated}."
+            ],
+            "name": "Pack Tactics",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have disadvantage on attack rolls and on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+            ],
+            "name": "Sunlight Sensitivity",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Draconic."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 25,
+        "baseWeight": 25,
+        "heightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "draconic": true
+        }
+    ],
+    "name": "Kobold",
+    "page": 119,
+    "reprintedAs": [
+        "Kobold|MPMM"
+    ],
+    "size": [
+        "S"
+    ],
+    "source": "VGM",
+    "speed": 30,
+    "traitTags": [
+        "Monstrous Race",
+        "Sunlight Sensitivity"
+    ]
+}

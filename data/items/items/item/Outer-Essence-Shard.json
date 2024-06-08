@@ -1,0 +1,57 @@
+{
+    "entries": [
+        "This flickering crystal holds the essence of an Outer Plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.",
+        "Roll a {@dice d4} and consult the Outer Essence Shards table to determine the shard's essence and property. When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use that property.",
+        {
+            "caption": "Outer Essence Shards",
+            "colLabels": [
+                "d4",
+                "Property",
+                "Shard"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-2 text-center",
+                "col-8"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "Lawful",
+                    "{@item Outer Essence Shard (Lawful)|TCE}"
+                ],
+                [
+                    "2",
+                    "Chaotic",
+                    "{@item Outer Essence Shard (Chaotic)|TCE}"
+                ],
+                [
+                    "3",
+                    "Good",
+                    "{@item Outer Essence Shard (Good)|TCE}"
+                ],
+                [
+                    "4",
+                    "Evil",
+                    "{@item Outer Essence Shard (Evil)|TCE}"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "focus": [
+        "Sorcerer"
+    ],
+    "name": "Outer Essence Shard",
+    "page": 133,
+    "rarity": "rare",
+    "reqAttune": "by a sorcerer",
+    "reqAttuneTags": [
+        {
+            "class": "sorcerer"
+        }
+    ],
+    "source": "TCE",
+    "weight": 1,
+    "wondrous": true
+}

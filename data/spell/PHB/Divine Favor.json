@@ -1,0 +1,43 @@
+{
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "radiant"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra {@damage 1d4} radiant damage on a hit."
+    ],
+    "level": 1,
+    "miscTags": [
+        "AAD"
+    ],
+    "name": "Divine Favor",
+    "page": 234,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "V",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "bonus"
+        }
+    ]
+}

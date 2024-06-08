@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "{#itemEntry Potion of Resistance}"
+    ],
+    "hasRefs": true,
+    "name": "Potion of Lightning Resistance",
+    "page": 188,
+    "rarity": "uncommon",
+    "resist": [
+        "lightning"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

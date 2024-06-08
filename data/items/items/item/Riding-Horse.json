@@ -1,0 +1,12 @@
+{
+    "basicRules": true,
+    "carryingCapacity": 480,
+    "name": "Riding Horse",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "speed": 60,
+    "srd": true,
+    "type": "MNT",
+    "value": 7500
+}

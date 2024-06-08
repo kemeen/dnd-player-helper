@@ -1,0 +1,67 @@
+{
+    "draconic transformation": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "fizban's platinum shield": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "flame stride": {
+        "class": {
+            "PHB": {
+                "Ranger": true,
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        }
+    },
+    "icingdeath's frost": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "nathair's mischief": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "raulothim's psychic lance": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "summon draconic spirit": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    }
+}

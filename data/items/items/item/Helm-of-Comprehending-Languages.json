@@ -1,0 +1,19 @@
+{
+    "attachedSpells": [
+        "comprehend languages"
+    ],
+    "entries": [
+        "While wearing this helm, you can use an action to cast the {@spell comprehend languages} spell from it at will."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table B"
+    ],
+    "name": "Helm of Comprehending Languages",
+    "page": 173,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "wondrous": true
+}

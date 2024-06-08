@@ -1,0 +1,17 @@
+{
+    "capPassenger": 6,
+    "crew": 1,
+    "entries": [
+        "A canoe can be purchased in Port Nyanzaru for 50 gp. It holds up to six Medium creatures and has a maximum speed of 2 mph. It is otherwise identical to a {@item rowboat}."
+    ],
+    "name": "Canoe",
+    "page": 31,
+    "rarity": "none",
+    "source": "ToA",
+    "type": "SHP",
+    "value": 5000,
+    "vehAc": 11,
+    "vehHp": 50,
+    "vehSpeed": 2,
+    "weight": 100
+}

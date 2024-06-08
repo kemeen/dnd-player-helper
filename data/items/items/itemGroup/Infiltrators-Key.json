@@ -1,0 +1,21 @@
+{
+    "entries": [
+        "This mithral skeleton key was forged using the blood of twelve master thieves executed for trying to steal magic items during the Age of Arcanum."
+    ],
+    "grantsProficiency": true,
+    "hasFluffImages": true,
+    "items": [
+        "Infiltrator's Key (Dormant)|EGW",
+        "Infiltrator's Key (Awakened)|EGW",
+        "Infiltrator's Key (Exalted)|EGW"
+    ],
+    "name": "Infiltrator's Key",
+    "page": 272,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "EGW",
+    "wondrous": true
+}

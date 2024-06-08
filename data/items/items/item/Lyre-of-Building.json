@@ -1,0 +1,26 @@
+{
+    "attachedSpells": [
+        "fabricate",
+        "mending",
+        "move earth",
+        "passwall",
+        "summon construct|tce"
+    ],
+    "entries": [
+        "While holding this {@item lyre|PHB}, you can cast {@spell mending} as an action. You can also play the {@item lyre|PHB} as a reaction when an object or a structure you can see within 300 feet of you takes damage, causing it to be immune to that damage and any further damage of the same type until the start of your next turn.",
+        "In addition, you can play the {@item lyre|PHB} as an action to cast {@spell fabricate}, {@spell move earth}, {@spell passwall}, or {@spell summon construct|TCE}, and that spell can't be cast from it again until the next dawn."
+    ],
+    "name": "Lyre of Building",
+    "page": 131,
+    "rarity": "rare",
+    "reqAttune": "by a bard",
+    "reqAttuneTags": [
+        {
+            "class": "bard"
+        }
+    ],
+    "source": "TCE",
+    "type": "INS",
+    "weight": 2,
+    "wondrous": true
+}

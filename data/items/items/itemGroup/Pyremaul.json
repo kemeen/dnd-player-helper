@@ -1,0 +1,31 @@
+{
+    "attachedSpells": [
+        "burning hands"
+    ],
+    "baseItem": "maul|PHB",
+    "bonusWeaponAttack": "+1",
+    "dmg1": "2d6",
+    "dmgType": "B",
+    "entries": [
+        "Forged from deep red iron, this massive hammer is set with a brilliant fire opal that shimmers with eternal flame. It is rumored to be currently wielded by {@book Grand Legate Phaestor, the fire giant ruler of Vulkanon|TDCSR|6|fire giants}, somewhere beneath the {@book Cliffkeep Mountains|TDCSR|3|Cliffkeep Mountains}."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Pyremaul (Dormant)|TDCSR",
+        "Pyremaul (Awakened)|TDCSR",
+        "Pyremaul (Exalted)|TDCSR"
+    ],
+    "name": "Pyremaul",
+    "page": 208,
+    "property": [
+        "H",
+        "2H",
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 10
+}

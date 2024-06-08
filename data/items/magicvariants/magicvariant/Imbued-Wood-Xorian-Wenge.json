@@ -1,0 +1,29 @@
+{
+    "excludes": {
+        "name": [
+            "Crystal",
+            "Orb"
+        ]
+    },
+    "inherits": {
+        "bonusSpellDamage": "+1",
+        "entries": [
+            "An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+            "When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one psychic damage roll of the spell."
+        ],
+        "namePrefix": "Xorian Wenge ",
+        "page": 277,
+        "rarity": "common",
+        "reqAttune": true,
+        "source": "ERLW",
+        "wondrous": true
+    },
+    "name": "Imbued Wood (Xorian Wenge)",
+    "requires": [
+        {
+            "scfType": "arcane",
+            "type": "SCF"
+        }
+    ],
+    "type": "GV"
+}

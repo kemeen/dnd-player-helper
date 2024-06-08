@@ -1,0 +1,72 @@
+{
+    "age": {
+        "mature": 12,
+        "max": 50
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Goblins mature faster than humans, reaching adulthood at around age 12. They also age noticeably faster than humans, and even the most cautious goblins rarely live longer than 50 years."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Most goblins are wildly chaotic, though they have no particular inclination toward good or evil."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Goblins average about 3 feet tall and weigh about 40 pounds. Your size is Small."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Goblin."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "common": true,
+            "goblin": true
+        }
+    ],
+    "name": "Goblin",
+    "otherSources": [
+        {
+            "page": 16,
+            "source": "PSX"
+        }
+    ],
+    "page": 16,
+    "resist": [
+        "fire",
+        "psychic"
+    ],
+    "size": [
+        "S"
+    ],
+    "source": "PSZ",
+    "speed": 25,
+    "traitTags": [
+        "Natural Armor"
+    ]
+}

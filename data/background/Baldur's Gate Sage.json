@@ -1,0 +1,33 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": 2,
+                "items": {
+                    "data": {
+                        "isFeature": true
+                    },
+                    "entries": [
+                        "{@note The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate\u2014though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.}",
+                        "Via your personal rumor mill and articles published in Baldur's Mouth, you can surmise a great deal about Baldurians' secrets\u2014who's practicing necromancy, who's involved in spying or smuggling, who would purchase or craft dangerous magical wares without batting an eyelash. Whenever a noteworthy crime or mysterious happening occurs in the city, you immediately have a list of {@dice 1d4} suspects who, if they aren't involved, have a strong chance of knowing who is."
+                    ],
+                    "name": "Baldur's Gate Feature: Rumor Monger",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "name": "Sage",
+        "source": "PHB"
+    },
+    "additionalSources": [
+        {
+            "page": 137,
+            "source": "PHB"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Baldur's Gate Sage",
+    "page": 204,
+    "source": "BGDIA"
+}

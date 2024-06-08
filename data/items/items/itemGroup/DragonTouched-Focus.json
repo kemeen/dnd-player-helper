@@ -1,0 +1,33 @@
+{
+    "entries": [
+        "This wondrous item can be a scepter, an orb, an amulet, a crystal, or another finely crafted object. It typically incorporates imagery of dragons' wings, claws, teeth, or scales."
+    ],
+    "focus": [
+        "Artificer",
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Paladin",
+        "Ranger",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "items": [
+        "Slumbering Dragon-Touched Focus|FTD",
+        "Stirring Dragon-Touched Focus|FTD",
+        "Wakened Dragon-Touched Focus|FTD",
+        "Ascendant Dragon-Touched Focus|FTD"
+    ],
+    "name": "Dragon-Touched Focus",
+    "page": 26,
+    "rarity": "varies",
+    "reqAttune": "by a spellcaster",
+    "reqAttuneTags": [
+        {
+            "spellcasting": true
+        }
+    ],
+    "source": "FTD",
+    "wondrous": true
+}

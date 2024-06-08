@@ -1,0 +1,19 @@
+{
+    "entries": [
+        "When you cast {@spell eldritch blast}, add your Charisma modifier to the damage it deals on a hit."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Agonizing Blast",
+    "page": 110,
+    "prerequisite": [
+        {
+            "spell": [
+                "eldritch blast#c"
+            ]
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

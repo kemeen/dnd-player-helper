@@ -1,0 +1,51 @@
+{
+    "areaTags": [
+        "MT",
+        "Y"
+    ],
+    "components": {
+        "m": "a strand of wet hair",
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "prone"
+    ],
+    "damageInflict": [
+        "bludgeoning"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You conjure a deluge of seawater in a 15-foot-radius, 10-foot-tall cylinder centered on a point within range. This water takes the form of a tidal wave, a whirlpool, a waterspout, or another form of your choice. Each creature in the area must succeed on a Strength {@quickref saving throws|PHB|2|1|saving throw} against your spell save DC or take {@damage 2d8} bludgeoning damage and fall {@condition prone}. You can choose a number of creatures equal to your spellcasting modifier (minimum of 1) to automatically succeed on this {@quickref saving throws|PHB|2|1|saving throw}.",
+        "If you are within the spell's area, as part of the action you use to cast the spell, you can vanish into the deluge and teleport to an unoccupied space that you can see within the spell's area."
+    ],
+    "level": 3,
+    "miscTags": [
+        "SGT",
+        "TP"
+    ],
+    "name": "Freedom of the Waves",
+    "page": 176,
+    "range": {
+        "distance": {
+            "amount": 120,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "strength"
+    ],
+    "school": "C",
+    "source": "TDCSR",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

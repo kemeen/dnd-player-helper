@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "LMoP",
+    "level": {
+        "end": 5,
+        "start": 1
+    },
+    "name": "Lost Mine of Phandelver",
+    "published": "2014-07-15",
+    "source": "LMoP",
+    "storyline": "Starter Set"
+}

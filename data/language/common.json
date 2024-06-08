@@ -1,0 +1,9 @@
+{
+    "name": "common",
+    "typical_speakers": [
+        "humans"
+    ],
+    "script": "common",
+    "type": "standard",
+    "parent": null
+}

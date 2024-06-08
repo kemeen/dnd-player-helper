@@ -1,0 +1,23 @@
+{
+    "basicRules": true,
+    "bonusAc": "+1",
+    "bonusSavingThrow": "+1",
+    "entries": [
+        "You gain a +1 bonus to AC and saving throws while wearing this ring."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Ring of Protection",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 191,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

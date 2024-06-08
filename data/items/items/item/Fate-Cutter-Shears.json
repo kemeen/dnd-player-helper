@@ -1,0 +1,43 @@
+{
+    "baseItem": "dagger|PHB",
+    "critThreshold": 19,
+    "dmg1": "1d4",
+    "dmgType": "P",
+    "entries": [
+        "The blades of these pruning shears bear many nicks and dents but still cut cleanly. The shears function as a magic dagger. The weapon has the following properties:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "When you hit with an attack using the shears, the target takes an extra {@damage 1d6} force damage."
+                    ],
+                    "name": "Ever Sharp",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "When you hit a creature with the shears, you can cut that creature's fate. Until the target finishes a long rest, attack rolls against it score a critical hit on a roll of 19 or 20 on the {@dice d20}. Once this property is used, it can't be used again until the next dawn."
+                    ],
+                    "name": "Sever Threads",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "name": "Fate Cutter Shears",
+    "page": 61,
+    "property": [
+        "F",
+        "L",
+        "T"
+    ],
+    "range": "20/60",
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "BMT",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 1
+}

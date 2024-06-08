@@ -1,0 +1,19 @@
+{
+    "attachedSpells": [
+        "scorching ray"
+    ],
+    "entries": [
+        "While wearing this circlet, you can use an action to cast the {@spell scorching ray} spell with it. When you make the spell's attacks, you do so with an attack bonus of {@hit 5}. The circlet can't be used this way again until the next dawn."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Circlet of Blasting",
+    "page": 158,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

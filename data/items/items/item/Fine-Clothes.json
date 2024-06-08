@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Fine Clothes",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 1500,
+    "weight": 6
+}

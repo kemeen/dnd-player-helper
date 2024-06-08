@@ -1,0 +1,47 @@
+{
+    "entries": [
+        {
+            "entries": [
+                "Your psychic connection to the Astral Plane enables you to mystically access a spark of divine power, which you can channel through your weapons. When you hit a target with a {@filter simple or martial weapon|items|source=phb|category=basic|type=martial weapon;simple weapon}, you can cause the target to take extra force damage equal to your proficiency bonus.",
+                "You can use this trait a number of times equal to your proficiency bonus, but you can use it no more than once per turn. You regain all expended uses when you finish a long rest."
+            ],
+            "name": "Astral Spark",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have a mystical connection to firearms that traces back to the gods of the giff, who delighted in such weapons. You have proficiency with all firearms and ignore the loading property of any firearm. In addition, attacking at long range with a firearm doesn't impose disadvantage on your attack roll."
+            ],
+            "name": "Firearms Mastery",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on Strength-based ability checks and Strength saving throws. In addition, you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+            ],
+            "name": "Hippo Build",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Giff",
+    "page": 12,
+    "size": [
+        "M"
+    ],
+    "source": "AAG",
+    "speed": {
+        "swim": true,
+        "walk": 30
+    },
+    "traitTags": [
+        "Powerful Build"
+    ],
+    "weaponProficiencies": [
+        {
+            "firearms": true
+        }
+    ]
+}

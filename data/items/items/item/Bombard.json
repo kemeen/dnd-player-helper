@@ -1,0 +1,21 @@
+{
+    "capCargo": 150,
+    "crew": 12,
+    "entries": [
+        "Bombards are built by giff. The major feature of each ship is an enormous cannon that fires massive cannon balls capable of blowing other ships to smithereens. (The cannon is included in the cost of the ship.) A bombard can carry up to fourteen giant cannon balls, each of which weighs 10 tons. These cannon balls make up most of the weight of the ship's cargo. A winch mounted on the aft deck is used to load the cannon balls on board.",
+        "A bombard can float and sail on water, but it can't land safely on the ground (its keel would cause it to roll on its side)."
+    ],
+    "name": "Bombard",
+    "page": 26,
+    "rarity": "none",
+    "seeAlsoVehicle": [
+        "Bombard|AAG"
+    ],
+    "source": "AAG",
+    "type": "SPC",
+    "value": 5000000,
+    "vehAc": 15,
+    "vehDmgThresh": 20,
+    "vehHp": 300,
+    "vehSpeed": 4
+}

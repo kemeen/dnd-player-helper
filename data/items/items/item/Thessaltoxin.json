@@ -1,0 +1,17 @@
+{
+    "attachedSpells": [
+        "polymorph"
+    ],
+    "entries": [
+        "This poison was first created using blood harvested from the artificer Thessalar. A creature subjected to the poison must succeed on a DC 15 Constitution saving throw or take on a new form as if affected by the {@spell polymorph} spell. The creature's new form is a random beast or a creature it has seen within the last 24 hours (as chosen by the DM). This transformation lasts until the end of the target's next long rest. This effect is not subject to {@spell dispel magic} or {@spell remove curse}, but a {@spell greater restoration} spell restores the creature to its original form."
+    ],
+    "name": "Thessaltoxin",
+    "page": 93,
+    "poison": true,
+    "poisonTypes": [
+        "ingested",
+        "injury"
+    ],
+    "rarity": "none",
+    "source": "IMR"
+}

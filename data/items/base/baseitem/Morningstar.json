@@ -1,0 +1,16 @@
+{
+    "basicRules": true,
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "mace": true,
+    "name": "Morningstar",
+    "page": 149,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 1500,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 4
+}

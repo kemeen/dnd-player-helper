@@ -1,0 +1,36 @@
+{
+    "baseItem": "battleaxe|phb",
+    "bonusWeapon": "+3",
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "entries": [
+        "Fane-Eater is a battleaxe belonging to {@creature Arkhan the Cruel|BGDIA}.",
+        "You gain a +3 bonus to attack and damage rolls with Fane-Eater. If you attack a creature with this weapon and roll a 20 on the attack roll, the creature takes an extra {@damage 2d8} necrotic damage, and you regain a number of hit points equal to the necrotic damage taken."
+    ],
+    "name": "Fane-Eater",
+    "page": 223,
+    "property": [
+        "V"
+    ],
+    "rarity": "legendary",
+    "reqAttune": "by an evil cleric or paladin",
+    "reqAttuneTags": [
+        {
+            "alignment": [
+                "E"
+            ],
+            "class": "cleric"
+        },
+        {
+            "alignment": [
+                "E"
+            ],
+            "class": "paladin"
+        }
+    ],
+    "source": "BGDIA",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 4
+}

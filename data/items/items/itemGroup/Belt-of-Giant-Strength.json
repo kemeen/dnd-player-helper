@@ -1,0 +1,17 @@
+{
+    "hasFluffImages": true,
+    "items": [
+        "Belt of Cloud Giant Strength",
+        "Belt of Fire Giant Strength",
+        "Belt of Frost Giant Strength",
+        "Belt of Hill Giant Strength",
+        "Belt of Stone Giant Strength",
+        "Belt of Storm Giant Strength"
+    ],
+    "name": "Belt of Giant Strength",
+    "page": 155,
+    "rarity": "varies",
+    "reqAttune": true,
+    "source": "DMG",
+    "wondrous": true
+}

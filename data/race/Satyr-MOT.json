@@ -1,0 +1,119 @@
+{
+    "ability": [
+        {
+            "cha": 2,
+            "dex": 1
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "creatureTypes": [
+        "fey"
+    ],
+    "entries": [
+        {
+            "entries": [
+                "Satyrs mature and age at about the same rate as humans."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Satyrs delight in living a life free of the mantle of law. They gravitate toward being good, but some have devious streaks and enjoy causing dismay."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Satyrs range from just under 5 feet to about 6 feet in height, with generally slender builds. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your creature type is fey, rather than humanoid."
+            ],
+            "name": "Fey",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can use your head and horns to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to {@damage 1d4} + your Strength modifier."
+            ],
+            "name": "Ram",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws against spells and other magical effects."
+            ],
+            "name": "Magic Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Whenever you make a long or high jump, you can roll a {@dice d8} and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as normal."
+            ],
+            "name": "Mirthful Leaps",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Performance} and {@skill Persuasion} skills, and you have proficiency with one {@item musical instrument|PHB} of your choice."
+            ],
+            "name": "Reveler",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Sylvan."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 56,
+        "baseWeight": 100,
+        "heightMod": "2d8",
+        "weightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "sylvan": true
+        }
+    ],
+    "name": "Satyr",
+    "page": 24,
+    "reprintedAs": [
+        "Satyr|MPMM"
+    ],
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "performance": true,
+            "persuasion": true
+        }
+    ],
+    "source": "MOT",
+    "speed": 35,
+    "toolProficiencies": [
+        {
+            "musical instrument": true
+        }
+    ],
+    "traitTags": [
+        "Magic Resistance",
+        "Natural Weapon"
+    ]
+}

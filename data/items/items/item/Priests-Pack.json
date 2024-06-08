@@ -1,0 +1,56 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Includes:",
+        {
+            "items": [
+                "a {@item backpack|phb}",
+                "a {@item blanket|phb}",
+                "10 {@item candle|phb|candles}",
+                "a {@item tinderbox|phb}",
+                "an alms box",
+                "2 blocks of incense",
+                "a censer",
+                "vestments",
+                "2 days of {@item Rations (1 day)|phb|rations}",
+                "a {@item waterskin|phb}."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Priest's Pack",
+    "packContents": [
+        "backpack|phb",
+        "blanket|phb",
+        {
+            "item": "candle|phb",
+            "quantity": 10
+        },
+        "tinderbox|phb",
+        {
+            "item": "rations (1 day)|phb",
+            "quantity": 2
+        },
+        "waterskin|phb",
+        {
+            "special": "alms box"
+        },
+        {
+            "quantity": 2,
+            "special": "block of incense"
+        },
+        {
+            "special": "censer"
+        },
+        {
+            "special": "vestments"
+        }
+    ],
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 1900,
+    "weight": 24
+}

@@ -1,0 +1,12 @@
+{
+    "group": "supplement-alt",
+    "id": "CoA",
+    "level": {
+        "end": 20,
+        "start": 11
+    },
+    "name": "Chains of Asmodeus",
+    "published": "2023-10-30",
+    "source": "CoA",
+    "storyline": "Extra Life"
+}

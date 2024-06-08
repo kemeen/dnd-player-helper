@@ -1,0 +1,49 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "a pinch of dirt",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch a creature. The target's speed increases by 10 feet until the spell ends."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "name": "Longstrider",
+    "page": 256,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "ac": 2,
+    "baseItem": "shield|PHB",
+    "bonusAc": "+1",
+    "curse": true,
+    "entries": [
+        "While you are wielding this shield, you gain a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.",
+        {
+            "entries": [
+                "This item is cursed. Attuning to it extends the curse to you until you are targeted by a {@spell Remove Curse} spell or similar magic. You cannot discard the shield, and remain attuned to it, as long as you are cursed. As long as you are cursed, you are sluggish. Your speed is halved. When you roll initiative, treat the roll on your {@dice d20} as a 1. You can't change your initiative by any means."
+            ],
+            "name": "Curse",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Shield of the Tortoise",
+    "page": 67,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "BMT",
+    "type": "S",
+    "weight": 6
+}

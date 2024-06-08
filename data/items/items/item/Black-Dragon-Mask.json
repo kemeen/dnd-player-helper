@@ -1,0 +1,70 @@
+{
+    "entries": [
+        "This horned mask of glossy ebony has horns and a skull-like mien. The mask reshapes to fit a wearer attuned to it. While you are wearing the mask and attuned to it, you can access the following properties.",
+        {
+            "entries": [
+                "You have resistance to acid damage. If you already have damage resistance to acid from another source, you gain immunity to acid damage. If you already have immunity to acid damage from another source, you regain hit points equal to half of any acid damage you are dealt."
+            ],
+            "name": "Damage Absorption",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While you are wearing no armor, you can add your Charisma bonus to your Armor Class."
+            ],
+            "name": "Draconic Majesty",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have a breath weapon that requires rest to recharge, it gains a recharge of 6."
+            ],
+            "name": "Dragon Breath",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain {@sense darkvision} with a radius of 60 feet, or an additional 60 feet of {@sense darkvision} if you already have that sense. Once per day, you can gain {@sense blindsight} out to a range of 30 feet for 5 minutes."
+            ],
+            "name": "Dragon Sight",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak and understand Draconic. You also have advantage on any Charisma check you make against Black dragons."
+            ],
+            "name": "Dragon Tongue",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "(1/Day) If you fail a saving throw, you can choose to succeed instead."
+            ],
+            "name": "Legendary Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can breathe underwater."
+            ],
+            "name": "Water Breathing",
+            "type": "entries"
+        }
+    ],
+    "grantsLanguage": true,
+    "name": "Black Dragon Mask",
+    "otherSources": [
+        {
+            "page": 179,
+            "source": "ToD"
+        }
+    ],
+    "page": 94,
+    "rarity": "legendary",
+    "reqAttune": true,
+    "resist": [
+        "acid"
+    ],
+    "source": "HotDQ",
+    "wondrous": true
+}

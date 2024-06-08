@@ -1,0 +1,25 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "index": 1,
+                    "items": {
+                        "entries": [
+                            "Your skill set might be similar to that of many members of the {@book Clasp|TDCSR|2|The Clasp}, but you work for a criminal organization that is far more sophisticated\u2014and even less scrupulous. As a {@book Myriad|TDCSR|2|The Myriad} operative in Tal'Dorei, you might have been given a specific task that furthers that syndicate's hunger to expand beyond Wildemount, or which gives them an edge in their rivalry with the {@book Clasp|TDCSR|2|The Clasp}. Moreover, you understand the wisdom of keeping your activities secret from fellow criminals as well as law enforcement, since the agents of the {@book Clasp|TDCSR|2|The Clasp} will show you no mercy if your true identity is ever revealed."
+                        ],
+                        "name": "Variant: Myriad Operative",
+                        "page": 182,
+                        "type": "entries"
+                    },
+                    "mode": "insertArr"
+                }
+            ]
+        },
+        "name": "Clasp Member",
+        "source": "TDCSR"
+    },
+    "name": "Variant Clasp Member (Myriad Operative)",
+    "page": 182,
+    "source": "TDCSR"
+}

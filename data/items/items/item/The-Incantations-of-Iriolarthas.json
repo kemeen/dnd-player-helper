@@ -1,0 +1,28 @@
+{
+    "entries": [
+        "The Incantations of Iriolarthas is a weighty spellbook. Its black leather covers have dead, toothy worms glued to them, sheathed in glossy varnish. Set into this morbid display on the front cover is a gold rune that resembles a stylized eye with a pupil shaped like a candle flame\u2014the sigil of Iriolarthas, a Netherese lich.",
+        "The book contains sixty pages of brittle yellow vellum. Written on these pages are the following wizard spells:",
+        {
+            "items": [
+                "1st level: {@spell alarm}, {@spell detect magic}, {@spell identify}, {@spell magic missile}, {@spell shield}, {@spell Tasha's hideous laughter}, {@spell thunderwave}",
+                "2nd level: {@spell arcane lock}, {@spell continual flame}, {@spell invisibility}, {@spell knock}, {@spell levitate}, {@spell Melf's acid arrow}, {@spell mirror image}",
+                "3rd level: {@spell animate dead}, {@spell bestow curse}, {@spell clairvoyance}, {@spell counterspell}, {@spell dispel magic}, {@spell fireball}, {@spell glyph of warding}",
+                "4th level: {@spell arcane eye}, {@spell banishment}, {@spell blight}, {@spell dimension door}, {@spell Evard's black tentacles}, {@spell phantasmal killer}",
+                "5th level: {@spell Bigby's hand}, {@spell cloudkill}, {@spell dominate person}, {@spell planar binding}, {@spell scrying}, {@spell telekinesis}",
+                "6th level: {@spell create undead}, {@spell disintegrate}, {@spell globe of invulnerability}, {@spell move earth}, {@spell Otto's irresistible dance}",
+                "7th level: {@spell create magen|IDRotF}, {@spell finger of death}, {@spell prismatic spray}, {@spell teleport}",
+                "8th level: {@spell demiplane}, {@spell dominate monster}, {@spell mind blank}, {@spell power word stun}",
+                "9th level: {@spell blade of disaster|TCE}, {@spell power word kill}"
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "The Incantations of Iriolarthas",
+    "page": 317,
+    "rarity": "unknown",
+    "source": "IDRotF",
+    "type": "G",
+    "weight": 3
+}

@@ -1,0 +1,39 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Includes:",
+        {
+            "items": [
+                "a {@item backpack|phb}",
+                "a {@item book|phb} of lore",
+                "a {@item Ink (1-ounce bottle)|phb|bottle of ink}",
+                "an {@item ink pen|phb}",
+                "10 {@item Parchment (one sheet)|phb|sheets of parchment}",
+                "a little bag of sand",
+                "a small knife."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Scholar's Pack",
+    "packContents": [
+        "backpack|phb",
+        "book|phb",
+        "ink (1-ounce bottle)|phb",
+        "ink pen|phb",
+        "parchment (one sheet)|phb",
+        {
+            "special": "little bag of sand"
+        },
+        {
+            "special": "small knife"
+        }
+    ],
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 4000,
+    "weight": 10
+}

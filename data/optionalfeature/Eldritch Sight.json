@@ -1,0 +1,21 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": [
+                    "detect magic"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell detect magic} at will, without expending a spell slot."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Eldritch Sight",
+    "page": 110,
+    "source": "PHB",
+    "srd": true
+}

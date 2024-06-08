@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Whetstone",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 1,
+    "weight": 1
+}

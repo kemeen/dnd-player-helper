@@ -1,0 +1,19 @@
+{
+    "inherits": {
+        "entries": [
+            "You can doff this armor as an action."
+        ],
+        "namePrefix": "Cast-Off ",
+        "page": 136,
+        "rarity": "common",
+        "source": "XGE",
+        "tier": "minor"
+    },
+    "name": "Cast-Off Armor",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

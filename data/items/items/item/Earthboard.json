@@ -1,0 +1,29 @@
+{
+    "entries": [
+        "An earthboard is a slab of granite about three inches thick, nine feet long, and two feet wide, with smooth, tapered ends. However, its mundane appearance belies its unique elemental power, which reduces its weight to 40 pounds while a creature is attuned to it. {@book The Earth Ashari of Terrah|TDCSR|3|Terrah} can often be seen with these stone boards upon their backs as they trek into the crags of the {@book Cliffkeep Mountains|TDCSR|3|Cliffkeep Mountains}.",
+        "While standing on an earthboard, you gain the following benefits:",
+        {
+            "items": [
+                "Your speed increases to 60 feet as the board skims across solid ground (but not liquid surfaces).",
+                "If you ramp off a surface of solid earth, you can {@quickref jumping|PHB|4|0|long jump} up to 60 feet. When you end this {@quickref jumping|PHB|4|0|jump}, you can choose to slam into the ground, creating a shockwave. Each creature standing on the ground within 20 feet of you must succeed on a {@dc 14} Strength {@quickref saving throws|PHB|2|1|saving throw} or fall {@condition prone}.",
+                "You have a burrowing speed of 20 feet that allows you to tunnel through earth or solid rock, leaving a 5-foot-diameter tunnel in your wake. As an action, you can increase this burrowing speed to 60 feet until the start of your next turn.",
+                "The earthboard always moves with you until you decide to dismount it (no action required)."
+            ],
+            "type": "list"
+        },
+        "These benefits last until you end your turn not standing on the earthboard."
+    ],
+    "modifySpeed": {
+        "static": {
+            "burrow": 20,
+            "walk": 60
+        }
+    },
+    "name": "Earthboard",
+    "page": 198,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "weight": 40,
+    "wondrous": true
+}

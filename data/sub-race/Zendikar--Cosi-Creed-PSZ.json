@@ -1,0 +1,52 @@
+{
+    "ability": [
+        {
+            "cha": 2,
+            "int": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "cha",
+            "known": {
+                "1": {
+                    "_": [
+                        {
+                            "choose": "level=0|class=Bard"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You know one cantrip of your choice from the {@filter bard spell list|spells|class=bard|level=0}. Charisma is your spellcasting ability for it."
+            ],
+            "name": "Cantrip",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Sleight of Hand} and {@skill Stealth} skills."
+            ],
+            "name": "Creed of the Trickster",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Zendikar; Cosi Creed",
+    "otherSources": null,
+    "page": 13,
+    "raceName": "Merfolk",
+    "raceSource": "PSZ",
+    "skillProficiencies": [
+        {
+            "sleight of hand": true,
+            "stealth": true
+        }
+    ],
+    "source": "PSZ"
+}

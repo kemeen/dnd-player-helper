@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "containerCapacity": {
+        "weight": [
+            40
+        ]
+    },
+    "entries": [
+        "A basket holds 2 cubic feet or 40 pounds of gear."
+    ],
+    "name": "Basket",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 40,
+    "weight": 2
+}

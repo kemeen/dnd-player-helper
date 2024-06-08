@@ -1,0 +1,31 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": [
+                    "speak with dead"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell speak with dead} at will, without expending a spell slot."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Whispers of the Grave",
+    "page": 111,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 9
+            }
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

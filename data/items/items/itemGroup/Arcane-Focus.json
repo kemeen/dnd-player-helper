@@ -1,0 +1,20 @@
+{
+    "focus": [
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "items": [
+        "Crystal|phb",
+        "Orb|phb",
+        "Rod|phb",
+        "Staff|phb",
+        "Wand|phb"
+    ],
+    "name": "Arcane Focus",
+    "page": 151,
+    "rarity": "none",
+    "scfType": "arcane",
+    "source": "PHB",
+    "type": "SCF"
+}

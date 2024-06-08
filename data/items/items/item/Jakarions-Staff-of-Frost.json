@@ -1,0 +1,15 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "items": "Imprinted on this staff is a fragment of a dead wizard's personality. The first character who touches the staff gains the following flaw: \"I crave power above all else, and will do anything to obtain more of it.\" This flaw trumps any conflicting personality trait.",
+                "mode": "appendArr"
+            }
+        },
+        "name": "Staff of Frost",
+        "source": "DMG"
+    },
+    "name": "Jakarion's Staff of Frost",
+    "page": 187,
+    "source": "CoS"
+}

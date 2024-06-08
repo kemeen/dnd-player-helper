@@ -1,0 +1,32 @@
+{
+    "baseItem": "longsword|phb",
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "items": [
+        "Sword of Answering (Answerer)",
+        "Sword of Answering (Back Talker)",
+        "Sword of Answering (Concluder)",
+        "Sword of Answering (Last Quip)",
+        "Sword of Answering (Rebutter)",
+        "Sword of Answering (Replier)",
+        "Sword of Answering (Retorter)",
+        "Sword of Answering (Scather)",
+        "Sword of Answering (Squelcher)"
+    ],
+    "lootTables": [
+        "Magic Item Table I"
+    ],
+    "name": "Sword of Answering",
+    "page": 206,
+    "property": [
+        "V"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "DMG",
+    "tier": "major",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

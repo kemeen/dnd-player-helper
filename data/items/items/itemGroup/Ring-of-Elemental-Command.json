@@ -1,0 +1,16 @@
+{
+    "charges": 5,
+    "items": [
+        "Ring of Air Elemental Command",
+        "Ring of Earth Elemental Command",
+        "Ring of Fire Elemental Command",
+        "Ring of Water Elemental Command"
+    ],
+    "name": "Ring of Elemental Command",
+    "page": 190,
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "DMG",
+    "tier": "major",
+    "type": "RG"
+}

@@ -1,0 +1,40 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Mythcarver reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The weapon's bonus to attack and damage rolls increases to +3.",
+                                            "As an action, you let the spirit of the sword overtake your body and guide your strikes. You make 4 melee attacks with the sword, then gain 1 level of {@condition exhaustion}. Once this property is used, it can't be used again until you finish a {@quickref resting|PHB|2|0|long rest}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Mythcarver (Awakened)",
+        "source": "TDCSR"
+    },
+    "bonusWeapon": "+3",
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Mythcarver (Exalted)",
+    "source": "TDCSR"
+}

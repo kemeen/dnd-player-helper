@@ -1,0 +1,121 @@
+{
+    "ability": [
+        {
+            "cha": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "int",
+            "expanded": {
+                "s1": [
+                    "comprehend languages",
+                    "illusory script"
+                ],
+                "s2": [
+                    "animal messenger",
+                    "silence"
+                ],
+                "s3": [
+                    "sending",
+                    "tongues"
+                ],
+                "s4": [
+                    "arcane eye",
+                    "confusion"
+                ],
+                "s5": [
+                    "dream"
+                ]
+            },
+            "innate": {
+                "1": {
+                    "rest": {
+                        "1": [
+                            "comprehend languages"
+                        ]
+                    }
+                },
+                "3": {
+                    "daily": {
+                        "1": [
+                            "magic mouth"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "message#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "When you make an Intelligence ({@skill History}) check or an ability check using {@item calligrapher's supplies|PHB}, you can roll a {@dice d4} and add the number rolled to the ability check."
+            ],
+            "name": "Gifted Scribe",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell message} cantrip. You can also cast {@spell comprehend languages} once with this trait, and you regain the ability to cast it when you finish a short or long rest. Starting at 3rd level, you can cast the {@spell magic mouth} spell with this trait, and you regain the ability to cast it when you finish a long rest. Intelligence is your spellcasting ability for these spells."
+            ],
+            "name": "Scribe's Insight",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Scribing Spells table are added to the spell list of your spellcasting class.",
+                {
+                    "caption": "Mark of Scribing Spells",
+                    "colLabels": [
+                        "Spell Level",
+                        "Spells"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1st",
+                            "{@spell comprehend languages}, {@spell illusory script}"
+                        ],
+                        [
+                            "2nd",
+                            "{@spell animal messenger}, {@spell silence}"
+                        ],
+                        [
+                            "3rd",
+                            "{@spell sending}, {@spell tongues}"
+                        ],
+                        [
+                            "4th",
+                            "{@spell arcane eye}, {@spell confusion}"
+                        ],
+                        [
+                            "5th",
+                            "{@spell dream}"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Spells of the Mark",
+            "type": "entries"
+        }
+    ],
+    "name": "Mark of Scribing",
+    "page": 47,
+    "raceName": "Gnome",
+    "raceSource": "PHB",
+    "source": "ERLW",
+    "traitTags": [
+        "Dragonmark",
+        "Skill Bonus Dice",
+        "Tool Bonus Dice"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "baseItem": "longsword|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "entries": [
+        "This incredible silvered blade once belonged to the legendary White Duke, a founding member of the {@book Golden Grin|TDCSR|2|Golden Grin}, and many other master bards before him. It resonates with nearby musical tones. In the modern era, it is best known as the personal weapon of famed bard {@creature Scanlan Shorthalt|TDCSR}.",
+        {
+            "entries": [
+                "While Mythcarver is in a dormant state, you gain a +1 bonus to attack and damage rolls made with this magic weapon. This longsword's enchantments and light construction also grant it the Finesse property, which allows you to use either your Strength or Dexterity modifier for the attack and damage rolls when making an attack with this weapon.",
+                "Additionally, when you target an ally with your Bardic Inspiration feature, you gain {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on attacks with this weapon until the end of your turn."
+            ],
+            "name": "Dormant",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Mythcarver (Dormant)",
+    "page": 207,
+    "property": [
+        "V",
+        "Vst",
+        "F"
+    ],
+    "rarity": "legendary",
+    "reqAttune": "by a bard",
+    "reqAttuneTags": [
+        {
+            "class": "bard"
+        }
+    ],
+    "source": "TDCSR",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

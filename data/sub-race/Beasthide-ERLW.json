@@ -1,0 +1,39 @@
+{
+    "ability": [
+        {
+            "con": 2,
+            "str": 1
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency in the {@skill Athletics} skill."
+            ],
+            "name": "Natural Athlete",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Whenever you shift, you gain {@dice 1d6} additional temporary hit points. While shifted, you have a +1 bonus to your Armor Class."
+            ],
+            "name": "Shifting Feature",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Beasthide",
+    "page": 34,
+    "raceName": "Shifter",
+    "raceSource": "ERLW",
+    "skillProficiencies": [
+        {
+            "athletics": true
+        }
+    ],
+    "source": "ERLW",
+    "traitTags": [
+        "Natural Armor"
+    ]
+}

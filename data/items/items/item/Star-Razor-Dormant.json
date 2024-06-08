@@ -1,0 +1,45 @@
+{
+    "attachedSpells": [
+        "faerie fire"
+    ],
+    "baseItem": "longsword|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "entries": [
+        "The thick, grooved blade of this shining silver {@item longsword|PHB} is lined with etched runes that sparkle blue in the light. Star Razor\u2014known also as Dwueth'var\u2014was thought to have been destroyed or lost after the {@book Calamity|TDCSR|1|The Calamity}, but new rumors suggest that it might be wielded by a half-orc somewhere in {@book Wildemount|TDCSR|3|Wildemount}.",
+        {
+            "entries": [
+                "While Star Razor is in a dormant state, you can hold this magic longsword and use a bonus action to speak the command word {@i Galas-var}, causing the sword to emit a pale blue glow that sheds bright light in a 20-foot radius and dim light for an additional 20 feet. This glow lasts until you use a bonus action to speak the command word again, or until you drop or sheathe the sword.",
+                {
+                    "items": [
+                        "While this longsword is glowing, you gain a +1 bonus to attack and damage rolls made with the weapon, and you have resistance to radiant damage.",
+                        "You can cast the {@spell faerie fire} spell from the weapon as an action, requiring no components (save {@dc 13}). Once a spell has been cast using Star Razor, that spell can't be cast from the sword until the next dawn."
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Dormant",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Star Razor (Dormant)",
+    "page": 210,
+    "property": [
+        "V",
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "recharge": "dawn",
+    "reqAttune": true,
+    "resist": [
+        "radiant"
+    ],
+    "source": "TDCSR",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

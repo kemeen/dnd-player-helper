@@ -1,0 +1,17 @@
+{
+    "basicRules": true,
+    "name": "Sling Bullets (20)",
+    "packContents": [
+        {
+            "item": "sling bullet|phb",
+            "quantity": 20
+        }
+    ],
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "A",
+    "value": 4,
+    "weight": 1.5
+}

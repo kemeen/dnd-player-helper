@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A chain has 10 hit points. It can be burst with a successful DC 20 Strength check."
+    ],
+    "name": "Chain (10 feet)",
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 500,
+    "weight": 10
+}

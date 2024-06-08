@@ -1,0 +1,44 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You have spent significant time in Sigil or the Outlands, the crossroads of the multiverse. Being steeped in converging planar energies grants you these benefits:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "You learn the {@spell misty step} and {@spell tongues} spells. You can cast each spell once using this feat without a spell slot, and you must finish a long rest before you can cast that spell in this way again. When you cast {@spell tongues} using this feat, you require no material components. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the one chosen when you gained the Scion of the Outer Planes feat."
+                    ],
+                    "name": "Crossroads Emissary",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "name": "Outlands Envoy",
+    "page": 10,
+    "prerequisite": [
+        {
+            "feat": [
+                "scion of the outer planes|sato|scion of the outer planes (the outlands)"
+            ],
+            "level": 4
+        }
+    ],
+    "source": "SatO"
+}

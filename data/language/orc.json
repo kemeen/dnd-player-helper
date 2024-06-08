@@ -1,0 +1,9 @@
+{
+    "name": "orc",
+    "typical_speakers": [
+        "orcs"
+    ],
+    "script": "dwarvish",
+    "type": "standard",
+    "parent": null
+}

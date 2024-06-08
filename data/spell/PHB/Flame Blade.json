@@ -1,0 +1,62 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "leaf of sumac",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "fire"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.",
+        "You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes {@damage 3d6} fire damage.",
+        "The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 4th level or higher, the damage increases by {@scaledamage 3d6|2,4,6,8|1d6} for every two slot levels above 2nd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "miscTags": [
+        "LGT",
+        "UBA"
+    ],
+    "name": "Flame Blade",
+    "page": 242,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "V",
+    "source": "PHB",
+    "spellAttack": [
+        "M"
+    ],
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "bonus"
+        }
+    ]
+}

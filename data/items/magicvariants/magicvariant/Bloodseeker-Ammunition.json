@@ -1,0 +1,22 @@
+{
+    "ammo": true,
+    "inherits": {
+        "entries": [
+            "Ranged attack rolls made with this ammunition have advantage against any creature doesn't have all its hit points."
+        ],
+        "namePrefix": "Bloodseeker ",
+        "page": 66,
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    "name": "Bloodseeker Ammunition",
+    "requires": [
+        {
+            "type": "A"
+        },
+        {
+            "type": "AF"
+        }
+    ],
+    "type": "GV"
+}

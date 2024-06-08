@@ -1,0 +1,25 @@
+{
+    "ammoType": "crossbow bolt|phb",
+    "baseItem": "hand crossbow|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d6",
+    "dmgType": "P",
+    "entries": [
+        "This strange contraption of gears, wires, and lacquered wood has a handle with a metal grip and crank. Its stock bears a flamboyant maker's mark that reads: \"Made in Hupperdook,\" a city in {@book Wildemount|TDCSR|3|Wildemount}. You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
+        "When you roll a 20 on an attack roll made with this weapon, you can immediately make another attack with this weapon after resolving the critical hit. When you roll a 1 on an attack roll made with this weapon, you must succeed on a {@dc 14} Dexterity {@quickref saving throws|PHB|2|1|saving throw} or take {@damage 1d6} piercing damage as some of its gears and wires spring loose."
+    ],
+    "name": "Tinkertop Boltblaster 1000",
+    "page": 197,
+    "property": [
+        "A",
+        "L",
+        "LD"
+    ],
+    "range": "30/120",
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "type": "R",
+    "weaponCategory": "martial",
+    "weight": 3
+}

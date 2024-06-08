@@ -1,0 +1,86 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "innate": {
+                "1": [
+                    "animal friendship"
+                ],
+                "3": {
+                    "daily": {
+                        "1": [
+                            "suggestion"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "poison spray#c"
+                ]
+            }
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You are Medium or Small. You choose the size when you select this race."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws against spells."
+            ],
+            "name": "Magic Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws you make to avoid or end the {@condition poisoned} condition on yourself. You also have resistance to poison damage."
+            ],
+            "name": "Poison Resilience",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell poison spray} cantrip. You can cast {@spell animal friendship} an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast {@spell suggestion} with this trait. Once you cast it, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.",
+                "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+            ],
+            "name": "Serpentine Spellcasting",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Yuan-Ti",
+    "page": 36,
+    "resist": [
+        "poison"
+    ],
+    "size": [
+        "S",
+        "M"
+    ],
+    "source": "MPMM",
+    "speed": 30,
+    "traitTags": [
+        "Magic Resistance"
+    ]
+}

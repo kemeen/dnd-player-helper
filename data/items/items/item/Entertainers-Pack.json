@@ -1,0 +1,44 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Includes:",
+        {
+            "items": [
+                "a {@item backpack|phb}",
+                "a {@item bedroll|phb}",
+                "2 {@item Costume Clothes|phb|costumes}",
+                "5 {@item candle|phb|candles}",
+                "5 days of {@item Rations (1 day)|phb|rations}",
+                "a {@item waterskin|phb}",
+                "a {@item disguise kit|phb}"
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Entertainer's Pack",
+    "packContents": [
+        "backpack|phb",
+        "bedroll|phb",
+        {
+            "item": "costume clothes|phb",
+            "quantity": 2
+        },
+        {
+            "item": "candle|phb",
+            "quantity": 5
+        },
+        {
+            "item": "rations (1 day)|phb",
+            "quantity": 5
+        },
+        "waterskin|phb",
+        "disguise kit|phb"
+    ],
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 4000,
+    "weight": 38
+}

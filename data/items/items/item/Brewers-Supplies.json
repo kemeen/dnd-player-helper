@@ -1,0 +1,81 @@
+{
+    "additionalEntries": [
+        "Brewing is the art of producing beer. Not only does beer serve as an alcoholic beverage, but the process of brewing purifies water. Crafting beer takes weeks of fermentation, but only a few hours of work.",
+        {
+            "entries": [
+                "Brewer's supplies include a large glass jug, a quantity of hops, a siphon, and several feet of tubing."
+            ],
+            "name": "Components",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Proficiency with brewer's supplies gives you additional insight on Intelligence ({@skill History}) checks concerning events that involve alcohol as a significant element."
+            ],
+            "name": "History",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "This tool proficiency grants additional insight when you treat anyone suffering from alcohol poisoning or when you can use alcohol to dull pain."
+            ],
+            "name": "Medicine",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "A stiff drink can help soften the hardest heart. Your proficiency with brewer's supplies can help you ply someone with drink, giving them just enough alcohol to mellow their mood."
+            ],
+            "name": "Persuasion",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your knowledge of brewing enables you to purify water that would otherwise be undrinkable. As part of a long rest, you can purify up to 6 gallons of water, or 1 gallon as part of a short rest."
+            ],
+            "name": "Potable Water",
+            "type": "entries"
+        },
+        {
+            "caption": "Brewer's Supplies",
+            "colLabels": [
+                "Activity",
+                "DC"
+            ],
+            "colStyles": [
+                "col-10",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "Detect poison or impurities in a drink",
+                    "10"
+                ],
+                [
+                    "Identify alcohol",
+                    "15"
+                ],
+                [
+                    "Ignore effects of alcohol",
+                    "20"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "additionalSources": [
+        {
+            "page": 79,
+            "source": "XGE"
+        }
+    ],
+    "basicRules": true,
+    "name": "Brewer's Supplies",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "AT",
+    "value": 2000,
+    "weight": 9
+}

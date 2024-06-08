@@ -1,0 +1,28 @@
+{
+    "intellect fortress": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "mind sliver": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "mind thrust": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    }
+}

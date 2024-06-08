@@ -1,0 +1,52 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Spire of Conflux reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The staff has 20 charges, and it regains {@dice 1d6 + 4} expended charges daily at dawn.",
+                                            "You can also spend charges to cast the following spells from the staff: {@spell chain lightning} (6 charges) or {@spell fire storm} (7 charges)",
+                                            "The bonus to spell attack rolls and your spell save DC increases to +2."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Spire of Conflux (Awakened)",
+        "source": "TDCSR"
+    },
+    "attachedSpells": [
+        "burning hands",
+        "fireball",
+        "conjure elemental",
+        "ice storm",
+        "chain lightning",
+        "fire storm"
+    ],
+    "bonusSpellAttack": "+2",
+    "bonusSpellSaveDc": "+2",
+    "charges": 20,
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Spire of Conflux (Exalted)",
+    "rechargeAmount": "{@dice 1d6 + 4}",
+    "source": "TDCSR"
+}

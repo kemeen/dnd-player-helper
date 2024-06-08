@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "containerCapacity": {
+        "weight": [
+            300
+        ]
+    },
+    "entries": [
+        "A chest holds 12 cubic feet or 300 pounds of gear."
+    ],
+    "name": "Chest",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 500,
+    "weight": 25
+}

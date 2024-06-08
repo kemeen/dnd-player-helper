@@ -1,0 +1,22 @@
+{
+    "age": "futuristic",
+    "ammoType": "energy cell",
+    "dmg1": "3d8",
+    "dmgType": "R",
+    "firearm": true,
+    "name": "Laser Rifle",
+    "page": 268,
+    "property": [
+        "AF",
+        "RLD",
+        "2H"
+    ],
+    "range": "100/300",
+    "rarity": "none",
+    "reload": 30,
+    "source": "DMG",
+    "type": "R",
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 7
+}

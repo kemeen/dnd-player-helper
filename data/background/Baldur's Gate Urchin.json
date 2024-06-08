@@ -1,0 +1,33 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": 2,
+                "items": {
+                    "data": {
+                        "isFeature": true
+                    },
+                    "entries": [
+                        "{@note The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate\u2014though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.}",
+                        "Even though you might not be a member of the Gateguides crew, you've associated with enough of them that you know their torch-based code. From the lighting, placement, and type of torch arranged on or near a structure, you can gather a great deal of information about those who live or do business there, particularly if they deal fairly with strangers, have Guild or government connections, or have either helped or denied the Gateguides in the past."
+                    ],
+                    "name": "Baldur's Gate Feature: Gateguide Connection",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "name": "Urchin",
+        "source": "PHB"
+    },
+    "additionalSources": [
+        {
+            "page": 141,
+            "source": "PHB"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Baldur's Gate Urchin",
+    "page": 204,
+    "source": "BGDIA"
+}

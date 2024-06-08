@@ -1,0 +1,29 @@
+{
+    "entries": [
+        "Your martial training has helped you develop a particular style of fighting. As a result, you learn one {@filter Fighting Style|optionalfeatures|Feature Type=FS:F} option of your choice from the fighter class. If you already have a style, the one you choose must be different.",
+        "Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat's fighting style with another one from the fighter class that you don't have."
+    ],
+    "name": "Fighting Initiate",
+    "optionalfeatureProgression": [
+        {
+            "featureType": [
+                "FS:F"
+            ],
+            "name": "Fighting Style",
+            "progression": {
+                "*": 1
+            }
+        }
+    ],
+    "page": 80,
+    "prerequisite": [
+        {
+            "proficiency": [
+                {
+                    "weapon": "martial"
+                }
+            ]
+        }
+    ],
+    "source": "TCE"
+}

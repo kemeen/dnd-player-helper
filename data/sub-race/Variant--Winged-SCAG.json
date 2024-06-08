@@ -1,0 +1,53 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 2,
+                "count": 1,
+                "from": [
+                    "dex",
+                    "cha"
+                ]
+            },
+            "int": 1
+        }
+    ],
+    "additionalSpells": null,
+    "entries": [
+        {
+            "entries": [
+                "Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose {@dice 1d4+1} of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone."
+            ],
+            "name": "Appearance",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Infernal Legacy"
+            },
+            "entries": [
+                "You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet while you aren't wearing heavy armor."
+            ],
+            "name": "Winged",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Variant; Winged",
+    "overwrite": {
+        "ability": true,
+        "traitTags": true
+    },
+    "page": 118,
+    "raceName": "Tiefling",
+    "raceSource": "PHB",
+    "source": "SCAG",
+    "speed": {
+        "fly": 30,
+        "walk": 30
+    },
+    "traitTags": [
+        "Uncommon Race"
+    ]
+}

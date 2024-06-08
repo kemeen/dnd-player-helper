@@ -1,0 +1,90 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "count": 2,
+                "from": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "entries": [
+        {
+            "entries": [
+                "Humans reach adulthood in their late teens. Most human initiates have completed the trials and found a glorious or inglorious death before they turn 30. Viziers can enjoy longer service to their gods, in theory living up to a century."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Humans tend toward no particular alignment. The best and the worst are found among them."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium"
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain proficiency in one skill of your choice."
+            ],
+            "name": "Skills",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain one {@5etools feat|feats.html} of your choice."
+            ],
+            "name": "Feat",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and one extra language of your choice."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "feats": [
+        {
+            "any": 1
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true
+        }
+    ],
+    "name": "Human (Amonkhet)",
+    "page": 14,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "any": 1
+        }
+    ],
+    "source": "PSA",
+    "speed": 30
+}

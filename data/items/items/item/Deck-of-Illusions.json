@@ -1,0 +1,365 @@
+{
+    "entries": [
+        "This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing {@dice 1d20 - 1} cards.",
+        "The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.",
+        "An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature, except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence ({@skill Investigation}) check. The creature then appears translucent.",
+        "The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.",
+        {
+            "colLabels": [
+                "{@dice 1d33|Playing Card}",
+                "Illusion"
+            ],
+            "colStyles": [
+                "col-3",
+                "col-9"
+            ],
+            "rows": [
+                [
+                    {
+                        "entry": "Ace of hearts",
+                        "roll": {
+                            "exact": 1
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature adult red dragon||Red dragon}"
+                ],
+                [
+                    {
+                        "entry": "King of hearts",
+                        "roll": {
+                            "exact": 2
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Knight} and four {@creature guard||guards}"
+                ],
+                [
+                    {
+                        "entry": "Queen of hearts",
+                        "roll": {
+                            "exact": 3
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Succubus||Succubus/Incubus}"
+                ],
+                [
+                    {
+                        "entry": "Jack of hearts",
+                        "roll": {
+                            "exact": 4
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Druid}"
+                ],
+                [
+                    {
+                        "entry": "Ten of hearts",
+                        "roll": {
+                            "exact": 5
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Cloud giant}"
+                ],
+                [
+                    {
+                        "entry": "Nine of hearts",
+                        "roll": {
+                            "exact": 6
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Ettin}"
+                ],
+                [
+                    {
+                        "entry": "Eight of hearts",
+                        "roll": {
+                            "exact": 7
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Bugbear}"
+                ],
+                [
+                    {
+                        "entry": "Two of hearts",
+                        "roll": {
+                            "exact": 8
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Goblin}"
+                ],
+                [
+                    {
+                        "entry": "Ace of diamonds",
+                        "roll": {
+                            "exact": 9
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Beholder}"
+                ],
+                [
+                    {
+                        "entry": "King of diamonds",
+                        "roll": {
+                            "exact": 10
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Archmage} and {@creature mage} apprentice"
+                ],
+                [
+                    {
+                        "entry": "Queen of diamonds",
+                        "roll": {
+                            "exact": 11
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Night hag}"
+                ],
+                [
+                    {
+                        "entry": "Jack of diamonds",
+                        "roll": {
+                            "exact": 12
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Assassin}"
+                ],
+                [
+                    {
+                        "entry": "Ten of diamonds",
+                        "roll": {
+                            "exact": 13
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Fire giant}"
+                ],
+                [
+                    {
+                        "entry": "Nine of diamonds",
+                        "roll": {
+                            "exact": 14
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature oni||Ogre mage}"
+                ],
+                [
+                    {
+                        "entry": "Eight of diamonds",
+                        "roll": {
+                            "exact": 15
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Gnoll}"
+                ],
+                [
+                    {
+                        "entry": "Two of diamonds",
+                        "roll": {
+                            "exact": 16
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Kobold}"
+                ],
+                [
+                    {
+                        "entry": "Ace of spades",
+                        "roll": {
+                            "exact": 17
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Lich}"
+                ],
+                [
+                    {
+                        "entry": "King of spades",
+                        "roll": {
+                            "exact": 18
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Priest} and two {@creature acolyte||acolytes}"
+                ],
+                [
+                    {
+                        "entry": "Queen of spades",
+                        "roll": {
+                            "exact": 19
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Medusa}"
+                ],
+                [
+                    {
+                        "entry": "Jack of spades",
+                        "roll": {
+                            "exact": 20
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Veteran}"
+                ],
+                [
+                    {
+                        "entry": "Ten of spades",
+                        "roll": {
+                            "exact": 21
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Frost giant}"
+                ],
+                [
+                    {
+                        "entry": "Nine of spades",
+                        "roll": {
+                            "exact": 22
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Troll}"
+                ],
+                [
+                    {
+                        "entry": "Eight of spades",
+                        "roll": {
+                            "exact": 23
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Hobgoblin}"
+                ],
+                [
+                    {
+                        "entry": "Two of spades",
+                        "roll": {
+                            "exact": 24
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Goblin}"
+                ],
+                [
+                    {
+                        "entry": "Ace of clubs",
+                        "roll": {
+                            "exact": 25
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Iron golem}"
+                ],
+                [
+                    {
+                        "entry": "King of clubs",
+                        "roll": {
+                            "exact": 26
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Bandit captain} and three {@creature bandit||bandits}"
+                ],
+                [
+                    {
+                        "entry": "Queen of clubs",
+                        "roll": {
+                            "exact": 27
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Erinyes}"
+                ],
+                [
+                    {
+                        "entry": "Jack of clubs",
+                        "roll": {
+                            "exact": 28
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Berserker}"
+                ],
+                [
+                    {
+                        "entry": "Ten of clubs",
+                        "roll": {
+                            "exact": 29
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Hill giant}"
+                ],
+                [
+                    {
+                        "entry": "Nine of clubs",
+                        "roll": {
+                            "exact": 30
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Ogre}"
+                ],
+                [
+                    {
+                        "entry": "Eight of clubs",
+                        "roll": {
+                            "exact": 31
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Orc}"
+                ],
+                [
+                    {
+                        "entry": "Two of clubs",
+                        "roll": {
+                            "exact": 32
+                        },
+                        "type": "cell"
+                    },
+                    "{@creature Kobold}"
+                ],
+                [
+                    {
+                        "entry": "jokers (2)",
+                        "roll": {
+                            "max": 34,
+                            "min": 33
+                        },
+                        "type": "cell"
+                    },
+                    "You (the deck's owner)"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Deck of Illusions",
+    "page": 161,
+    "rarity": "uncommon",
+    "seeAlsoDeck": [
+        "Deck of Illusions"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

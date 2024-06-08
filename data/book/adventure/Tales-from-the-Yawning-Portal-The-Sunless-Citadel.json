@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "TftYP-TSC",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "Tales from the Yawning Portal: The Sunless Citadel",
+    "parentName": "Tales from the Yawning Portal",
+    "parentSource": "TftYP",
+    "published": "2017-03-24",
+    "publishedOrder": 0,
+    "source": "TftYP-TSC",
+    "storyline": "Tales from the Yawning Portal"
+}

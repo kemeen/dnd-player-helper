@@ -1,0 +1,81 @@
+{
+    "ability": [
+        {
+            "con": 2
+        }
+    ],
+    "additionalSources": [
+        {
+            "page": 170,
+            "source": "EGW"
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 120
+    },
+    "entries": [
+        {
+            "entries": [
+                "Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Independent and self-reliant, genasi tend toward a neutral alignment."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 56,
+        "baseWeight": 110,
+        "heightMod": "2d10",
+        "weightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "primordial": true
+        }
+    ],
+    "name": "Genasi",
+    "otherSources": [
+        {
+            "page": 170,
+            "source": "EGW"
+        }
+    ],
+    "page": 9,
+    "reprintedAs": [
+        "Genasi|MPMM"
+    ],
+    "size": [
+        "M"
+    ],
+    "soundClip": {
+        "path": "races/genasi.mp3",
+        "type": "internal"
+    },
+    "source": "EEPC",
+    "speed": 30
+}

@@ -1,0 +1,42 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "a small amount of makeup applied to the face as this spell is cast",
+        "s": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile toward you. When the spell ends, the creature realizes that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the DM's discretion), depending on the nature of your interaction with it."
+    ],
+    "level": 0,
+    "miscTags": [
+        "ADV"
+    ],
+    "name": "Friends",
+    "page": 244,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "E",
+    "source": "PHB",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

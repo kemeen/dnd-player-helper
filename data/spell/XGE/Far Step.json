@@ -1,0 +1,40 @@
+{
+    "components": {
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a bonus action to teleport in this way again."
+    ],
+    "level": 5,
+    "miscTags": [
+        "SGT",
+        "TP",
+        "UBA"
+    ],
+    "name": "Far Step",
+    "page": 155,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "C",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "bonus"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "attachedSpells": [
+        "dominate monster"
+    ],
+    "entries": [
+        "This loop of golden thorns is inset with dozens of gems representing the five colors of Tiamat."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Wreath of the Prism (Dormant)|EGW",
+        "Wreath of the Prism (Awakened)|EGW",
+        "Wreath of the Prism (Exalted)|EGW"
+    ],
+    "name": "Wreath of the Prism",
+    "page": 274,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "EGW",
+    "wondrous": true
+}

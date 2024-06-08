@@ -1,0 +1,39 @@
+{
+    "components": {
+        "m": {
+            "consume": true,
+            "cost": 10000,
+            "text": "100 gp of alchemical fluids or holy water, which the spell consumes"
+        },
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "exhaustion"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You apply alchemical fluids or holy water to a contaminated humanoid creature while reciting an exacting magical chant that expels eldritch contaminants from the target's body. When you finish casting the spell, all {@adventure contamination levels|DoDk|12} and mutations are removed from the creature. It then gains one level of {@condition exhaustion} for each {@adventure contamination level|DoDk|12} removed with this spell."
+    ],
+    "level": 3,
+    "name": "Purge Contamination",
+    "page": 228,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "DoDk",
+    "time": [
+        {
+            "number": 1,
+            "unit": "hour"
+        }
+    ]
+}

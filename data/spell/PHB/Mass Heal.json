@@ -1,0 +1,55 @@
+{
+    "affectsCreatureType": [
+        "aberration",
+        "beast",
+        "celestial",
+        "dragon",
+        "elemental",
+        "fey",
+        "fiend",
+        "giant",
+        "humanoid",
+        "monstrosity",
+        "ooze",
+        "plant"
+    ],
+    "areaTags": [
+        "MT"
+    ],
+    "basicRules": true,
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them {@condition blinded} or {@condition deafened}. This spell has no effect on undead or constructs."
+    ],
+    "level": 9,
+    "miscTags": [
+        "HL",
+        "SGT"
+    ],
+    "name": "Mass Heal",
+    "page": 258,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "V",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

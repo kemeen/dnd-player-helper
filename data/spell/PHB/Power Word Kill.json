@@ -1,0 +1,39 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "v": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect."
+    ],
+    "level": 9,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Power Word Kill",
+    "page": 266,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "E",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

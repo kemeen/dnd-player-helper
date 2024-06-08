@@ -1,0 +1,109 @@
+{
+    "ability": [
+        {
+            "int": 2,
+            "wis": 1
+        }
+    ],
+    "age": {
+        "mature": 40,
+        "max": 500
+    },
+    "entries": [
+        {
+            "entries": [
+                "Vedalken mature slower than humans do, reaching maturity around age 40. Their life span is typically 350 years, with some living to the age of 500."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Vedalken are usually lawful and non-evil."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Tall and slender, Vedalken stand 6 to 6\u00bd feet tall on average and usually weigh less than 200 pounds. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on all Intelligence, Wisdom, and Charisma saving throws."
+            ],
+            "name": "Vedalken Dispassion",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are proficient in one of the following skills of your choice: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Medicine}, {@skill Performance}, or {@skill Sleight of Hand}. You are also proficient with one {@book tool|phb|5|tools} of your choice.",
+                "Whenever you make an ability check with the chosen skill or tool, roll a {@dice d4} and add the number rolled to the check's total."
+            ],
+            "name": "Tireless Precision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "By absorbing oxygen through your skin, you can breathe underwater for up to 1 hour. Once you've reached that limit, you can't use this trait again until you finish a long rest."
+            ],
+            "name": "Partially Amphibious",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common, Vedalken, and one other language of your choice."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 64,
+        "baseWeight": 110,
+        "heightMod": "2d10",
+        "weightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Vedalken",
+    "page": 21,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "arcana",
+                    "history",
+                    "investigation",
+                    "medicine",
+                    "performance",
+                    "sleight of hand"
+                ]
+            }
+        }
+    ],
+    "source": "GGR",
+    "speed": 30,
+    "toolProficiencies": [
+        {
+            "any": 1
+        }
+    ],
+    "traitTags": [
+        "Skill Bonus Dice",
+        "Tool Bonus Dice"
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "distort value": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Divinely Favored": true
+            },
+            "ERLW": {
+                "Aberrant Dragonmark": true
+            },
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            },
+            "TCE": {
+                "Shadow Touched": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "fast friends": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Cleric": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                },
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "gift of gab": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Black Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "incite greed": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                },
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "jim's glowing coin": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the Black Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "jim's magic missile": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        },
+        "feat": {
+            "PHB": {
+                "Magic Initiate": true
+            },
+            "SCC": {
+                "Strixhaven Initiate": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "motivational speech": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Cleric": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Sorcerer": {
+                    "XGE": {
+                        "Divine Soul": {
+                            "name": "Divine Soul"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

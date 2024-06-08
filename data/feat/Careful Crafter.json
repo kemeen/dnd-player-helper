@@ -1,0 +1,23 @@
+{
+    "entries": [
+        "You've trained in crafting items using a skill or tool that you're proficient with, and your creations are known for being well made and reliable. You gain the following benefits:",
+        {
+            "items": [
+                "You make all ability checks for crafting with advantage.",
+                "Anyone assisting you in crafting an item gains advantage on their ability checks for crafting.",
+                "If you fail to successfully craft the item, the amount of time it took to complete the process is halved."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Careful Crafter",
+    "prerequisite": [
+        {
+            "otherSummary": {
+                "entry": "Proficiency in a skill or tool",
+                "entrySummary": "Prof skill/tool"
+            }
+        }
+    ],
+    "source": "GHLoE"
+}

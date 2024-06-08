@@ -1,0 +1,22 @@
+{
+    "hasFluffImages": true,
+    "inherits": {
+        "entries": [
+            "This piece of ammunition has a refined delerium arrowtip. A creature hit by a ranged attack using one of these arrows takes an extra ({@dice 3d6}) necrotic damage and must succeed on a DC 15 Constitution saving throw or gain one {@adventure level of contamination|DoDk|12}. Once it hits a target, the delerium tip crumbles to dust and the arrow becomes nonmagical."
+        ],
+        "namePrefix": "Hardened Delerium-tipped ",
+        "page": 230,
+        "rarity": "rare",
+        "source": "DoDk"
+    },
+    "name": "Hardened Delerium-tipped Arrows",
+    "requires": [
+        {
+            "arrow": true
+        },
+        {
+            "bolt": true
+        }
+    ],
+    "type": "GV"
+}

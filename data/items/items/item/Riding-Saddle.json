@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Riding Saddle",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "TAH",
+    "value": 1000,
+    "weight": 25
+}

@@ -1,0 +1,79 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Athletics}, {@skill Persuasion}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "One type of {@filter gaming set|items|source=phb|miscellaneous=mundane|type=gaming set}, {@filter vehicles (land)|items|source=phb;dmg|miscellaneous=mundane|type=vehicle (land)}",
+                    "name": "Tool Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A uniform of your company ({@item traveler's clothes|phb} in quality), an insignia of your rank, a {@filter gaming set|items|source=phb|miscellaneous=mundane|type=gaming set} of your choice, and a {@item pouch|phb} containing the remainder of your last wages (10 gp).",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You know the mercenary life as only someone who has experienced it can. You are able to identify mercenary companies by their emblems, and you know a little about any such company, including who has hired them recently. You can find the taverns and festhalls where mercenaries abide in any area, as long as you speak the language. You can find mercenary work between adventures sufficient to maintain a comfortable lifestyle (see \"{@book Practicing a Profession|PHB|8|Practicing a Profession}\" under \"Downtime Activities\" in chapter 8 of the Player's Handbook)."
+            ],
+            "name": "Feature: Mercenary Life",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Use the tables for the {@background soldier} background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a mercenary.",
+                "Your bond could be associated with the company you traveled with previously, or with some of the comrades you served with. The ideal you embrace largely depends on your worldview and your motivation for fighting."
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Mercenary Veteran",
+    "page": 152,
+    "skillProficiencies": [
+        {
+            "athletics": true,
+            "persuasion": true
+        }
+    ],
+    "source": "SCAG",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "displayName": "uniform of your company",
+                    "item": "traveler's clothes|phb"
+                },
+                {
+                    "special": "insignia of your rank"
+                },
+                {
+                    "equipmentType": "setGaming"
+                },
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "gaming set": true,
+            "vehicles (land)": true
+        }
+    ]
+}

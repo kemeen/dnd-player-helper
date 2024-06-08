@@ -1,0 +1,20 @@
+{
+    "axe": true,
+    "basicRules": true,
+    "dmg1": "1d12",
+    "dmgType": "S",
+    "name": "Greataxe",
+    "page": 149,
+    "property": [
+        "H",
+        "2H"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 3000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 7
+}

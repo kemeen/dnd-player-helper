@@ -1,0 +1,96 @@
+{
+    "ability": [
+        {
+            "cha": 1,
+            "wis": 2
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "entries": [
+        {
+            "entries": [
+                "Kalashtar mature and age at the same rate as humans."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The noble spirit tied to a kalashtar drives it toward lawful and good behavior. Most kalashtar combine strong self-discipline with compassion for all beings, but some kalashtar resist the virtuous influence of their spirit."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on all Wisdom saving throws."
+            ],
+            "name": "Dual Mind",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to psychic damage."
+            ],
+            "name": "Mental Discipline",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.",
+                "When you're using this trait to speak telepathically to a creature, you can use your action to give that creature the ability to speak telepathically with you for 1 hour or until you end this effect as an action. To use this ability, the creature must be able to see you and must be within this trait's range. You can give this ability to only one creature at a time; giving it to a creature takes it away from another creature who has it."
+            ],
+            "name": "Mind Link",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Kalashtar sleep, but they don't connect to the plane of dreams as other creatures do. Instead, their minds draw from the memories of their otherworldly spirit while they sleep. As such, you are immune to spells and other magical effects that require you to dream, like {@spell dream}, but not to spells and other magical effects that put you to sleep, like {@spell sleep}."
+            ],
+            "name": "Severed from Dreams",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common, Quori, and one other language of your choice."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 64,
+        "baseWeight": 110,
+        "heightMod": "2d6",
+        "weightMod": "1d6"
+    },
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Kalashtar",
+    "page": 29,
+    "resist": [
+        "psychic"
+    ],
+    "size": [
+        "M"
+    ],
+    "source": "ERLW",
+    "speed": 30
+}

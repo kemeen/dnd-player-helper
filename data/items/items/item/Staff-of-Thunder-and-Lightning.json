@@ -1,0 +1,61 @@
+{
+    "bonusWeapon": "+2",
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.",
+        {
+            "entries": [
+                "When you hit with a melee attack using the staff, you can cause the target to take an extra {@damage 2d6} lightning damage."
+            ],
+            "name": "Lightning",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become {@condition stunned} until the end of your next turn."
+            ],
+            "name": "Thunder",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can use an action to cause a bolt of lightning to leap from the staff's tip in a line that is 5 feet wide and 120 feet long. Each creature in that line must make a DC 17 Dexterity saving throw, taking {@damage 9d6} lightning damage on a failed save, or half as much damage on a successful one."
+            ],
+            "name": "Lightning Strike",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes {@damage 2d6} thunder damage and becomes {@condition deafened} for 1 minute. On a successful save, a creature takes half damage and isn't {@condition deafened}."
+            ],
+            "name": "Thunderclap",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one."
+            ],
+            "name": "Thunder and Lightning",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Staff of Thunder and Lightning",
+    "page": 204,
+    "property": [
+        "V"
+    ],
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "staff": true,
+    "tier": "major",
+    "weaponCategory": "simple",
+    "weight": 4
+}

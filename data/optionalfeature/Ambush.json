@@ -1,0 +1,15 @@
+{
+    "consumes": {
+        "name": "Superiority Die"
+    },
+    "entries": [
+        "When you make a Dexterity ({@skill Stealth}) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't {@condition incapacitated}."
+    ],
+    "featureType": [
+        "MV:B"
+    ],
+    "isClassFeatureVariant": true,
+    "name": "Ambush",
+    "page": 42,
+    "source": "TCE"
+}

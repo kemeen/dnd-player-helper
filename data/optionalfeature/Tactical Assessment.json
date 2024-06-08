@@ -1,0 +1,15 @@
+{
+    "consumes": {
+        "name": "Superiority Die"
+    },
+    "entries": [
+        "When you make an Intelligence ({@skill Investigation}), an Intelligence ({@skill History}), or a Wisdom ({@skill Insight}) check, you can expend one superiority die and add the superiority die to the ability check."
+    ],
+    "featureType": [
+        "MV:B"
+    ],
+    "isClassFeatureVariant": true,
+    "name": "Tactical Assessment",
+    "page": 42,
+    "source": "TCE"
+}

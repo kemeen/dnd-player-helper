@@ -1,0 +1,62 @@
+{
+    "areaTags": [
+        "R"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "prone"
+    ],
+    "damageInflict": [
+        "bludgeoning"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes {@damage 1d6} bludgeoning damage and is knocked {@condition prone}. If the ground in that area is loose earth or stone, it becomes {@quickref difficult terrain||3} until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by {@scaledamage 1d6|1-9|1d6} for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "miscTags": [
+        "DFT"
+    ],
+    "name": "Earth Tremor",
+    "otherSources": [
+        {
+            "page": 17,
+            "source": "EEPC"
+        }
+    ],
+    "page": 155,
+    "range": {
+        "distance": {
+            "amount": 10,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "V",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

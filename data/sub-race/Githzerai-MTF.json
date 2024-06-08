@@ -1,0 +1,73 @@
+{
+    "ability": [
+        {
+            "wis": 2
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "shield"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "detect thoughts"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "mage hand#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "Githzerai tend toward lawful neutral. Their rigorous training in psychic abilities requires an implacable mental discipline."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws against the {@condition charmed} and {@condition frightened} conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds."
+            ],
+            "name": "Mental Discipline",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell mage hand} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
+                "When you reach 3rd level, you can cast {@spell shield} once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell detect thoughts} spell once with this trait, and you regain the ability to do so when you finish a long rest.",
+                "Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components."
+            ],
+            "name": "Githzerai Psionics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "heightAndWeight": {
+        "baseHeight": 59,
+        "baseWeight": 90,
+        "heightMod": "2d12",
+        "weightMod": "1d4"
+    },
+    "name": "Githzerai",
+    "page": 96,
+    "raceName": "Gith",
+    "raceSource": "MTF",
+    "reprintedAs": [
+        "Githzerai|MPMM"
+    ],
+    "source": "MTF"
+}

@@ -1,0 +1,24 @@
+{
+    "ac": 18,
+    "attachedSpells": [
+        "etherealness"
+    ],
+    "baseItem": "plate armor|phb",
+    "entries": [
+        "While you're wearing this armor, you can speak its command word as an action to gain the effect of the {@spell etherealness} spell, which lasts for 10 minutes or until you remove the armor or use an action to speak the command word again. This property of the armor can't be used again until the next dawn."
+    ],
+    "lootTables": [
+        "Magic Item Table I"
+    ],
+    "name": "Plate Armor of Etherealness",
+    "page": 185,
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "stealth": true,
+    "strength": "15",
+    "tier": "major",
+    "type": "HA",
+    "weight": 65
+}

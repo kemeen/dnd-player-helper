@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A simple and portable canvas shelter, a tent sleeps two."
+    ],
+    "name": "Two-Person Tent",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 200,
+    "weight": 20
+}

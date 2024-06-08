@@ -1,0 +1,61 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You have honed your proficiency with particular skills, granting you the following benefits:",
+        {
+            "items": [
+                "You gain proficiency in one {@table skills|phb|skill} of your choice.",
+                "Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus."
+            ],
+            "type": "list"
+        }
+    ],
+    "expertise": [
+        {
+            "anyProficientSkill": 1
+        }
+    ],
+    "name": "Skill Expert",
+    "page": 80,
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "athletics",
+                    "acrobatics",
+                    "sleight of hand",
+                    "stealth",
+                    "arcana",
+                    "history",
+                    "investigation",
+                    "nature",
+                    "religion",
+                    "animal handling",
+                    "insight",
+                    "medicine",
+                    "perception",
+                    "survival",
+                    "deception",
+                    "intimidation",
+                    "performance",
+                    "persuasion"
+                ]
+            }
+        }
+    ],
+    "source": "TCE"
+}

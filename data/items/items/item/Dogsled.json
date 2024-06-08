@@ -1,0 +1,12 @@
+{
+    "entries": [
+        "An empty sled costs 20 gp, weighs 300 pounds, and has room at the back for one driver."
+    ],
+    "name": "Dogsled",
+    "page": 20,
+    "rarity": "none",
+    "source": "IDRotF",
+    "type": "VEH",
+    "value": 2000,
+    "weight": 300
+}

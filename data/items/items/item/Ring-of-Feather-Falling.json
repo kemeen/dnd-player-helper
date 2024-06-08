@@ -1,0 +1,17 @@
+{
+    "entries": [
+        "When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Ring of Feather Falling",
+    "page": 191,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

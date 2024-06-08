@@ -1,0 +1,22 @@
+{
+    "attachedSpells": [
+        "daylight"
+    ],
+    "baseItem": "war pick|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "The haft of this war pick is inlaid with crushed pearlescent stones that imbue the weapon with a faint luminescence. You gain a +1 bonus to attack and damage rolls made with this war pick.",
+        "While wielding the war pick, you can use a bonus action to cast the {@spell daylight} spell, choosing a point on the war pick. Once you use this bonus action, it can't be used again until the next dawn."
+    ],
+    "hasFluffImages": true,
+    "name": "Luminous War Pick",
+    "page": 217,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "PaBTSO",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 2
+}

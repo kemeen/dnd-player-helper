@@ -1,0 +1,15 @@
+{
+    "entries": [
+        "These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 feet."
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Horseshoes of Speed",
+    "page": 175,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "wondrous": true
+}

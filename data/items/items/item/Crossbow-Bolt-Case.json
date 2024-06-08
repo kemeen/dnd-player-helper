@@ -1,0 +1,21 @@
+{
+    "basicRules": true,
+    "containerCapacity": {
+        "item": [
+            {
+                "crossbow bolt|phb": 20
+            }
+        ]
+    },
+    "entries": [
+        "This wooden case can hold up to twenty {@item crossbow bolt|phb|crossbow bolts}."
+    ],
+    "name": "Crossbow Bolt Case",
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 100,
+    "weight": 1
+}

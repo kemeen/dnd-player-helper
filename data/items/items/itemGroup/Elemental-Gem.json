@@ -1,0 +1,21 @@
+{
+    "attachedSpells": [
+        "conjure elemental"
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Elemental Gem, Blue Sapphire",
+        "Elemental Gem, Emerald",
+        "Elemental Gem, Red Corundum",
+        "Elemental Gem, Yellow Diamond"
+    ],
+    "lootTables": [
+        "Magic Item Table B"
+    ],
+    "name": "Elemental Gem",
+    "page": 167,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "tier": "minor",
+    "wondrous": true
+}

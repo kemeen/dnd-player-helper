@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch\u2014or anything else with abundant, exposed fuel\u2014takes an action. Lighting any other fire takes 1 minute."
+    ],
+    "name": "Tinderbox",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 50,
+    "weight": 1
+}

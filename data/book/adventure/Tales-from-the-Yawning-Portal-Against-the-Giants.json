@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "TftYP-AtG",
+    "level": {
+        "end": 14,
+        "start": 11
+    },
+    "name": "Tales from the Yawning Portal: Against the Giants",
+    "parentName": "Tales from the Yawning Portal",
+    "parentSource": "TftYP",
+    "published": "2017-03-24",
+    "publishedOrder": 5,
+    "source": "TftYP-AtG",
+    "storyline": "Tales from the Yawning Portal"
+}

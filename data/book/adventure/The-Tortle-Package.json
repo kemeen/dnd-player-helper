@@ -1,0 +1,12 @@
+{
+    "group": "supplement-alt",
+    "id": "TTP",
+    "level": {
+        "end": 4,
+        "start": 1
+    },
+    "name": "The Tortle Package",
+    "published": "2017-11-03",
+    "source": "TTP",
+    "storyline": "Tomb of Annihilation"
+}

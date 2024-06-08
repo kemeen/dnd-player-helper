@@ -1,0 +1,52 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Includes:",
+        {
+            "items": [
+                "a {@item chest|phb}",
+                "2 {@item Map or Scroll Case|phb|cases for maps and scrolls}",
+                "a set of {@item fine clothes|phb}",
+                "a {@item Ink (1-ounce bottle)|phb|bottle of ink}",
+                "an {@item ink pen|phb}",
+                "a {@item lamp|phb}",
+                "2 {@item Oil (flask)|phb|flasks of oil}",
+                "5 {@item Paper (one sheet)|phb|sheets of paper}",
+                "a {@item Perfume (vial)|phb|vial of perfume}",
+                "{@item sealing wax|phb}",
+                "{@item soap|phb}"
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Diplomat's Pack",
+    "packContents": [
+        "chest|phb",
+        {
+            "item": "map or scroll case|phb",
+            "quantity": 2
+        },
+        "fine clothes|phb",
+        "ink (1-ounce bottle)|phb",
+        "ink pen|phb",
+        "lamp|phb",
+        {
+            "item": "oil (flask)|phb",
+            "quantity": 2
+        },
+        {
+            "item": "paper (one sheet)|phb",
+            "quantity": 5
+        },
+        "perfume (vial)|phb",
+        "sealing wax|phb",
+        "soap|phb"
+    ],
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 3900,
+    "weight": 36
+}

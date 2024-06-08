@@ -1,0 +1,47 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Plate of the Dawnmartyr reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The armor's bonus to AC increases to +2.",
+                                            "You are immune to the {@condition frightened} condition.",
+                                            "You have resistance to fire damage.",
+                                            "The fire damage you deal when you rebuke an attacker increases to {@dice 2d6}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Plate of the Dawnmartyr (Dormant)",
+        "source": "TDCSR"
+    },
+    "bonusAc": "+2",
+    "conditionImmune": [
+        "frightened"
+    ],
+    "hasFluffImages": true,
+    "name": "Plate of the Dawnmartyr (Awakened)",
+    "resist": [
+        "fire"
+    ],
+    "source": "TDCSR"
+}

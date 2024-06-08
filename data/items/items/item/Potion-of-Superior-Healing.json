@@ -1,0 +1,15 @@
+{
+    "entries": [
+        "You regain {@dice 8d4 + 8} hit points when you drink this potion. The potion's red liquid glimmers when agitated."
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Potion of Superior Healing",
+    "page": 187,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Traveler's Clothes",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 200,
+    "weight": 4
+}

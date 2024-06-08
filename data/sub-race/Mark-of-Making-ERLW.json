@@ -1,0 +1,128 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "count": 1,
+                "from": [
+                    "str",
+                    "dex",
+                    "con",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "int": 2
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "int",
+            "expanded": {
+                "s1": [
+                    "identify",
+                    "tenser's floating disk"
+                ],
+                "s2": [
+                    "continual flame",
+                    "magic weapon"
+                ],
+                "s3": [
+                    "conjure barrage",
+                    "elemental weapon"
+                ],
+                "s4": [
+                    "fabricate",
+                    "stone shape"
+                ],
+                "s5": [
+                    "creation"
+                ]
+            },
+            "known": {
+                "1": [
+                    "mending#c",
+                    "magic weapon"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "When you make an {@skill Arcana} check or an ability check involving {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools}, you can roll a {@dice d4} and add the number rolled to the ability check."
+            ],
+            "name": "Artisan's Intuition",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain proficiency with one type of artisan's tools of your choice."
+            ],
+            "name": "Maker's Gift",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell mending} cantrip. You can also cast the {@spell magic weapon} spell with this trait. When you do so, the spell lasts for 1 hour and doesn't require {@status concentration}. Once you cast the spell with this trait, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for these spells."
+            ],
+            "name": "Spellsmith",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Making Spells table are added to the spell list of your spellcasting class.",
+                {
+                    "caption": "Mark of Making Spells",
+                    "colLabels": [
+                        "Spell Level",
+                        "Spells"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1st",
+                            "{@spell identify}, {@spell Tenser's floating disk}"
+                        ],
+                        [
+                            "2nd",
+                            "{@spell continual flame}, {@spell magic weapon}"
+                        ],
+                        [
+                            "3rd",
+                            "{@spell conjure barrage}, {@spell elemental weapon}"
+                        ],
+                        [
+                            "4th",
+                            "{@spell fabricate}, {@spell stone shape}"
+                        ],
+                        [
+                            "5th",
+                            "{@spell creation}"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Spells of the Mark",
+            "type": "entries"
+        }
+    ],
+    "name": "Mark of Making",
+    "page": 45,
+    "raceName": "Human",
+    "raceSource": "PHB",
+    "source": "ERLW",
+    "toolProficiencies": [
+        {
+            "anyArtisansTool": 1
+        }
+    ],
+    "traitTags": [
+        "Dragonmark",
+        "Skill Bonus Dice",
+        "Tool Bonus Dice"
+    ]
+}

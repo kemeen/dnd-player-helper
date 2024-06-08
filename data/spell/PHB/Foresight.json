@@ -1,0 +1,45 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "m": "a hummingbird feather",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 8,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be {@quickref Surprise|PHB|3|0|surprised} and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.",
+        "This spell immediately ends if you cast it again before its duration ends."
+    ],
+    "level": 9,
+    "miscTags": [
+        "ADV"
+    ],
+    "name": "Foresight",
+    "page": 244,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "minute"
+        }
+    ]
+}

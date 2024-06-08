@@ -1,0 +1,12 @@
+{
+    "entries": [
+        "Whenever you roll this six-sided die, you can control which number it rolls."
+    ],
+    "name": "Charlatan's Die",
+    "page": 136,
+    "rarity": "common",
+    "reqAttune": true,
+    "source": "XGE",
+    "tier": "minor",
+    "wondrous": true
+}

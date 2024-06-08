@@ -1,0 +1,17 @@
+{
+    "basicRules": true,
+    "name": "Blowgun Needles (50)",
+    "packContents": [
+        {
+            "item": "blowgun needle|phb",
+            "quantity": 50
+        }
+    ],
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "A",
+    "value": 100,
+    "weight": 1
+}

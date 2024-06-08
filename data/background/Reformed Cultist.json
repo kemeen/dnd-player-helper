@@ -1,0 +1,238 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Deception} and {@skill Religion}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "One of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Vestments and a {@item holy symbol|phb} of your previous cult, a set of {@item common clothes|phb}, a belt {@item pouch|PHB} containing 15 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You were inundated with knowledge about one of the {@book Betrayer Gods|TDCSR|2|Betrayer Gods}, and know by heart everything from their basic commandments to some of their most esoteric secrets. Choose one of the {@book Betrayer Gods|TDCSR|2|Betrayer Gods}. You have {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on Intelligence ({@skill Religion}) checks to know information about their faith, including obscure secrets unknown to most worshipers.",
+                "Additionally, you can work with your GM to create a secret that you learned during your time in the cult. This secret might be the seed of a conspiracy, a myth of a legendary hero whose true meaning has mutated over the years, or even the location of a fabled artifact of the gods."
+            ],
+            "name": "Feature: Fell Teachings",
+            "page": 186,
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The life of every former cultist is defined to some degree by the process of fleeing the past, and of trying to make a future away from the beliefs that once claimed them. Your bond is likely associated with those who gave you the insight and strength to flee your old ways. Your ideal might involve your desire to take down and destroy those who promote the evil you escaped, and perhaps finding new faith in a forgiving god.",
+                {
+                    "caption": "Reformed Cultist Personality Traits",
+                    "colLabels": [
+                        "{@dice d8}",
+                        "Personality Trait"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I need a {@item dagger|phb} close at hand at all times. Just in case they find me."
+                        ],
+                        [
+                            "2",
+                            "I can't believe I'm out here fighting monsters. After everything I've been through, why can't I find a normal life?"
+                        ],
+                        [
+                            "3",
+                            "I need a stiff drink before I do anything stressful these days. I know it's a problem. Just...let me have this."
+                        ],
+                        [
+                            "4",
+                            "Murder is okay when it's for a good cause! I didn't tear my past out by the roots so I could let evil people cause more harm."
+                        ],
+                        [
+                            "5",
+                            "My past is filled with stories like you wouldn't believe. Ones that'll really make your skin crawl. Do you want to hear...?"
+                        ],
+                        [
+                            "6",
+                            "Yeah, I'm crying. I do that. Get over yourself."
+                        ],
+                        [
+                            "7",
+                            "I know you've told me your name twice already, but that's not good enough. How can I be sure you are who you say you are?"
+                        ],
+                        [
+                            "8",
+                            "My mind is always racing. I can't...I just need to...you have to give me a second\u2014or else I can't...organize my thoughts."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Reformed Cultist Ideals",
+                    "colLabels": [
+                        "{@dice d6}",
+                        "Ideal"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "{@b Life}. I've spent too long shackled to an evil master. No matter what happened before, I deserve my freedom now. (Chaotic)"
+                        ],
+                        [
+                            "2",
+                            "{@b Redemption}. People can change, but redemption must be something they choose for themselves. If they do, it is my duty to help them along that path. (Good)"
+                        ],
+                        [
+                            "3",
+                            "{@b Power}. When I abandoned the cult, it wasn't out of some misguided sense of righteousness. That pathetic organization was merely a shackle on my potential. (Evil)"
+                        ],
+                        [
+                            "4",
+                            "{@b Vengeance}. The cult has poisoned my life. I will see all its followers suffer. (Any)"
+                        ],
+                        [
+                            "5",
+                            "{@b Hierarchy}. The cult was vile, but its strength was in stability and organization. As long as good folk lack unity, evil will always triumph. (Lawful)"
+                        ],
+                        [
+                            "6",
+                            "{@b Reparations}. As a cultist, I harmed people whose names I'll never know. I feel obligated to repay my debt by aiding others. (Good)"
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Reformed Cultist Bonds",
+                    "colLabels": [
+                        "{@dice d6}",
+                        "Bond"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "My cousin escaped the cult with me. I lost track of them when we fled, but I know they're alive. I can feel it."
+                        ],
+                        [
+                            "2",
+                            "I was saved from the cult by a priest of one of the {@book Prime Deities|TDCSR|2|Prime Deities}. If not for that sign of faith, I would surely be lost."
+                        ],
+                        [
+                            "3",
+                            "I was told by the person who saved me that a sage once said: \"Life needs things to live.\" I don't know what that means, but I've dedicated my existence to finding out."
+                        ],
+                        [
+                            "4",
+                            "One of my cultist parents had a change of heart when I was a teenager, and we fled together in the dark of night. I didn't want to leave, but I understand now that their courage saved my life."
+                        ],
+                        [
+                            "5",
+                            "I was bested by a warrior when I fumbled a cult-ordered assassination. I don't know why that person took pity on me, but they gave me purpose when I was lost."
+                        ],
+                        [
+                            "6",
+                            "Now that I've saved myself, the only person important to me is my former cult leader\u2014because I've sworn that they'll die by my hand."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Reformed Cultist Flaws",
+                    "colLabels": [
+                        "{@dice d6}",
+                        "Flaw"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I'm haunted by what I saw in those ritual chambers. Every time I see blood, I...oh, gods, I can't bear to even think about it."
+                        ],
+                        [
+                            "2",
+                            "I ran from the cult long ago. But deep down, there's a part of me that still thinks they were right about certain things."
+                        ],
+                        [
+                            "3",
+                            "I can't help but feel a rush whenever I see a life snuffed out before me. Just one more kill... just one more."
+                        ],
+                        [
+                            "4",
+                            "Organized religion terrifies me. {@book Betrayer Gods|TDCSR|2|Betrayer Gods} or {@book Prime Deities|TDCSR|2|Prime Deities}...it doesn't matter. The sight of the faithful freezes my blood cold."
+                        ],
+                        [
+                            "5",
+                            "Oh, I always tell the truth. Always. I've never had to keep a secret from anyone, so of course I'll be open with you."
+                        ],
+                        [
+                            "6",
+                            "I don't trust easily. If you grew up being lied to about every little thing? The fundamental nature of the world? You wouldn't, either."
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Suggested Characteristics",
+            "page": 186,
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "languageProficiencies": [
+        {
+            "any": 1
+        }
+    ],
+    "name": "Reformed Cultist",
+    "page": 185,
+    "skillProficiencies": [
+        {
+            "deception": true,
+            "religion": true
+        }
+    ],
+    "source": "TDCSR",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "special": "vestments"
+                },
+                {
+                    "displayName": "a holy symbol of your previous cult",
+                    "item": "holy symbol|phb"
+                },
+                "common clothes|phb",
+                {
+                    "containsValue": 1500,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ]
+}

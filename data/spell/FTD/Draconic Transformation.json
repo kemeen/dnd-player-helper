@@ -1,0 +1,77 @@
+{
+    "components": {
+        "m": {
+            "cost": 50000,
+            "text": "a statuette of a dragon, worth at least 500 gp"
+        },
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "force"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "With a roar, you draw on the magic of dragons to transform yourself, taking on draconic features. You gain the following benefits until the spell ends:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "You have {@sense blindsight} with a range of 30 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're {@condition blinded} or in darkness. Moreover, you can see an {@condition invisible} creature, unless the creature successfully hides from you."
+                    ],
+                    "name": "Blindsight",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "When you cast this spell, and as a bonus action on subsequent turns for the duration, you can exhale shimmering energy in a 60-foot cone. Each creature in that area must make a Dexterity saving throw, taking {@damage 6d8} force damage on a failed save, or half as much damage on a successful one."
+                    ],
+                    "name": "Breath Weapon",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "Incorporeal wings sprout from your back, giving you a flying speed of 60 feet."
+                    ],
+                    "name": "Wings",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "level": 7,
+    "miscTags": [
+        "SGT",
+        "UBA"
+    ],
+    "name": "Draconic Transformation",
+    "page": 19,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "T",
+    "source": "FTD",
+    "time": [
+        {
+            "number": 1,
+            "unit": "bonus"
+        }
+    ]
+}

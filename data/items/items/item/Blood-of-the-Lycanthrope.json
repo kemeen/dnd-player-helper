@@ -1,0 +1,39 @@
+{
+    "entries": [
+        "This poison is created from blood harvested from a dead or {@condition incapacitated} lycanthrope in its animal or hybrid form. A creature subjected to this poison must succeed on a DC 12 Constitution saving throw or be cursed with lycanthropy (see the Monster Manual). The curse lasts until removed by the {@spell remove curse} spell or similar magic.",
+        "The type of lycanthropy depends on the lycanthrope used to create the poison. To determine the type of lycanthropy randomly, roll a {@dice d6}:",
+        {
+            "colLabels": [
+                "d6",
+                "Lycanthropy"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    "1-3",
+                    "{@creature Wererat}"
+                ],
+                [
+                    "4-5",
+                    "{@creature Werewolf}"
+                ],
+                [
+                    "6",
+                    "{@creature Wereboar}"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "name": "Blood of the Lycanthrope",
+    "page": 93,
+    "poison": true,
+    "poisonTypes": [
+        "injury"
+    ],
+    "rarity": "none",
+    "source": "IMR"
+}

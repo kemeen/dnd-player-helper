@@ -1,0 +1,12 @@
+{
+    "entries": [
+        "This tarry substance harvested from the dark boughs of the death's head willow is a powerful intoxicant. It can be smoked as a concentrate or injected directly into the bloodstream. A creature subjected to a dose of black sap cannot be {@condition charmed} or {@condition frightened} for {@dice 1d6} hours.",
+        "For each dose of black sap consumed, a creature must succeed on a DC 15 Constitution saving throw or become {@condition poisoned} for {@dice 2d4} hours\u2014an effect that is cumulative with multiple doses."
+    ],
+    "name": "Black Sap",
+    "page": 152,
+    "rarity": "none",
+    "source": "EGW",
+    "type": "G",
+    "value": 30000
+}

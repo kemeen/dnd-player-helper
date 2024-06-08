@@ -1,0 +1,80 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": 2,
+                "items": [
+                    {
+                        "data": {
+                            "isFeature": true
+                        },
+                        "entries": [
+                            "{@note The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate\u2014though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.}",
+                            "Even after your short time in Baldur's Gate, you've learned the city holds more walls and gates than those the Watch and Flaming Fist patrols. You are known within the city's immigrant communities. Should you ever need to learn about a foreign land, people, tradition, or history, you know where to find someone with firsthand experience\u2014likely somewhere in the Outer City."
+                        ],
+                        "name": "Baldur's Gate Feature: Immigrant Experience",
+                        "type": "entries"
+                    },
+                    {
+                        "entries": [
+                            "Foreigners of all kinds come to Baldur's Gate daily, drawn by countless reasons from countless lands. The Outlander Origins table provides ideas for how your character might have come to Baldur's Gate.",
+                            {
+                                "caption": "Outlander Origins",
+                                "colLabels": [
+                                    "d6",
+                                    "Origin"
+                                ],
+                                "colStyles": [
+                                    "col-2 text-center",
+                                    "col-10"
+                                ],
+                                "rows": [
+                                    [
+                                        "1",
+                                        "Someone stole something precious from your people. You tracked the thief to the city gates, but finding clues in an urban environment is very different from tracking someone across the wilderness. You don't know where to go from here, but your people need you to succeed."
+                                    ],
+                                    [
+                                        "2",
+                                        "You've always been fascinated by the glitter and glamor of city life, so different from the slow pace of life in your homeland. Now you're here, ready to make your mark in the world, but unsure how to begin."
+                                    ],
+                                    [
+                                        "3",
+                                        "War, plague, famine, or a marauding monster ravaged your home, forcing you to flee for your life. You don't even know how many of your people survived or where to find them. Alone or accompanied by a handful of equally bereft survivors, you must navigate a new life that you never asked for."
+                                    ],
+                                    [
+                                        "4",
+                                        "You were captured by kidnappers and taken far from your home. The Knights of the Unicorn freed you and brought you here, but now you're on your own."
+                                    ],
+                                    [
+                                        "5",
+                                        "You were exiled for breaking a trivial-seeming taboo. For this seemingly minor transgression, you lost your friends, family, and homeland in one fell swoop, and were given little choice but to strike out on your own."
+                                    ],
+                                    [
+                                        "6",
+                                        "A peddler once brought something astonishing to your homeland\u2014a Gondan clockwork, shimmering cloth of gold, a trained speaking bird, or some other small wonder\u2014and told you that it came from Baldur's Gate. You've come to see the source of such wonders, and perhaps learn to create them."
+                                    ]
+                                ],
+                                "type": "table"
+                            }
+                        ],
+                        "name": "Outlander Origins",
+                        "type": "entries"
+                    }
+                ],
+                "mode": "insertArr"
+            }
+        },
+        "name": "Outlander",
+        "source": "PHB"
+    },
+    "additionalSources": [
+        {
+            "page": 136,
+            "source": "PHB"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Baldur's Gate Outlander",
+    "page": 204,
+    "source": "BGDIA"
+}

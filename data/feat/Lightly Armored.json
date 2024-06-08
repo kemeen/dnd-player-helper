@@ -1,0 +1,30 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "dex"
+                ]
+            }
+        }
+    ],
+    "armorProficiencies": [
+        {
+            "light": true
+        }
+    ],
+    "entries": [
+        "You have trained to master the use of light armor, gaining the following benefits:",
+        {
+            "items": [
+                "You gain proficiency with light armor."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Lightly Armored",
+    "page": 167,
+    "source": "PHB"
+}

@@ -1,0 +1,17 @@
+{
+    "focus": [
+        "Cleric",
+        "Paladin"
+    ],
+    "items": [
+        "Amulet|phb",
+        "Emblem|phb",
+        "Reliquary|phb"
+    ],
+    "name": "Holy Symbol",
+    "page": 151,
+    "rarity": "none",
+    "scfType": "holy",
+    "source": "PHB",
+    "type": "SCF"
+}

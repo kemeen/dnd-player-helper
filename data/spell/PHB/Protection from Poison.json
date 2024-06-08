@@ -1,0 +1,46 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageResist": [
+        "poison"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch a creature. If it is {@condition poisoned}, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.",
+        "For the duration, the target has advantage on saving throws against being {@condition poisoned}, and it has resistance to poison damage."
+    ],
+    "level": 2,
+    "miscTags": [
+        "ADV"
+    ],
+    "name": "Protection from Poison",
+    "page": 270,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "attachedSpells": [
+        "gaseous form"
+    ],
+    "entries": [
+        "When you drink this potion, you gain the effect of the {@spell gaseous form} spell for 1 hour (no {@status concentration} required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water."
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Potion of Gaseous Form",
+    "page": 187,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

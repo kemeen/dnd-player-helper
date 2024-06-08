@@ -1,0 +1,25 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "cha",
+            "known": {
+                "_": [
+                    {
+                        "choose": "level=0|class=cleric",
+                        "count": 2
+                    }
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You learn two cantrips of your choice from the {@filter cleric spell list|spells|level=0|class=Cleric}. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list."
+    ],
+    "featureType": [
+        "FS:P"
+    ],
+    "isClassFeatureVariant": true,
+    "name": "Blessed Warrior",
+    "page": 52,
+    "source": "TCE"
+}

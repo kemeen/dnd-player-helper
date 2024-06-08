@@ -1,0 +1,10 @@
+{
+    "name": "giant",
+    "typical_speakers": [
+        "ogres",
+        "giants"
+    ],
+    "script": "dwarvish",
+    "type": "standard",
+    "parent": null
+}

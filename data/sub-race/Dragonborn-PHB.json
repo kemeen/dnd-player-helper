@@ -1,0 +1,161 @@
+{
+    "_versions": [
+        {
+            "_implementations": [
+                {
+                    "_variables": {
+                        "area": "5-foot-wide, 30-foot-long line",
+                        "color": "Black",
+                        "damageType": "acid",
+                        "savingThrow": "Dexterity"
+                    },
+                    "resist": [
+                        "acid"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "area": "5-foot-wide, 30-foot-long line",
+                        "color": "Blue",
+                        "damageType": "lightning",
+                        "savingThrow": "Dexterity"
+                    },
+                    "resist": [
+                        "lightning"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "area": "5-foot-wide, 30-foot-long line",
+                        "color": "Brass",
+                        "damageType": "fire",
+                        "savingThrow": "Dexterity"
+                    },
+                    "resist": [
+                        "fire"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "area": "5-foot-wide, 30-foot-long line",
+                        "color": "Bronze",
+                        "damageType": "lightning",
+                        "savingThrow": "Dexterity"
+                    },
+                    "resist": [
+                        "lightning"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "area": "5-foot-wide, 30-foot-long line",
+                        "color": "Copper",
+                        "damageType": "acid",
+                        "savingThrow": "Dexterity"
+                    },
+                    "resist": [
+                        "acid"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "area": "15-foot cone",
+                        "color": "Gold",
+                        "damageType": "fire",
+                        "savingThrow": "Dexterity"
+                    },
+                    "resist": [
+                        "fire"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "area": "15-foot cone",
+                        "color": "Green",
+                        "damageType": "poison",
+                        "savingThrow": "Constitution"
+                    },
+                    "resist": [
+                        "poison"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "area": "15-foot cone",
+                        "color": "Red",
+                        "damageType": "fire",
+                        "savingThrow": "Dexterity"
+                    },
+                    "resist": [
+                        "fire"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "area": "15-foot cone",
+                        "color": "Silver",
+                        "damageType": "cold",
+                        "savingThrow": "Constitution"
+                    },
+                    "resist": [
+                        "cold"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "area": "15-foot cone",
+                        "color": "White",
+                        "damageType": "cold",
+                        "savingThrow": "Constitution"
+                    },
+                    "resist": [
+                        "cold"
+                    ]
+                }
+            ],
+            "_template": {
+                "_mod": {
+                    "entries": [
+                        {
+                            "mode": "removeArr",
+                            "names": "Draconic Ancestry"
+                        },
+                        {
+                            "items": {
+                                "entries": [
+                                    "You can use your action to exhale destructive energy in a {{area}}.",
+                                    "When you use your breath weapon, each creature in the area of the exhalation must make a {{savingThrow}} saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes {@damage 2d6} {{damageType}} damage on a failed save, and half as much damage on a successful one. The damage increases to {@damage 3d6} at 6th level, {@damage 4d6} at 11th level, and {@damage 5d6} at 16th level.",
+                                    "After you use your breath weapon, you can't use it again until you complete a short or long rest."
+                                ],
+                                "name": "Breath Weapon",
+                                "type": "entries"
+                            },
+                            "mode": "replaceArr",
+                            "replace": "Breath Weapon"
+                        },
+                        {
+                            "items": {
+                                "entries": [
+                                    "You have resistance to {{damageType}} damage."
+                                ],
+                                "name": "Damage Resistance",
+                                "type": "entries"
+                            },
+                            "mode": "replaceArr",
+                            "replace": "Damage Resistance"
+                        }
+                    ]
+                },
+                "name": "Dragonborn ({{color}})",
+                "source": "PHB"
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "page": 32,
+    "raceName": "Dragonborn",
+    "raceSource": "PHB",
+    "source": "PHB",
+    "srd": true
+}

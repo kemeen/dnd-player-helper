@@ -1,0 +1,39 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease."
+    ],
+    "level": 1,
+    "meta": {
+        "ritual": true
+    },
+    "name": "Purify Food and Drink",
+    "page": 270,
+    "range": {
+        "distance": {
+            "amount": 10,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

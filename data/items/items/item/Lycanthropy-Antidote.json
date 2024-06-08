@@ -1,0 +1,10 @@
+{
+    "entries": [
+        "This silvery potion, made with {@creature fzeg|GHLoE} blood, is dotted with flecks of red. Drinking this liquid removes the curse of werewolf lycanthropy."
+    ],
+    "name": "Lycanthropy Antidote",
+    "page": 111,
+    "rarity": "rare",
+    "source": "GHLoE",
+    "type": "P"
+}

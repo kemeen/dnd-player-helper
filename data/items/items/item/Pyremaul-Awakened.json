@@ -1,0 +1,45 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Pyremaul reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The weapon's bonus to attack rolls increases to +2.",
+                                            "The extra fire damage dealt by the weapon increases to {@dice 2d6}.",
+                                            "As an action, you can slam Pyremaul into the ground to cast the {@spell burning hands} spell at 2nd level (save {@dc 15}). You can't use this property again until you finish a {@quickref resting|PHB|2|0|short or long rest}.",
+                                            "Whenever you score a critical hit with this weapon, the target must succeed on a {@dc 15} Strength {@quickref saving throws|PHB|2|1|saving throw} or be knocked {@condition prone}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Pyremaul (Dormant)",
+        "source": "TDCSR"
+    },
+    "attachedSpells": [
+        "burning hands"
+    ],
+    "bonusWeaponAttack": "+2",
+    "hasFluffImages": true,
+    "name": "Pyremaul (Awakened)",
+    "recharge": "restShort",
+    "source": "TDCSR"
+}

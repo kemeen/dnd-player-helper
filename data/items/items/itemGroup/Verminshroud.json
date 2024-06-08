@@ -1,0 +1,25 @@
+{
+    "attachedSpells": [
+        "polymorph"
+    ],
+    "conditionImmune": [
+        "disease"
+    ],
+    "entries": [
+        "This patchy cloak was pieced together from the pelts of rats found feasting on the dead in Blightshore and is dotted with the bloated corpses of magically preserved insects along its seams."
+    ],
+    "items": [
+        "Verminshroud (Dormant)|EGW",
+        "Verminshroud (Awakened)|EGW",
+        "Verminshroud (Exalted)|EGW"
+    ],
+    "name": "Verminshroud",
+    "page": 273,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "EGW",
+    "wondrous": true
+}

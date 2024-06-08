@@ -1,0 +1,60 @@
+{
+    "ability": [
+        {
+            "cha": 1
+        }
+    ],
+    "entries": [
+        "{@i Choose your eladrin's season: autumn, winter, spring, or summer. When finishing a long rest, you can change your season. See the \"Info\" tab for more information.}",
+        {
+            "entries": [
+                "As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a short or long rest.",
+                "When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier:",
+                {
+                    "items": [
+                        {
+                            "entry": "Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be {@condition charmed} by you for 1 minute, or until you or your companions deal any damage to it.",
+                            "name": "Autumn",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be {@condition frightened} of you until the end of your next turn.",
+                            "name": "Winter",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.",
+                            "name": "Spring",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).",
+                            "name": "Summer",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                }
+            ],
+            "name": "Fey Step",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 54,
+        "baseWeight": 90,
+        "heightMod": "2d12",
+        "weightMod": "1d4"
+    },
+    "name": "Eladrin",
+    "page": 61,
+    "raceName": "Elf",
+    "raceSource": "PHB",
+    "reprintedAs": [
+        "Eladrin|MPMM"
+    ],
+    "source": "MTF"
+}

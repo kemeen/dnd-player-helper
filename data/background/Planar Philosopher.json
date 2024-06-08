@@ -1,0 +1,318 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Arcana}, the skill associated with your faction (see the Sigil Faction Affinities table) or one skill of your choice",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Two of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A portal key (such as a bag of golden tea leaves or the tooth of a planar beast), a manifesto of your guiding philosophy, a set of {@item common clothes|PHB} in your faction's style, and a {@item pouch|PHB} containing 10 gp worth of coins from different worlds and planes",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "caption": "Sigil Faction Affinities",
+            "colLabels": [
+                "Faction",
+                "Skill"
+            ],
+            "colStyles": [
+                "col-6",
+                "col-6"
+            ],
+            "rows": [
+                [
+                    "Athar",
+                    "{@skill Religion}"
+                ],
+                [
+                    "Bleak Cabal",
+                    "{@skill Insight}"
+                ],
+                [
+                    "Doomguard",
+                    "{@skill Nature}"
+                ],
+                [
+                    "Fated",
+                    "{@skill Intimidation}"
+                ],
+                [
+                    "Fraternity of Order",
+                    "{@skill History}"
+                ],
+                [
+                    "Hands of Havoc",
+                    "{@skill Stealth}"
+                ],
+                [
+                    "Harmonium",
+                    "{@skill Perception}"
+                ],
+                [
+                    "Heralds of Dust",
+                    "{@skill Medicine}"
+                ],
+                [
+                    "Mercykillers",
+                    "{@skill Survival}"
+                ],
+                [
+                    "Mind's Eye",
+                    "{@skill Persuasion}"
+                ],
+                [
+                    "Society of Sensation",
+                    "{@skill Performance}"
+                ],
+                [
+                    "Transcendent Order",
+                    "{@skill Athletics}"
+                ]
+            ],
+            "type": "table"
+        },
+        {
+            "entries": [
+                "Twelve factions have risen to prominence in the City of Doors, though many more exist. Your character might belong to one of these groups or another ideological faction, perhaps one of your own creation.",
+                "The primary factions of Sigil, which are further detailed in chapter 2, adhere to the following philosophies:",
+                {
+                    "items": [
+                        {
+                            "entries": [
+                                "Deities are frauds and merely channel the might of a true, higher power."
+                            ],
+                            "name": "Athar",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "There is no greater truth to the multiverse. Each being must discover their own meaning."
+                            ],
+                            "name": "Bleak Cabal",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "Nothing lasts forever. The purpose of everything is to crumble and decay."
+                            ],
+                            "name": "Doomguard",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "Everyone makes their own fate and is entitled to whatever they can take and hold."
+                            ],
+                            "name": "Fated",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "All of existence is governed by laws, and power comes from understanding and exploiting them."
+                            ],
+                            "name": "Fraternity of Order",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "Those who try to impose a single order on the multiverse are doomed to fail."
+                            ],
+                            "name": "Hands of Havoc",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "The multiverse will be perfect only when everything is acting in harmony, whether it wants to or not."
+                            ],
+                            "name": "Harmonium",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "Everyone is already dead; the entirety of the multiverse is an afterlife. Undeath holds the key to the next stage of existence."
+                            ],
+                            "name": "Heralds of Dust",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "Cold, relentless justice is absolute, and no one is above it."
+                            ],
+                            "name": "Mercykillers",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "The multiverse exists to be explored. It shapes us, and we shape it in turn."
+                            ],
+                            "name": "Mind's Eye",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "Sensation is the proof of existence. By experiencing everything, we can understand the multiverse in all its complexity."
+                            ],
+                            "name": "Society of Sensation",
+                            "type": "item"
+                        },
+                        {
+                            "entries": [
+                                "Thought clouds action. To fall in step with the multiverse, one must act on instinct alone."
+                            ],
+                            "name": "Transcendent Order",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                }
+            ],
+            "name": "Factions of Sigil",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You gain the {@feat Scion of the Outer Planes|SatO} feat. In addition, members of your organization provide you free, modest lodging and food at any of their holdings or the homes of other faction members."
+            ],
+            "name": "Feature: Conviction",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Adventurers who dedicate themselves to a particular philosophy regarding the multiverse are welcomed among factions that embrace those beliefs. The Planar Philosopher Personality Traits table suggests various traits you might adopt for your character.",
+                {
+                    "colLabels": [
+                        "d6",
+                        "Personality Trait"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I don't venerate any gods. With time, we can be as powerful as them or greater."
+                        ],
+                        [
+                            "2",
+                            "Experience is everything; live in the moment."
+                        ],
+                        [
+                            "3",
+                            "When things crumble, I find meaning in the dust."
+                        ],
+                        [
+                            "4",
+                            "Life thrives through order, and I seek to maintain that order."
+                        ],
+                        [
+                            "5",
+                            "When others make plans, the multiverse laughs and so do I."
+                        ],
+                        [
+                            "6",
+                            "I know what's right, and none will stand in my way."
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Some groups of planar philosophers might prefer certain types of characters, but by and large any character who upholds and furthers the beliefs of such a group is welcome within its ranks.",
+                {
+                    "entries": [
+                        "When you make your character, you can roll once on the {@item Planar Philosopher Trinket|SatO|Planar Philosopher Trinkets} table, instead of on the {@item Trinket|PHB|Trinkets} table in the Player's Handbook, for your starting trinket."
+                    ],
+                    "name": "Planar Philosopher Trinkets",
+                    "type": "entries"
+                }
+            ],
+            "name": "Building a Planar Philosopher Character",
+            "type": "entries"
+        }
+    ],
+    "feats": [
+        {
+            "scion of the outer planes|sato": true
+        }
+    ],
+    "fromFeature": {
+        "feats": true
+    },
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 2
+        }
+    ],
+    "name": "Planar Philosopher",
+    "prerequisite": [
+        {
+            "campaign": [
+                "Planescape"
+            ]
+        }
+    ],
+    "skillProficiencies": [
+        {
+            "arcana": true,
+            "choose": {
+                "from": [
+                    "religion",
+                    "insight",
+                    "nature",
+                    "intimidation",
+                    "history",
+                    "stealth",
+                    "perception",
+                    "medicine",
+                    "survival",
+                    "persuasion",
+                    "performance",
+                    "athletics"
+                ]
+            }
+        }
+    ],
+    "source": "SatO",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "special": "portal key (such as a bag of golden tea leaves or the tooth of a planar beast)"
+                },
+                {
+                    "special": "manifesto of your guiding philosophy"
+                },
+                {
+                    "displayName": "common clothes in your faction's style",
+                    "item": "common clothes|phb"
+                },
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ]
+}

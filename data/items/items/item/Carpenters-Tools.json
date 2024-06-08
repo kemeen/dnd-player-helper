@@ -1,0 +1,99 @@
+{
+    "additionalEntries": [
+        "Skill at carpentry enables a character to construct wooden structures. A carpenter can build a house, a shack, a wooden cabinet, or similar items.",
+        {
+            "entries": [
+                "Carpenter's tools include a saw, a hammer, nails, a hatchet, a square, a ruler, an adze, a plane, and a chisel."
+            ],
+            "name": "Components",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "This tool proficiency aids you in identifying the use and the origin of wooden buildings and other large wooden objects."
+            ],
+            "name": "History",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain additional insight when inspecting areas within wooden structures, because you know tricks of construction that can conceal areas from discovery."
+            ],
+            "name": "Investigation",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can spot irregularities in wooden walls or floors, making it easier to find trap doors and secret passages."
+            ],
+            "name": "Perception",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can quickly assess the weak spots in a wooden floor, making it easier to avoid the places that creak and groan when they're stepped on."
+            ],
+            "name": "Stealth",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "With 1 minute of work and raw materials, you can make a door or window harder to force open. Increase the DC needed to open it by 5."
+            ],
+            "name": "Fortify",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As part of a long rest, you can construct a lean-to or a similar shelter to keep your group dry and in the shade for the duration of the rest. Because it was fashioned quickly from whatever wood was available, the shelter collapses {@dice 1d3} days after being assembled."
+            ],
+            "name": "Temporary Shelter",
+            "type": "entries"
+        },
+        {
+            "caption": "Carpenter's Tools",
+            "colLabels": [
+                "Activity",
+                "DC"
+            ],
+            "colStyles": [
+                "col-10",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "Build a simple wooden structure",
+                    "10"
+                ],
+                [
+                    "Design a complex wooden structure",
+                    "15"
+                ],
+                [
+                    "Find a weak point in a wooden wall",
+                    "15"
+                ],
+                [
+                    "Pry apart a door",
+                    "20"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "additionalSources": [
+        {
+            "page": 80,
+            "source": "XGE"
+        }
+    ],
+    "basicRules": true,
+    "name": "Carpenter's Tools",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "AT",
+    "value": 800,
+    "weight": 6
+}

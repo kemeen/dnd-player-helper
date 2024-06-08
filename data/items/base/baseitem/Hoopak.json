@@ -1,0 +1,32 @@
+{
+    "ammoType": "sling bullet|phb",
+    "dmg1": "1d6",
+    "dmgType": "P",
+    "entries": [
+        "A hoopak is a sturdy stick with a sling at one end and a pointed tip at the other.",
+        {
+            "entries": [
+                "When you make a melee attack with this weapon, you ignore its ammunition property. You can use the hoopak as a martial ranged weapon. If you do, it uses the ammunition property, uses sling bullets, and deals {@damage 1d4} bludgeoning damage on a hit."
+            ],
+            "name": "Special",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Hoopak",
+    "page": 188,
+    "property": [
+        "A",
+        "F",
+        "S",
+        "2H"
+    ],
+    "range": "40/160",
+    "rarity": "none",
+    "source": "DSotDQ",
+    "type": "M",
+    "value": 10,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 2
+}

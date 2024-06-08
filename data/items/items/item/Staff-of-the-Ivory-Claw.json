@@ -1,0 +1,25 @@
+{
+    "bonusSpellAttack": "+1",
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "This gray-and-cerulean staff is topped with a small dragon claw carved from ivory. While holding the staff, you gain a +1 bonus to spell attack rolls. Whenever you score a critical hit with a spell attack, the target takes an extra {@damage 3d6} radiant damage."
+    ],
+    "name": "Staff of the Ivory Claw",
+    "page": 270,
+    "property": [
+        "V"
+    ],
+    "rarity": "rare",
+    "reqAttune": "by a spellcaster",
+    "reqAttuneTags": [
+        {
+            "spellcasting": true
+        }
+    ],
+    "source": "EGW",
+    "staff": true,
+    "weaponCategory": "simple",
+    "weight": 4
+}

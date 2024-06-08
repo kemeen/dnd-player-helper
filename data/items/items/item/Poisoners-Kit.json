@@ -1,0 +1,88 @@
+{
+    "additionalEntries": [
+        "A poisoner's kit is a favored resource for thieves, assassins, and others who engage in skulduggery. It allows you to apply poisons and create them from various materials. Your knowledge of poisons also helps you treat them.",
+        {
+            "entries": [
+                "A poisoner's kit includes glass vials, a mortar and pestle, chemicals, and a glass stirring rod."
+            ],
+            "name": "Components",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your training with poisons can help you when you try to recall facts about infamous poisonings."
+            ],
+            "name": "History",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your knowledge of poisons has taught you to handle those substances carefully, giving you an edge when you inspect {@condition poisoned} objects or try to extract clues from events that involve poison."
+            ],
+            "name": "Investigation, Perception",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you treat the victim of a poison, your knowledge grants you added insight into how to provide the best care to your patient."
+            ],
+            "name": "Medicine",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Working with poisons enables you to acquire lore about which plants and animals are poisonous."
+            ],
+            "name": "Nature, Survival",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your proficiency allows you to handle and apply a poison without risk of exposing yourself to its effects."
+            ],
+            "name": "Handle Poison",
+            "type": "entries"
+        },
+        {
+            "caption": "Poisoner's Tools",
+            "colLabels": [
+                "Activity",
+                "DC"
+            ],
+            "colStyles": [
+                "col-10",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "Spot a {@condition poisoned} object",
+                    "10"
+                ],
+                [
+                    "Determine the effects of a poison",
+                    "20"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "additionalSources": [
+        {
+            "page": 83,
+            "source": "XGE"
+        }
+    ],
+    "basicRules": true,
+    "entries": [
+        "A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.",
+        "Additionally, the {@book Crafting and Harvesting Poison|dmg|8|Crafting and Harvesting Poison} rules require the use of a poisoner's kit."
+    ],
+    "name": "Poisoner's Kit",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "T",
+    "value": 5000,
+    "weight": 2
+}

@@ -1,0 +1,34 @@
+{
+    "baseItem": "longsword|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "entries": [
+        "This incredible silvered blade once belonged to the legendary White Duke, a founding member of the {@book Golden Grin|TDCSR|2|Golden Grin}, and many other master bards before him. It resonates with nearby musical tones. In the modern era, it is best known as the personal weapon of famed bard {@creature Scanlan Shorthalt|TDCSR}."
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "items": [
+        "Mythcarver (Dormant)|TDCSR",
+        "Mythcarver (Awakened)|TDCSR",
+        "Mythcarver (Exalted)|TDCSR"
+    ],
+    "name": "Mythcarver",
+    "page": 207,
+    "property": [
+        "V",
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": "by a bard",
+    "reqAttuneTags": [
+        {
+            "class": "bard"
+        }
+    ],
+    "source": "TDCSR",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

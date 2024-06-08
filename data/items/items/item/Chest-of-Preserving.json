@@ -1,0 +1,11 @@
+{
+    "entries": [
+        "Food and other perishable items do not age or decay while inside a Chest of Preserving. The chest is 2\u00bd feet long, 1\u00bd feet wide, and 1 foot tall with a half-barrel lid. The chest has a lock, which can be picked with {@item thieves' tools|PHB} and a successful DC 15 Dexterity check. Smashing the lock or any other part of the chest renders it nonmagical."
+    ],
+    "name": "Chest of Preserving",
+    "page": 139,
+    "rarity": "common",
+    "source": "WDMM",
+    "weight": 25,
+    "wondrous": true
+}

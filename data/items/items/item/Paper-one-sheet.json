@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "name": "Paper (one sheet)",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 20
+}

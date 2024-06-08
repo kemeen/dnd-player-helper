@@ -1,0 +1,14 @@
+{
+    "dmg1": "6d6",
+    "dmgType": "F",
+    "entries": [
+        "This bundle of explosives can be lit and thrown up to 30 feet as an action. It explodes at the start of your next turn. Creatures and objects within 20 feet of it must make a {@dc 12} Dexterity {@quickref saving throws|PHB|2|1|saving throw}, taking {@damage 6d6} fire damage on a failed save, or half as much damage on a successful one."
+    ],
+    "name": "Dynamite",
+    "page": 100,
+    "range": "30",
+    "rarity": "none",
+    "source": "TDCSR",
+    "type": "EXP",
+    "value": 10000
+}

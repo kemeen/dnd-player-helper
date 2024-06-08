@@ -1,0 +1,37 @@
+{
+    "ac": 14,
+    "attachedSpells": [
+        "command"
+    ],
+    "baseItem": "scale mail|PHB",
+    "bonusAc": "+1",
+    "conditionImmune": [
+        "frightened"
+    ],
+    "entries": [
+        "This antique armor forged from jade and black dragon scales was once worn by J'mon Sa Ord of {@book Ank'Harel|TDCSR|3|Marquet}."
+    ],
+    "hasFluffImages": true,
+    "immune": [
+        "acid"
+    ],
+    "items": [
+        "Armor of the Valiant Soul (Dormant)|TDCSR",
+        "Armor of the Valiant Soul (Awakened)|TDCSR",
+        "Armor of the Valiant Soul (Exalted)|TDCSR"
+    ],
+    "name": "Armor of the Valiant Soul",
+    "page": 202,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "resist": [
+        "acid"
+    ],
+    "source": "TDCSR",
+    "stealth": true,
+    "type": "MA",
+    "weight": 45
+}

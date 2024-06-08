@@ -1,0 +1,34 @@
+{
+    "baseItem": "dagger|phb",
+    "dmg1": "1d4",
+    "dmgType": "P",
+    "entries": [
+        "A weapon of Tharizdun, this dagger is a piece of jagged stone whose blade is scribed with a maze-like pattern with no beginning or end."
+    ],
+    "items": [
+        "Blade of Broken Mirrors (Dormant)|EGW",
+        "Blade of Broken Mirrors (Awakened)|EGW",
+        "Blade of Broken Mirrors (Exalted)|EGW"
+    ],
+    "name": "Blade of Broken Mirrors",
+    "page": 275,
+    "property": [
+        "F",
+        "L",
+        "T",
+        "Vst"
+    ],
+    "range": "20/60",
+    "rarity": "artifact",
+    "reqAttune": "by a humanoid",
+    "reqAttuneTags": [
+        {
+            "creatureType": "humanoid"
+        }
+    ],
+    "sentient": true,
+    "source": "EGW",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 1
+}

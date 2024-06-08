@@ -1,0 +1,70 @@
+{
+    "entries": [
+        "These silver hand mirrors always come in pairs. When activated as an action, a mirror establishes a visual link with its paired mirror for 10 minutes, with the two mirrors acting as opposite sides of the same open window. The mirrors create this connection even if both are on different planes.",
+        "When a single mirror of infinite transpondence is found, the GM decides where its paired mirror is and who possesses it. A random possessor and location can be determined by rolling on the table below. Named bearers are described in {@book chapter 2|TDCSR|2}.",
+        "Once the connection between the two mirrors has been activated three times from either end, it can't be activated again until the next dawn.",
+        {
+            "caption": "Mirror Locations",
+            "colLabels": [
+                "d8",
+                "Location",
+                "Possesor"
+            ],
+            "colStyles": [
+                "col-1 text-center",
+                "col-5",
+                "col-6"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "{@book Emon|TDCSR|3|Emon, the City of Fellowship}",
+                    "{@book Seeker Odessa Tal'Dorei|TDCSR|2|Seeker Odessa Tal'Dorei}"
+                ],
+                [
+                    "2",
+                    "{@book Whitestone|TDCSR|3|Whitestone}",
+                    "None; the mirror is in an empty dungeon"
+                ],
+                [
+                    "3",
+                    "{@book Kymal|TDCSR|3|Kymal}",
+                    "{@book Sylker \"The Millionaire\" Uttolot|TDCSR|2|Sylker \"The Millionaire\" Uttolot}"
+                ],
+                [
+                    "4",
+                    "{@book Westruun|TDCSR|3|Westruun}",
+                    "{@book Realmseer Eskil Ryndarien|TDCSR|2|Realmseer Eskil Ryndarien}"
+                ],
+                [
+                    "5",
+                    "{@book Syngorn|TDCSR|3|Syngorn}",
+                    "{@book Ouestra, the Voice of Memory|TDCSR|2|Ouestra, the Voice of Memory}"
+                ],
+                [
+                    "6",
+                    "The Elemental Plane of Water",
+                    "{@deity Khedive Xundi|Exandria|TDCSR}, Lord of Silver Silt"
+                ],
+                [
+                    "7",
+                    "The Plane of Shadow",
+                    "A {@creature Remnant Chosen|TDCSR}"
+                ],
+                [
+                    "8",
+                    "An untraceable location",
+                    "{@book The Wonderworker|TDCSR|2|The Wonderworker}"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Mirror of Infinite Transpondence",
+    "page": 196,
+    "rarity": "very rare",
+    "recharge": "dawn",
+    "source": "TDCSR",
+    "wondrous": true
+}

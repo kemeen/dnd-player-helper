@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "dmg1": "2d6",
+    "dmgType": "S",
+    "name": "Greatsword",
+    "page": 149,
+    "property": [
+        "H",
+        "2H"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "sword": true,
+    "type": "M",
+    "value": 5000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 6
+}

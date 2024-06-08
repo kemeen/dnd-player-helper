@@ -1,0 +1,27 @@
+{
+    "attachedSpells": [
+        "detect thoughts"
+    ],
+    "charges": 3,
+    "entries": [
+        "The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the {@spell detect thoughts} spell (save DC 13) from it. The medallion regains {@dice 1d3} expended charges daily at dawn."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Medallion of Thoughts",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 181,
+    "rarity": "uncommon",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d3}",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "weight": 1,
+    "wondrous": true
+}

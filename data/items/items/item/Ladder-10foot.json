@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Ladder (10-foot)"
+    ],
+    "name": "Ladder (10-foot)",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 10,
+    "weight": 25
+}

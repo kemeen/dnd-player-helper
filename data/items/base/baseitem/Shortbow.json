@@ -1,0 +1,22 @@
+{
+    "ammoType": "arrow|phb",
+    "basicRules": true,
+    "bow": true,
+    "dmg1": "1d6",
+    "dmgType": "P",
+    "name": "Shortbow",
+    "page": 149,
+    "property": [
+        "A",
+        "2H"
+    ],
+    "range": "80/320",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "R",
+    "value": 2500,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 2
+}

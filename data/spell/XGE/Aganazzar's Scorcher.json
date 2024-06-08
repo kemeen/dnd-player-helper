@@ -1,0 +1,57 @@
+{
+    "areaTags": [
+        "L"
+    ],
+    "components": {
+        "m": "a red dragon's scale",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "fire"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes {@damage 3d8} fire damage on a failed save, or half as much damage on a successful one."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by {@scaledamage 3d8|2-9|1d8} for each slot level above 2nd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "name": "Aganazzar's Scorcher",
+    "otherSources": [
+        {
+            "page": 15,
+            "source": "EEPC"
+        }
+    ],
+    "page": 150,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "V",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

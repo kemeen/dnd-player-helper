@@ -1,0 +1,33 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": 2,
+                "items": {
+                    "data": {
+                        "isFeature": true
+                    },
+                    "entries": [
+                        "{@note The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate\u2014though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.}",
+                        "You're familiar with the docks of Baldur's Gate, the movement of inspectors and tax collectors, the way cargo and coin flows. As a result, it's easy for you to hustle a load of cargo ashore or see such a cargo onto a cooperative ship without attracting suspicion or taxation. You also know the movements of the Gray Wavers\u2014the Flaming Fist harbor guards\u2014and have a sense of how to operate the city's mechanized cranes."
+                    ],
+                    "name": "Baldur's Gate Feature: Smuggler's Sense",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "name": "Sailor",
+        "source": "PHB"
+    },
+    "additionalSources": [
+        {
+            "page": 139,
+            "source": "PHB"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Baldur's Gate Sailor",
+    "page": 204,
+    "source": "BGDIA"
+}

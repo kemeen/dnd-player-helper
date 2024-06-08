@@ -1,0 +1,17 @@
+{
+    "items": [
+        "Carpet of Flying, 3 ft. \u00d7 5 ft.",
+        "Carpet of Flying, 4 ft. \u00d7 6 ft.",
+        "Carpet of Flying, 5 ft. \u00d7 7 ft.",
+        "Carpet of Flying, 6 ft. \u00d7 9 ft."
+    ],
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Carpet of Flying",
+    "page": 157,
+    "rarity": "very rare",
+    "source": "DMG",
+    "tier": "major",
+    "wondrous": true
+}

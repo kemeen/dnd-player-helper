@@ -1,0 +1,40 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "_": {
+                    "daily": {
+                        "1e": [
+                            "longstrider",
+                            "pass without trace"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "_": [
+                    {
+                        "choose": "level=0|class=Druid"
+                    }
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the {@spell longstrider} and {@spell pass without trace} spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells."
+    ],
+    "name": "Wood Elf Magic",
+    "page": 75,
+    "prerequisite": [
+        {
+            "race": [
+                {
+                    "name": "elf",
+                    "subrace": "wood"
+                }
+            ]
+        }
+    ],
+    "source": "XGE"
+}

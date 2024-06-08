@@ -1,0 +1,26 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "cha",
+            "innate": {
+                "_": {
+                    "ritual": [
+                        "find familiar"
+                    ]
+                }
+            }
+        }
+    ],
+    "entries": [
+        "You learn the {@spell find familiar} spell and can cast it as a ritual. The spell doesn't count against your number of spells known.",
+        "When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: {@creature imp}, {@creature pseudodragon}, {@creature quasit}, or {@creature sprite}.",
+        "Additionally, when you take the {@action Attack} action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own."
+    ],
+    "featureType": [
+        "PB"
+    ],
+    "name": "Pact of the Chain",
+    "page": 107,
+    "source": "PHB",
+    "srd": true
+}

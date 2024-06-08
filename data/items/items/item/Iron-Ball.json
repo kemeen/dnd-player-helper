@@ -1,0 +1,18 @@
+{
+    "dmg1": "1d4",
+    "dmgType": "B",
+    "entries": [
+        "This ball is used to play a game of {@adventure Chain Lightning|IDRotF|17|Chain Lightning}."
+    ],
+    "name": "Iron Ball",
+    "page": 238,
+    "property": [
+        "F",
+        "T"
+    ],
+    "range": "120",
+    "rarity": "unknown (magic)",
+    "source": "IDRotF",
+    "type": "R",
+    "weaponCategory": "simple"
+}

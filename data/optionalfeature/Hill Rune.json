@@ -1,0 +1,25 @@
+{
+    "entries": [
+        "This rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have advantage on saving throws against being {@condition poisoned}, and you have resistance against poison damage.",
+        "In addition, you can invoke the rune as a bonus action, gaining resistance to bludgeoning, piercing, and slashing damage for 1 minute. Once you invoke this rune, you can't do so again until you finish a short or long rest."
+    ],
+    "featureType": [
+        "RN"
+    ],
+    "name": "Hill Rune",
+    "page": 45,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Fighter"
+                },
+                "level": 7,
+                "subclass": {
+                    "name": "Rune Knight"
+                }
+            }
+        }
+    ],
+    "source": "TCE"
+}

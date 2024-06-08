@@ -1,0 +1,16 @@
+{
+    "ac": 11,
+    "armor": true,
+    "basicRules": true,
+    "entries": [
+        "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials."
+    ],
+    "name": "Leather Armor",
+    "page": 144,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "LA",
+    "value": 1000,
+    "weight": 10
+}

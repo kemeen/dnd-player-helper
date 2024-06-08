@@ -1,0 +1,33 @@
+{
+    "ac": 12,
+    "baseItem": "studded leather armor|PHB",
+    "bonusAc": "+1",
+    "bonusSavingThrow": "+1",
+    "entries": [
+        "This beautiful black leather armor is covered in intricate scrollwork, and has a mantle bearing the black feathers of {@deity The Matron of Ravens|Exandria|TDCSR}. Legends say that it has been worn by a number of that deity's champions over the centuries\u2014most recently, {@creature Champion of Ravens|TDCSR|Vax'ildan of Vox Machina}."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Deathwalker's Ward (Dormant)|TDCSR",
+        "Deathwalker's Ward (Awakened)|TDCSR",
+        "Deathwalker's Ward (Exalted)|TDCSR"
+    ],
+    "name": "Deathwalker's Ward",
+    "page": 204,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "resist": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "necrotic",
+        "poison"
+    ],
+    "source": "TDCSR",
+    "type": "LA",
+    "weight": 13
+}

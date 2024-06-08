@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Objects viewed through a spyglass are magnified to twice their size."
+    ],
+    "name": "Spyglass",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 100000,
+    "weight": 1
+}

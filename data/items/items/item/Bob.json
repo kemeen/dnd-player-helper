@@ -1,0 +1,20 @@
+{
+    "baseItem": "battleaxe|phb",
+    "bonusWeapon": "+1",
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "entries": [
+        "This +1 battleaxe floats on water and other liquids, and grants its bearer advantage on Strength ({@skill Athletics}) checks made to swim."
+    ],
+    "name": "Bob",
+    "page": 89,
+    "property": [
+        "V"
+    ],
+    "rarity": "unknown (magic)",
+    "source": "ToA",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 4
+}

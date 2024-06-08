@@ -1,0 +1,19 @@
+{
+    "entries": [
+        "While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity ({@skill Stealth}) checks that rely on moving silently."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Boots of Elvenkind",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 155,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

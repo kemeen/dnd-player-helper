@@ -1,0 +1,76 @@
+{
+    "ability": [
+        {
+            "wis": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "con",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "create or destroy water#2"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "shape water|xge#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have resistance to acid damage."
+            ],
+            "name": "Acid Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can breathe air and water."
+            ],
+            "name": "Amphibious",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have a swimming speed of 30 feet."
+            ],
+            "name": "Swim",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell shape water|xge} cantrip. When you reach 3rd level, you can cast the {@spell create or destroy water} spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells."
+            ],
+            "name": "Call to the Wave",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Water",
+    "page": 10,
+    "raceName": "Genasi",
+    "raceSource": "EEPC",
+    "reprintedAs": [
+        "Genasi (Water)|MPMM"
+    ],
+    "resist": [
+        "acid"
+    ],
+    "source": "EEPC",
+    "speed": {
+        "swim": 30,
+        "walk": 30
+    },
+    "traitTags": [
+        "Amphibious"
+    ]
+}

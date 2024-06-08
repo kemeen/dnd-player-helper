@@ -1,0 +1,82 @@
+{
+    "_versions": [
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "You gain proficiency in two skills of your choice."
+                        ],
+                        "name": "Variant Feature; Skill Versatility",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Variant Feature (Choose 1)"
+                }
+            },
+            "name": "Variant; Aquatic Elf Descent; Skill Versatility",
+            "skillProficiencies": [
+                {
+                    "any": 2
+                }
+            ],
+            "source": "SCAG"
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "You gain a swimming speed of 30 ft."
+                        ],
+                        "name": "Variant Feature; Swim Speed",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Variant Feature (Choose 1)"
+                }
+            },
+            "name": "Variant; Aquatic Elf Descent; Swim Speed",
+            "overwrite": {
+                "skillProficiencies": true
+            },
+            "skillProficiencies": null,
+            "source": "SCAG",
+            "speed": {
+                "swim": 30,
+                "walk": 30
+            }
+        }
+    ],
+    "entries": [
+        {
+            "data": {
+                "overwrite": "Skill Versatility"
+            },
+            "entries": [
+                {
+                    "entries": [
+                        "You gain proficiency in two skills of your choice."
+                    ],
+                    "name": "Skill Versatility",
+                    "type": "entries"
+                },
+                {
+                    "entries": [
+                        "You gain a swimming speed of 30 ft."
+                    ],
+                    "name": "Swim",
+                    "type": "entries"
+                }
+            ],
+            "name": "Variant Feature (Choose 1)",
+            "type": "inset"
+        }
+    ],
+    "name": "Variant; Aquatic Elf Descent",
+    "page": 116,
+    "raceName": "Half-Elf",
+    "raceSource": "PHB",
+    "source": "SCAG",
+    "speed": 30
+}

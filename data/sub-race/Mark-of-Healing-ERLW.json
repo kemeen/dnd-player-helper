@@ -1,0 +1,112 @@
+{
+    "ability": [
+        {
+            "wis": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "expanded": {
+                "s1": [
+                    "cure wounds",
+                    "healing word"
+                ],
+                "s2": [
+                    "lesser restoration",
+                    "prayer of healing"
+                ],
+                "s3": [
+                    "aura of vitality",
+                    "mass healing word"
+                ],
+                "s4": [
+                    "aura of purity",
+                    "aura of life"
+                ],
+                "s5": [
+                    "greater restoration"
+                ]
+            },
+            "innate": {
+                "1": [
+                    "cure wounds"
+                ],
+                "3": {
+                    "daily": {
+                        "1": [
+                            "lesser restoration"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "When you make a Wisdom ({@skill Medicine}) check or an ability check using an {@item herbalism kit|phb}, you can roll a {@dice d4} and add the number rolled to the ability check."
+            ],
+            "name": "Medical Intuition",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell cure wounds} spell with this trait. Starting at 3rd level, you can also cast {@spell lesser restoration} with it. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells."
+            ],
+            "name": "Healing Touch",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Healing Spells table are added to the spell list of your spellcasting class.",
+                {
+                    "caption": "Mark of Healing Spells",
+                    "colLabels": [
+                        "Spell Level",
+                        "Spells"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1st",
+                            "{@spell cure wounds}, {@spell healing word}"
+                        ],
+                        [
+                            "2nd",
+                            "{@spell lesser restoration}, {@spell prayer of healing}"
+                        ],
+                        [
+                            "3rd",
+                            "{@spell aura of vitality}, {@spell mass healing word}"
+                        ],
+                        [
+                            "4th",
+                            "{@spell aura of purity}, {@spell aura of life}"
+                        ],
+                        [
+                            "5th",
+                            "{@spell greater restoration}"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Spells of the Mark",
+            "type": "entries"
+        }
+    ],
+    "name": "Mark of Healing",
+    "page": 43,
+    "raceName": "Halfling",
+    "raceSource": "PHB",
+    "source": "ERLW",
+    "traitTags": [
+        "Dragonmark",
+        "Skill Bonus Dice",
+        "Tool Bonus Dice"
+    ]
+}

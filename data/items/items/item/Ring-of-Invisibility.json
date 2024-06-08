@@ -1,0 +1,17 @@
+{
+    "entries": [
+        "While wearing this ring, you can turn {@condition invisible} as an action. Anything you are wearing or carrying is {@condition invisible} with you. You remain {@condition invisible} until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table I"
+    ],
+    "name": "Ring of Invisibility",
+    "page": 191,
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

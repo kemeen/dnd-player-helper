@@ -1,0 +1,26 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "_": {
+                    "resource": {
+                        "2": [
+                            "gust of wind"
+                        ]
+                    }
+                }
+            },
+            "resourceName": "Ki"
+        }
+    ],
+    "entries": [
+        "You can spend 2 ki points to cast {@spell gust of wind}."
+    ],
+    "featureType": [
+        "ED"
+    ],
+    "name": "Rush of the Gale Spirits",
+    "page": 81,
+    "source": "PHB"
+}

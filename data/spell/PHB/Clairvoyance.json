@@ -1,0 +1,44 @@
+{
+    "components": {
+        "m": {
+            "cost": 10000,
+            "text": "a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing"
+        },
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can't be attacked or otherwise interacted with.",
+        "When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.",
+        "A creature that can see the sensor (such as a creature benefiting from {@spell see invisibility} or {@sense truesight}) sees a luminous, intangible orb about the size of your fist."
+    ],
+    "level": 3,
+    "name": "Clairvoyance",
+    "page": 222,
+    "range": {
+        "distance": {
+            "amount": 1,
+            "type": "miles"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 10,
+            "unit": "minute"
+        }
+    ]
+}

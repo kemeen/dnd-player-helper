@@ -1,0 +1,10 @@
+{
+    "entries": [
+        "This terrible venom is extracted and distilled from the deadly {@creature lindwyrm|GHLoE}. It can be delivered via ingestion or a wound. A creature exposed to the venom must succeed on a DC 18 Constitution saving throw or take 36 ({@damage 8d8}) poison damage and be poisoned for 1 minute. While poisoned, the creature has disadvantage on Strength and Dexterity skill checks and saving throws."
+    ],
+    "name": "Lindwyrm Venom",
+    "page": 111,
+    "rarity": "very rare",
+    "source": "GHLoE",
+    "type": "P"
+}

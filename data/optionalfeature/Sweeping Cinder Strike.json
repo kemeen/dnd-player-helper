@@ -1,0 +1,26 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "_": {
+                    "resource": {
+                        "2": [
+                            "burning hands"
+                        ]
+                    }
+                }
+            },
+            "resourceName": "Ki"
+        }
+    ],
+    "entries": [
+        "You can spend 2 ki points to cast {@spell burning hands}."
+    ],
+    "featureType": [
+        "ED"
+    ],
+    "name": "Sweeping Cinder Strike",
+    "page": 81,
+    "source": "PHB"
+}

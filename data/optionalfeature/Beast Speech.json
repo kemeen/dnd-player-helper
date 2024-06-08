@@ -1,0 +1,21 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": [
+                    "speak with animals"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell speak with animals} at will, without expending a spell slot."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Beast Speech",
+    "page": 110,
+    "source": "PHB",
+    "srd": true
+}

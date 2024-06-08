@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Lute",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "INS",
+    "value": 3500,
+    "weight": 2
+}

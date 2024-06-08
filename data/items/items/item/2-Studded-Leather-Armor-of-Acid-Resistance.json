@@ -1,0 +1,21 @@
+{
+    "ac": 12,
+    "bonusAc": "+2",
+    "entries": [
+        "You have a +2 bonus to AC while wearing this armor.",
+        "You have resistance to acid damage while you wear this armor.",
+        "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.",
+        "{@note Worn by {@creature Scanlan Shorthalt|TDCSR}.}"
+    ],
+    "name": "+2 Studded Leather Armor of Acid Resistance",
+    "page": 271,
+    "rarity": "unknown (magic)",
+    "reqAttune": true,
+    "resist": [
+        "acid"
+    ],
+    "source": "TDCSR",
+    "tier": "major",
+    "type": "LA",
+    "weight": 13
+}

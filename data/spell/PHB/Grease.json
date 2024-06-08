@@ -1,0 +1,48 @@
+{
+    "areaTags": [
+        "Q"
+    ],
+    "components": {
+        "m": "a bit of pork rind or butter",
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "prone"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into {@quickref difficult terrain||3} for the duration.",
+        "When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall {@condition prone}. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall {@condition prone}."
+    ],
+    "level": 1,
+    "name": "Grease",
+    "page": 246,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "C",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

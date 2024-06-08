@@ -1,0 +1,35 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": {
+                    "daily": {
+                        "1e": [
+                            "polymorph"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell polymorph} once using a warlock spell slot. You can't do so again until you finish a long rest."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Sculptor of Flesh",
+    "page": 111,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 7
+            }
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

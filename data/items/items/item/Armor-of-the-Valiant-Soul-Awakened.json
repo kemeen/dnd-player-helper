@@ -1,0 +1,47 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Armor of the Valiant Soul reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The AC bonus of the armor increases to +2.",
+                                            "You have resistance to acid damage while wearing this armor.",
+                                            "You are immune to the {@condition frightened} condition while wearing this armor.",
+                                            "The spell save DC for the armor's {@spell command} spell increases to 16, and the spell can target up to three creatures."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Armor of the Valiant Soul (Dormant)",
+        "source": "TDCSR"
+    },
+    "bonusAc": "+2",
+    "conditionImmune": [
+        "frightened"
+    ],
+    "hasFluffImages": true,
+    "name": "Armor of the Valiant Soul (Awakened)",
+    "resist": [
+        "acid"
+    ],
+    "source": "TDCSR"
+}

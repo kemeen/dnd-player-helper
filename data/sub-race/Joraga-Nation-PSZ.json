@@ -1,0 +1,46 @@
+{
+    "ability": [
+        {
+            "dex": 1
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+            ],
+            "name": "Mask of the Wild",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+            ],
+            "name": "Elf Weapon Training",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your ground speed increases to 35 feet."
+            ],
+            "name": "Fleet of Foot",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Joraga Nation",
+    "page": 19,
+    "raceName": "Elf (Zendikar)",
+    "raceSource": "PSZ",
+    "source": "PSZ",
+    "speed": 35,
+    "weaponProficiencies": [
+        {
+            "longbow|phb": true,
+            "longsword|phb": true,
+            "shortbow|phb": true,
+            "shortsword|phb": true
+        }
+    ]
+}

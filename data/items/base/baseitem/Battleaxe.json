@@ -1,0 +1,20 @@
+{
+    "axe": true,
+    "basicRules": true,
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "name": "Battleaxe",
+    "page": 149,
+    "property": [
+        "V"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 1000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 4
+}
