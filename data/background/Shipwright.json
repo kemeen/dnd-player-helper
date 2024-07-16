@@ -1,0 +1,283 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill History}, {@skill Perception}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "{@item Carpenter's tools|phb}, {@filter Vehicles (water)|items|source=phb;dmg|miscellaneous=mundane|type=vehicle (water)}",
+                    "name": "Tool Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A set of well-loved {@item carpenter's tools|phb}, a blank {@item book|phb}, {@item Ink (1-ounce bottle)|phb|1 ounce of ink}, an {@item ink pen|phb}, a set of {@item traveler's clothes|phb}, and a leather {@item pouch|phb} with 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "Provided you have carpenter's tools and wood, you can perform repairs on a water vehicle. When you use this ability, you restore a number of hit points to the hull of a water vehicle equal to 5 \u00d7 your proficiency modifier. A vehicle cannot be patched by you in this way again until after it has been pulled ashore and fully repaired."
+            ],
+            "name": "Feature: I'll Patch It!",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your life at sea and in port has shaped you; you can roll on the following table to determine its impact or choose an element that best fits your character.",
+                {
+                    "colLabels": [
+                        "d6",
+                        "Sea's Influence"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "{@b Grand Designs.} You are working on plans and schematics for a new, very fast ship. You must examine as many different kinds of vessels as possible to help ensure the success of your design."
+                        ],
+                        [
+                            "2",
+                            "{@b Solid and Sound.} You patched up a war galley and prevented it from sinking. The local navy regards you as a friend."
+                        ],
+                        [
+                            "3",
+                            "{@b Favored.} You insisted on thicker planking for a merchant vessel's hull, which saved it from sinking when it smashed against a reef. You have a standing invitation to visit the merchant's distant mansion."
+                        ],
+                        [
+                            "4",
+                            "{@b Master of Armaments.} You specialized in designing and mounting defenses for the navy. You easily recognize and determine the quality of such items."
+                        ],
+                        [
+                            "5",
+                            "{@b Low Places.} You have contacts in the smuggling outfits along the coast; you occasionally repair the criminals' ships in exchange for coin and favors."
+                        ],
+                        [
+                            "6",
+                            "{@b Mysteries of the Deep.} You experienced an encounter with a possibly divine being while sailing alone. Work with your DM to determine the secret about the deep waters of the sea that this entity revealed to you."
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Life at Sea",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Shipwrights are resourceful carpenters and designers. They often have a dedicated spot at the local tavern, since shipwrights are invaluable to coastal communities. Some travel with naval fleets and might serve as officers if their temperament suits it. Shipwrights have an affinity for working with their hands and often perform feats of carpentry that others might deem miraculous.",
+                {
+                    "caption": "Shipwright Personality Traits",
+                    "colLabels": [
+                        "d8",
+                        "Personality Trait"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I love talking and being heard more than I like to listen."
+                        ],
+                        [
+                            "2",
+                            "I'm extremely fond of puzzles."
+                        ],
+                        [
+                            "3",
+                            "I thrive under pressure."
+                        ],
+                        [
+                            "4",
+                            "I love sketching and designing objects, especially boats."
+                        ],
+                        [
+                            "5",
+                            "I'm not afraid of hard work\u2014in fact, I prefer it."
+                        ],
+                        [
+                            "6",
+                            "A pipe, an ale, and the smell of the sea: paradise."
+                        ],
+                        [
+                            "7",
+                            "I have an endless supply of cautionary tales related to the sea."
+                        ],
+                        [
+                            "8",
+                            "I don't mind getting my hands dirty."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Shipwright Ideals",
+                    "colLabels": [
+                        "d6",
+                        "Ideal"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "Crew. If everyone on deck pitches in, we'll never sink. (Good)"
+                        ],
+                        [
+                            "2",
+                            "Careful Lines. A ship must be balanced according to the laws of the universe. (Lawful)"
+                        ],
+                        [
+                            "3",
+                            "Invention. Make what you need out of whatever is at hand. (Chaotic)"
+                        ],
+                        [
+                            "4",
+                            "Perfection. To measure a being and find it lacking is the greatest disappointment. (Evil)"
+                        ],
+                        [
+                            "5",
+                            "Reflection. Muddied water always clears in time. (Any)"
+                        ],
+                        [
+                            "6",
+                            "Hope. The horizon at sea holds the greatest promise. (Any)"
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Shipwright Bonds",
+                    "colLabels": [
+                        "d6",
+                        "Bond"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I must visit all the oceans of the world and behold the ships that sail there."
+                        ],
+                        [
+                            "2",
+                            "Much of the treasure I claim will be used to enrich my community."
+                        ],
+                        [
+                            "3",
+                            "I must find a kind of wood rumored to possess magical qualities."
+                        ],
+                        [
+                            "4",
+                            "I repair broken things to redeem what's broken in myself."
+                        ],
+                        [
+                            "5",
+                            "I will craft a boat capable of sailing through the most dangerous of storms."
+                        ],
+                        [
+                            "6",
+                            "A kraken destroyed my masterpiece; its teeth shall adorn my hearth."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Shipwright Flaws",
+                    "colLabels": [
+                        "d6",
+                        "Flaw"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I don't know when to throw something away. You never know when it might be useful again."
+                        ],
+                        [
+                            "2",
+                            "I get frustrated to the point of distraction by shoddy craftsmanship."
+                        ],
+                        [
+                            "3",
+                            "Though I am an excellent crafter, my work tends to look as though it belongs on a ship."
+                        ],
+                        [
+                            "4",
+                            "I am so obsessed with sketching my ideas for elaborate inventions that I sometimes forget little thing like eating and sleeping."
+                        ],
+                        [
+                            "5",
+                            "I'm judgmental of those who are not skilled with tools of some kind."
+                        ],
+                        [
+                            "6",
+                            "I sometimes take things that don't belong to me, especially if they are very well made."
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Shipwright",
+    "page": 33,
+    "skillProficiencies": [
+        {
+            "history": true,
+            "perception": true
+        }
+    ],
+    "source": "GoS",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "displayName": "set of well-loved carpenter's tools",
+                    "item": "carpenter's tools|phb"
+                },
+                {
+                    "displayName": "blank book",
+                    "item": "book|phb"
+                },
+                "ink (1-ounce bottle)|phb",
+                "ink pen|phb",
+                "traveler's clothes|phb",
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "carpenter's tools": true,
+            "vehicles (water)": true
+        }
+    ]
+}

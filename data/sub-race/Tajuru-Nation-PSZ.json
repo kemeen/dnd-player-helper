@@ -1,0 +1,40 @@
+{
+    "ability": [
+        {
+            "cha": 1
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency with any combination of two other skills or {@book tools|phb|5|tools} of your choice."
+            ],
+            "name": "Skill Versatility",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Tajuru Nation",
+    "page": 18,
+    "raceName": "Elf (Zendikar)",
+    "raceSource": "PSZ",
+    "skillToolLanguageProficiencies": [
+        {
+            "choose": [
+                {
+                    "count": 2,
+                    "from": [
+                        "anySkill",
+                        "anyTool"
+                    ]
+                }
+            ]
+        }
+    ],
+    "source": "PSZ",
+    "traitTags": [
+        "Skill Proficiency",
+        "Tool Proficiency"
+    ]
+}

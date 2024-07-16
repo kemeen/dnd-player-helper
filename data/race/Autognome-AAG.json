@@ -1,0 +1,82 @@
+{
+    "conditionImmune": [
+        "disease"
+    ],
+    "creatureTypes": [
+        "construct"
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You are a Construct."
+            ],
+            "name": "Creature Type",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are encased in thin metal or some other durable material. While you aren't wearing armor, your base Armor Class is 13 + your Dexterity modifier."
+            ],
+            "name": "Armored Casing",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can add a {@dice d4} to one attack roll, ability check, or saving throw you make, and you can do so after seeing the {@dice d20} roll but before the effects of the roll are resolved. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+            ],
+            "name": "Built for Success",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If the {@spell mending} spell is cast on you, you can spend a Hit Die, roll it, and regain a number of hit points equal to the roll plus your Constitution modifier (minimum of 1 hit point).",
+                "In addition, your creator designed you to benefit from several spells that preserve life but that normally don't affect Constructs: {@spell cure wounds}, {@spell healing word}, {@spell mass cure wounds}, {@spell mass healing word}, and {@spell spare the dying}."
+            ],
+            "name": "Healing Machine",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to poison damage and immunity to disease, and you have advantage on saving throws against being {@condition paralyzed} or {@condition poisoned}. You don't need to eat, drink, or breathe."
+            ],
+            "name": "Mechanical Nature",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious."
+            ],
+            "name": "Sentry's Rest",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain two tool proficiencies of your choice, selected from the {@book Player's Handbook|PHB}."
+            ],
+            "name": "Specialized Design",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Autognome",
+    "page": 11,
+    "resist": [
+        "poison"
+    ],
+    "size": [
+        "S"
+    ],
+    "source": "AAG",
+    "speed": 30,
+    "toolProficiencies": [
+        {
+            "any": 2
+        }
+    ],
+    "traitTags": [
+        "Improved Resting",
+        "Natural Armor"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "items": [
+                            {
+                                "entry": "{@skill Acrobatics}, {@skill Performance}",
+                                "name": "Skill Proficiencies:",
+                                "type": "item"
+                            },
+                            {
+                                "entry": "{@item Disguise kit|phb}, one type of {@filter musical instrument|items|source=phb|miscellaneous=mundane|type=instrument}",
+                                "name": "Tool Proficiencies:",
+                                "type": "item"
+                            },
+                            {
+                                "entry": "An inexpensive but unusual weapon, such as a {@item trident|phb} or {@item net|phb} (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), {@item costume clothes|phb}, and a belt {@item pouch|phb} containing 15 gp",
+                                "name": "Equipment:",
+                                "type": "item"
+                            }
+                        ],
+                        "style": "list-hang-notitle",
+                        "type": "list"
+                    },
+                    "mode": "replaceArr",
+                    "replace": {
+                        "index": 0
+                    }
+                },
+                {
+                    "items": {
+                        "data": {
+                            "isFeature": true
+                        },
+                        "entries": [
+                            "You can always find a place to perform in any place that features combat for entertainment\u2014perhaps a gladiatorial arena or secret pit fighting club. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you."
+                        ],
+                        "name": "Feature: By Popular Demand",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": {
+                        "index": 1
+                    }
+                }
+            ]
+        },
+        "name": "Entertainer",
+        "source": "PHB"
+    },
+    "hasFluff": true,
+    "name": "Variant Entertainer (Gladiator)",
+    "page": 131,
+    "source": "PHB"
+}

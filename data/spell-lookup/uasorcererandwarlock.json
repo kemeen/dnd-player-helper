@@ -1,0 +1,11 @@
+{
+    "mind sliver": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    }
+}

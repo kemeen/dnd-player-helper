@@ -1,0 +1,11 @@
+{
+    "entries": [
+        "Gold coin, half again as large as a {@item nib|wdh} (1 dragon = 100 {@item nib|wdh|nibs})"
+    ],
+    "name": "Dragon",
+    "page": 169,
+    "rarity": "none",
+    "source": "WDH",
+    "type": "$",
+    "value": 100
+}

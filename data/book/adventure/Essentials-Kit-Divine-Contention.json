@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "DC",
+    "level": {
+        "end": 12,
+        "start": 11
+    },
+    "name": "Essentials Kit: Divine Contention",
+    "parentName": "Essentials Kit",
+    "parentSource": "ESK",
+    "published": "2019-09-03",
+    "publishedOrder": 3,
+    "source": "DC",
+    "storyline": "Essentials Kit"
+}

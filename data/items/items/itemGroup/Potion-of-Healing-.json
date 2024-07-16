@@ -1,0 +1,17 @@
+{
+    "entries": [
+        "{@note * This item group has the same name and source as the item {@item potion of healing}}."
+    ],
+    "items": [
+        "Potion of Healing",
+        "Potion of Greater Healing",
+        "Potion of Superior Healing",
+        "Potion of Supreme Healing"
+    ],
+    "name": "Potion of Healing (*)",
+    "page": 187,
+    "rarity": "varies",
+    "source": "DMG",
+    "srd": true,
+    "type": "P"
+}

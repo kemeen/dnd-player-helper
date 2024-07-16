@@ -1,0 +1,10 @@
+{
+    "_copy": {
+        "name": "Sage",
+        "source": "PHB"
+    },
+    "hasFluff": true,
+    "name": "Cobalt Scholar (Sage)",
+    "page": 203,
+    "source": "EGW"
+}

@@ -1,0 +1,34 @@
+{
+    "attachedSpells": [
+        "dominate beast"
+    ],
+    "baseItem": "trident|phb",
+    "charges": 3,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast {@spell dominate beast} (save DC 15) from it on a beast that has an innate swimming speed. The trident regains {@dice 1d3} expended charges daily at dawn."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Trident of Fish Command",
+    "page": 209,
+    "property": [
+        "T",
+        "V"
+    ],
+    "range": "20/60",
+    "rarity": "uncommon",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d3}",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 4
+}

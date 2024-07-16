@@ -1,0 +1,33 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "dex"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You have practiced extensively with a variety of weapons, gaining the following benefits:",
+        {
+            "items": [
+                "You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Weapon Master",
+    "page": 170,
+    "source": "PHB",
+    "weaponProficiencies": [
+        {
+            "choose": {
+                "count": 4,
+                "fromFilter": "type=martial weapon;mundane weapon|miscellaneous=mundane"
+            }
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "entries": [
+        "This potion appears to change color and texture each time you look at it. When you drink the potion, it ends the {@spell polymorph} effect imposed by thessaltoxin."
+    ],
+    "name": "Thessaltoxin Antidote",
+    "page": 95,
+    "rarity": "uncommon",
+    "source": "IMR",
+    "type": "P"
+}

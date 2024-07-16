@@ -1,0 +1,62 @@
+{
+    "ability": [
+        {
+            "wis": 2
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "known": {
+                "1": {
+                    "_": [
+                        {
+                            "choose": "level=0|class=Druid"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You know one cantrip of your choice from the {@filter druid spell list|spells|class=Druid|level=0}. Wisdom is your spellcasting ability for it."
+            ],
+            "name": "Cantrip",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+            ],
+            "name": "Mask of the Wild",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Languages"
+            },
+            "entries": [
+                "You can speak, read, and write {@language Common Trade Pidgin|PSX|Common} (if it exists in your campaign), {@language Merfolk|PSX}, and one additional language of your choice."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Ixalan; Green",
+    "otherSources": null,
+    "page": 12,
+    "raceName": "Merfolk",
+    "raceSource": "PSZ",
+    "source": "PSX"
+}

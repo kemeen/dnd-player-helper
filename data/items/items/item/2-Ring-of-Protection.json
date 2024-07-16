@@ -1,0 +1,24 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "flags": "i",
+                "mode": "replaceTxt",
+                "replace": "\\+1",
+                "with": "+2"
+            }
+        },
+        "_preserve": {
+            "tier": true
+        },
+        "name": "Ring of Protection",
+        "source": "DMG"
+    },
+    "bonusAc": "+2",
+    "bonusSavingThrow": "+2",
+    "hasFluffImages": true,
+    "name": "+2 Ring of Protection",
+    "optionalfeatures": [],
+    "page": 263,
+    "source": "TDCSR"
+}

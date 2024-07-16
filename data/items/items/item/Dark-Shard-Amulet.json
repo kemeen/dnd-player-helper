@@ -1,0 +1,27 @@
+{
+    "entries": [
+        "This amulet is fashioned from a single shard of resilient extraplanar material originating from the realm of your warlock patron. While you are wearing it, you gain the following benefits:",
+        {
+            "items": [
+                "You can use the amulet as a spellcasting focus for your warlock spells.",
+                "You can try to cast a cantrip that you don't know. The cantrip must be on the warlock spell list, and you must make a DC 10 Intelligence ({@skill Arcana}) check. If the check succeeds, you cast the spell. If the check fails, so does the spell, and the action used to cast the spell is wasted. In either case, you can't use this property again until you finish a long rest."
+            ],
+            "type": "list"
+        }
+    ],
+    "focus": [
+        "Warlock"
+    ],
+    "name": "Dark Shard Amulet",
+    "page": 137,
+    "rarity": "common",
+    "reqAttune": "by a warlock",
+    "reqAttuneTags": [
+        {
+            "class": "warlock"
+        }
+    ],
+    "source": "XGE",
+    "tier": "minor",
+    "wondrous": true
+}

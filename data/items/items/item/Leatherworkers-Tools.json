@@ -1,0 +1,70 @@
+{
+    "additionalEntries": [
+        "Knowledge of leatherworking extends to lore concerning animal hides and their properties. It also confers knowledge of leather armor and similar goods.",
+        {
+            "entries": [
+                "Leatherworker's tools include a knife, a small mallet, an edger, a hole punch, thread, and leather scraps."
+            ],
+            "name": "Components",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your expertise in working with leather grants you added insight when you inspect magic items crafted from leather, such as boots and some cloaks."
+            ],
+            "name": "Arcana",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain added insight when studying leather items or clues related to them, as you draw on your knowledge of leather to pick out details that others would overlook."
+            ],
+            "name": "Investigation",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When looking at a hide or a leather item, you can determine the source of the leather and any special techniques used to treat it. For example, you can spot the difference between leather crafted using dwarven methods and leather crafted using halfling methods."
+            ],
+            "name": "Identify Hides",
+            "type": "entries"
+        },
+        {
+            "caption": "Leatherworker's Tools",
+            "colLabels": [
+                "Activity",
+                "DC"
+            ],
+            "colStyles": [
+                "col-10",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "Modify a leather item's appearance",
+                    "10"
+                ],
+                [
+                    "Determine a leather item's history",
+                    "20"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "additionalSources": [
+        {
+            "page": 82,
+            "source": "XGE"
+        }
+    ],
+    "basicRules": true,
+    "name": "Leatherworker's Tools",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "AT",
+    "value": 500,
+    "weight": 5
+}

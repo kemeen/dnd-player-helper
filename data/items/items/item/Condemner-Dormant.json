@@ -1,0 +1,48 @@
+{
+    "ammoType": "crossbow bolt|phb",
+    "attachedSpells": [
+        "fog cloud",
+        "silence"
+    ],
+    "baseItem": "heavy crossbow|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d10",
+    "dmgType": "P",
+    "entries": [
+        "This shadow-touched {@item heavy crossbow|phb} once served as the weapon of choice for the legendary assassin Todora. Though few know this, Condemner is now in the possession of an equally infamous assassin named {@book Ixrattu Khar|TDCSR|2|Ixrattu Khar}.",
+        {
+            "entries": [
+                "When Condemner is in a dormant state, you gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with an attack using this weapon, the target takes an extra {@damage 1d4} poison damage.",
+                "Additionally, if you hit with an attack using this weapon, you can activate one of the following effects instead of dealing damage:",
+                {
+                    "items": [
+                        "You cast {@spell fog cloud} centered on the target's space.",
+                        "You cast {@spell silence} centered on the target's space."
+                    ],
+                    "type": "list"
+                },
+                "When an effect is used, it can't be used again until you finish a {@quickref resting|PHB|2|0|short or long rest}."
+            ],
+            "name": "Dormant",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Condemner (Dormant)",
+    "page": 204,
+    "property": [
+        "A",
+        "H",
+        "LD",
+        "2H",
+        "Vst"
+    ],
+    "range": "100/400",
+    "rarity": "legendary",
+    "recharge": "restShort",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "type": "R",
+    "weaponCategory": "martial",
+    "weight": 18
+}

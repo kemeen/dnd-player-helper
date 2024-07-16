@@ -1,0 +1,21 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": [
+                    "false life"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell false life} on yourself at will as a 1st-level spell, without expending a spell slot or material components."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Fiendish Vigor",
+    "page": 111,
+    "source": "PHB",
+    "srd": true
+}

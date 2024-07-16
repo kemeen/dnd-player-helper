@@ -1,0 +1,33 @@
+{
+    "age": {
+        "max": 120
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You are Medium or Small. You choose the size when you select this race."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Genasi",
+    "page": 16,
+    "size": [
+        "S",
+        "M"
+    ],
+    "source": "MPMM",
+    "speed": 30
+}

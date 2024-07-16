@@ -1,0 +1,111 @@
+{
+    "ability": [
+        {
+            "cha": 2
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "cha",
+            "known": {
+                "1": [
+                    "light#c"
+                ]
+            }
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 160
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Aasimar mature at the same rate as humans, but they can live up to 160 years."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Aasimar have the same range of height and weight as humans."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to necrotic damage and radiant damage."
+            ],
+            "name": "Celestial Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+            ],
+            "name": "Healing Hands",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell light} cantrip. Charisma is your spellcasting ability for it."
+            ],
+            "name": "Light Bearer",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Celestial."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 56,
+        "baseWeight": 110,
+        "heightMod": "2d10",
+        "weightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "celestial": true,
+            "common": true
+        }
+    ],
+    "name": "Aasimar",
+    "otherSources": [
+        {
+            "page": 166,
+            "source": "EGW"
+        }
+    ],
+    "page": 104,
+    "reprintedAs": [
+        "Aasimar|MPMM"
+    ],
+    "resist": [
+        "necrotic",
+        "radiant"
+    ],
+    "size": [
+        "M"
+    ],
+    "soundClip": {
+        "path": "races/aasimar.mp3",
+        "type": "internal"
+    },
+    "source": "VGM",
+    "speed": 30
+}

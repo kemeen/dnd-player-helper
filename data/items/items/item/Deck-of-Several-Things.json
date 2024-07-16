@@ -1,0 +1,425 @@
+{
+    "ability": {
+        "choose": [
+            {
+                "count": 1,
+                "from": [
+                    "str",
+                    "dex",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            }
+        ]
+    },
+    "entries": [
+        "Stored in a leather pouch, this unique deck contains twenty-two colored cards made of some strong but unknown metal, each of which features a design printed as a mosaic of raised dots. Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.",
+        "Once a card is drawn, it fades from existence. Unless the card is the {@card Fool|Deck of Several Things|LLK} or the {@card Jester|Deck of Several Things|LLK}, the card reappears in the deck, making it possible to draw the same card twice.",
+        {
+            "colLabels": [
+                "{@dice 1d22|Playing Card}",
+                "Card"
+            ],
+            "colStyles": [
+                "col-6 text-center",
+                "col-6 text-center"
+            ],
+            "rows": [
+                [
+                    {
+                        "entry": "Ace of diamonds",
+                        "roll": {
+                            "exact": 1
+                        },
+                        "type": "cell"
+                    },
+                    "Vizier"
+                ],
+                [
+                    {
+                        "entry": "King of diamonds",
+                        "roll": {
+                            "exact": 2
+                        },
+                        "type": "cell"
+                    },
+                    "Sun"
+                ],
+                [
+                    {
+                        "entry": "Queen of diamonds",
+                        "roll": {
+                            "exact": 3
+                        },
+                        "type": "cell"
+                    },
+                    "Moon"
+                ],
+                [
+                    {
+                        "entry": "Jack of diamonds",
+                        "roll": {
+                            "exact": 4
+                        },
+                        "type": "cell"
+                    },
+                    "Star"
+                ],
+                [
+                    {
+                        "entry": "Two of diamonds",
+                        "roll": {
+                            "exact": 5
+                        },
+                        "type": "cell"
+                    },
+                    "Comet"
+                ],
+                [
+                    {
+                        "entry": "Ace of hearts",
+                        "roll": {
+                            "exact": 6
+                        },
+                        "type": "cell"
+                    },
+                    "The Fates"
+                ],
+                [
+                    {
+                        "entry": "King of hearts",
+                        "roll": {
+                            "exact": 7
+                        },
+                        "type": "cell"
+                    },
+                    "Throne"
+                ],
+                [
+                    {
+                        "entry": "Queen of hearts",
+                        "roll": {
+                            "exact": 8
+                        },
+                        "type": "cell"
+                    },
+                    "Key"
+                ],
+                [
+                    {
+                        "entry": "Jack of hearts",
+                        "roll": {
+                            "exact": 9
+                        },
+                        "type": "cell"
+                    },
+                    "Knight"
+                ],
+                [
+                    {
+                        "entry": "Two of hearts",
+                        "roll": {
+                            "exact": 10
+                        },
+                        "type": "cell"
+                    },
+                    "Gem"
+                ],
+                [
+                    {
+                        "entry": "Ace of clubs",
+                        "roll": {
+                            "exact": 11
+                        },
+                        "type": "cell"
+                    },
+                    "Talons"
+                ],
+                [
+                    {
+                        "entry": "King of clubs",
+                        "roll": {
+                            "exact": 12
+                        },
+                        "type": "cell"
+                    },
+                    "The Void"
+                ],
+                [
+                    {
+                        "entry": "Queen of clubs",
+                        "roll": {
+                            "exact": 13
+                        },
+                        "type": "cell"
+                    },
+                    "Flames"
+                ],
+                [
+                    {
+                        "entry": "Jack of clubs",
+                        "roll": {
+                            "exact": 14
+                        },
+                        "type": "cell"
+                    },
+                    "Skull"
+                ],
+                [
+                    {
+                        "entry": "Two of clubs",
+                        "roll": {
+                            "exact": 15
+                        },
+                        "type": "cell"
+                    },
+                    "Idiot"
+                ],
+                [
+                    {
+                        "entry": "Ace of spades",
+                        "roll": {
+                            "exact": 16
+                        },
+                        "type": "cell"
+                    },
+                    "Donjon"
+                ],
+                [
+                    {
+                        "entry": "King of spades",
+                        "roll": {
+                            "exact": 17
+                        },
+                        "type": "cell"
+                    },
+                    "Ruin"
+                ],
+                [
+                    {
+                        "entry": "Queen of spades",
+                        "roll": {
+                            "exact": 18
+                        },
+                        "type": "cell"
+                    },
+                    "Euryale"
+                ],
+                [
+                    {
+                        "entry": "Jack of spades",
+                        "roll": {
+                            "exact": 19
+                        },
+                        "type": "cell"
+                    },
+                    "Rogue"
+                ],
+                [
+                    {
+                        "entry": "Two of spades",
+                        "roll": {
+                            "exact": 20
+                        },
+                        "type": "cell"
+                    },
+                    "Balance"
+                ],
+                [
+                    {
+                        "entry": "Joker (with TM)",
+                        "roll": {
+                            "exact": 21
+                        },
+                        "type": "cell"
+                    },
+                    "Fool"
+                ],
+                [
+                    {
+                        "entry": "Joker (without TM)",
+                        "roll": {
+                            "exact": 22
+                        },
+                        "type": "cell"
+                    },
+                    "Jester"
+                ]
+            ],
+            "type": "table"
+        },
+        {
+            "entries": [
+                "Your mind suffers a wrenching alteration, causing your alignment to change for the duration of the adventure. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you."
+            ],
+            "name": "Balance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you single-handedly defeat the next hostile monster or group of monsters you encounter, you have advantage on ability checks made using one skill of your choice for the duration of the adventure. Otherwise, this card has no effect."
+            ],
+            "name": "Comet",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are instantly teleported to and confined within the prison of the Monastery of the Distressed Body (area M6). Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You draw no more cards."
+            ],
+            "name": "Donjon",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The card's medusa-like visage curses you. You take a \u22121 penalty on saving throws for the duration of the adventure."
+            ],
+            "name": "Euryale",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other point during the adventure."
+            ],
+            "name": "The Fates",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The Grand Master of the Monastery of the Distressed Body becomes your enemy. The bone devil seeks your ruin, savoring your suffering before attempting to slay you. If the Grand Master has already been defeated, you gain the enmity of {@creature Garret Levistusson|LLK|Garret Levistusson's} patron\u2014a similarly powerful devil."
+            ],
+            "name": "Flames",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "For the duration of the adventure, you lose proficiency with one skill or gain disadvantage on all checks made with one skill (with the skill and the penalty determined by the DM). Discard this card and draw from the deck again, counting both draws as one of your declared draws."
+            ],
+            "name": "Fool",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The 1,000 gp hoard of the leprechaun from the Wilderness Encounters table (see appendix A) appears at your feet. If that treasure has already been claimed, you gain an equivalent hoard."
+            ],
+            "name": "Gem",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Reduce your Intelligence by {@dice 1d4 + 1} (to a minimum score of 1) for the duration of the adventure. You can draw one additional card beyond your declared draws."
+            ],
+            "name": "Idiot",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain proficiency in a skill of your choice for the duration of the adventure, or you can draw two additional cards beyond your declared draws."
+            ],
+            "name": "Jester",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "A common or uncommon magic weapon with which you are proficient, or a {@item spell scroll} featuring a spell of a level you can cast, appears in your hands. The DM chooses the weapon or spell, which you possess for the duration of this adventure."
+            ],
+            "name": "Key",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain the service of any of the NPCs in the \"{@book Hirelings|phb|5|services}\" section not currently with the party, who appears in a space you choose within 30 feet of you. The NPC serves you loyally for the duration of the adventure, believing that the fates have drawn them to you. You control this character."
+            ],
+            "name": "Knight",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are granted the ability to cast any spell of 5th level or lower, and can use that ability {@dice 1d3} times for the duration of the adventure."
+            ],
+            "name": "Moon",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "An NPC of the DM's choice becomes secretly hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Any enchantment spell cast on the NPC at 6th level or higher can end the NPC's hostility toward you."
+            ],
+            "name": "Rogue",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "All forms of wealth that you carry or own, other than magic items, are lost to you. This wealth can be recovered either in the treasury of the Monastery of the Distressed Body (area M10) or Kwalish's lab in Daoine Gloine (area O7), whichever comes later in the adventure."
+            ],
+            "name": "Ruin",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You summon an avatar of death\u2014a mechanical skeleton (use bone naga statistics) clad in a tattered black robe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can't be restored to life."
+            ],
+            "name": "Skull",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Increase one of your ability scores by 1 for the duration of the adventure. The score can exceed 20 but can't exceed 24."
+            ],
+            "name": "Star",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain proficiency in the skill of your choice for the duration of the adventure. In addition, a common or uncommon wondrous item appears in your hands. The DM chooses the item, which you possess for the duration of this adventure."
+            ],
+            "name": "Sun",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Every magic item you wear or carry is lost to you. These items can be recovered either in the treasury of the Monastery of the Distressed Body (area M10) or Kwalish's lab in Daoine Gloine (area O7), whichever comes later in the adventure."
+            ],
+            "name": "Talons",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain proficiency in the {@skill Persuasion} skill and you double your proficiency bonus on checks made with that skill for the duration of the adventure. In addition, the Monastery of the Distressed Body's brains in jars regard you thereafter as the monastery's rightful master. You must defeat or otherwise clear out the Grand Master and its servants before you can claim the monastery as yours."
+            ],
+            "name": "Throne",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "At any one time you choose within the duration of the adventure, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it."
+            ],
+            "name": "Vizier",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "This black card spells disaster. Your soul is drawn from your body and held within machinery in either the control room of the Monastery of the Distressed Body (area M8) or Kwalish's lab in Daoine Gloine (area O7), whichever comes later in the adventure. While your soul is trapped in this way, your body is {@condition incapacitated}. {@spell Divination}, {@spell contact other plane}, or a similar spell of 4th level or higher reveals the location of the machinery that holds your soul. You draw no more cards."
+            ],
+            "name": "The Void",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The special nature of this deck (carried by {@creature Mary Greymalkin|LLK} if she is used as an NPC) means that many of its effects operate only within and with respect to this specific adventure. This typically covers any time the characters spend between setting out for the Barrier Peaks and the resolution of whatever events transpire in Kwalish's lab (area O7).",
+                "For cards that effectively remove a character from play for a period of time ({@card Donjon|Deck of Several Things|LLK} and {@card the Void|Deck of Several Things|LLK}), you can allow a player to take on the role of one of the party's NPC hirelings, or introduce a temporary character as an NPC met during the party's journey. Alternatively, you can decide that only some aspect of the character's will disappears and is imprisoned, leaving the character to operate in a robotic state until freed."
+            ],
+            "name": "Using the Deck of Several Things",
+            "type": "inset"
+        }
+    ],
+    "grantsProficiency": true,
+    "name": "Deck of Several Things",
+    "page": 53,
+    "rarity": "legendary",
+    "seeAlsoDeck": [
+        "Deck of Several Things|LLK"
+    ],
+    "source": "LLK",
+    "wondrous": true
+}

@@ -1,0 +1,10 @@
+{
+    "_copy": {
+        "name": "Sailor",
+        "source": "PHB"
+    },
+    "hasFluff": true,
+    "name": "Revelry Pirate (Sailor)",
+    "page": 203,
+    "source": "EGW"
+}

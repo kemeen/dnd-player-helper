@@ -1,0 +1,21 @@
+{
+    "attachedSpells": [
+        "scrying"
+    ],
+    "items": [
+        "Crystal Ball of Mind Reading",
+        "Crystal Ball of Telepathy",
+        "Crystal Ball of True Seeing"
+    ],
+    "lootTables": [
+        "Magic Item Table I"
+    ],
+    "name": "Crystal Ball (Legendary Version)",
+    "page": 159,
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "DMG",
+    "tier": "major",
+    "weight": 3,
+    "wondrous": true
+}

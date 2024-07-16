@@ -1,0 +1,40 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "dex"
+                ]
+            }
+        }
+    ],
+    "armorProficiencies": [
+        {
+            "medium": true,
+            "shield|phb": true
+        }
+    ],
+    "entries": [
+        "You have trained to master the use of medium armor and shields, gaining the following benefits:",
+        {
+            "items": [
+                "You gain proficiency with medium armor and shields."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Moderately Armored",
+    "page": 168,
+    "prerequisite": [
+        {
+            "proficiency": [
+                {
+                    "armor": "light"
+                }
+            ]
+        }
+    ],
+    "source": "PHB"
+}

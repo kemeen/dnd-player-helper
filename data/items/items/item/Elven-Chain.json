@@ -1,0 +1,20 @@
+{
+    "ac": 13,
+    "bonusAc": "+1",
+    "entries": [
+        "You gain a +1 bonus to AC while you wear this armor. You are considered proficient with this armor even if you lack proficiency with medium armor."
+    ],
+    "grantsProficiency": true,
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Elven Chain",
+    "page": 168,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "MA",
+    "weight": 20
+}

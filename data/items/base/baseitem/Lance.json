@@ -1,0 +1,28 @@
+{
+    "basicRules": true,
+    "dmg1": "1d12",
+    "dmgType": "P",
+    "entries": [
+        {
+            "entries": [
+                "You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted."
+            ],
+            "name": "Special",
+            "type": "entries"
+        }
+    ],
+    "name": "Lance",
+    "page": 149,
+    "property": [
+        "R",
+        "S"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 1000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 6
+}

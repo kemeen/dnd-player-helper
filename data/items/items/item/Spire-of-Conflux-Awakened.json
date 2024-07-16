@@ -1,0 +1,48 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Spire of Conflux reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The staff has 12 charges, and it regains {@dice 1d6 + 2} expended charges daily at dawn.",
+                                            "You can also spend charges to cast the following spells from the staff: {@spell conjure elemental} (5 charges) or {@spell ice storm} (4 charges).",
+                                            "When you cast a spell that deals bludgeoning, cold, fire, lightning, or thunder damage and you roll a 1 on a damage die, you can reroll the die and must use the new roll."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Spire of Conflux (Dormant)",
+        "source": "TDCSR"
+    },
+    "attachedSpells": [
+        "burning hands",
+        "fireball",
+        "conjure elemental",
+        "ice storm"
+    ],
+    "charges": 12,
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Spire of Conflux (Awakened)",
+    "rechargeAmount": "{@dice 1d6 + 2}",
+    "source": "TDCSR"
+}

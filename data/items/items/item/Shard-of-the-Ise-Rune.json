@@ -1,0 +1,68 @@
+{
+    "attachedSpells": [
+        "sleet storm"
+    ],
+    "entries": [
+        "This shard of ice is long and slender, roughly the size of a dagger. The ise (ice) rune glows within it. The shard has the following properties, which work only while it's on your person.",
+        {
+            "entries": [
+                "As an action, you can touch a body of water and freeze the water in a 10-foot-radius sphere around the spot you touched. Once you use this property, you can't use it again until you finish a short or long rest."
+            ],
+            "name": "Frigid Touch",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to fire damage."
+            ],
+            "name": "Frost Friend",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As an action, you can touch yourself or another creature with water on your finger. The water creates an icy mantle of protection. The next time within the next minute that the target takes bludgeoning, slashing, or piercing damage, that damage is reduced to 0, and the mantle is destroyed. Once you use this property, you can't use it again until you finish a short or long rest."
+            ],
+            "name": "Icy Mantle",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As an action, you can cast {@spell sleet storm} (spell save DC 17). You regain this ability after you finish a short or long rest."
+            ],
+            "name": "Winters Howl",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can transfer the shard's magic to a nonmagical item\u2014a cloak or a pair of boots-by tracing the ise rune there with your finger. The transfer takes 8 hours of work that requires the two items to be within 5 feet of each other. At the end, the shard is destroyed, and the rune appears in blue on the chosen item, which gains a benefit based on its form:",
+                {
+                    "items": [
+                        {
+                            "entry": "The cloak is now a rare magic item that requires attunement. While wearing it, you have resistance to fire damage, and you have advantage on Dexterity ({@skill Stealth}) checks made while in snowy terrain.",
+                            "name": "Cloak",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "The pair of boots is now a rare magic item that requires attunement. While wearing it, you ignore {@quickref difficult terrain||3} while walking, and you can walk on water.",
+                            "name": "Boots",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                }
+            ],
+            "name": "Gift of Frost",
+            "type": "entries"
+        }
+    ],
+    "name": "Shard of the Ise Rune",
+    "page": 236,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "resist": [
+        "fire"
+    ],
+    "source": "SKT",
+    "wondrous": true
+}

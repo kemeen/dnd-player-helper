@@ -1,0 +1,103 @@
+{
+    "ability": [
+        {
+            "dex": 2,
+            "wis": 1
+        }
+    ],
+    "age": {
+        "mature": 12,
+        "max": 60
+    },
+    "entries": [
+        {
+            "entries": [
+                "Kenku have shorter lifespans than humans. They reach maturity at about 12 years old and can live to 60."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Kenku are around 5 feet tall and weigh between 90 and 120 pounds. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can duplicate other creatures' handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects."
+            ],
+            "name": "Expert Forgery",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are proficient in your choice of two of the following skills: {@skill Acrobatics}, {@skill Deception}, {@skill Stealth}, and {@skill Sleight of Hand}."
+            ],
+            "name": "Kenku Training",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can mimic sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful Wisdom ({@skill Insight}) check opposed by your Charisma ({@skill Deception}) check."
+            ],
+            "name": "Mimicry",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can read and write Common and Auran, but you can only speak using your Mimicry trait."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 52,
+        "baseWeight": 50,
+        "heightMod": "2d8",
+        "weightMod": "1d6"
+    },
+    "languageProficiencies": [
+        {
+            "auran": true,
+            "common": true
+        }
+    ],
+    "name": "Kenku",
+    "otherSources": [
+        {
+            "page": 177,
+            "source": "EGW"
+        }
+    ],
+    "page": 109,
+    "reprintedAs": [
+        "Kenku|MPMM"
+    ],
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "count": 2,
+                "from": [
+                    "acrobatics",
+                    "deception",
+                    "sleight of hand",
+                    "stealth"
+                ]
+            }
+        }
+    ],
+    "soundClip": {
+        "path": "races/kenku.mp3",
+        "type": "internal"
+    },
+    "source": "VGM",
+    "speed": 30
+}

@@ -1,0 +1,43 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Wraps of Dyamak reach an awakened state, they gain the following properties:",
+                                    {
+                                        "items": [
+                                            "The bonus to attack and damage rolls with your unarmed strike increases to +2.",
+                                            "You can cast the {@spell misty step} spell from the wraps as a bonus action, vanishing in a cloud of crimson mist. This property of the wraps can't be used again until you finish a {@quickref resting|PHB|2|0|short or long rest}, or until you score a critical hit with an unarmed strike against a hostile creature."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Wraps of Dyamak (Dormant)",
+        "source": "TDCSR"
+    },
+    "attachedSpells": [
+        "misty step"
+    ],
+    "bonusWeapon": "+2",
+    "hasFluffImages": true,
+    "name": "Wraps of Dyamak (Awakened)",
+    "recharge": "special",
+    "source": "TDCSR"
+}

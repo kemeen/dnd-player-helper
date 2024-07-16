@@ -1,0 +1,121 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "count": 1,
+                "from": [
+                    "str",
+                    "con",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "dex": 2
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "dex",
+            "expanded": {
+                "s1": [
+                    "expeditious retreat",
+                    "jump"
+                ],
+                "s2": [
+                    "misty step",
+                    "pass without trace"
+                ],
+                "s3": [
+                    "blink",
+                    "phantom steed"
+                ],
+                "s4": [
+                    "dimension door",
+                    "freedom of movement"
+                ],
+                "s5": [
+                    "teleportation circle"
+                ]
+            },
+            "known": {
+                "1": [
+                    "misty step"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "Your base walking speed increases to 35 feet."
+            ],
+            "name": "Courier's Speed",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you make a Dexterity ({@skill Acrobatics}) check or any ability check to operate or maintain a {@filter land vehicle|items|source=phb;dmg|miscellaneous=mundane|type=vehicle (land)}, you can roll a {@dice d4} and add the number rolled to the ability check."
+            ],
+            "name": "Intuitive Motion",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell misty step} spell once with this trait, and you regain the ability to cast it when you finish a long rest. Dexterity is your spellcasting ability for this spell."
+            ],
+            "name": "Magical Passage",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Passage Spells table are added to the spell list of your spellcasting class.",
+                {
+                    "caption": "Mark of Passage Spells",
+                    "colLabels": [
+                        "Spell Level",
+                        "Spells"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1st",
+                            "{@spell expeditious retreat}, {@spell jump}"
+                        ],
+                        [
+                            "2nd",
+                            "{@spell misty step}, {@spell pass without trace}"
+                        ],
+                        [
+                            "3rd",
+                            "{@spell blink}, {@spell phantom steed}"
+                        ],
+                        [
+                            "4th",
+                            "{@spell dimension door}, {@spell freedom of movement}"
+                        ],
+                        [
+                            "5th",
+                            "{@spell teleportation circle}"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Spells of the Mark",
+            "type": "entries"
+        }
+    ],
+    "name": "Mark of Passage",
+    "page": 46,
+    "raceName": "Human",
+    "raceSource": "PHB",
+    "source": "ERLW",
+    "speed": 35,
+    "traitTags": [
+        "Dragonmark"
+    ]
+}

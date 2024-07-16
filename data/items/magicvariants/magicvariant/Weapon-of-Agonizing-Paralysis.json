@@ -1,0 +1,20 @@
+{
+    "inherits": {
+        "bonusWeapon": "+3",
+        "entries": [
+            "You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon. When this weapon reduces a creature to 0 hit points, the creature doesn't die. Instead, infernal runes appear as if carved into their flesh and they're healed to 1 hit point. They now have the {@condition paralyzed} condition until the condition is removed by a {@spell Lesser Restoration} spell or similar magic. When the condition is removed, the runes disappear. At the start of each of their turns while they're {@condition paralyzed}, the creature suffers immense pain and gains a level of {@condition exhaustion}."
+        ],
+        "nameSuffix": " of Agonizing Paralysis",
+        "page": 271,
+        "rarity": "very rare",
+        "reqAttune": true,
+        "source": "CoA"
+    },
+    "name": "Weapon of Agonizing Paralysis",
+    "requires": [
+        {
+            "type": "M"
+        }
+    ],
+    "type": "GV"
+}

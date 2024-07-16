@@ -1,0 +1,17 @@
+{
+    "focus": [
+        "Druid"
+    ],
+    "items": [
+        "Sprig of mistletoe|phb",
+        "Totem|phb",
+        "Wooden staff|phb",
+        "Yew wand|phb"
+    ],
+    "name": "Druidic Focus",
+    "page": 151,
+    "rarity": "none",
+    "scfType": "druid",
+    "source": "PHB",
+    "type": "SCF"
+}

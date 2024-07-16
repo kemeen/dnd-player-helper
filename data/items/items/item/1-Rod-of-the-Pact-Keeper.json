@@ -1,0 +1,24 @@
+{
+    "bonusSpellAttack": "+1",
+    "bonusSpellSaveDc": "+1",
+    "entries": [
+        "While holding this rod, you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your warlock spells.",
+        "In addition, you can regain one warlock spell slot as an action while holding the rod. You can't use this property again until you finish a long rest."
+    ],
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "+1 Rod of the Pact Keeper",
+    "page": 197,
+    "rarity": "uncommon",
+    "reqAttune": "by a warlock",
+    "reqAttuneTags": [
+        {
+            "class": "warlock"
+        }
+    ],
+    "source": "DMG",
+    "tier": "major",
+    "type": "RD",
+    "weight": 2
+}

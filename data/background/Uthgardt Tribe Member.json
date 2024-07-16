@@ -1,0 +1,99 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Athletics}, {@skill Survival}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Any one of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "One type of {@filter musical instrument|items|source=phb|miscellaneous=mundane|type=instrument} or {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools}",
+                    "name": "Tool Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A {@item hunting trap|phb}, a totemic token or set of tattoos marking your loyalty to Uthgar and your tribal totem, a set of {@item traveler's clothes|phb}, and a {@item pouch|phb} containing 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You have an excellent knowledge of not only your tribe's territory, but also the terrain and natural resources of the rest of the North. You are familiar enough with any wilderness area that you can find twice as much food and water as you normally would when you forage there.",
+                "Additionally, you can call upon the hospitality of your people, and those allied with your tribe, often including members of the druid circles, tribes of nomadic elves, the Harpers, and the priesthoods devoted to the gods of the First Circle."
+            ],
+            "name": "Feature: Uthgardt Heritage",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Use the tables for the {@background outlander} background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a member of an Uthgardt tribe.",
+                "Even if you have left your tribe behind (at least for now), you hold to the traditions of your people. You will never cut down a still-living tree, and you may not countenance such an act being done in your presence. The Uthgardt ancestral mounds - great hills where the totem spirits were defeated by Uthgar and where the heroes of the tribes are interred - are sacred to you.",
+                "Your bond is undoubtedly associated with your tribe or some aspect of Uthgardt philosophy or culture (perhaps even Uthgar himself). Your ideal is a personal choice that probably hews closely to the ethos of your people and certainly doesn't contradict or compromise what being an Uthgardt stands for."
+            ],
+            "name": "Suggested Characteristics",
+            "type": "section"
+        }
+    ],
+    "hasFluff": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 1
+        }
+    ],
+    "name": "Uthgardt Tribe Member",
+    "page": 153,
+    "skillProficiencies": [
+        {
+            "athletics": true,
+            "survival": true
+        }
+    ],
+    "source": "SCAG",
+    "startingEquipment": [
+        {
+            "_": [
+                "hunting trap|phb",
+                "traveler's clothes|phb",
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        },
+        {
+            "a": [
+                {
+                    "special": "totemic token"
+                }
+            ],
+            "b": [
+                {
+                    "special": "set of tattoos marking your loyalty to Uthgar and your tribal totem"
+                }
+            ]
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "musical instrument",
+                    "anyArtisansTool"
+                ]
+            }
+        }
+    ]
+}

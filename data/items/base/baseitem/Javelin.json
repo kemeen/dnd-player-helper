@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "dmg1": "1d6",
+    "dmgType": "P",
+    "name": "Javelin",
+    "page": 149,
+    "property": [
+        "T"
+    ],
+    "range": "30/120",
+    "rarity": "none",
+    "source": "PHB",
+    "spear": true,
+    "srd": true,
+    "type": "M",
+    "value": 50,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 2
+}

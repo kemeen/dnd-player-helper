@@ -1,0 +1,48 @@
+{
+    "additionalSources": [
+        {
+            "page": 7,
+            "source": "EEPC"
+        },
+        {
+            "page": 115,
+            "source": "SCAG"
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "int",
+            "innate": {
+                "_": {
+                    "daily": {
+                        "1e": [
+                            "blindness/deafness",
+                            "blur",
+                            "disguise self"
+                        ]
+                    },
+                    "will": [
+                        "nondetection"
+                    ]
+                }
+            }
+        }
+    ],
+    "entries": [
+        "You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast {@spell nondetection} on yourself at will, without needing a material component. You can also cast each of the following spells once with this ability: {@spell blindness/deafness}, {@spell blur}, and {@spell disguise self}. You regain the ability to cast these spells when you finish a long rest.",
+        "Intelligence is your spellcasting ability for these spells, and you cast them at their lowest possible levels."
+    ],
+    "name": "Svirfneblin Magic",
+    "page": 114,
+    "prerequisite": [
+        {
+            "race": [
+                {
+                    "name": "gnome",
+                    "subrace": "deep"
+                }
+            ]
+        }
+    ],
+    "source": "MTF"
+}

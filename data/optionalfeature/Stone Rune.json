@@ -1,0 +1,17 @@
+{
+    "entries": [
+        "This rune's magic channels the judiciousness associated with stone giants. While wearing or carrying an object inscribed with this rune, you have advantage on Wisdom ({@skill Insight}) checks, and you have {@sense darkvision} out to a range of 120 feet.",
+        "In addition, when a creature you can see ends its turn within 30 feet of you, you can use your reaction to invoke the rune and force the creature to make a Wisdom saving throw. Unless the save succeeds, the creature is {@condition charmed} by you for 1 minute. While {@condition charmed} in this way, the creature has a speed of 0 and is {@condition incapacitated}, descending into a dreamy stupor. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success. Once you invoke this rune, you can't do so again until you finish a short or long rest."
+    ],
+    "featureType": [
+        "RN"
+    ],
+    "name": "Stone Rune",
+    "page": 45,
+    "senses": [
+        {
+            "darkvision": 120
+        }
+    ],
+    "source": "TCE"
+}

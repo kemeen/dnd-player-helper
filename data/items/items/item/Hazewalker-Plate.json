@@ -1,0 +1,31 @@
+{
+    "ac": 18,
+    "baseItem": "plate armor|PHB",
+    "conditionImmune": [
+        "disease"
+    ],
+    "entries": [
+        "This plate armour includes a helmet and is hermetically sealed when worn. You gain the following benefits when its worn and the helmet visor is closed:",
+        {
+            "items": [
+                "You are immune to diseases and the poisoned condition, and gain advantage on saving throws against any effect that causes {@adventure contamination|DoDk|12}.",
+                "You have resistance to necrotic and poison damage.",
+                "You don't need to breathe."
+            ],
+            "type": "list"
+        },
+        "Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body."
+    ],
+    "name": "Hazewalker Plate",
+    "page": 230,
+    "rarity": "very rare",
+    "resist": [
+        "necrotic",
+        "poison"
+    ],
+    "source": "DoDk",
+    "stealth": true,
+    "strength": "15",
+    "type": "HA",
+    "weight": 65
+}

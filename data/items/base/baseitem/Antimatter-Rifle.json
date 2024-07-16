@@ -1,0 +1,22 @@
+{
+    "age": "futuristic",
+    "ammoType": "energy cell",
+    "dmg1": "6d8",
+    "dmgType": "N",
+    "firearm": true,
+    "name": "Antimatter Rifle",
+    "page": 268,
+    "property": [
+        "AF",
+        "RLD",
+        "2H"
+    ],
+    "range": "120/360",
+    "rarity": "none",
+    "reload": 2,
+    "source": "DMG",
+    "type": "R",
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 10
+}

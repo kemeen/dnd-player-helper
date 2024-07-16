@@ -1,0 +1,15 @@
+{
+    "group": "supplement-alt",
+    "id": "ToR",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "Wildemount: Tide of Retribution",
+    "parentName": "Explorer\u2019s Guide to Wildemount",
+    "parentSource": "EGW",
+    "published": "2020-03-17",
+    "publishedOrder": 0,
+    "source": "ToR",
+    "storyline": "Wildemount"
+}

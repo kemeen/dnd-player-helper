@@ -1,0 +1,42 @@
+{
+    "components": {
+        "m": {
+            "cost": 100000,
+            "text": "A delerium crystal or holy relic worth 1,000 gp"
+        },
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You negate contaminated magical energies in a 10-foot radius sphere. Until the spell ends, the sphere moves with you, centred on you. Creatures in the sphere (including you) can't gain {@adventure contamination levels|DoDk|12} and have immunity to necrotic damage. Contaminated spells can't be cast by creatures in the area."
+    ],
+    "hasFluff": true,
+    "level": 5,
+    "name": "Neutralizing Field",
+    "page": 228,
+    "range": {
+        "distance": {
+            "amount": 10,
+            "type": "feet"
+        },
+        "type": "sphere"
+    },
+    "school": "A",
+    "source": "DoDk",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "ability": [
+        {
+            "con": 2
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 350
+    },
+    "basicRules": true,
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your speed is not reduced by wearing heavy armor."
+            ],
+            "name": "Speed",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws against poison, and you have resistance against poison damage."
+            ],
+            "name": "Dwarven Resilience",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency with the {@item battleaxe|phb}, {@item handaxe|phb}, {@item light hammer|phb}, and {@item warhammer|phb}."
+            ],
+            "name": "Dwarven Combat Training",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain proficiency with the artisan's tools of your choice: {@item Smith's tools|phb}, {@item brewer's supplies|phb}, or {@item mason's tools|phb}."
+            ],
+            "name": "Tool Proficiency",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Whenever you make an Intelligence ({@skill History}) check related to the origin of stonework, you are considered proficient in the {@skill History} skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+            ],
+            "name": "Stonecunning",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "common": true,
+            "dwarvish": true
+        }
+    ],
+    "name": "Dwarf",
+    "page": 18,
+    "resist": [
+        "poison"
+    ],
+    "size": [
+        "M"
+    ],
+    "soundClip": {
+        "path": "races/dwarf.mp3",
+        "type": "internal"
+    },
+    "source": "PHB",
+    "speed": 25,
+    "srd": true,
+    "traitTags": [
+        "Tool Proficiency"
+    ],
+    "weaponProficiencies": [
+        {
+            "battleaxe|phb": true,
+            "handaxe|phb": true,
+            "light hammer|phb": true,
+            "warhammer|phb": true
+        }
+    ]
+}

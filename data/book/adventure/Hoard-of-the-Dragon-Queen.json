@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "HotDQ",
+    "level": {
+        "end": 7,
+        "start": 1
+    },
+    "name": "Hoard of the Dragon Queen",
+    "published": "2014-08-19",
+    "source": "HotDQ",
+    "storyline": "Tyranny of Dragons"
+}

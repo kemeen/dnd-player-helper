@@ -1,0 +1,43 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Circlet of Barbed Vision reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "You are immune to poison damage.",
+                                            "You have {@sense truesight} out to a range of 60 feet.",
+                                            "Your ability to gain a bonus to an attack roll can be used three times between rests."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Circlet of Barbed Vision (Awakened)",
+        "source": "TDCSR"
+    },
+    "hasFluffImages": true,
+    "immune": [
+        "poison"
+    ],
+    "name": "Circlet of Barbed Vision (Exalted)",
+    "resist": null,
+    "source": "TDCSR"
+}

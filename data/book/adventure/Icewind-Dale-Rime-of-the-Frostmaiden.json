@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "IDRotF",
+    "level": {
+        "end": 12,
+        "start": 1
+    },
+    "name": "Icewind Dale: Rime of the Frostmaiden",
+    "published": "2020-09-15",
+    "source": "IDRotF",
+    "storyline": "Icewind Dale"
+}

@@ -1,0 +1,18 @@
+{
+    "arrow": true,
+    "basicRules": true,
+    "name": "Arrows (20)",
+    "packContents": [
+        {
+            "item": "arrow|phb",
+            "quantity": 20
+        }
+    ],
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "A",
+    "value": 100,
+    "weight": 1
+}

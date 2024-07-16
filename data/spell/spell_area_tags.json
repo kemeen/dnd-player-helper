@@ -1,0 +1,34 @@
+[
+    {
+        "tag": "ST",
+        "name": "Single Target"
+    },
+    {
+        "tag": "MT",
+        "name": "Multi Target"
+    },
+    {
+        "tag": "C",
+        "name": "Cube"
+    },
+    {
+        "tag": "S",
+        "name": "Sphere"
+    },
+    {
+        "tag": "L",
+        "name": "Line"
+    },
+    {
+        "tag": "W",
+        "name": "Wall"
+    },
+    {
+        "tag": "N",
+        "name": "Cone"
+    },
+    {
+        "tag": "Y",
+        "name": "Cylinder"
+    }
+]

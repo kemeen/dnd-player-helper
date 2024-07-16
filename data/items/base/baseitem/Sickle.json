@@ -1,0 +1,18 @@
+{
+    "basicRules": true,
+    "dmg1": "1d4",
+    "dmgType": "S",
+    "name": "Sickle",
+    "page": 149,
+    "property": [
+        "L"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 100,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 2
+}

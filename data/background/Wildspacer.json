@@ -1,0 +1,138 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Athletics}, {@skill Survival}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "{@item Navigator's tools|phb}, {@filter vehicles (space)|items|source=phb;dmg|miscellaneous=mundane|type=vehicle (space)}",
+                    "name": "Tool Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A belaying pin ({@item club|phb}), a set of {@item traveler's clothes|PHB}, a {@item grappling hook|PHB}, {@item Hempen Rope (50 feet)|PHB|50 feet of hempen rope}, and a {@item pouch|phb} containing 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "entries": [
+                "You had a harrowing encounter with one of Wildspace's many terrors. You escaped with your life, but the encounter left you with a scar or two, or perhaps a recurring nightmare. Roll on the Close Encounter table to determine which creature nearly got the best of you. Creatures marked with an asterisk appear in {@book Boo's Astral Menagerie|BAM}; the others are described in the {@book Monster Manual|MM}.",
+                {
+                    "caption": "Close Encounter",
+                    "colLabels": [
+                        "d10",
+                        "Creature"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "{@creature Beholder}"
+                        ],
+                        [
+                            "2",
+                            "{@creature Cosmic horror|BAM}*"
+                        ],
+                        [
+                            "3",
+                            "{@creature Feyr|BAM}*"
+                        ],
+                        [
+                            "4",
+                            "{@filter Lunar dragon|bestiary|source=BAM|search=lunar dragon}*"
+                        ],
+                        [
+                            "5",
+                            "{@creature Mind flayer}"
+                        ],
+                        [
+                            "6",
+                            "{@creature Neh-thalggu|BAM}*"
+                        ],
+                        [
+                            "7",
+                            "{@creature Neogi|MPMM}*"
+                        ],
+                        [
+                            "8",
+                            "{@creature Space clown|BAM}*"
+                        ],
+                        [
+                            "9",
+                            "{@creature Vampirate|BAM}*"
+                        ],
+                        [
+                            "10",
+                            "{@creature Void scavver|BAM}*"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Close Encounter",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You gain the {@feat Tough||Tough feat} from the {@book Player's Handbook|PHB}. In addition, you learned how to adapt to zero gravity. Being weightless doesn't give you disadvantage on any of your melee attack rolls (see \"{@book Weightlessness|AAG|2|Weightlessness}\" in {@book chapter 2|AAG|2})."
+            ],
+            "name": "Feature: Wildspace Adaptation",
+            "type": "entries"
+        }
+    ],
+    "feats": [
+        {
+            "tough|phb": true
+        }
+    ],
+    "fromFeature": {
+        "feats": true
+    },
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Wildspacer",
+    "page": 8,
+    "skillProficiencies": [
+        {
+            "athletics": true,
+            "survival": true
+        }
+    ],
+    "source": "AAG",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "displayName": "belaying pin",
+                    "item": "club|phb"
+                },
+                "traveler's clothes|phb",
+                "grappling hook|phb",
+                "hempen rope (50 feet)|phb",
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "navigator's tools": true,
+            "vehicles (space)": true
+        }
+    ]
+}

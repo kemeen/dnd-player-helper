@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Wagon",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "VEH",
+    "value": 3500,
+    "weight": 400
+}

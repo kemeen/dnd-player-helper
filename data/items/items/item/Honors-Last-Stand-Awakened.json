@@ -1,0 +1,41 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Honor's Last Stand reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The shield's bonus to AC increases to +2.",
+                                            "If you successfully {@action shove} a creature while holding this shield, that creature takes {@damage 2d6} force damage.",
+                                            "When a creature within 5 feet of you misses you with an attack, you can attempt to {@action shove} that creature as a reaction."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Honor's Last Stand (Dormant)",
+        "source": "TDCSR"
+    },
+    "bonusAc": "+2",
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Honor's Last Stand (Awakened)",
+    "source": "TDCSR"
+}

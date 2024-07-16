@@ -1,0 +1,196 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Stealth}, {@skill Survival}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "One of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A cracked {@item hourglass|PHB}, a set of rusty {@item manacles|PHB}, a half-empty bottle, a {@item hunting trap|PHB}, a {@item gaming set|PHB} (matching your chosen proficiency), a set of {@item traveler's clothes|PHB}, and a {@item pouch|PHB} containing 13 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "One {@filter gaming set|items|source=phb|miscellaneous=mundane|type=gaming set} of your choice (such as playing cards or three-dragon ante cards)"
+                    ],
+                    "name": "Tool Proficiencies:",
+                    "type": "entries"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You have weathered ruinous misfortune, and you possess hidden reserves others don't expect. You gain the {@feat Alert}, {@feat Skilled}, or {@feat Tough} feat (your choice). Your choice of feat reflects how you've dealt with the terrible loss that changed your life forever. If you've kept your senses sharp for every opportunity and climbed your way out of misery by seizing the tiniest scrap of hope, choose Alert. If you've redoubled your efforts to reclaim what was once yours, choose Skilled. If you've stoically persevered through your misfortune, select Tough."
+            ],
+            "name": "Feature: Still Standing",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Rising above misfortune shapes one's perspective. The Ruined Personality Traits table suggests traits you might adopt for your character (and ruinous cards that might have prompted this trait).",
+                {
+                    "colLabels": [
+                        "d6",
+                        "Personality Trait"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I've changed from my past, and I work to live up to my new path. (Balance, Throne)"
+                        ],
+                        [
+                            "2",
+                            "Every moment is a gift I refuse to squander. (Euryale, Skull)"
+                        ],
+                        [
+                            "3",
+                            "Now that I've overcome having nothing, I can survive anything. (Fool, Ruin, Talons)"
+                        ],
+                        [
+                            "4",
+                            "I know enemies are set against me, and I always prepare for the worst. (Flames, Rogue)"
+                        ],
+                        [
+                            "5",
+                            "I interpret every event as part of a larger pattern I just haven't worked out yet. (Puzzle, Star)"
+                        ],
+                        [
+                            "6",
+                            "I must make up for so much time I've already lost. (Donjon, Void)"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Ruined characters were on top of the world before misfortune struck. Many were wealthy. Others come from modest backgrounds, but they were surrounded by friends, family, and loved ones. They might have been famous, or simply never encountered serious hardship before. Some were born to privilege or rose to prominence through trickery or a false reputation. Now a {@item Deck of Many Things}\u2014or another calamity\u2014has knocked them down like a house of cards.",
+                "If your character's life was ruined by a {@item Deck of Many Things}, consider which card was responsible. Perhaps your character was imprisoned for years by the Donjon or Void card, and now everyone they knew has died. Maybe your character drew the Rogue card, and the person closest to them\u2014a spouse, child, or parent\u2014turned against them. A devil unleashed by the Flames card might have destroyed their life. The Ruin or Talons card might have stolen the character's material goods or saddled them with vast debt."
+            ],
+            "name": "Building a Ruined Character",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you make your character, you can roll once on the Ruined Trinkets table instead of on the Trinkets table in the {@book Player's Handbook|PHB}.",
+                {
+                    "colLabels": [
+                        "d6",
+                        "Trinket"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "A rusted scrap of a once-beloved family heirloom"
+                        ],
+                        [
+                            "2",
+                            "A land deed, but all the names and markings that once tied it to you have faded into obscurity"
+                        ],
+                        [
+                            "3",
+                            "A bauble once imbued with powerful magic"
+                        ],
+                        [
+                            "4",
+                            "A battered playing card with a hole pierced in it, its face depicting the card that affected you"
+                        ],
+                        [
+                            "5",
+                            "A yellowed Humanoid tooth that whispers eerily when placed under a pillow"
+                        ],
+                        [
+                            "6",
+                            "A keepsake from someone you were once close to but who is now your enemy"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Ruined Trinkets",
+            "type": "entries"
+        }
+    ],
+    "feats": [
+        {
+            "alert|phb": true,
+            "skilled|phb": true,
+            "tough|phb": true
+        }
+    ],
+    "fromFeature": {
+        "feats": true
+    },
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 1
+        }
+    ],
+    "name": "Ruined",
+    "page": 58,
+    "skillProficiencies": [
+        {
+            "stealth": true,
+            "survival": true
+        }
+    ],
+    "source": "BMT",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "displayName": "cracked hourglass",
+                    "item": "hourglass|phb"
+                },
+                {
+                    "displayName": "set of rusty manacles",
+                    "item": "manacles|phb"
+                },
+                {
+                    "special": "half-empty bottle"
+                },
+                "hunting trap|phb",
+                {
+                    "displayName": "gaming set (matching your chosen proficiency)",
+                    "item": "gaming set|phb"
+                },
+                "traveler's clothes|phb",
+                {
+                    "containsValue": 1300,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "gaming set": true
+        }
+    ]
+}

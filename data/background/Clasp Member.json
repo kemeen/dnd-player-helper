@@ -1,0 +1,262 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Deception}, plus your choice of {@skill Sleight of Hand} or {@skill Stealth}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "{@item Disguise Kit|PHB}, {@item forgery kit|PHB}, or {@item thieves' tools|PHB} (one of your choice)",
+                    "name": "Tool Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "{@language Thieves' Cant}",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A set of inconspicuous {@item common clothes|phb}, a set of {@filter tools|items|source=phb|miscellaneous=mundane|type=artisan's tools} with which you're proficient, and a belt {@item pouch|PHB} containing 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You have gained enough clout in the {@book Clasp|TDCSR|2|The Clasp} that you can call in a favor from your contacts whenever you're close enough to a center of syndicate activity. A request for a favor can be no longer than 20 words, and is passed up the chain to an undisclosed Spireling for approval. This favor can take on any form subject to the approval of the GM, who decides how it is fulfilled. If muscle is requested, an NPC member of the {@book Clasp|TDCSR|2|The Clasp} can temporarily aid your party. If money is needed, a small loan can be provided. If you've been imprisoned, {@book Clasp|TDCSR|2|The Clasp} operatives can look into breaking you out or paying off the jailer.",
+                "At some point, the favor will be called in for repayment, often without warning. Refusing the call will result in your termination\u2014literally. You might be called on to commit a specific burglary, or to pressure an {@book Emonian|TDCSR|3|Emon, the City of Fellowship} dignitary to reveal a secret at an upcoming ball. The {@book Clasp|TDCSR|2|The Clasp} might even demand that you assassinate a specific person, with no questions asked or answered. It's the GM's prerogative to ensure that the syndicate's request is proportionate to the favor they bestowed\u2014or that they compensate you in other ways for a service that goes beyond the scope of repaying the initial favor."
+            ],
+            "name": "Feature: A Favor in Turn",
+            "page": 182,
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The {@book Clasp|TDCSR|2|The Clasp} enjoys a strange status in Tal'Dorei. The syndicate is a feared group of thieves and killers, whose name is often invoked only in whispers. But at the same time, the organization has a reputation for guerilla heroism, in response to its members having saved countless lives when the {@book Chroma Conclave|TDCSR|1|The Chroma Conclave} attacked {@book Emon|TDCSR|3|Emon, the City of Fellowship}. And so like every {@book Clasp|TDCSR|2|The Clasp} member, your own reputation often swings between these two poles.",
+                "Your bond is likely associated with your fellow {@book Clasp|TDCSR|2|The Clasp} members or the individual who introduced you to the syndicate. Your ideal probably involves establishing your importance and indispensability to the {@book Clasp|TDCSR|2|The Clasp}.",
+                {
+                    "caption": "Clasp Member Personality Traits",
+                    "colLabels": [
+                        "{@dice d8}",
+                        "Personality Trait"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "What's life without risk? I'm always willing to take a risk if the reward seems worth it."
+                        ],
+                        [
+                            "2",
+                            "I only show my emotions around people I really trust."
+                        ],
+                        [
+                            "3",
+                            "I don't need friends; I need allies. When I do make \"friends,\" I only consider what they can do for me."
+                        ],
+                        [
+                            "4",
+                            "I look for simple solutions. The world's full of tough problems, but a well-placed knife is a one-size-fits-all answer."
+                        ],
+                        [
+                            "5",
+                            "Money talks. I don't. We've got an efficient relationship."
+                        ],
+                        [
+                            "6",
+                            "I used to have one rule\u2014don't get involved in other people's problems. Why are things so complicated now?"
+                        ],
+                        [
+                            "7",
+                            "Crime is a game, and I play to win. I have no sympathy for players who don't get that."
+                        ],
+                        [
+                            "8",
+                            "This organization has a lot of folks who cling to ugly, brutal practices. I'm not like that. I'm a professional, and professionals have standards."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Clasp Member Ideals",
+                    "colLabels": [
+                        "{@dice d6}",
+                        "Ideal"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "{@b By Any Means}. I complete jobs. Collateral damage isn't my problem. (Chaotic)"
+                        ],
+                        [
+                            "2",
+                            "{@b Ambition}. I will climb to the top of the ladder. Everything I do is a stepping-stone to a Spireling's position. (Neutral)"
+                        ],
+                        [
+                            "3",
+                            "{@b Decisiveness}. It's important to make up your mind so you can act swiftly and without delay. (Neutral)"
+                        ],
+                        [
+                            "4",
+                            "{@b Honor}. There's room in the {@book Clasp|TDCSR|2|The Clasp} for both good and evil. Every day, I awake and choose to do what's right. (Good)"
+                        ],
+                        [
+                            "5",
+                            "{@b Family}. The {@book Clasp|TDCSR|2|The Clasp} is family. Anything that's good for the family is good for me. (Lawful)"
+                        ],
+                        [
+                            "6",
+                            "{@b Self-Interest}. There are too many bleeding hearts in the {@book Clasp|TDCSR|2|The Clasp} these days. Doing the right thing means doing the thing that makes my life better. (Evil)"
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Clasp Member Bonds",
+                    "colLabels": [
+                        "{@dice d6}",
+                        "Bond"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I'd do anything\u2014anything\u2014to protect my comrades."
+                        ],
+                        [
+                            "2",
+                            "I'll always be grateful to the Spireling who took me in when I was an orphaned kid."
+                        ],
+                        [
+                            "3",
+                            "I was inspired to join the {@book Clasp|TDCSR|2|The Clasp} by the stories my parents told of being saved from the {@book Chroma Conclave's|TDCSR|1|The Chroma Conclave} attack on {@book Emon|TDCSR|3|Emon, the City of Fellowship}. I can look past the organization's flaws."
+                        ],
+                        [
+                            "4",
+                            "I was nearly killed by the {@book Myriad|TDCSR|2|The Myriad}. If the {@book Clasp|TDCSR|2|The Clasp} is the enemy of those villains, then the {@book Clasp|TDCSR|2|The Clasp} is my friend."
+                        ],
+                        [
+                            "5",
+                            "I've got family back in the old town who are counting on me for money. They don't know how I get it, but they don't need to know."
+                        ],
+                        [
+                            "6",
+                            "I joined the {@book Clasp|TDCSR|2|The Clasp} to become rich, powerful, and beloved. That's all there is to it."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Clasp Member Flaws",
+                    "colLabels": [
+                        "{@dice d6}",
+                        "Flaw"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I'm hopeless at organizing my belongings, and I'm always losing things."
+                        ],
+                        [
+                            "2",
+                            "I get bored whenever a plan is going too smoothly. A win is always more fun when it's by the skin of my teeth!"
+                        ],
+                        [
+                            "3",
+                            "I've seen Spirelings walk out among cheering crowds of thousands. Gods, I wish that were me. I need that to be me."
+                        ],
+                        [
+                            "4",
+                            "I'm rubbish with money, and never seem to leave town with a full purse. Keeps me coming back to the life, I suppose."
+                        ],
+                        [
+                            "5",
+                            "I can't work with shoddy, makeshift {@item thieves' tools|PHB}. I need everything involving my work to be perfect."
+                        ],
+                        [
+                            "6",
+                            "Any slight against me, no matter how small, is cause for revenge."
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Suggested Characteristics",
+            "page": 182,
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "thieves' cant": true
+        }
+    ],
+    "name": "Clasp Member",
+    "page": 181,
+    "skillProficiencies": [
+        {
+            "choose": {
+                "count": 1,
+                "from": [
+                    "sleight of hand",
+                    "stealth"
+                ]
+            },
+            "deception": true
+        }
+    ],
+    "source": "TDCSR",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "displayName": "A set of inconspicuous common clothes",
+                    "item": "common clothes|phb"
+                },
+                {
+                    "equipmentType": "toolArtisan"
+                },
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "choose": {
+                "count": 1,
+                "from": [
+                    "disguise kit",
+                    "forgery kit",
+                    "thieves' tools"
+                ]
+            }
+        }
+    ]
+}

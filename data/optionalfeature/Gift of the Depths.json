@@ -1,0 +1,35 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": {
+                    "daily": {
+                        "1e": [
+                            "water breathing"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "entries": [
+        "You can breathe underwater, and you gain a swimming speed equal to your walking speed.",
+        "You can also cast {@spell water breathing} once without expending a spell slot. You regain the ability to do so when you finish a long rest."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Gift of the Depths",
+    "page": 57,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 5
+            }
+        }
+    ],
+    "source": "XGE"
+}

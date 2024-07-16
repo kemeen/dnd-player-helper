@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become {@condition poisoned} for 1 hour. The {@condition poisoned} creature is {@condition blinded}."
+    ],
+    "name": "Malice",
+    "page": 258,
+    "poison": true,
+    "poisonTypes": [
+        "inhaled"
+    ],
+    "rarity": "none",
+    "source": "DMG",
+    "srd": true,
+    "type": "G",
+    "value": 25000
+}

@@ -1,0 +1,37 @@
+{
+    "baseItem": "flail|PHB",
+    "bonusWeapon": "+2",
+    "dmg1": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "Utilized in countless tortures and slow executions, the hooked chains of this brutal weapon constantly show dried blood and rot. Legend says that Agony was wielded in the {@book Calamity|TDCSR|1|The Calamity} by the gnoll scion of a flesh-eating Demon Lord."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Agony (Dormant)|TDCSR",
+        "Agony (Awakened)|TDCSR",
+        "Agony (Exalted)|TDCSR"
+    ],
+    "name": "Agony",
+    "page": 202,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": "by a creature of non-good alignment",
+    "reqAttuneTags": [
+        {
+            "alignment": [
+                "N",
+                "E",
+                "C",
+                "L",
+                "A"
+            ]
+        }
+    ],
+    "source": "TDCSR",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 2
+}

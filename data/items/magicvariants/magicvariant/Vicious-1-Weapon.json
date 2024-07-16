@@ -1,0 +1,28 @@
+{
+    "entries": [
+        "When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.",
+        "{@note Note: According to the SRD, it is an extra {@dice 2d6} damage, although {@link this is incorrect|https://rpg.stackexchange.com/a/174522/53884}.}"
+    ],
+    "excludes": {
+        "net": true
+    },
+    "inherits": {
+        "bonusWeapon": "+1",
+        "entries": [
+            "You have a {=bonusWeapon} bonus to attack and damage rolls made with this weapon.",
+            "When you roll a 20 with this magic weapon, the target takes an extra 7 {=dmgType} damage.",
+            "{@note Note: According to the SRD, it is an extra {@dice 2d6} {=dmgType} damage, although {@link this is incorrect|https://rpg.stackexchange.com/a/174522/53884}.}"
+        ],
+        "namePrefix": "Vicious +1 ",
+        "page": 149,
+        "rarity": "unknown (magic)",
+        "source": "AI"
+    },
+    "name": "Vicious +1 Weapon",
+    "requires": [
+        {
+            "weapon": true
+        }
+    ],
+    "type": "GV"
+}

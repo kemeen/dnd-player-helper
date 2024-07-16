@@ -1,0 +1,70 @@
+{
+    "entries": [
+        "An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this as a spellcasting focus.",
+        "When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one damage roll of the spell, provided the damage is of the type associated with the item's wood. The types of wood and their associated damage types are listed in the Imbued Wood Focus table.",
+        {
+            "caption": "Imbued Wood Focus",
+            "colLabels": [
+                "Wood",
+                "Damage Type"
+            ],
+            "colStyles": [
+                "col-6",
+                "col-6"
+            ],
+            "rows": [
+                [
+                    "{@item Imbued Wood (Fernian Ash)|ERLW|Fernian Ash}",
+                    "Fire"
+                ],
+                [
+                    "{@item Imbued Wood (Irian Rosewood)|ERLW|Irian Rosewood}",
+                    "Radiant"
+                ],
+                [
+                    "{@item Imbued Wood (Kythrian Manchineel)|ERLW|Kythrian Manchineel}",
+                    "Acid or poison"
+                ],
+                [
+                    "{@item Imbued Wood (Lamannian Oak)|ERLW|Lamannian Oak}",
+                    "Lightning or thunder"
+                ],
+                [
+                    "{@item Imbued Wood (Mabaran Ebony)|ERLW|Mabaran Ebony}",
+                    "Necrotic"
+                ],
+                [
+                    "{@item Imbued Wood (Risian Pine)|ERLW|Risian Pine}",
+                    "Cold"
+                ],
+                [
+                    "{@item Imbued Wood (Shavarran Birch)|ERLW|Shavarran Birch}",
+                    "Force"
+                ],
+                [
+                    "{@item Imbued Wood (Xorian Wenge)|ERLW|Xorian Wenge}",
+                    "Psychic"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "items": [
+        "Imbued Wood (Fernian Ash)|ERLW",
+        "Imbued Wood (Irian Rosewood)|ERLW",
+        "Imbued Wood (Kythrian Manchineel)|ERLW",
+        "Imbued Wood (Lamannian Oak)|ERLW",
+        "Imbued Wood (Mabaran Ebony)|ERLW",
+        "Imbued Wood (Risian Pine)|ERLW",
+        "Imbued Wood (Shavarran Birch)|ERLW",
+        "Imbued Wood (Xorian Wenge)|ERLW"
+    ],
+    "name": "Imbued Wood Focus",
+    "page": 277,
+    "rarity": "common",
+    "reqAttune": true,
+    "scfType": "arcane",
+    "source": "ERLW",
+    "type": "SCF",
+    "wondrous": true
+}

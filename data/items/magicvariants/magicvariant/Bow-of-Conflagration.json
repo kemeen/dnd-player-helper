@@ -1,0 +1,19 @@
+{
+    "inherits": {
+        "entries": [
+            "Ammunition fired from this bow blazes brightly. When you hit with an attack roll using this bow, the target takes an extra {@damage 1d6} fire damage. If the target is a flammable, nonmagical object, it catches fire, taking {@damage 1d6} fire damage at the start of each of your turns until a creature uses an action to extinguish the flames."
+        ],
+        "nameSuffix": " of Conflagration",
+        "page": 66,
+        "rarity": "rare",
+        "reqAttune": true,
+        "source": "BMT"
+    },
+    "name": "Bow of Conflagration",
+    "requires": [
+        {
+            "bow": true
+        }
+    ],
+    "type": "GV"
+}

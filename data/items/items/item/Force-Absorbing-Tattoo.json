@@ -1,0 +1,17 @@
+{
+    "detail1": "white",
+    "entries": [
+        "{#itemEntry Absorbing Tattoo|TCE}"
+    ],
+    "hasRefs": true,
+    "name": "Force Absorbing Tattoo",
+    "page": 119,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "resist": [
+        "force"
+    ],
+    "source": "TCE",
+    "tattoo": true,
+    "wondrous": true
+}

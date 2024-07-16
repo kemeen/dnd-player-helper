@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Pole (10-foot)",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 5,
+    "weight": 7
+}

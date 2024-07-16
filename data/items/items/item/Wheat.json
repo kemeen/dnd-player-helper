@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Wheat",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "TG",
+    "value": 1,
+    "weight": 1
+}

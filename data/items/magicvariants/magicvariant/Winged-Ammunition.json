@@ -1,0 +1,25 @@
+{
+    "ammo": true,
+    "excludes": {
+        "name": "Energy Cell"
+    },
+    "inherits": {
+        "entries": [
+            "Ranged weapon attack rolls made with this ammunition ignore half and three-quarters cover. In addition, attacking at long range doesn't impose disadvantage on ranged weapon attack rolls made with this ammunition."
+        ],
+        "namePrefix": "Winged ",
+        "page": 69,
+        "rarity": "uncommon",
+        "source": "BMT"
+    },
+    "name": "Winged Ammunition",
+    "requires": [
+        {
+            "type": "A"
+        },
+        {
+            "type": "AF"
+        }
+    ],
+    "type": "GV"
+}

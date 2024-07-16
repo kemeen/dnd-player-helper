@@ -1,0 +1,47 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Titanstone Knuckles reach an awakened state, they gain the following properties:",
+                                    {
+                                        "items": [
+                                            "Your Strength score becomes 24.",
+                                            "You can use an action to cast the {@spell enlarge/reduce} spell from the gauntlets on yourself (enlarge only), with a duration of 10 minutes. This property of the gauntlets can't be used again until you finish a {@quickref resting|PHB|2|0|long rest}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Titanstone Knuckles (Dormant)",
+        "source": "TDCSR"
+    },
+    "ability": {
+        "static": {
+            "str": 24
+        }
+    },
+    "attachedSpells": [
+        "enlarge/reduce"
+    ],
+    "hasFluffImages": true,
+    "name": "Titanstone Knuckles (Awakened)",
+    "recharge": "restLong",
+    "source": "TDCSR"
+}

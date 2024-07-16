@@ -1,0 +1,39 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "_": {
+                    "resource": {
+                        "4": [
+                            "fireball"
+                        ]
+                    }
+                }
+            },
+            "resourceName": "Ki"
+        }
+    ],
+    "entries": [
+        "You can spend 4 ki points to cast {@spell fireball}."
+    ],
+    "featureType": [
+        "ED"
+    ],
+    "name": "Flames of the Phoenix",
+    "page": 81,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Monk"
+                },
+                "level": 11,
+                "subclass": {
+                    "name": "Four Elements"
+                }
+            }
+        }
+    ],
+    "source": "PHB"
+}

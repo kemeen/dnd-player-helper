@@ -1,0 +1,21 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": [
+                    "silent image"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell silent image} at will, without expending a spell slot or material components."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Misty Visions",
+    "page": 111,
+    "source": "PHB",
+    "srd": true
+}

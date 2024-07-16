@@ -1,0 +1,17 @@
+{
+    "entries": [
+        "This vessel can be a potion bottle, drinking horn, or other container meant to hold a liquid."
+    ],
+    "items": [
+        "Slumbering Dragon Vessel|FTD",
+        "Stirring Dragon Vessel|FTD",
+        "Wakened Dragon Vessel|FTD",
+        "Ascendant Dragon Vessel|FTD"
+    ],
+    "name": "Dragon Vessel",
+    "page": 27,
+    "rarity": "varies",
+    "reqAttune": true,
+    "source": "FTD",
+    "wondrous": true
+}

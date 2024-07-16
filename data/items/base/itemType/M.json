@@ -1,0 +1,15 @@
+{
+    "abbreviation": "M",
+    "entries": [
+        {
+            "entries": [
+                "A weapon that can be used to make a melee attack at a reach of 5 feet doesn't necessarily have reach. This property determines whether you can use the weapon to make a melee attack against a target within your reach (melee) or that of the weapon (reach)."
+            ],
+            "name": "Melee",
+            "type": "entries"
+        }
+    ],
+    "name": "Melee",
+    "page": 146,
+    "source": "PHB"
+}

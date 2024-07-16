@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Iron",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "TG",
+    "value": 10,
+    "weight": 1
+}

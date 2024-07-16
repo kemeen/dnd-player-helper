@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Sled",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "VEH",
+    "value": 2000,
+    "weight": 300
+}

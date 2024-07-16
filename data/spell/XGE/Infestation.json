@@ -1,0 +1,56 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "a living flea",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "poison"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes {@damage 1d6} poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a {@dice d4} for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.",
+        "The spell's damage increases by {@dice 1d6} when you reach 5th level ({@damage 2d6}), 11th level ({@damage 3d6}), and 17th level ({@damage 4d6})."
+    ],
+    "level": 0,
+    "miscTags": [
+        "SCL",
+        "SGT"
+    ],
+    "name": "Infestation",
+    "page": 158,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "scalingLevelDice": {
+        "label": "poison damage",
+        "scaling": {
+            "1": "1d6",
+            "11": "3d6",
+            "17": "4d6",
+            "5": "2d6"
+        }
+    },
+    "school": "C",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

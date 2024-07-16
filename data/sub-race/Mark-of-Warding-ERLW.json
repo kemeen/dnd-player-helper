@@ -1,0 +1,106 @@
+{
+    "ability": [
+        {
+            "int": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "int",
+            "expanded": {
+                "s1": [
+                    "alarm",
+                    "armor of agathys"
+                ],
+                "s2": [
+                    "arcane lock",
+                    "knock"
+                ],
+                "s3": [
+                    "glyph of warding",
+                    "magic circle"
+                ],
+                "s4": [
+                    "leomund's secret chest",
+                    "mordenkainen's faithful hound"
+                ],
+                "s5": [
+                    "antilife shell"
+                ]
+            },
+            "known": {
+                "1": [
+                    "alarm",
+                    "mage armor"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "When you make an Intelligence ({@skill Investigation}) check or an ability check using {@item thieves' tools|PHB}, you can roll a {@dice d4} and add the number rolled to the ability check."
+            ],
+            "name": "Warder's Intuition",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell alarm} and {@spell mage armor} spells with this trait. Starting at 3rd level, you can also cast the {@spell arcane lock} spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. Intelligence is your spellcasting ability for these spells, and you don't need material components for them when you cast them with this trait."
+            ],
+            "name": "Wards and Seals",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Warding Spells table are added to the spell list of your spellcasting class.",
+                {
+                    "caption": "Mark of Warding Spells",
+                    "colLabels": [
+                        "Spell Level",
+                        "Spells"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1st",
+                            "{@spell alarm}, {@spell armor of Agathys}"
+                        ],
+                        [
+                            "2nd",
+                            "{@spell arcane lock}, {@spell knock}"
+                        ],
+                        [
+                            "3rd",
+                            "{@spell glyph of warding}, {@spell magic circle}"
+                        ],
+                        [
+                            "4th",
+                            "{@spell Leomund's secret chest}, {@spell Mordenkainen's faithful hound}"
+                        ],
+                        [
+                            "5th",
+                            "{@spell antilife shell}"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Spells of the Mark",
+            "type": "entries"
+        }
+    ],
+    "name": "Mark of Warding",
+    "page": 51,
+    "raceName": "Dwarf",
+    "raceSource": "PHB",
+    "source": "ERLW",
+    "traitTags": [
+        "Dragonmark",
+        "Skill Bonus Dice",
+        "Tool Bonus Dice"
+    ]
+}

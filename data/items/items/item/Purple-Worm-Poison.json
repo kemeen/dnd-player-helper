@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "This poison must be harvested from a dead or {@condition incapacitated} {@creature purple worm}. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 42 ({@damage 12d6}) poison damage on a failed save, or half as much damage on a successful one."
+    ],
+    "name": "Purple Worm Poison",
+    "page": 258,
+    "poison": true,
+    "poisonTypes": [
+        "injury"
+    ],
+    "rarity": "none",
+    "source": "DMG",
+    "srd": true,
+    "type": "G",
+    "value": 200000
+}

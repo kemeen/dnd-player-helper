@@ -1,0 +1,17 @@
+{
+    "ac": 14,
+    "armor": true,
+    "basicRules": true,
+    "entries": [
+        "This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets."
+    ],
+    "name": "Scale Mail",
+    "page": 144,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "stealth": true,
+    "type": "MA",
+    "value": 5000,
+    "weight": 45
+}

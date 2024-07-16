@@ -1,0 +1,22 @@
+{
+    "age": "modern",
+    "ammoType": "modern bullet",
+    "dmg1": "2d10",
+    "dmgType": "P",
+    "firearm": true,
+    "name": "Hunting Rifle",
+    "page": 268,
+    "property": [
+        "AF",
+        "RLD",
+        "2H"
+    ],
+    "range": "80/240",
+    "rarity": "none",
+    "reload": 5,
+    "source": "DMG",
+    "type": "R",
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 8
+}

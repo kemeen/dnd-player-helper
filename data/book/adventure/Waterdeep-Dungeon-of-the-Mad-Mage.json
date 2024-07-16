@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "WDMM",
+    "level": {
+        "end": 20,
+        "start": 5
+    },
+    "name": "Waterdeep: Dungeon of the Mad Mage",
+    "published": "2018-11-13",
+    "source": "WDMM",
+    "storyline": "Waterdeep"
+}

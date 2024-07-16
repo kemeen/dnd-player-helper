@@ -1,0 +1,54 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Condemner reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The weapon's bonus to attack and damage rolls increases to +3.",
+                                            "The extra poison damage dealt by the weapon increases to {@dice 1d8}.",
+                                            "The save DC for the weapon's hold person spell increases to 17.",
+                                            "You gain an additional effect that can be triggered in place of damage when you hit with an attack:",
+                                            {
+                                                "items": [
+                                                    "You cast the {@spell blight} spell on the target (save {@dc 17})."
+                                                ],
+                                                "type": "list"
+                                            }
+                                        ],
+                                        "type": "list"
+                                    },
+                                    "This effect can't be used again until you finish a {@quickref resting|PHB|2|0|short or long rest}."
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Condemner (Awakened)",
+        "source": "TDCSR"
+    },
+    "attachedSpells": [
+        "fog cloud",
+        "silence",
+        "hold person",
+        "blight"
+    ],
+    "bonusWeapon": "+3",
+    "hasFluffImages": true,
+    "name": "Condemner (Exalted)",
+    "source": "TDCSR"
+}

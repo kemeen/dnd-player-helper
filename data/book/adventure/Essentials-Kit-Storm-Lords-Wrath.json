@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "SLW",
+    "level": {
+        "end": 9,
+        "start": 7
+    },
+    "name": "Essentials Kit: Storm Lord's Wrath",
+    "parentName": "Essentials Kit",
+    "parentSource": "ESK",
+    "published": "2019-09-03",
+    "publishedOrder": 1,
+    "source": "SLW",
+    "storyline": "Essentials Kit"
+}

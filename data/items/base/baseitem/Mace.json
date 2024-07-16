@@ -1,0 +1,16 @@
+{
+    "basicRules": true,
+    "dmg1": "1d6",
+    "dmgType": "B",
+    "mace": true,
+    "name": "Mace",
+    "page": 149,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 500,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 4
+}

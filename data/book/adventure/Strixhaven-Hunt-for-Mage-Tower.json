@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "SCC-HfMT",
+    "level": {
+        "end": 6,
+        "start": 4
+    },
+    "name": "Strixhaven: Hunt for Mage Tower",
+    "parentName": "Strixhaven: A Curriculum of Chaos",
+    "parentSource": "SCC",
+    "published": "2021-12-07",
+    "publishedOrder": 1,
+    "source": "SCC-HfMT",
+    "storyline": "Strixhaven"
+}

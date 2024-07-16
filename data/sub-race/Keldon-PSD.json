@@ -1,0 +1,96 @@
+{
+    "ability": [
+        {
+            "con": 1,
+            "str": 2
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "entries": [
+        {
+            "data": {
+                "overwrite": "Age"
+            },
+            "entries": [
+                "Keldons reach adulthood in their late teens and live less than a century."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Alignment"
+            },
+            "entries": [
+                "Keldons tend toward chaotic alignments, and many walk a fine line between good and evil."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Size"
+            },
+            "entries": [
+                "Keldons are taller and heavier than the human norms of other cultures, standing almost universally above 6 feet tall and reaching heights above 7 feet. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Languages"
+            },
+            "entries": [
+                "You can speak, read, and write Common and {@language Keldon|PSD}."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Athletics} skill."
+            ],
+            "name": "Natural Athlete",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in Strength saving throws."
+            ],
+            "name": "Keldon Resilience",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are naturally adapted to {@hazard Extreme Cold|DMG|cold climates}, as described in chapter 5 of the {@i Dungeon Master's Guide}."
+            ],
+            "name": "Icehaven Born",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Keldon",
+    "overwrite": {
+        "languageProficiencies": true
+    },
+    "page": 19,
+    "raceName": "Human",
+    "raceSource": "PHB",
+    "skillProficiencies": [
+        {
+            "athletics": true
+        }
+    ],
+    "source": "PSD"
+}

@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Pan Flute",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "INS",
+    "value": 1200,
+    "weight": 2
+}

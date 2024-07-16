@@ -1,0 +1,9 @@
+{
+    "name": "elvish",
+    "typical_speakers": [
+        "elves"
+    ],
+    "script": "elvish",
+    "type": "standard",
+    "parent": null
+}

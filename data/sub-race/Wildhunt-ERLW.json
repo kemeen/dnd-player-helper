@@ -1,0 +1,36 @@
+{
+    "ability": [
+        {
+            "dex": 1,
+            "wis": 2
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency in the {@skill Survival} skill."
+            ],
+            "name": "Natural Tracker",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you, unless you're {@condition incapacitated}."
+            ],
+            "name": "Shifting Feature",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Wildhunt",
+    "page": 34,
+    "raceName": "Shifter",
+    "raceSource": "ERLW",
+    "skillProficiencies": [
+        {
+            "survival": true
+        }
+    ],
+    "source": "ERLW"
+}

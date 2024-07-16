@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A pitcher holds 1 gallon of liquid."
+    ],
+    "name": "Pitcher",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 2,
+    "weight": 4
+}

@@ -1,0 +1,137 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "count": 1,
+                "from": [
+                    "str",
+                    "dex",
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "con": 2
+        }
+    ],
+    "age": {
+        "mature": 2,
+        "max": 30
+    },
+    "conditionImmune": [
+        "disease"
+    ],
+    "entries": [
+        {
+            "entries": [
+                "A typical warforged is between two and thirty years old. The maximum warforged lifespan remains a mystery; so far, warforged have shown no signs of deterioration due to age. You are immune to magical aging effects."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Most warforged take comfort in order and discipline, tending toward law and neutrality. But some have absorbed the morality, or lack thereof, of the beings with which they served."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You were created to have remarkable fortitude, represented by the following benefits:",
+                {
+                    "items": [
+                        "You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage.",
+                        "You don't need to eat, drink, or breathe.",
+                        "You are immune to disease.",
+                        "You don't need to sleep, and magic can't put you to sleep."
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Constructed Resilience",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you {@condition unconscious}, and you can see and hear as normal."
+            ],
+            "name": "Sentry's Rest",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your body has built-in defensive layers, which can be enhanced with armor:",
+                {
+                    "items": [
+                        "You gain a +1 bonus to Armor Class.",
+                        "You can don only armor with which you have proficiency. To don armor other than a shield, you must incorporate it into your body over the course of 1 hour, during which you remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.",
+                        "While you live, the armor incorporated into your body can't be removed against your will."
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Integrated Protection",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain one skill proficiency and one tool proficiency of your choice."
+            ],
+            "name": "Specialized Design",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and one other language of your choice."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 70,
+        "baseWeight": 270,
+        "heightMod": "2d6",
+        "weightMod": "4"
+    },
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true
+        }
+    ],
+    "name": "Warforged",
+    "page": 35,
+    "resist": [
+        "poison"
+    ],
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "any": 1
+        }
+    ],
+    "source": "ERLW",
+    "speed": 30,
+    "toolProficiencies": [
+        {
+            "any": 1
+        }
+    ],
+    "traitTags": [
+        "Improved Resting",
+        "Natural Armor"
+    ]
+}

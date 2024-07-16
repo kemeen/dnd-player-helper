@@ -1,0 +1,78 @@
+{
+    "entries": [
+        "You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.",
+        {
+            "colLabels": [
+                "d10",
+                "Damage Type"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "{@item armor of acid resistance||Acid}"
+                ],
+                [
+                    "2",
+                    "{@item armor of cold resistance||Cold}"
+                ],
+                [
+                    "3",
+                    "{@item armor of fire resistance||Fire}"
+                ],
+                [
+                    "4",
+                    "{@item armor of force resistance||Force}"
+                ],
+                [
+                    "5",
+                    "{@item armor of lightning resistance||Lightning}"
+                ],
+                [
+                    "6",
+                    "{@item armor of necrotic resistance||Necrotic}"
+                ],
+                [
+                    "7",
+                    "{@item armor of poison resistance||Poison}"
+                ],
+                [
+                    "8",
+                    "{@item armor of psychic resistance||Psychic}"
+                ],
+                [
+                    "9",
+                    "{@item armor of radiant resistance||Radiant}"
+                ],
+                [
+                    "10",
+                    "{@item armor of thunder resistance||Thunder}"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Armor of Acid Resistance",
+        "Armor of Cold Resistance",
+        "Armor of Fire Resistance",
+        "Armor of Force Resistance",
+        "Armor of Lightning Resistance",
+        "Armor of Necrotic Resistance",
+        "Armor of Poison Resistance",
+        "Armor of Psychic Resistance",
+        "Armor of Radiant Resistance",
+        "Armor of Thunder Resistance"
+    ],
+    "name": "Armor of Resistance",
+    "page": 162,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "tier": "major",
+    "type": "GV"
+}

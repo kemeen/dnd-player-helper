@@ -1,0 +1,391 @@
+{
+    "conjure the deep haze": {
+        "classVariant": {
+            "PHB": {
+                "Druid": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "contaminated power": {
+        "classVariant": {
+            "PHB": {
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "contamination immunity": {
+        "classVariant": {
+            "PHB": {
+                "Bard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Cleric": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Druid": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "delerium blast": {
+        "classVariant": {
+            "PHB": {
+                "Bard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "delerium orb": {
+        "classVariant": {
+            "PHB": {
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "forced evolution": {
+        "classVariant": {
+            "PHB": {
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "neutralizing field": {
+        "classVariant": {
+            "PHB": {
+                "Bard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Cleric": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Druid": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Paladin": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Ranger": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "octarine spray": {
+        "classVariant": {
+            "PHB": {
+                "Bard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "purge contamination": {
+        "classVariant": {
+            "PHB": {
+                "Bard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Cleric": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Druid": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Paladin": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Ranger": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "ray of contamination": {
+        "classVariant": {
+            "PHB": {
+                "Druid": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "ride the rifts": {
+        "classVariant": {
+            "PHB": {
+                "Bard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "sacrament of the falling fire": {
+        "classVariant": {
+            "PHB": {
+                "Bard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Cleric": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Druid": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "siphon contamination": {
+        "classVariant": {
+            "PHB": {
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    },
+    "warp bolt": {
+        "classVariant": {
+            "PHB": {
+                "Sorcerer": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "DoDk"
+                    ]
+                }
+            }
+        }
+    }
+}

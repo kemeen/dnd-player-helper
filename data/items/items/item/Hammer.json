@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Hammer",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 100,
+    "weight": 3
+}

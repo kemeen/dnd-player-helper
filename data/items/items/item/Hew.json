@@ -1,0 +1,21 @@
+{
+    "baseItem": "battleaxe|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "entries": [
+        "You have a +1 bonus to attack and damage rolls made with this magic weapon.",
+        "Hew is a +1 battleaxe that deals maximum damage when the wielder attacks a Plant creature or an object made of wood. The axe's creator used it for protection in the forest while he cut firewood."
+    ],
+    "name": "Hew",
+    "page": 54,
+    "property": [
+        "V"
+    ],
+    "rarity": "uncommon",
+    "source": "PaBTSO",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 4
+}

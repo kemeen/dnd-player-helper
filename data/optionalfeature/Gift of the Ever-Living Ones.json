@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Gift of the Ever-Living Ones",
+    "page": 57,
+    "prerequisite": [
+        {
+            "pact": "Chain"
+        }
+    ],
+    "source": "XGE"
+}

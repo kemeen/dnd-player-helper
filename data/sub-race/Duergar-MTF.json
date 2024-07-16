@@ -1,0 +1,104 @@
+{
+    "ability": [
+        {
+            "str": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "int",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "enlarge/reduce"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "invisibility"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "darkvision": 120,
+    "entries": [
+        {
+            "data": {
+                "overwrite": "Darkvision"
+            },
+            "entries": [
+                "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Superior Darkvision",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Dwarven Resilience"
+            },
+            "entries": [
+                "You have advantage on saving throws against poison, and you have resistance against poison damage. You also have advantage on saving throws against illusions and against being {@condition charmed} or {@condition paralyzed}."
+            ],
+            "name": "Duergar Resilience",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Languages"
+            },
+            "entries": [
+                "You can speak, read, and write Common, Dwarvish, and Undercommon."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you reach 3rd level, you can cast the {@spell Enlarge/Reduce} spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the {@spell Invisibility} spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells."
+            ],
+            "name": "Duergar Magic",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have disadvantage on attack rolls and Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+            ],
+            "name": "Sunlight Sensitivity",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": false,
+    "languageProficiencies": [
+        {
+            "common": true,
+            "dwarvish": true,
+            "undercommon": true
+        }
+    ],
+    "name": "Duergar",
+    "otherSources": [
+        {
+            "page": 104,
+            "source": "SCAG"
+        }
+    ],
+    "overwrite": {
+        "languageProficiencies": true
+    },
+    "page": 81,
+    "raceName": "Dwarf",
+    "raceSource": "PHB",
+    "reprintedAs": [
+        "Duergar|MPMM"
+    ],
+    "source": "MTF",
+    "traitTags": [
+        "Sunlight Sensitivity"
+    ]
+}

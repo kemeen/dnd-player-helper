@@ -1,0 +1,71 @@
+{
+    "entries": [
+        "An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+        "If you're holding the orb when you take damage of the type associated with the orb's material, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0). The materials and their associated damage types are listed in the Orb of Shielding table.",
+        {
+            "caption": "Orb of Shielding",
+            "colLabels": [
+                "Planar Material",
+                "Damage Type"
+            ],
+            "colStyles": [
+                "col-6",
+                "col-6"
+            ],
+            "rows": [
+                [
+                    "{@item Orb of Shielding (Fernian Basalt)|ERLW|Fernian basalt}",
+                    "Fire"
+                ],
+                [
+                    "{@item Orb of Shielding (Irian Quartz)|ERLW|Irian quartz}",
+                    "Radiant"
+                ],
+                [
+                    "{@item Orb of Shielding (Kythrian Skarn)|ERLW|Kythrian skarn}",
+                    "Acid and poison"
+                ],
+                [
+                    "{@item Orb of Shielding (Lamannian Flint)|ERLW|Lamannian flint}",
+                    "Lightning and thunder"
+                ],
+                [
+                    "{@item Orb of Shielding (Mabaran Obsidian)|ERLW|Mabaran obsidian}",
+                    "Necrotic"
+                ],
+                [
+                    "{@item Orb of Shielding (Risian Shale)|ERLW|Risian shale}",
+                    "Cold"
+                ],
+                [
+                    "{@item Orb of Shielding (Shavarran Chert)|ERLW|Shavarran chert}",
+                    "Force"
+                ],
+                [
+                    "{@item Orb of Shielding (Xorian Marble)|ERLW|Xorian marble}",
+                    "Psychic"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "items": [
+        "Orb of Shielding (Fernian Basalt)|ERLW",
+        "Orb of Shielding (Irian Quartz)|ERLW",
+        "Orb of Shielding (Kythrian Skarn)|ERLW",
+        "Orb of Shielding (Lamannian Flint)|ERLW",
+        "Orb of Shielding (Mabaran Obsidian)|ERLW",
+        "Orb of Shielding (Risian Shale)|ERLW",
+        "Orb of Shielding (Shavarran Chert)|ERLW",
+        "Orb of Shielding (Xorian Marble)|ERLW"
+    ],
+    "name": "Orb of Shielding",
+    "page": 278,
+    "rarity": "common",
+    "reqAttune": true,
+    "scfType": "arcane",
+    "source": "ERLW",
+    "type": "SCF",
+    "weight": 3,
+    "wondrous": true
+}

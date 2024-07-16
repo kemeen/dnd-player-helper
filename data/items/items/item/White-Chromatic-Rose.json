@@ -1,0 +1,15 @@
+{
+    "detail1": "is covered in frost",
+    "entries": [
+        "{#itemEntry Chromatic Rose|WBtW}"
+    ],
+    "hasRefs": true,
+    "name": "White Chromatic Rose",
+    "page": 208,
+    "rarity": "rare",
+    "resist": [
+        "cold"
+    ],
+    "source": "WBtW",
+    "wondrous": true
+}

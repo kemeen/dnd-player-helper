@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Hourglass",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 2500,
+    "weight": 1
+}

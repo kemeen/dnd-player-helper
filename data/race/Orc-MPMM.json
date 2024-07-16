@@ -1,0 +1,47 @@
+{
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You can take the {@action Dash} action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+                "Whenever you use this trait, you gain a number of temporary hit points equal to your proficiency bonus."
+            ],
+            "name": "Adrenaline Rush",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+            ],
+            "name": "Powerful Build",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you use this trait, you can't do so again until you finish a long rest."
+            ],
+            "name": "Relentless Endurance",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Orc",
+    "page": 28,
+    "size": [
+        "M"
+    ],
+    "source": "MPMM",
+    "speed": 30,
+    "traitTags": [
+        "Powerful Build"
+    ]
+}

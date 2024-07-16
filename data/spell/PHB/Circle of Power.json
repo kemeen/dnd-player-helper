@@ -1,0 +1,42 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Divine energy radiates from you, distorting and diffusing magical energy within 30 feet of you. Until the spell ends, the sphere moves with you, centered on you. For the duration, each friendly creature in the area (including you) has advantage on saving throws against spells and other magical effects. Additionally, when an affected creature succeeds on a saving throw made against a spell or magical effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw."
+    ],
+    "level": 5,
+    "miscTags": [
+        "ADV"
+    ],
+    "name": "Circle of Power",
+    "page": 221,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "radius"
+    },
+    "school": "A",
+    "source": "PHB",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Blanket",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 50,
+    "weight": 3
+}

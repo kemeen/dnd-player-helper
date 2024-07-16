@@ -1,0 +1,42 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "known": {
+                "1": {
+                    "_": [
+                        {
+                            "choose": "level=0|class=Druid"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "entries": [
+        {
+            "data": {
+                "overwrite": "Elf Culture"
+            },
+            "entries": [
+                "You know one cantrip of your choice from the {@filter druid spell list|spells|class=druid|level=0}. Wisdom is your spellcasting ability for it."
+            ],
+            "name": "Cantrip",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write one extra language of your choosing."
+            ],
+            "name": "Extra Language",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Vahadar",
+    "page": 21,
+    "raceName": "Elf (Kaladesh)",
+    "raceSource": "PSK",
+    "source": "PSK"
+}

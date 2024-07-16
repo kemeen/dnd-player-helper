@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "entries": [
+        "While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ({@skill Athletics}) checks made to climb or swim."
+    ],
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Gloves of Swimming and Climbing",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 172,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

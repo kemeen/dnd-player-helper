@@ -1,0 +1,49 @@
+{
+    "areaTags": [
+        "MT"
+    ],
+    "components": {
+        "m": {
+            "cost": 10,
+            "text": "a melee weapon worth at least 1 sp"
+        },
+        "s": true
+    },
+    "damageInflict": [
+        "force"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes {@damage 6d10} force damage.",
+        "You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed."
+    ],
+    "level": 5,
+    "miscTags": [
+        "SGT",
+        "TP"
+    ],
+    "name": "Steel Wind Strike",
+    "page": 166,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "C",
+    "source": "XGE",
+    "spellAttack": [
+        "M"
+    ],
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

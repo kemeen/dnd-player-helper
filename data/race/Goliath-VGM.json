@@ -1,0 +1,115 @@
+{
+    "ability": [
+        {
+            "con": 1,
+            "str": 2
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "entries": [
+        {
+            "entries": [
+                "Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Goliaths are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Athletics} skill."
+            ],
+            "name": "Natural Athlete",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a {@dice d12}. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can't use it again until you finish a short or long rest."
+            ],
+            "name": "Stone's Endurance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+            ],
+            "name": "Powerful Build",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to cold damage. You're also acclimated to high altitude, including elevations above 20,000 feet."
+            ],
+            "name": "Mountain Born",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Giant."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 74,
+        "baseWeight": 200,
+        "heightMod": "2d10",
+        "weightMod": "2d6"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "giant": true
+        }
+    ],
+    "name": "Goliath",
+    "otherSources": [
+        {
+            "page": 10,
+            "source": "EEPC"
+        },
+        {
+            "page": 175,
+            "source": "EGW"
+        },
+        {
+            "source": "IDRotF"
+        }
+    ],
+    "page": 108,
+    "reprintedAs": [
+        "Goliath|MPMM"
+    ],
+    "resist": [
+        "cold"
+    ],
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "athletics": true
+        }
+    ],
+    "soundClip": {
+        "path": "races/goliath.mp3",
+        "type": "internal"
+    },
+    "source": "VGM",
+    "speed": 30,
+    "traitTags": [
+        "Powerful Build"
+    ]
+}

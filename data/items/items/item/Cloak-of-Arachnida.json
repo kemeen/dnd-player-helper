@@ -1,0 +1,37 @@
+{
+    "attachedSpells": [
+        "web"
+    ],
+    "entries": [
+        "This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:",
+        {
+            "items": [
+                "You have resistance to poison damage.",
+                "You have a climbing speed equal to your walking speed.",
+                "You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.",
+                "You can't be caught in webs of any sort and can move through webs as if they were {@quickref difficult terrain||3}.",
+                "You can use an action to cast the {@spell web} spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn."
+            ],
+            "type": "list"
+        }
+    ],
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "modifySpeed": {
+        "equal": {
+            "climb": "walk"
+        }
+    },
+    "name": "Cloak of Arachnida",
+    "page": 158,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "resist": [
+        "poison"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

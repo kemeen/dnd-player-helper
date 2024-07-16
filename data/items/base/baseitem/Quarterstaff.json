@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "name": "Quarterstaff",
+    "page": 149,
+    "property": [
+        "V"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 20,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 4
+}

@@ -1,0 +1,18 @@
+{
+    "attachedSpells": [
+        "enlarge/reduce"
+    ],
+    "entries": [
+        "When you drink this potion, you gain the \"reduce\" effect of the {@spell enlarge/reduce} spell for {@dice 1d4} hours (no {@status concentration} required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process."
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Potion of Diminution",
+    "page": 187,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

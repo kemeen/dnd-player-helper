@@ -1,0 +1,45 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Star Razor reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The weapon's bonus to attack and damage rolls increases to +2.",
+                                            "When a creature within 5 feet of you hits you with a melee attack, you can use your reaction to create a burst of radiance from the sword, dealing {@damage 1d8} radiant damage to the attacker.",
+                                            "You can cast the {@spell see invisibility} spell from the sword as an action, and the save DC for spells cast using the sword increases to 15."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Star Razor (Dormant)",
+        "source": "TDCSR"
+    },
+    "attachedSpells": [
+        "faerie fire",
+        "see invisibility"
+    ],
+    "bonusWeapon": "+2",
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Star Razor (Awakened)",
+    "source": "TDCSR"
+}

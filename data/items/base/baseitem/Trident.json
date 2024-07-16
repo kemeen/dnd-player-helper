@@ -1,0 +1,21 @@
+{
+    "basicRules": true,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "P",
+    "name": "Trident",
+    "page": 149,
+    "property": [
+        "T",
+        "V"
+    ],
+    "range": "20/60",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 500,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 4
+}

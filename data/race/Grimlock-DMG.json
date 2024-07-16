@@ -1,0 +1,54 @@
+{
+    "ability": [
+        {
+            "cha": -2,
+            "str": 2
+        }
+    ],
+    "blindsight": 30,
+    "entries": [
+        {
+            "entries": [
+                "You have no eyes, and cannot be {@condition blinded}. You can perceive your surroundings within 30 ft., or 10 ft. while {@condition deafened}. You are considered blind beyond this radius."
+            ],
+            "name": "Blindsight",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on Wisdom ({@skill Perception}) checks that rely on hearing or smell."
+            ],
+            "name": "Keen Hearing and Smell",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on Dexterity ({@skill Stealth}) checks made to hide in rocky terrain."
+            ],
+            "name": "Stone Camouflage",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Undercommon."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "undercommon": true
+        }
+    ],
+    "name": "Grimlock",
+    "page": 282,
+    "size": [
+        "M"
+    ],
+    "source": "DMG",
+    "speed": 30,
+    "traitTags": [
+        "NPC Race"
+    ]
+}

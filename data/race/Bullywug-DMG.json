@@ -1,0 +1,64 @@
+{
+    "ability": [
+        {
+            "cha": -2,
+            "int": -2
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You can breathe air and water."
+            ],
+            "name": "Amphibious",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can communicate simple concepts to frogs and toads when you speak in Bullywug."
+            ],
+            "name": "Speak with Frogs and Toads",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on Dexterity ({@skill Stealth}) checks made to hide in swampy terrain."
+            ],
+            "name": "Swamp Camouflage",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your long jump is up to 20 feet and your high jump is up to 10 feet, with or without a running start."
+            ],
+            "name": "Standing Leap",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Bullywug."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "other": true
+        }
+    ],
+    "name": "Bullywug",
+    "page": 282,
+    "size": [
+        "M"
+    ],
+    "source": "DMG",
+    "speed": {
+        "swim": 40,
+        "walk": 20
+    },
+    "traitTags": [
+        "Amphibious",
+        "NPC Race"
+    ]
+}

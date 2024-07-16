@@ -1,0 +1,19 @@
+{
+    "entries": [
+        "When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield."
+    ],
+    "featureType": [
+        "FS:F",
+        "FS:P"
+    ],
+    "name": "Protection",
+    "otherSources": [
+        {
+            "page": 84,
+            "source": "PHB"
+        }
+    ],
+    "page": 72,
+    "source": "PHB",
+    "srd": true
+}

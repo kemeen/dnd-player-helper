@@ -1,0 +1,25 @@
+{
+    "inherits": {
+        "entries": [
+            "{#itemEntry Armor of Resistance}"
+        ],
+        "hasRefs": true,
+        "nameSuffix": " of Acid Resistance",
+        "page": 152,
+        "rarity": "rare",
+        "reqAttune": true,
+        "resist": [
+            "acid"
+        ],
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "Armor of Acid Resistance",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

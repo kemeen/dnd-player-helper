@@ -1,0 +1,158 @@
+{
+    "_versions": [
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "When you reach 3rd level, you can use a bonus action to transform yourself. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation, you can't use it again until you finish a long rest.",
+                            "Your eyes briefly become pools of darkness, and ghostly, flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become {@condition frightened} of you until the end of your next turn. Until the transformation ends, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus."
+                        ],
+                        "name": "Celestial Revelation (Necrotic Shroud)",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Celestial Revelation"
+                }
+            },
+            "name": "Aasimar; Necrotic Shroud",
+            "source": "MPMM"
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "When you reach 3rd level, you can use a bonus action to transform yourself. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation, you can't use it again until you finish a long rest.",
+                            "Searing light temporarily radiates from your eyes and mouth. For the duration, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes radiant damage equal to your proficiency bonus. Until the transformation ends, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus."
+                        ],
+                        "name": "Celestial Revelation (Radiant Consumption)",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Celestial Revelation"
+                }
+            },
+            "name": "Aasimar; Radiant Consumption",
+            "source": "MPMM"
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "When you reach 3rd level, you can use a bonus action to transform yourself. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation, you can't use it again until you finish a long rest.",
+                            "Two luminous, spectral wings sprout from your back temporarily. Until the transformation ends, you have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus."
+                        ],
+                        "name": "Celestial Revelation (Radiant Soul)",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Celestial Revelation"
+                }
+            },
+            "name": "Aasimar; Radiant Soul",
+            "source": "MPMM"
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "1": [
+                    "light#c"
+                ]
+            }
+        }
+    ],
+    "age": {
+        "max": 180
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You are Medium or Small. You choose the size when you select this race."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to necrotic damage and radiant damage."
+            ],
+            "name": "Celestial Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As an action, you can touch a creature and roll a number of d4s equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. Once you use this trait, you can't use it again until you finish a long rest."
+            ],
+            "name": "Healing Hands",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell light} cantrip. Charisma is your spellcasting ability for it."
+            ],
+            "name": "Light Bearer",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a bonus action to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation below, you can't use it again until you finish a long rest.",
+                {
+                    "items": [
+                        {
+                            "entry": "Your eyes briefly become pools of darkness, and ghostly, flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become {@condition frightened} of you until the end of your next turn. Until the transformation ends, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.",
+                            "name": "Necrotic Shroud",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "Searing light temporarily radiates from your eyes and mouth. For the duration, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes radiant damage equal to your proficiency bonus. Until the transformation ends, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.",
+                            "name": "Radiant Consumption",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "Two luminous, spectral wings sprout from your back temporarily. Until the transformation ends, you have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.",
+                            "name": "Radiant Soul",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                }
+            ],
+            "name": "Celestial Revelation",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Aasimar",
+    "page": 7,
+    "resist": [
+        "necrotic",
+        "radiant"
+    ],
+    "size": [
+        "S",
+        "M"
+    ],
+    "source": "MPMM",
+    "speed": 30
+}

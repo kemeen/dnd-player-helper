@@ -1,0 +1,23 @@
+{
+    "bonusSpellAttack": "+2",
+    "entries": [
+        "While you are holding this wand, you gain a +2 bonus to spell attack rolls. In addition, you ignore half cover when making a spell attack."
+    ],
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "+2 Wand of the War Mage",
+    "page": 212,
+    "rarity": "rare",
+    "reqAttune": "by a spellcaster",
+    "reqAttuneTags": [
+        {
+            "spellcasting": true
+        }
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "WD",
+    "weight": 1
+}

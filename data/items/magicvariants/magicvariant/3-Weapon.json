@@ -1,0 +1,28 @@
+{
+    "excludes": {
+        "net": true
+    },
+    "inherits": {
+        "basicRules": true,
+        "bonusWeapon": "+3",
+        "entries": [
+            "You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon."
+        ],
+        "lootTables": [
+            "Magic Item Table H"
+        ],
+        "namePrefix": "+3 ",
+        "page": 213,
+        "rarity": "very rare",
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "+3 Weapon",
+    "requires": [
+        {
+            "weapon": true
+        }
+    ],
+    "type": "GV"
+}

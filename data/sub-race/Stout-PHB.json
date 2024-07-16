@@ -1,0 +1,27 @@
+{
+    "ability": [
+        {
+            "con": 1
+        }
+    ],
+    "basicRules": true,
+    "entries": [
+        {
+            "entries": [
+                "You have advantage on saving throws against poison, and you have resistance against poison damage."
+            ],
+            "name": "Stout Resilience",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Stout",
+    "page": 28,
+    "raceName": "Halfling",
+    "raceSource": "PHB",
+    "resist": [
+        "poison"
+    ],
+    "source": "PHB"
+}

@@ -1,0 +1,13 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs."
+    ],
+    "name": "Antitoxin (vial)",
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 5000
+}

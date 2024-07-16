@@ -1,0 +1,21 @@
+{
+    "excludes": {
+        "net": true
+    },
+    "inherits": {
+        "entries": [
+            "When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn."
+        ],
+        "nameSuffix": " of Certain Death",
+        "page": 270,
+        "rarity": "rare",
+        "source": "EGW"
+    },
+    "name": "Weapon of Certain Death",
+    "requires": [
+        {
+            "weapon": true
+        }
+    ],
+    "type": "GV"
+}

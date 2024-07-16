@@ -1,0 +1,140 @@
+{
+    "ability": [
+        {
+            "con": 1,
+            "wis": 2
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "expanded": {
+                "s1": [
+                    "faerie fire",
+                    "longstrider"
+                ],
+                "s2": [
+                    "locate animals or plants",
+                    "locate object"
+                ],
+                "s3": [
+                    "clairvoyance",
+                    "speak with plants"
+                ],
+                "s4": [
+                    "divination",
+                    "locate creature"
+                ],
+                "s5": [
+                    "commune with nature"
+                ]
+            },
+            "innate": {
+                "1": [
+                    "hunter's mark"
+                ],
+                "3": {
+                    "daily": {
+                        "1": [
+                            "locate object"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you make a Wisdom ({@skill Perception}) or Wisdom ({@skill Survival}) check, you can roll a {@dice d4} and add the number rolled to the ability check."
+            ],
+            "name": "Hunter's Intuition",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell hunter's mark} spell with this trait. Starting at 3rd level, you can also cast the {@spell locate object} spell with it. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells."
+            ],
+            "name": "Finder's Magic",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Languages"
+            },
+            "entries": [
+                "You can speak, read, and write Common and Goblin."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Finding Spells table are added to the spell list of your spellcasting class.",
+                {
+                    "caption": "Mark of Finding Spells",
+                    "colLabels": [
+                        "Spell Level",
+                        "Spells"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1st",
+                            "{@spell faerie fire}, {@spell longstrider}"
+                        ],
+                        [
+                            "2nd",
+                            "{@spell locate animals or plants}, {@spell locate object}"
+                        ],
+                        [
+                            "3rd",
+                            "{@spell clairvoyance}, {@spell speak with plants}"
+                        ],
+                        [
+                            "4th",
+                            "{@spell divination}, {@spell locate creature}"
+                        ],
+                        [
+                            "5th",
+                            "{@spell commune with nature}"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Spells of the Mark",
+            "type": "entries"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "common": true,
+            "goblin": true
+        }
+    ],
+    "name": "Variant; Mark of Finding",
+    "overwrite": {
+        "languageProficiencies": true,
+        "traitTags": true
+    },
+    "page": 41,
+    "raceName": "Human",
+    "raceSource": "PHB",
+    "source": "ERLW",
+    "traitTags": [
+        "Dragonmark",
+        "Skill Bonus Dice"
+    ]
+}

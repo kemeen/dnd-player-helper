@@ -1,0 +1,33 @@
+{
+    "bonusSavingThrow": "+1",
+    "entries": [
+        "While attuned to this device, you have a +1 bonus to Strength saving throws, and you have {@sense darkvision} out to a range of 60 feet. If you already have {@sense darkvision}, its range increases by 30 feet.",
+        {
+            "entries": [
+                "As a bonus action, you send your body out of phase with the material world for 1 minute, granting you advantage on Dexterity ({@skill Stealth}) checks made to hide, and imposing disadvantage on attack rolls against you. Once you use this feature of the dimensional loop, it cannot be used again until the next dawn."
+            ],
+            "name": "Dimensional Cloak",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Choose a space you can see within 60 feet of you (no action required). You treat that space as if it were within 5 feet of you until the end of your turn. This allows you to move immediately to that space without provoking opportunity attacks, or to interact with objects or creatures in that space as though they were next to you (including allowing you to make melee attacks into that space). Once you use this feature of the dimensional loop, it cannot be used again until the next dawn."
+            ],
+            "name": "Fold Space",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While this component is not installed in the {@item Orrery of the Wanderer|AI}, its magic might function sporadically or with unpredictable side effects, as determined by the DM."
+            ],
+            "name": "Part of a Whole",
+            "type": "entries"
+        }
+    ],
+    "name": "Dimensional Loop",
+    "page": 220,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "AI",
+    "wondrous": true
+}

@@ -1,0 +1,56 @@
+{
+    "areaTags": [
+        "L"
+    ],
+    "components": {
+        "m": "a magnifying glass",
+        "s": true,
+        "v": true
+    },
+    "conditionInflict": [
+        "blinded"
+    ],
+    "damageInflict": [
+        "radiant"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes {@damage 6d8} radiant damage and is {@condition blinded} until your next turn. On a successful save, it takes half as much damage and isn't {@condition blinded} by this spell. Undead and oozes have disadvantage on this saving throw.",
+        "You can create a new line of radiance as your action on any turn until the spell ends.",
+        "For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight."
+    ],
+    "level": 6,
+    "miscTags": [
+        "LGTS"
+    ],
+    "name": "Sunbeam",
+    "page": 279,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "line"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "school": "V",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is {@quickref Vision and Light|PHB|2||heavily obscured}. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "miscTags": [
+        "OBS"
+    ],
+    "name": "Fog Cloud",
+    "page": 243,
+    "range": {
+        "distance": {
+            "amount": 120,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "C",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

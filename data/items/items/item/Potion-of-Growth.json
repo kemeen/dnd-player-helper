@@ -1,0 +1,18 @@
+{
+    "attachedSpells": [
+        "enlarge/reduce"
+    ],
+    "entries": [
+        "When you drink this potion, you gain the \"enlarge\" effect of the {@spell enlarge/reduce} spell for {@dice 1d4} hours (no {@status concentration} required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process."
+    ],
+    "lootTables": [
+        "Magic Item Table B"
+    ],
+    "name": "Potion of Growth",
+    "page": 187,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

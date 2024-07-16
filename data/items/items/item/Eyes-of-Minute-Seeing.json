@@ -1,0 +1,15 @@
+{
+    "entries": [
+        "These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence ({@skill Investigation}) checks that rely on sight while searching an area or studying an object within that range."
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Eyes of Minute Seeing",
+    "page": 168,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "wondrous": true
+}

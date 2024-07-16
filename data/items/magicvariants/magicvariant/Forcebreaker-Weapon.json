@@ -1,0 +1,20 @@
+{
+    "inherits": {
+        "bonusWeapon": "+2",
+        "entries": [
+            "You gain a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon.",
+            "This weapon was crafted to destroy structures made of force, such as those created by {@spell Forcecage} or {@spell Wall of Force}. Striking a Large or smaller structure of magical force with this weapon automatically shatters that structure. If the target is a Huge or larger structure of force, this weapon shatters a 20-foot-cube portion of it."
+        ],
+        "namePrefix": "Forcebreaker ",
+        "page": 67,
+        "rarity": "very rare",
+        "source": "BMT"
+    },
+    "name": "Forcebreaker Weapon",
+    "requires": [
+        {
+            "dmgType": "B"
+        }
+    ],
+    "type": "GV"
+}

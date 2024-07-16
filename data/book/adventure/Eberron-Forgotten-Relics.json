@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "EFR",
+    "level": {
+        "end": 2,
+        "start": 1
+    },
+    "name": "Eberron: Forgotten Relics",
+    "published": "2019-11-19",
+    "source": "EFR",
+    "storyline": "Eberron"
+}

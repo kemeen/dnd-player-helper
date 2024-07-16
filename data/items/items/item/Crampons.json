@@ -1,0 +1,12 @@
+{
+    "entries": [
+        "A crampon is a metal plate with spikes that is strapped to the sole of a boot. A creature wearing crampons can't fall {@condition prone} while moving across {@hazard slippery ice}."
+    ],
+    "name": "Crampons",
+    "page": 20,
+    "rarity": "none",
+    "source": "IDRotF",
+    "type": "G",
+    "value": 200,
+    "weight": 0.25
+}

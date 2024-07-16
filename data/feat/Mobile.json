@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "You are exceptionally speedy and agile. You gain the following benefits:",
+        {
+            "items": [
+                "Your speed increases by 10 feet.",
+                "When you use the {@action Dash} action, {@quickref difficult terrain||3} doesn't cost you extra movement on that turn.",
+                "When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Mobile",
+    "page": 168,
+    "source": "PHB"
+}

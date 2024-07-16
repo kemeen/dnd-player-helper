@@ -1,0 +1,60 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "a drop of water or piece of ice",
+        "s": true
+    },
+    "damageInflict": [
+        "cold",
+        "piercing"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes {@damage 1d10} piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take {@damage 2d6} cold damage."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by {@scaledamage 2d6|1-9|1d6} for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "name": "Ice Knife",
+    "otherSources": [
+        {
+            "page": 19,
+            "source": "EEPC"
+        }
+    ],
+    "page": 157,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "C",
+    "source": "XGE",
+    "spellAttack": [
+        "R"
+    ],
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

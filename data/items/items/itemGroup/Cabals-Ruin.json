@@ -1,0 +1,22 @@
+{
+    "charges": 4,
+    "entries": [
+        "This cloak is made of heavy dark cloth trimmed with golden patterns, and occasionally shimmers with sparks of arcane energy. It was once worn by the famed gunslinger {@creature Percival de Rolo|TDCSR|Percival Fredrickstein von Musel Klossowski de Rolo III of Whitestone}."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Cabal's Ruin (Dormant)|TDCSR",
+        "Cabal's Ruin (Awakened)|TDCSR",
+        "Cabal's Ruin (Exalted)|TDCSR"
+    ],
+    "name": "Cabal's Ruin",
+    "page": 203,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "recharge": "restShort",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "wondrous": true
+}

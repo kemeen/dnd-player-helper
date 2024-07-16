@@ -1,0 +1,22 @@
+{
+    "bonusAc": "+1",
+    "bonusSavingThrow": "+1",
+    "entries": [
+        "You gain a +1 bonus to AC and saving throws while you wear this cloak."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Cloak of Protection",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 159,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

@@ -1,0 +1,48 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "con",
+                    "wis"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You've manifested the physical talents emblematic of stone giants, granting you the following benefits:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "You gain {@sense darkvision} with a range of 60 feet. If you already have {@sense darkvision} from another source, its range increases by 60 feet."
+                    ],
+                    "name": "Cavernous Sight",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "As a bonus action, you can take a rock and make a magical attack with it. The attack is a ranged spell attack with a range of 60 feet that uses the ability score you increased with this feat as the spellcasting ability. On a hit, the rock deals {@damage 1d10} force damage, and the target must succeed on a Strength saving throw (DC equals 8 + your proficiency bonus + the spellcasting ability modifier) or have the prone condition. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+                    ],
+                    "name": "Stone Throw",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "name": "Keenness of the Stone Giant",
+    "page": 18,
+    "prerequisite": [
+        {
+            "feat": [
+                "strike of the giants|BGG|strike of the giants (stone strike)"
+            ],
+            "level": 4
+        }
+    ],
+    "source": "BGG"
+}

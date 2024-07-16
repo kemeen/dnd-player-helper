@@ -1,0 +1,37 @@
+{
+    "containerCapacity": {
+        "item": [
+            {
+                "arrow|phb": 60,
+                "crossbow bolt|phb": 60
+            },
+            {
+                "javelin|phb": 18
+            },
+            {
+                "quarterstaff|phb": 6,
+                "spear|phb": 6
+            }
+        ],
+        "weightless": true
+    },
+    "entries": [
+        "Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty {@item arrow|phb|arrows}, {@item crossbow bolt|phb|bolts}, or similar objects. The midsize compartment holds up to eighteen {@item javelin|phb|javelins} or similar objects. The longest compartment holds up to six long objects, such as bows, {@item quarterstaff|phb|quarterstaffs}, or {@item spear|phb|spears}.",
+        "You can draw any item the quiver contains as if doing so from a regular quiver or scabbard."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Quiver of Ehlonna",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 189,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": "Efficient Quiver",
+    "tier": "major",
+    "weight": 2,
+    "wondrous": true
+}

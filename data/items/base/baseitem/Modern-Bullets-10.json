@@ -1,0 +1,15 @@
+{
+    "age": "modern",
+    "name": "Modern Bullets (10)",
+    "packContents": [
+        {
+            "item": "modern bullet",
+            "quantity": 10
+        }
+    ],
+    "page": 268,
+    "rarity": "none",
+    "source": "DMG",
+    "type": "AF",
+    "weight": 1
+}

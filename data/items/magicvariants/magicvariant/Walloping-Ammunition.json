@@ -1,0 +1,23 @@
+{
+    "ammo": true,
+    "inherits": {
+        "entries": [
+            " This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked {@condition prone}."
+        ],
+        "namePrefix": "Walloping ",
+        "page": 139,
+        "rarity": "common",
+        "source": "XGE",
+        "tier": "minor"
+    },
+    "name": "Walloping Ammunition",
+    "requires": [
+        {
+            "type": "A"
+        },
+        {
+            "type": "AF"
+        }
+    ],
+    "type": "GV"
+}

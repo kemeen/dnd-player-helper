@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A bucket holds 3 gallons of liquid or \u00bd cubic foot of solids."
+    ],
+    "name": "Bucket",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 5,
+    "weight": 2
+}

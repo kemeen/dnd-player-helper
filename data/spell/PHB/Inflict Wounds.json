@@ -1,0 +1,57 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "necrotic"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "Make a melee spell attack against a creature you can reach. On a hit, the target takes {@damage 3d10} necrotic damage."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by {@scaledamage 3d10|1-9|1d10} for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "name": "Inflict Wounds",
+    "otherSources": [
+        {
+            "page": 55,
+            "source": "RMR"
+        }
+    ],
+    "page": 253,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "N",
+    "source": "PHB",
+    "spellAttack": [
+        "M"
+    ],
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

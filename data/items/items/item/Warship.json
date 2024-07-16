@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "capCargo": 200,
+    "capPassenger": 60,
+    "crew": 60,
+    "name": "Warship",
+    "page": 119,
+    "rarity": "none",
+    "seeAlsoVehicle": [
+        "Warship"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "type": "SHP",
+    "value": 2500000,
+    "vehAc": 15,
+    "vehDmgThresh": 20,
+    "vehHp": 500,
+    "vehSpeed": 2.5
+}

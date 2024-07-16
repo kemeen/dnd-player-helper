@@ -1,0 +1,18 @@
+{
+    "entries": [
+        "You gain proficiency in the {@skill Deception} and {@skill Persuasion} skills."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Beguiling Influence",
+    "page": 110,
+    "skillProficiencies": [
+        {
+            "deception": true,
+            "persuasion": true
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

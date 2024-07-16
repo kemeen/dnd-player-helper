@@ -1,0 +1,51 @@
+{
+    "components": {
+        "m": "a cup of water",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "cold"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "miscTags": [
+        "THP"
+    ],
+    "name": "Armor of Agathys",
+    "page": 215,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

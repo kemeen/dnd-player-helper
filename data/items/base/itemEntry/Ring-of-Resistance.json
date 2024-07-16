@@ -1,0 +1,7 @@
+{
+    "entriesTemplate": [
+        "You have resistance to {{item.resist}} damage while wearing this ring. The ring is set with {{item.detail1}}."
+    ],
+    "name": "Ring of Resistance",
+    "source": "DMG"
+}

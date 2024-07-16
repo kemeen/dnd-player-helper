@@ -1,0 +1,39 @@
+{
+    "inherits": {
+        "attachedSpells": [
+            "command",
+            "zone of truth",
+            "compulsion",
+            "banishment",
+            "dominate person"
+        ],
+        "bonusWeapon": "+1",
+        "charges": 5,
+        "entries": [
+            "This weapon is bedecked in ornate gold filigree and deep-blue and maroon jewels. You gain a {=bonusWeapon} bonus to attack and damage rolls made with this weapon. Additionally, you gain proficiency in the {@skill Intimidation} and {@skill Persuasion} skills if you don't already have it.",
+            {
+                "entries": [
+                    "The weapon has 5 charges. You can use a bonus action and expend 1 or more of its charges to cast one of the following spells (save DC 16): {@spell Command} (1 charge), {@spell Zone of Truth} (2 charges), {@spell Compulsion} (4 charges), {@spell Banishment} (4 charges), or {@spell Dominate Person} (5 charges).",
+                    "The weapon regains {@dice 1d4} expended charges daily at dawn."
+                ],
+                "name": "Spellcasting",
+                "type": "entries"
+            }
+        ],
+        "grantsProficiency": true,
+        "nameSuffix": " of Throne's Command",
+        "page": 39,
+        "rarity": "very rare",
+        "recharge": "dawn",
+        "rechargeAmount": "{@dice 1d4}",
+        "reqAttune": true,
+        "source": "BMT"
+    },
+    "name": "Weapon of Throne's Command",
+    "requires": [
+        {
+            "weaponCategory": "martial"
+        }
+    ],
+    "type": "GV"
+}

@@ -1,0 +1,16 @@
+{
+    "abbreviation": "AF",
+    "entries": [
+        {
+            "entries": [
+                "You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.",
+                "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way."
+            ],
+            "name": "Ammunition",
+            "type": "entries"
+        }
+    ],
+    "page": 267,
+    "source": "DMG",
+    "template": "{{prop_name}} ({{item.range}}\u00a0ft.)"
+}

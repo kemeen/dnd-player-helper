@@ -1,0 +1,33 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "Once the Wreath of the Prism reaches an exalted state, it gains the following benefits:",
+                        {
+                            "items": [
+                                "You can affect creatures of challenge rating 15 or lower with the wreath.",
+                                "The save DC of the wreath's spell increases to 17."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Exalted",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Wreath of the Prism (Awakened)",
+        "source": "EGW"
+    },
+    "hasFluffImages": true,
+    "name": "Wreath of the Prism (Exalted)",
+    "source": "EGW"
+}

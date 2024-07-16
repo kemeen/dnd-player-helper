@@ -1,0 +1,14 @@
+{
+    "_copy": {
+        "name": "Horn of Valhalla, Brass",
+        "source": "DMG"
+    },
+    "entries": [
+        "You can use an action to blow this horn. In response, warrior spirits from the Abyss appear within 60 feet of you. These spirits look like minotaurs, and use the {@creature berserker} statistics. They return to Abyss after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.",
+        "The horn summons {@dice 3d4 + 3} {@creature berserker||berserkers}. To use the horn, you must be proficient with all simple weapons.",
+        "If you blow the horn without meeting its requirement, the summoned {@creature berserker||berserkers} attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands."
+    ],
+    "name": "Horn of the Endless Maze",
+    "page": 163,
+    "source": "WDMM"
+}

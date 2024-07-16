@@ -1,0 +1,50 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            "Goblins are typically neutral evil, as they care only for their own needs. A few goblins might tend toward good or neutrality, but only rarely."
+                        ],
+                        "name": "Alignment",
+                        "type": "entries"
+                    },
+                    "mode": "appendArr"
+                },
+                {
+                    "items": {
+                        "entries": [
+                            "Goblins reach adulthood around age 8. They age noticeably faster than humans, and though few goblins live to old age, the most cautious rarely live longer than 60 years."
+                        ],
+                        "name": "Age",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Age"
+                },
+                {
+                    "items": {
+                        "entries": [
+                            "You can speak, read, and write Common and Goblin. In Ravnica, Goblin is a simplistic language with a limited vocabulary and fluid rules of grammar, unsuited for any sophisticated conversation."
+                        ],
+                        "name": "Languages",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Languages"
+                }
+            ]
+        },
+        "_preserve": {
+            "reprintedAs": true
+        },
+        "name": "Goblin",
+        "source": "VGM"
+    },
+    "hasFluff": true,
+    "name": "Goblin",
+    "page": 16,
+    "source": "GGR",
+    "traitTags": null
+}

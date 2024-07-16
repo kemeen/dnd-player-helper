@@ -1,0 +1,21 @@
+{
+    "items": [
+        "Scroll of Protection from Aberrations",
+        "Scroll of Protection from Beasts",
+        "Scroll of Protection from Celestials",
+        "Scroll of Protection from Elementals",
+        "Scroll of Protection from Fey",
+        "Scroll of Protection from Fiends",
+        "Scroll of Protection from Plants",
+        "Scroll of Protection from Undead"
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Scroll of Protection",
+    "page": 199,
+    "rarity": "rare",
+    "source": "DMG",
+    "tier": "minor",
+    "type": "SC"
+}

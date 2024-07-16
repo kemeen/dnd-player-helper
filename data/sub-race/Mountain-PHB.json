@@ -1,0 +1,36 @@
+{
+    "ability": [
+        {
+            "str": 2
+        }
+    ],
+    "armorProficiencies": [
+        {
+            "light": true,
+            "medium": true
+        }
+    ],
+    "basicRules": true,
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency with light and medium armor."
+            ],
+            "name": "Dwarven Armor Training",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 48,
+        "baseWeight": 130,
+        "heightMod": "2d4",
+        "weightMod": "2d6"
+    },
+    "name": "Mountain",
+    "page": 20,
+    "raceName": "Dwarf",
+    "raceSource": "PHB",
+    "source": "PHB"
+}

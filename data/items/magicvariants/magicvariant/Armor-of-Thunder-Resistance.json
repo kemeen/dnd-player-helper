@@ -1,0 +1,25 @@
+{
+    "inherits": {
+        "entries": [
+            "{#itemEntry Armor of Resistance}"
+        ],
+        "hasRefs": true,
+        "nameSuffix": " of Thunder Resistance",
+        "page": 152,
+        "rarity": "rare",
+        "reqAttune": true,
+        "resist": [
+            "thunder"
+        ],
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "Armor of Thunder Resistance",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

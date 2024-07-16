@@ -1,0 +1,58 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "innate": {
+                "3": [
+                    "gust of wind"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor."
+            ],
+            "name": "Flight",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have talons that you can use to make unarmed strikes. When you hit with them, the strike deals {@damage 1d6} + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
+            ],
+            "name": "Talons",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Starting at 3rd level, you can cast the {@spell gust of wind} spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher.",
+                "Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast {@spell gust of wind} with this trait (choose when you select this race)."
+            ],
+            "name": "Wind Caller",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Aarakocra",
+    "page": 5,
+    "size": [
+        "M"
+    ],
+    "source": "MPMM",
+    "speed": {
+        "fly": true,
+        "walk": 30
+    },
+    "traitTags": [
+        "Natural Weapon"
+    ]
+}

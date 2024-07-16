@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A key is provided with the lock. Without the key, a creature proficient with {@item thieves' tools|phb} can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices."
+    ],
+    "name": "Lock",
+    "page": 152,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 1000,
+    "weight": 1
+}

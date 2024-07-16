@@ -1,0 +1,48 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "items": [
+                    "The Book of Vile Darkness has the following properties:",
+                    {
+                        "items": [
+                            {
+                                "entries": [
+                                    "While attuned to the book, you can cast {@spell circle of death} (save DC 20) from it as an action. After you cast the spell, roll a {@dice d6}. On a roll of 1-5, you can't use this property again until the next dawn."
+                                ],
+                                "name": "Circle of Death",
+                                "type": "item"
+                            },
+                            {
+                                "entries": [
+                                    "While attuned to the book, you can't be {@condition charmed} or {@condition frightened}."
+                                ],
+                                "name": "Condition Immunities",
+                                "type": "item"
+                            },
+                            {
+                                "entries": [
+                                    "The book houses an evil spirit that is hostile toward you. When you become attuned to the book, the spirit tries to leave the book and enter your body. If you fail a DC 20 Charisma saving throw, it succeeds, and you become an NPC under the DM's control until the intruding spirit is banished using magic such as the {@spell dispel evil and good} spell. The banished spirit returns to the book."
+                                ],
+                                "name": "Evil Presence",
+                                "type": "item"
+                            }
+                        ],
+                        "style": "list-hang-notitle",
+                        "type": "list"
+                    }
+                ],
+                "mode": "replaceArr",
+                "replace": {
+                    "index": 7
+                }
+            }
+        },
+        "name": "Book of Vile Darkness",
+        "source": "DMG"
+    },
+    "hasFluffImages": true,
+    "name": "Book of Vile Darkness (Variant)",
+    "page": 207,
+    "source": "KftGV"
+}

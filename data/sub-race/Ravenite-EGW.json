@@ -1,0 +1,227 @@
+{
+    "_versions": [
+        {
+            "_implementations": [
+                {
+                    "_variables": {
+                        "area": "5-foot-wide, 30-foot-long line",
+                        "color": "Black",
+                        "damageType": "acid",
+                        "savingThrow": "Dexterity"
+                    }
+                },
+                {
+                    "_variables": {
+                        "area": "5-foot-wide, 30-foot-long line",
+                        "color": "Blue",
+                        "damageType": "lightning",
+                        "savingThrow": "Dexterity"
+                    }
+                },
+                {
+                    "_variables": {
+                        "area": "5-foot-wide, 30-foot-long line",
+                        "color": "Brass",
+                        "damageType": "fire",
+                        "savingThrow": "Dexterity"
+                    }
+                },
+                {
+                    "_variables": {
+                        "area": "5-foot-wide, 30-foot-long line",
+                        "color": "Bronze",
+                        "damageType": "lightning",
+                        "savingThrow": "Dexterity"
+                    }
+                },
+                {
+                    "_variables": {
+                        "area": "5-foot-wide, 30-foot-long line",
+                        "color": "Copper",
+                        "damageType": "acid",
+                        "savingThrow": "Dexterity"
+                    }
+                },
+                {
+                    "_variables": {
+                        "area": "15-foot cone",
+                        "color": "Gold",
+                        "damageType": "fire",
+                        "savingThrow": "Dexterity"
+                    }
+                },
+                {
+                    "_variables": {
+                        "area": "15-foot cone",
+                        "color": "Green",
+                        "damageType": "poison",
+                        "savingThrow": "Constitution"
+                    }
+                },
+                {
+                    "_variables": {
+                        "area": "15-foot cone",
+                        "color": "Red",
+                        "damageType": "fire",
+                        "savingThrow": "Dexterity"
+                    }
+                },
+                {
+                    "_variables": {
+                        "area": "15-foot cone",
+                        "color": "Silver",
+                        "damageType": "cold",
+                        "savingThrow": "Constitution"
+                    }
+                },
+                {
+                    "_variables": {
+                        "area": "15-foot cone",
+                        "color": "White",
+                        "damageType": "cold",
+                        "savingThrow": "Constitution"
+                    }
+                }
+            ],
+            "_template": {
+                "_mod": {
+                    "entries": [
+                        {
+                            "mode": "removeArr",
+                            "names": "Draconic Ancestry"
+                        },
+                        {
+                            "items": {
+                                "entries": [
+                                    "You can use your action to exhale destructive energy in a {{area}}.",
+                                    "When you use your breath weapon, each creature in the area of the exhalation must make a {{savingThrow}} saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes {@damage 2d6} {{damageType}} damage on a failed save, and half as much damage on a successful one. The damage increases to {@damage 3d6} at 6th level, {@damage 4d6} at 11th level, and {@damage 5d6} at 16th level.",
+                                    "After you use your breath weapon, you can't use it again until you complete a short or long rest."
+                                ],
+                                "name": "Breath Weapon",
+                                "type": "entries"
+                            },
+                            "mode": "replaceArr",
+                            "replace": "Breath Weapon"
+                        }
+                    ]
+                },
+                "name": "Dragonborn (Ravenite; {{color}})",
+                "source": "EGW"
+            }
+        }
+    ],
+    "ability": [
+        {
+            "con": 1,
+            "str": 2
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Damage Resistance"
+            },
+            "entries": [
+                "When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack with the weapon against that creature. Once you use this trait, you can't do so again until you finish a short or long rest."
+            ],
+            "name": "Vengeful Assault",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Draconic Ancestry"
+            },
+            "entries": [
+                "You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon is determined by the dragon type, as shown in the table.",
+                {
+                    "caption": "Draconic Ancestry",
+                    "colLabels": [
+                        "Dragon",
+                        "Damage Type",
+                        "Breath Weapon"
+                    ],
+                    "colStyles": [
+                        "col-3 text-center",
+                        "col-3 text-center",
+                        "col-6"
+                    ],
+                    "rows": [
+                        [
+                            "Black",
+                            "Acid",
+                            "5 by 30 ft. line (Dex. save)"
+                        ],
+                        [
+                            "Blue",
+                            "Lightning",
+                            "5 by 30 ft. line (Dex. save)"
+                        ],
+                        [
+                            "Brass",
+                            "Fire",
+                            "5 by 30 ft. line (Dex. save)"
+                        ],
+                        [
+                            "Bronze",
+                            "Lightning",
+                            "5 by 30 ft. line (Dex. save)"
+                        ],
+                        [
+                            "Copper",
+                            "Acid",
+                            "5 by 30 ft. line (Dex. save)"
+                        ],
+                        [
+                            "Gold",
+                            "Fire",
+                            "15 ft. cone (Dex. save)"
+                        ],
+                        [
+                            "Green",
+                            "Poison",
+                            "15 ft. cone (Con. save)"
+                        ],
+                        [
+                            "Red",
+                            "Fire",
+                            "15 ft. cone (Dex. save)"
+                        ],
+                        [
+                            "Silver",
+                            "Cold",
+                            "15 ft. cone (Con. save)"
+                        ],
+                        [
+                            "White",
+                            "Cold",
+                            "15 ft. cone (Con. save)"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Draconic Ancestry",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Ravenite",
+    "overwrite": {
+        "ability": true,
+        "traitTags": true
+    },
+    "page": 168,
+    "raceName": "Dragonborn",
+    "raceSource": "PHB",
+    "resist": null,
+    "source": "EGW"
+}

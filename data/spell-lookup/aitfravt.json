@@ -1,0 +1,14 @@
+{
+    "linked glyphs": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Cleric": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        }
+    }
+}

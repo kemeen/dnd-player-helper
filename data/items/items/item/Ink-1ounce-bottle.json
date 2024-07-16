@@ -1,0 +1,13 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Ink (1-ounce bottle)"
+    ],
+    "name": "Ink (1-ounce bottle)",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 1000
+}

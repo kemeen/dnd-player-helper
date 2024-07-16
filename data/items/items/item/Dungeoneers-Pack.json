@@ -1,0 +1,48 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Includes:",
+        {
+            "items": [
+                "a {@item backpack|phb}",
+                "a {@item crowbar|phb}",
+                "a {@item hammer|phb}",
+                "10 {@item piton|phb|pitons}",
+                "10 {@item torch|phb|torches}",
+                "a {@item tinderbox|phb}",
+                "10 days of {@item Rations (1 day)|phb|rations}",
+                "a {@item waterskin|phb}",
+                "{@item Hempen Rope (50 feet)|phb|50 feet of hempen rope}"
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Dungeoneer's Pack",
+    "packContents": [
+        "backpack|phb",
+        "crowbar|phb",
+        "hammer|phb",
+        {
+            "item": "piton|phb",
+            "quantity": 10
+        },
+        {
+            "item": "torch|phb",
+            "quantity": 10
+        },
+        "tinderbox|phb",
+        {
+            "item": "rations (1 day)|phb",
+            "quantity": 10
+        },
+        "waterskin|phb",
+        "hempen rope (50 feet)|phb"
+    ],
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 1200,
+    "weight": 61.5
+}

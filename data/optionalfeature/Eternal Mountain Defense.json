@@ -1,0 +1,39 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "_": {
+                    "resource": {
+                        "5": [
+                            "stoneskin"
+                        ]
+                    }
+                }
+            },
+            "resourceName": "Ki"
+        }
+    ],
+    "entries": [
+        "You can spend 5 ki points to cast {@spell stoneskin}, targeting yourself."
+    ],
+    "featureType": [
+        "ED"
+    ],
+    "name": "Eternal Mountain Defense",
+    "page": 81,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Monk"
+                },
+                "level": 17,
+                "subclass": {
+                    "name": "Four Elements"
+                }
+            }
+        }
+    ],
+    "source": "PHB"
+}

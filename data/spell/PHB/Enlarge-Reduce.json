@@ -1,0 +1,65 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "a pinch of powdered iron",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.",
+        "If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.",
+        {
+            "entries": [
+                "The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category\u2014from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal {@damage 1d4} extra damage."
+            ],
+            "name": "Enlarge",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category\u2014from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal {@damage 1d4} less damage (this can't reduce the damage below 1)."
+            ],
+            "name": "Reduce",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "miscTags": [
+        "ADV",
+        "OBJ",
+        "SGT"
+    ],
+    "name": "Enlarge/Reduce",
+    "page": 237,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "school": "T",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

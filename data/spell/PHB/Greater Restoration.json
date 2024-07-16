@@ -1,0 +1,50 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "m": {
+            "consume": true,
+            "cost": 10000,
+            "text": "diamond dust worth at least 100 gp, which the spell consumes"
+        },
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's {@condition exhaustion} level by one, or end one of the following effects on the target:",
+        {
+            "items": [
+                "One effect that {@condition charmed} or {@condition petrified} the target",
+                "One curse, including the target's attunement to a cursed magic item",
+                "Any reduction to one of the target's ability scores",
+                "One effect reducing the target's hit point maximum"
+            ],
+            "type": "list"
+        }
+    ],
+    "level": 5,
+    "name": "Greater Restoration",
+    "page": 246,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

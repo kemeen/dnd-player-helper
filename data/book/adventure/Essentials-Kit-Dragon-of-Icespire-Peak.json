@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "DIP",
+    "level": {
+        "end": 6,
+        "start": 1
+    },
+    "name": "Essentials Kit: Dragon of Icespire Peak",
+    "parentName": "Essentials Kit",
+    "parentSource": "ESK",
+    "published": "2019-06-24",
+    "publishedOrder": 0,
+    "source": "DIP",
+    "storyline": "Essentials Kit"
+}

@@ -1,0 +1,36 @@
+{
+    "ability": [
+        {
+            "cha": 1,
+            "dex": 2
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency in the {@skill Acrobatics} skill."
+            ],
+            "name": "Graceful",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke opportunity attacks."
+            ],
+            "name": "Shifting Feature",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Swiftstride",
+    "page": 34,
+    "raceName": "Shifter",
+    "raceSource": "ERLW",
+    "skillProficiencies": [
+        {
+            "acrobatics": true
+        }
+    ],
+    "source": "ERLW"
+}

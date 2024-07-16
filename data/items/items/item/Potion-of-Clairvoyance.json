@@ -1,0 +1,18 @@
+{
+    "attachedSpells": [
+        "clairvoyance"
+    ],
+    "entries": [
+        "When you drink this potion, you gain the effect of the {@spell clairvoyance} spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened."
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Potion of Clairvoyance",
+    "page": 187,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

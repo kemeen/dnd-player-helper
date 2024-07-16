@@ -1,0 +1,56 @@
+{
+    "ability": [
+        {
+            "dex": 2,
+            "str": -4
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't {@condition incapacitated}."
+            ],
+            "name": "Pack Tactics",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have disadvantage on attack rolls and on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+            ],
+            "name": "Sunlight Sensitivity",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Draconic."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "common": true,
+            "draconic": true
+        }
+    ],
+    "name": "Kobold",
+    "page": 282,
+    "size": [
+        "S"
+    ],
+    "source": "DMG",
+    "speed": 30,
+    "traitTags": [
+        "NPC Race",
+        "Sunlight Sensitivity"
+    ]
+}

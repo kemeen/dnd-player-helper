@@ -1,0 +1,42 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Cabal's Ruin reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "You have {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on {@quickref saving throws|PHB|2|1} against spells and other magical effects while wearing this cloak.",
+                                            "The cloak has 6 charges and it regains {@dice 1d4 + 2} expended charges daily at dawn.",
+                                            "When you use the cloak to absorb a spell, you gain resistance to one type of damage dealt by the spell (your choice). This resistance then lasts until the end of your next turn."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Cabal's Ruin (Dormant)",
+        "source": "TDCSR"
+    },
+    "charges": 6,
+    "hasFluffImages": true,
+    "name": "Cabal's Ruin (Awakened)",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d4 + 2}",
+    "source": "TDCSR"
+}

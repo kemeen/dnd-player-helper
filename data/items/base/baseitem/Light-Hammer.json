@@ -1,0 +1,21 @@
+{
+    "basicRules": true,
+    "dmg1": "1d4",
+    "dmgType": "B",
+    "hammer": true,
+    "name": "Light Hammer",
+    "page": 149,
+    "property": [
+        "L",
+        "T"
+    ],
+    "range": "20/60",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 200,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 2
+}

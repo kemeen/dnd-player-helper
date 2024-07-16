@@ -1,0 +1,248 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "Your choice of two of the following: {@skill Arcana}, {@skill History}, or {@skill Persuasion}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Two of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A set of {@item fine clothes|phb}, a student uniform, a {@item writing kit|TDCSR} ({@item pouch|PHB|small pouch} with a quill, {@item Ink (1-ounce bottle)|PHB|ink}, {@item Parchment (one sheet)|PHB|folded parchment} and a penknife), and a belt {@item pouch|PHB} containing 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You've cleared enough lessons\u2014and have gained an ally or two among the staff\u2014to enable access to certain private areas within the {@book Lyceum|TDCSR|3|5. Alabaster Lyceum} and other allied universities. Whenever you're on {@book Lyceum|TDCSR|3|5. Alabaster Lyceum} grounds or at another major academic institution, you can requisition any set of {@filter tools|items|source=phb|miscellaneous=mundane|type=artisan's tools} found in the fifth edition rules. Each set of {@filter tools|items|source=phb|miscellaneous=mundane|type=artisan's tools} is magically marked to sound an alarm if they are removed from the university's grounds.",
+                "When you seek services such as spellcasting from an NPC at the {@book Alabaster Lyceum|TDCSR|3|5. Alabaster Lyceum} or a related institution, you can use those services at a 25 percent discount, at the GM's discretion."
+            ],
+            "name": "Feature: Academic Requisition",
+            "page": 184,
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The {@book Alabaster Lyceum|TDCSR|3|5. Alabaster Lyceum} accepts students of all major trades, the fine arts, and the magical arts. Pupils talented and privileged enough to be accepted travel to {@book Emon|TDCSR|3|Emon, the City of Fellowship} from all over Tal'Dorei, seeking to study among some of the greatest minds and most talented arcanists in the land. If you came from a smaller city, a rural area, or Tal'Dorei's relatively uncharted wilderness, studying at the {@book Lyceum|TDCSR|3|5. Alabaster Lyceum} might have left you with a sense of culture shock, for good or for ill.",
+                "Your bond is likely associated with your goals as a student or graduate. Your ideal probably involves your hopes in using the knowledge you've gained at the {@book Lyceum|TDCSR|3|5. Alabaster Lyceum}, and your travels as an adventurer, to tailor the world to your liking.",
+                {
+                    "caption": "Lyceum Scholar Personality Traits",
+                    "colLabels": [
+                        "{@dice d8}",
+                        "Personality Trait"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I can't believe I'm here! At the {@book Alabaster Lyceum|TDCSR|3|5. Alabaster Lyceum}. Oh, gods, I've dreamed of this my whole life, and now I'm here!"
+                        ],
+                        [
+                            "2",
+                            "I can't believe I squandered all the opportunities I had at school. I was supposed to be learning good stuff, but I wasted it all daydreaming about fighting monsters."
+                        ],
+                        [
+                            "3",
+                            "Every night at school, I'd knock back a couple of meads and read with my pals! Just a bunch of nerds having fun, and I loved it."
+                        ],
+                        [
+                            "4",
+                            "Everyone at school was such a stick in the mud. Dressing the same, listening to the same bards...ugh, it's sad. Just be yourself."
+                        ],
+                        [
+                            "5",
+                            "I'm happiest when I've got my little party with me. At school, it was like we were a squad of heroes, slaying projects like monsters."
+                        ],
+                        [
+                            "6",
+                            "I'd really rather you didn't bother me. Can't you see I'm studying here?"
+                        ],
+                        [
+                            "7",
+                            "I don't care. I just don't care about it all. The dates I had to memorize, the formulae I learned...I just want to run away and live!"
+                        ],
+                        [
+                            "8",
+                            "I'm just...tired. All the time. Oh, adventuring, sure, that's fine, as long as I can find time to...nap...goodnight."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Lyceum Scholar Ideals",
+                    "colLabels": [
+                        "{@dice d6}",
+                        "Ideal"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "{@b Preparedness}. I can't go out into the world unless I know what I'm up against. Study first, act later. (Neutral)"
+                        ],
+                        [
+                            "2",
+                            "{@b Stardom}. Having a team is good and all, but you can't win a game of ball without the star charger, and you know that's me. (Evil)"
+                        ],
+                        [
+                            "3",
+                            "{@b Individuality}. The world keeps us down by trying to put us all into little boxes. I'm tired of living in my box, and I don't care what you think about it. (Chaotic)"
+                        ],
+                        [
+                            "4",
+                            "{@b Purpose}. I study because there are things I need to know. I'll find my place in the world, and I'll make the world better. (Good)"
+                        ],
+                        [
+                            "5",
+                            "{@b Code of Conduct}. The student code is there to benefit all students, you know. It's the same for laws! (Lawful)"
+                        ],
+                        [
+                            "6",
+                            "{@b Recreation}. All this studying crap wasn't worth anything if you weren't partying when you were done. Meet me down at the tavern, okay? (Chaotic)"
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Lyceum Scholar Bonds",
+                    "colLabels": [
+                        "{@dice d6}",
+                        "Bond"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I came to the {@book Lyceum|TDCSR|3|5. Alabaster Lyceum} with no one, but I fell in love with the city of {@book Emon|TDCSR|3|Emon, the City of Fellowship}. I've finally found a place that feels like home!"
+                        ],
+                        [
+                            "2",
+                            "Most of my professors drove me to frustration, but there's one who was kind and wise. I know they'll always have my back."
+                        ],
+                        [
+                            "3",
+                            "My family saved every copper piece to give me the opportunities I have now. I can't let them down."
+                        ],
+                        [
+                            "4",
+                            "I came to the {@book Lyceum|TDCSR|3|5. Alabaster Lyceum} with a childhood friend, but we've long been drifting apart."
+                        ],
+                        [
+                            "5",
+                            "Discovery is the only thing that matters to me. The topic doesn't matter. Books keep me company on my loneliest days."
+                        ],
+                        [
+                            "6",
+                            "The {@book Lyceum|TDCSR|3|5. Alabaster Lyceum} is my life. I'd give up anything\u2014everything\u2014to protect it from harm."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "caption": "Lyceum Scholar Flaws",
+                    "colLabels": [
+                        "{@dice d6}",
+                        "Flaw"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "The {@book Lyceum|TDCSR|3|5. Alabaster Lyceum} taught me to never want to leave my room. The campus was so huge, and the crowds were so horrible."
+                        ],
+                        [
+                            "2",
+                            "You think you're so great just because you've got muscles, and endurance, and...shut up! Read a book sometime!"
+                        ],
+                        [
+                            "3",
+                            "Huh? What? Sorry, I was thinking about a test I need to retake when I get back to school...."
+                        ],
+                        [
+                            "4",
+                            "I spent too much time studying. Now I don't have any friends."
+                        ],
+                        [
+                            "5",
+                            "If you don't match my aesthetic, I'm not interested in you. We can work together, but we won't be friends. Got it?"
+                        ],
+                        [
+                            "6",
+                            "I'm always striving for perfection. I got top of my class, sure, but only with a 98 average. And that's. Not. Perfect."
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Suggested Characteristics",
+            "page": 184,
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "any": 2
+        }
+    ],
+    "name": "Lyceum Scholar",
+    "page": 183,
+    "skillProficiencies": [
+        {
+            "choose": {
+                "count": 2,
+                "from": [
+                    "arcana",
+                    "history",
+                    "persuasion"
+                ]
+            }
+        }
+    ],
+    "source": "TDCSR",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "displayName": "A set of fine clothes",
+                    "item": "fine clothes|phb"
+                },
+                {
+                    "special": "student uniform"
+                },
+                {
+                    "item": "writing kit|TDCSR"
+                },
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ]
+}

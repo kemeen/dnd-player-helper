@@ -1,0 +1,77 @@
+{
+    "additionalEntries": [
+        "Mason's tools allow you to craft stone structures, including walls and buildings crafted from brick.",
+        {
+            "entries": [
+                "Mason's tools consist of a trowel, a hammer, a chisel, brushes, and a square."
+            ],
+            "name": "Components",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your expertise aids you in identifying a stone building's date of construction and purpose, along with insight into who might have built it."
+            ],
+            "name": "History",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain additional insight when inspecting areas within stone structures."
+            ],
+            "name": "Investigation",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can spot irregularities in stone walls or floors, making it easier to find trap doors and secret passages."
+            ],
+            "name": "Perception",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your knowledge of masonry allows you to spot weak points in brick walls. You deal double damage to such structures with your weapon attacks."
+            ],
+            "name": "Demolition",
+            "type": "entries"
+        },
+        {
+            "caption": "Mason's Tools",
+            "colLabels": [
+                "Activity",
+                "DC"
+            ],
+            "colStyles": [
+                "col-10",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "Chisel a small hole in a stone wall",
+                    "10"
+                ],
+                [
+                    "Find a weak point in a stone wall",
+                    "15"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "additionalSources": [
+        {
+            "page": 83,
+            "source": "XGE"
+        }
+    ],
+    "basicRules": true,
+    "name": "Mason's Tools",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "AT",
+    "value": 1000,
+    "weight": 8
+}

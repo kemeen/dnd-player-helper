@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "dmg1": "2d6",
+    "dmgType": "B",
+    "hammer": true,
+    "name": "Maul",
+    "page": 149,
+    "property": [
+        "H",
+        "2H"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 1000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 10
+}

@@ -1,0 +1,21 @@
+{
+    "capCargo": 10,
+    "crew": 5,
+    "entries": [
+        "Wasp ships are lightweight wooden vessels capable of landing safely on the ground, but not on water. They appeal to adventurers because they're affordable and don't require a large crew. Pirates like them because they're swift. Aristocrats are fond of using them as flying yachts because the ship's cargo hold can be easily converted into posh living quarters.",
+        "The ship's raised back provides high ground for a weapon emplacement, which is typically equipped with a ballista."
+    ],
+    "name": "Wasp Ship",
+    "page": 56,
+    "rarity": "none",
+    "seeAlsoVehicle": [
+        "Wasp Ship|AAG"
+    ],
+    "source": "AAG",
+    "type": "SPC",
+    "value": 2000000,
+    "vehAc": 15,
+    "vehDmgThresh": 15,
+    "vehHp": 250,
+    "vehSpeed": 5.5
+}

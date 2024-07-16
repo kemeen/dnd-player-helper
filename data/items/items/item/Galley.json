@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "capCargo": 150,
+    "crew": 80,
+    "name": "Galley",
+    "page": 119,
+    "rarity": "none",
+    "seeAlsoVehicle": [
+        "Galley"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "type": "SHP",
+    "value": 3000000,
+    "vehAc": 15,
+    "vehDmgThresh": 20,
+    "vehHp": 500,
+    "vehSpeed": 4
+}

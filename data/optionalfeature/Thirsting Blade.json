@@ -1,0 +1,23 @@
+{
+    "entries": [
+        "You can attack with your pact weapon twice, instead of once, whenever you take the {@action Attack} action on your turn."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Thirsting Blade",
+    "page": 111,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 5
+            },
+            "pact": "Blade"
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

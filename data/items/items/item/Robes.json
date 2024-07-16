@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Robes",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 100,
+    "weight": 4
+}

@@ -1,0 +1,21 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": [
+                    "disguise self"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell disguise self} at will, without expending a spell slot."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Mask of Many Faces",
+    "page": 111,
+    "source": "PHB",
+    "srd": true
+}

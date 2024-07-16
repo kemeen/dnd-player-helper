@@ -1,0 +1,56 @@
+{
+    "attachedSpells": [
+        "dancing lights"
+    ],
+    "baseItem": "mace|phb",
+    "bonusWeapon": "+3",
+    "entries": [
+        "This ornate rod is topped by a pair of butterfly wings and incorporates bits of red glass into its length. It weighs 3 pounds.",
+        {
+            "entries": [
+                "In the hands of one who is attuned to it, the vane can be wielded as a magic mace that grants a +3 bonus to attack and damage rolls made with it. In addition, the vane deals an extra {@damage 1d8} radiant damage on a hit."
+            ],
+            "name": "Magic Weapon",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While the vane is inside the perimeter of the Witchlight Carnival, it can sense the mood of every creature in the carnival that has an Intelligence of 4 or higher. As an action, a creature attuned to the vane can use it to pinpoint the location of the happiest creature in the carnival.",
+                "The butterfly shape at the top of the vane spins slowly clockwise when spirits in the carnival are generally high; if the general mood in the carnival is dour, the top of the vane spins slowly counterclockwise."
+            ],
+            "name": "Sense Mood",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The vane is a sentient, chaotic good wondrous item with an Intelligence of 11, a Wisdom of 14, and a Charisma of 14. It has hearing and normal vision out to a range of 30 feet, and it communicates by transmitting emotion to the creature attuned to it. Its purpose is to make sure everyone in the Witchlight Carnival is having a good time."
+            ],
+            "name": "Sentience",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The vane has the following additional properties:",
+                {
+                    "items": [
+                        "The creature holding the vane has vulnerability to lightning damage.",
+                        "The creature attuned to the vane can't be {@condition blinded}, {@condition deafened}, {@condition petrified}, or {@condition stunned}.",
+                        "While carrying the vane, the creature attuned to it can cast the {@spell dancing lights}, {@spell polymorph}, or {@spell ray of frost} spell as an action, requiring no spell components and using Charisma as the spellcasting ability. After the vane's {@spell polymorph} spell is cast, roll a {@dice d8}; on a roll of 3 or 8, the vane can't be used to cast this spell again until the next dawn."
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Additional Properties",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Witchlight Vane",
+    "page": 27,
+    "rarity": "legendary",
+    "reqAttune": "by a mister light or his handpicked successor",
+    "sentient": true,
+    "source": "WBtW",
+    "typeAlt": "M",
+    "weight": 3
+}

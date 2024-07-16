@@ -1,0 +1,19 @@
+{
+    "entries": [
+        "You have {@sense blindsight} with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're {@condition blinded} or in darkness. Moreover, you can see an {@condition invisible} creature within that range, unless the creature successfully hides from you."
+    ],
+    "featureType": [
+        "FS:F",
+        "FS:P",
+        "FS:R"
+    ],
+    "isClassFeatureVariant": true,
+    "name": "Blind Fighting",
+    "page": 41,
+    "senses": [
+        {
+            "blindsight": 10
+        }
+    ],
+    "source": "TCE"
+}

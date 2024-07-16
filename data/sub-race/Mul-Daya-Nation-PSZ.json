@@ -1,0 +1,85 @@
+{
+    "ability": [
+        {
+            "str": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "hex"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "darkness"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "chill touch#c"
+                ]
+            }
+        }
+    ],
+    "darkvision": 120,
+    "entries": [
+        {
+            "entries": [
+                "You know the {@spell chill touch} cantrip. When you reach 3rd level, you can cast the {@spell hex} spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell darkness} spell once with this trait and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for these spells."
+            ],
+            "name": "Mul Daya Magic",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Darkvision"
+            },
+            "entries": [
+                "Your Darkvision has a radius of 120 feet."
+            ],
+            "name": "Superior Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have disadvantage on attack rolls and on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+            ],
+            "name": "Sunlight Sensitivity",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+            ],
+            "name": "Elf Weapon Training",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Mul Daya Nation",
+    "page": 19,
+    "raceName": "Elf (Zendikar)",
+    "raceSource": "PSZ",
+    "source": "PSZ",
+    "traitTags": [
+        "Sunlight Sensitivity"
+    ],
+    "weaponProficiencies": [
+        {
+            "longbow|phb": true,
+            "longsword|phb": true,
+            "shortbow|phb": true,
+            "shortsword|phb": true
+        }
+    ]
+}

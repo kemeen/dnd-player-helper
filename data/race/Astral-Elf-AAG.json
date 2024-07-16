@@ -1,0 +1,126 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "1": [
+                    "dancing lights#c"
+                ]
+            }
+        },
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "1": [
+                    "light#c"
+                ]
+            }
+        },
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "1": [
+                    "sacred flame#c"
+                ]
+            }
+        }
+    ],
+    "age": {
+        "max": 750
+    },
+    "creatureTypeTags": [
+        "elf"
+    ],
+    "creatureTypes": [
+        "humanoid"
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You are a Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf."
+            ],
+            "name": "Creature Type",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know one of the following cantrips of your choice: {@spell dancing lights}, {@spell light}, or {@spell sacred flame}. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose when you select this race)."
+            ],
+            "name": "Astral Fire",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of yourself as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws you make to avoid or end the {@condition charmed} condition on yourself."
+            ],
+            "name": "Fey Ancestry",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Perception} skill."
+            ],
+            "name": "Keen Senses",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+            ],
+            "name": "Starlight Step",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you remain conscious.",
+                "Whenever you finish this trance, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the {@book Player's Handbook|PHB}. You mystically acquire these proficiencies by drawing them from shared elven memory and the experiences of entities on the Astral Plane, and you retain them until you finish your next long rest."
+            ],
+            "name": "Astral Trance",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Astral Elf",
+    "page": 10,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "perception": true
+        }
+    ],
+    "source": "AAG",
+    "speed": 30,
+    "traitTags": [
+        "Improved Resting"
+    ]
+}

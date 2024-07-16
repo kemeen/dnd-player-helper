@@ -1,0 +1,69 @@
+{
+    "affectsCreatureType": [
+        "celestial",
+        "elemental",
+        "fey",
+        "fiend",
+        "undead"
+    ],
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "holy water or powdered silver and iron",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.",
+        "You can end the spell early by using either of the following special functions.",
+        {
+            "entries": [
+                "As your action, you touch a creature you can reach that is {@condition charmed}, {@condition frightened}, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer {@condition charmed}, {@condition frightened}, or possessed by such creatures."
+            ],
+            "name": "Break Enchantment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As your action, make a melee spell attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma saving throw or be sent back to its home plane (if it isn't there already). If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild."
+            ],
+            "name": "Dismissal",
+            "type": "entries"
+        }
+    ],
+    "level": 5,
+    "name": "Dispel Evil and Good",
+    "page": 233,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "charisma"
+    ],
+    "school": "A",
+    "source": "PHB",
+    "spellAttack": [
+        "M"
+    ],
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

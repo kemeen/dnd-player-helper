@@ -1,0 +1,36 @@
+{
+    "excludes": {
+        "net": true
+    },
+    "inherits": {
+        "attachedSpells": [
+            "water breathing"
+        ],
+        "bonusWeapon": "+1",
+        "entries": [
+            "This elegant weapon is adorned with engravings depicting leaping dolphins and drifting jellyfish. You gain a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon, and you ignore {@quickref Underwater Combat|PHB|3|0|the normal penalties on ranged weapon attacks while using this weapon underwater}. While holding the weapon in front of you with both hands, you have a swimming speed of 30 feet.",
+            "Additionally, while you hold the weapon, you can use an action to cast the {@spell water breathing} spell. Once this property is used, it can't be used again until the next dawn."
+        ],
+        "modifySpeed": {
+            "static": {
+                "swim": 30
+            }
+        },
+        "namePrefix": "Oceanic ",
+        "page": 199,
+        "rarity": "rare",
+        "recharge": "dawn",
+        "reqAttune": true,
+        "source": "TDCSR"
+    },
+    "name": "Oceanic Weapon",
+    "requires": [
+        {
+            "type": "R"
+        },
+        {
+            "property": "T"
+        }
+    ],
+    "type": "GV"
+}

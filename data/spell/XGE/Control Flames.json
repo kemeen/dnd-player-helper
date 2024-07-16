@@ -1,0 +1,61 @@
+{
+    "areaTags": [
+        "C"
+    ],
+    "components": {
+        "s": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        },
+        {
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:",
+        {
+            "items": [
+                "You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.",
+                "You instantaneously extinguish the flames within the cube.",
+                "You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.",
+                "You cause simple shapes\u2014such as the vague form of a creature, an inanimate object, or a location\u2014to appear within the flames and animate as you like. The shapes last for 1 hour."
+            ],
+            "type": "list"
+        },
+        "If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an action."
+    ],
+    "hasFluffImages": true,
+    "level": 0,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Control Flames",
+    "otherSources": [
+        {
+            "page": 16,
+            "source": "EEPC"
+        }
+    ],
+    "page": 152,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

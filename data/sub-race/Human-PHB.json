@@ -1,0 +1,19 @@
+{
+    "ability": [
+        {
+            "cha": 1,
+            "con": 1,
+            "dex": 1,
+            "int": 1,
+            "str": 1,
+            "wis": 1
+        }
+    ],
+    "basicRules": true,
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "page": 29,
+    "raceName": "Human",
+    "raceSource": "PHB",
+    "source": "PHB"
+}

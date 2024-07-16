@@ -1,0 +1,115 @@
+{
+    "ability": [
+        {
+            "cha": 2,
+            "int": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "cha",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "hellish rebuke#2"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "darkness"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "thaumaturgy#c"
+                ]
+            }
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Tieflings mature at the same rate as humans but live a few years longer."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Tieflings are about the same size and build as humans. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to fire damage."
+            ],
+            "name": "Hellish Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell thaumaturgy} cantrip. Once you reach 3rd level, you can cast the {@spell hellish rebuke} spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the {@spell darkness} spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+            ],
+            "name": "Infernal Legacy",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Infernal."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 57,
+        "baseWeight": 110,
+        "heightMod": "2d8",
+        "weightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "infernal": true
+        }
+    ],
+    "name": "Tiefling",
+    "page": 42,
+    "resist": [
+        "fire"
+    ],
+    "size": [
+        "M"
+    ],
+    "soundClip": {
+        "path": "races/tiefling.mp3",
+        "type": "internal"
+    },
+    "source": "PHB",
+    "speed": 30,
+    "srd": true,
+    "traitTags": [
+        "Uncommon Race"
+    ]
+}

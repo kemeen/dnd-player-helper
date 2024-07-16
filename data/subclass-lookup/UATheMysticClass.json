@@ -1,0 +1,24 @@
+{
+    "Mystic": {
+        "UATheMysticClass": {
+            "Avatar": {
+                "name": "Order of the Avatar"
+            },
+            "Awakened": {
+                "name": "Order of the Awakened"
+            },
+            "Immortal": {
+                "name": "Order of the Immortal"
+            },
+            "Nomad": {
+                "name": "Order of the Nomad"
+            },
+            "Soul Knife": {
+                "name": "Order of the Soul Knife"
+            },
+            "Wu Jen": {
+                "name": "Order of the Wu Jen"
+            }
+        }
+    }
+}

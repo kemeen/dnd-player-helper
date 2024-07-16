@@ -1,0 +1,56 @@
+{
+    "affectsCreatureType": [
+        "aberration",
+        "celestial",
+        "elemental",
+        "fey",
+        "fiend",
+        "undead"
+    ],
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": {
+            "consume": true,
+            "text": "holy water or powdered silver and iron, which the spell consumes"
+        },
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.",
+        "The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be {@condition charmed}, {@condition frightened}, or possessed by them. If the target is already {@condition charmed}, {@condition frightened}, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect."
+    ],
+    "level": 1,
+    "miscTags": [
+        "ADV"
+    ],
+    "name": "Protection from Evil and Good",
+    "page": 270,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

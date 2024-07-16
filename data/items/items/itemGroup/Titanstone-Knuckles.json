@@ -1,0 +1,34 @@
+{
+    "ability": {
+        "static": {
+            "str": 26
+        }
+    },
+    "attachedSpells": [
+        "enlarge/reduce"
+    ],
+    "entries": [
+        "Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbarian {@creature Grog Strongjaw|TDCSR}, who continues to use them as he seeks worthy challengers across Tal'Dorei and Exandria."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Titanstone Knuckles (Dormant)|TDCSR",
+        "Titanstone Knuckles (Awakened)|TDCSR",
+        "Titanstone Knuckles (Exalted)|TDCSR"
+    ],
+    "name": "Titanstone Knuckles",
+    "page": 211,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "resist": [
+        "cold",
+        "fire",
+        "lightning",
+        "thunder"
+    ],
+    "source": "TDCSR",
+    "wondrous": true
+}

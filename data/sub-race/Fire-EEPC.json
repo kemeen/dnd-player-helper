@@ -1,0 +1,63 @@
+{
+    "ability": [
+        {
+            "int": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "con",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "burning hands"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "produce flame#c"
+                ]
+            }
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to fire damage."
+            ],
+            "name": "Fire Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell produce flame} cantrip. Once you reach 3rd level, you can cast the {@spell burning hands} spell once with this trait as a 1st-level spell, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells."
+            ],
+            "name": "Reach to the Blaze",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Fire",
+    "page": 9,
+    "raceName": "Genasi",
+    "raceSource": "EEPC",
+    "reprintedAs": [
+        "Genasi (Fire)|MPMM"
+    ],
+    "resist": [
+        "fire"
+    ],
+    "source": "EEPC"
+}

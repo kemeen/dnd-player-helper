@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "SDW",
+    "level": {
+        "end": 11,
+        "start": 9
+    },
+    "name": "Essentials Kit: Sleeping Dragon's Wake",
+    "parentName": "Essentials Kit",
+    "parentSource": "ESK",
+    "published": "2019-09-03",
+    "publishedOrder": 2,
+    "source": "SDW",
+    "storyline": "Essentials Kit"
+}

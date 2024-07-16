@@ -1,0 +1,43 @@
+{
+    "components": {
+        "m": "a scrap of sailcloth",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Wind wraps around your body, tugging at your hair and clothing as your feet lift off the ground. You gain a flying speed of 60 feet. Additionally, you have {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on {@quickref ability checks|PHB|2|0} to avoid being {@condition grappled}, and on {@quickref saving throws|PHB|2|1} against being {@condition restrained} or {@condition paralyzed}.",
+        "When you are targeted by a spell or attack while this spell is in effect, you can use a reaction to teleport up to 60 feet to an unoccupied space you can see. If this movement takes you out of range of the triggering spell or attack, you are unaffected by it. This spell then ends when you reappear."
+    ],
+    "level": 5,
+    "miscTags": [
+        "ADV",
+        "SGT",
+        "TP"
+    ],
+    "name": "Freedom of the Winds",
+    "page": 176,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "TDCSR",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

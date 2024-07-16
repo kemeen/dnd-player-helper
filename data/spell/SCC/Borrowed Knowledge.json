@@ -1,0 +1,39 @@
+{
+    "components": {
+        "m": {
+            "cost": 2500,
+            "text": "a book worth at least 25 gp"
+        },
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You draw on knowledge from spirits of the past. Choose one skill in which you lack proficiency. For the spell's duration, you have proficiency in the chosen skill. The spell ends early if you cast it again."
+    ],
+    "level": 2,
+    "name": "Borrowed Knowledge",
+    "page": 37,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "SCC",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

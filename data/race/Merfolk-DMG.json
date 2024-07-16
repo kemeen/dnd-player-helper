@@ -1,0 +1,38 @@
+{
+    "entries": [
+        {
+            "entries": [
+                "You can breathe air and water."
+            ],
+            "name": "Amphibious",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Aquan."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "aquan": true,
+            "common": true
+        }
+    ],
+    "name": "Merfolk",
+    "page": 282,
+    "size": [
+        "M"
+    ],
+    "source": "DMG",
+    "speed": {
+        "swim": 40,
+        "walk": 10
+    },
+    "traitTags": [
+        "Amphibious",
+        "NPC Race"
+    ]
+}

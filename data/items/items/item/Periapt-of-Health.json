@@ -1,0 +1,17 @@
+{
+    "entries": [
+        "You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed while you wear the pendant."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Periapt of Health",
+    "page": 184,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "weight": 1,
+    "wondrous": true
+}

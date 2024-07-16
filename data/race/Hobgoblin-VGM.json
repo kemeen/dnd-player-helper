@@ -1,0 +1,103 @@
+{
+    "ability": [
+        {
+            "con": 2,
+            "int": 1
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "armorProficiencies": [
+        {
+            "light": true
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Hobgoblins are between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are proficient with two {@filter martial weapons|items|source=phb|category=basic|type=martial weapon} of your choice and with light armor."
+            ],
+            "name": "Martial Training",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
+            ],
+            "name": "Saving Face",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Goblin."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 56,
+        "baseWeight": 110,
+        "heightMod": "2d10",
+        "weightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "goblin": true
+        }
+    ],
+    "name": "Hobgoblin",
+    "otherSources": [
+        {
+            "page": 175,
+            "source": "EGW"
+        }
+    ],
+    "page": 119,
+    "reprintedAs": [
+        "Hobgoblin|MPMM"
+    ],
+    "size": [
+        "M"
+    ],
+    "source": "VGM",
+    "speed": 30,
+    "traitTags": [
+        "Monstrous Race"
+    ],
+    "weaponProficiencies": [
+        {
+            "choose": {
+                "count": 2,
+                "fromFilter": "type=martial weapon|miscellaneous=mundane"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "attachedSpells": [
+        "cone of cold",
+        "fog cloud",
+        "ice storm",
+        "wall of ice"
+    ],
+    "charges": 10,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "You have resistance to cold damage while you hold this staff.",
+        "The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: {@spell cone of cold} (5 charges), {@spell fog cloud} (1 charge), {@spell ice storm} (4 charges), or {@spell wall of ice} (4 charges).",
+        "The staff regains {@dice 1d6 + 4} expended charges daily at dawn. If you expend the last charge, roll a {@dice d20}. On a 1. the staff turns to water and is destroyed."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Staff of Frost",
+    "page": 202,
+    "property": [
+        "V"
+    ],
+    "rarity": "very rare",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d6 + 4}",
+    "reqAttune": "by a druid, sorcerer, warlock, or wizard",
+    "reqAttuneTags": [
+        {
+            "class": "druid"
+        },
+        {
+            "class": "sorcerer"
+        },
+        {
+            "class": "warlock"
+        },
+        {
+            "class": "wizard"
+        }
+    ],
+    "resist": [
+        "cold"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "staff": true,
+    "tier": "major",
+    "weaponCategory": "simple",
+    "weight": 4
+}

@@ -1,0 +1,56 @@
+{
+    "inherits": {
+        "charges": 3,
+        "entries": [
+            "This crossbow is crafted from blackened wood, and its limbs bear pearl inlays depicting constellations. You ignore the loading property with this crossbow. If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target. The crossbow has 3 charges and regains {@dice 1d3} expended charges daily at dawn.",
+            {
+                "entries": [
+                    "The crossbow is decorated with three constellations. As a bonus action, you can tap one of the constellations to invoke it, expending 1 charge and producing one of the following effects:",
+                    {
+                        "items": [
+                            {
+                                "entries": [
+                                    "The next time you hit a creature with a ranged attack roll using this crossbow before the end of your next turn, you or another creature of your choice within 30 feet of you can regain hit points equal to {@dice 1d8} plus your proficiency bonus."
+                                ],
+                                "name": "Balance",
+                                "type": "item"
+                            },
+                            {
+                                "entries": [
+                                    "Until the end of your next turn, when you hit a creature with a ranged attack roll using this crossbow, the attack deals an additional {@damage 2d8} fire damage."
+                                ],
+                                "name": "Flames",
+                                "type": "item"
+                            },
+                            {
+                                "entries": [
+                                    "Until the end of your next turn, you have the invisible condition, and anything you are wearing or carrying is also invisible."
+                                ],
+                                "name": "Rogue",
+                                "type": "item"
+                            }
+                        ],
+                        "style": "list-hang-notitle",
+                        "type": "list"
+                    }
+                ],
+                "name": "Constellations",
+                "type": "entries"
+            }
+        ],
+        "namePrefix": "Starshot ",
+        "page": 38,
+        "rarity": "rare",
+        "recharge": "dawn",
+        "rechargeAmount": "{@dice 1d3}",
+        "reqAttune": true,
+        "source": "BMT"
+    },
+    "name": "Starshot Crossbow",
+    "requires": [
+        {
+            "crossbow": true
+        }
+    ],
+    "type": "GV"
+}

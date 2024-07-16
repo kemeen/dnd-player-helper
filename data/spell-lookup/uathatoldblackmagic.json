@@ -1,0 +1,42 @@
+{
+    "conjure barlgura (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "conjure hezrou (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "conjure lesser demon (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "conjure shadow demon (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "conjure vrock (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    }
+}

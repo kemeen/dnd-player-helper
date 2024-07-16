@@ -1,0 +1,99 @@
+{
+    "components": {
+        "m": {
+            "consume": true,
+            "cost": 10000,
+            "text": "a delerium fragment worth 100 gp, which the spell consumes"
+        },
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "force",
+        "necrotic",
+        "psychic",
+        "radiant",
+        "thunder"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "When you cast this spell, you gain one {@adventure level of contamination|DoDk|12}. Octarine rays of light flash from your hand. Each ray is a different colour and has a different power and purpose, see the table below. Each creature in a 60-foot cone must succeed on a Constitution saving throw. For each target, roll a {@dice d8} to determine which colour ray affects it.",
+        {
+            "colLabels": [
+                "d8",
+                "Octarine Spray Effect"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "The target takes {@damage 20d6} psychic damage on a failed save, or half as much damage on a success."
+                ],
+                [
+                    "2",
+                    "The target takes {@damage 20d6} necrotic damage on a failed save, or half as much damage on a success."
+                ],
+                [
+                    "3",
+                    "The target takes {@damage 20d6} force damage on a failed save, or half as much damage on a success."
+                ],
+                [
+                    "4",
+                    "The target takes {@damage 20d6} radiant damage on a failed save, or half as much damage on a success."
+                ],
+                [
+                    "5",
+                    "The target takes {@damage 20d6} thunder damage on a failed save, or half as much damage on a success."
+                ],
+                [
+                    "6",
+                    "At the start of each of its turns, the affected target uses all its movement to move directly towards the closest creature it can see. Then, the affected target uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the affected target does nothing this turn. At the end of each of its turns, the affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target."
+                ],
+                [
+                    "7",
+                    "At the start of each of its turns, the affected target gains one {@adventure level of contamination|DoDk|12}. At the end of each of its turns, an affected target can make a Constitution saving throw. If it succeeds, this effect ends for that target, but any {@adventure contamination levels|DoDk|12} gained remain."
+                ],
+                [
+                    "8",
+                    "{@b Special.} The target is struck by an additional ray. Roll again twice. There's no limit to how many additional rays can strike a single creature in this manner."
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "level": 7,
+    "miscTags": [
+        "RO"
+    ],
+    "name": "Octarine Spray",
+    "page": 228,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "cone"
+    },
+    "savingThrow": [
+        "constitution",
+        "wisdom"
+    ],
+    "school": "V",
+    "source": "DoDk",
+    "subschools": [
+        "contaminated"
+    ],
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

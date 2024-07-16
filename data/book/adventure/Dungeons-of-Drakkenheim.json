@@ -1,0 +1,12 @@
+{
+    "group": "supplement-alt",
+    "id": "DoDk",
+    "level": {
+        "end": 13,
+        "start": 1
+    },
+    "name": "Dungeons of Drakkenheim",
+    "published": "2023-12-21",
+    "source": "DoDk",
+    "storyline": "Drakkenheim"
+}

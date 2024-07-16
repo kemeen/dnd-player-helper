@@ -1,0 +1,39 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Agony reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The extra damage when you hit a marked creature increases to {@dice 1d8}.",
+                                            "A marked creature has {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage} on Constitution checks and Constitution {@quickref saving throws|PHB|2|1}.",
+                                            "When you reduce a creature to 0 hit points with an attack using Agony, you can immediately make an additional melee attack with this weapon as a bonus action."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Agony (Dormant)",
+        "source": "TDCSR"
+    },
+    "hasFluffImages": true,
+    "name": "Agony (Awakened)",
+    "source": "TDCSR"
+}

@@ -1,0 +1,38 @@
+{
+    "components": {
+        "m": "a short piece of fine copper wire",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "round"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.",
+        "You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a {@chance 5|||Message lost!|Message arrives} chance that the message doesn't arrive."
+    ],
+    "level": 3,
+    "name": "Sending",
+    "page": 274,
+    "range": {
+        "distance": {
+            "type": "unlimited"
+        },
+        "type": "point"
+    },
+    "school": "V",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

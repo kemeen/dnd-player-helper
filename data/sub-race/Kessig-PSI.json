@@ -1,0 +1,51 @@
+{
+    "ability": [
+        {
+            "dex": 1,
+            "wis": 1
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency in the {@skill Survival} skill."
+            ],
+            "name": "Forest Folk",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your base walking speed is 40 feet."
+            ],
+            "name": "Fleet of Foot",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you use the {@action Dash} action, {@quickref difficult terrain||3} doesn't cost you extra movement on that turn."
+            ],
+            "name": "Sure-footed",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of your turn, whether you hit or not."
+            ],
+            "name": "Spring Attack",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Kessig",
+    "page": 8,
+    "raceName": "Human (Innistrad)",
+    "raceSource": "PSI",
+    "skillProficiencies": [
+        {
+            "survival": true
+        }
+    ],
+    "source": "PSI",
+    "speed": 40
+}

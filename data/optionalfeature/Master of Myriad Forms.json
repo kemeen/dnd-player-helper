@@ -1,0 +1,31 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": [
+                    "alter self"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell alter self} at will, without expending a spell slot."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Master of Myriad Forms",
+    "page": 111,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 15
+            }
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

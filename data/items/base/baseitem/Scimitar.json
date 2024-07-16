@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "dmg1": "1d6",
+    "dmgType": "S",
+    "name": "Scimitar",
+    "page": 149,
+    "property": [
+        "F",
+        "L"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "sword": true,
+    "type": "M",
+    "value": 2500,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 3
+}

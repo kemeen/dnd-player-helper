@@ -1,0 +1,49 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Titanstone Knuckles reach an exalted state, they gain the following properties:",
+                                    {
+                                        "items": [
+                                            "Your Strength score becomes 26.",
+                                            "While you are under the effect of the {@spell enlarge/reduce} spell cast by the gauntlets, you have resistance to cold, fire, lightning, and thunder damage."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Titanstone Knuckles (Awakened)",
+        "source": "TDCSR"
+    },
+    "ability": {
+        "static": {
+            "str": 26
+        }
+    },
+    "hasFluffImages": true,
+    "name": "Titanstone Knuckles (Exalted)",
+    "resist": [
+        "cold",
+        "fire",
+        "lightning",
+        "thunder"
+    ],
+    "source": "TDCSR"
+}

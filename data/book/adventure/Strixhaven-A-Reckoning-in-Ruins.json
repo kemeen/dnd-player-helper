@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "SCC-ARiR",
+    "level": {
+        "end": 10,
+        "start": 8
+    },
+    "name": "Strixhaven: A Reckoning in Ruins",
+    "parentName": "Strixhaven: A Curriculum of Chaos",
+    "parentSource": "SCC",
+    "published": "2021-12-07",
+    "publishedOrder": 3,
+    "source": "SCC-ARiR",
+    "storyline": "Strixhaven"
+}

@@ -1,0 +1,67 @@
+{
+    "creatureTypes": [
+        "fey"
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You are a Fey."
+            ],
+            "name": "Creature Type",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can use your head and horns to make unarmed strikes. When you hit with them, the strike deals {@damage 1d6} + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike."
+            ],
+            "name": "Ram",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws against spells."
+            ],
+            "name": "Magic Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Whenever you make a long jump or a high jump, you can roll a {@dice d8} and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as usual."
+            ],
+            "name": "Mirthful Leaps",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As an embodiment of revelry, you have proficiency in the {@skill Performance} and {@skill Persuasion} skills, and you have proficiency with one {@item musical instrument|PHB} of your choice."
+            ],
+            "name": "Reveler",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Satyr",
+    "page": 29,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "performance": true,
+            "persuasion": true
+        }
+    ],
+    "source": "MPMM",
+    "speed": 35,
+    "toolProficiencies": [
+        {
+            "musical instrument": true
+        }
+    ],
+    "traitTags": [
+        "Magic Resistance",
+        "Natural Weapon"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "attachedSpells": [
+        "hold monster",
+        "hold person"
+    ],
+    "charges": 7,
+    "entries": [
+        "This wand has 7 charges for the following properties. It regains {@dice 1d6 + 1} expended charges daily at dawn. If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand crumbles into ashes and is destroyed.",
+        {
+            "entries": [
+                "While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): {@spell hold monster} (5 charges) or {@spell hold person} (2 charges)."
+            ],
+            "name": "Spells",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being {@condition paralyzed} or {@condition restrained}, or you can expend 1 charge and gain advantage on any check you make to escape a grapple."
+            ],
+            "name": "Assisted Escape",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Wand of Binding",
+    "page": 209,
+    "rarity": "rare",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d6 + 1}",
+    "reqAttune": "by a spellcaster",
+    "reqAttuneTags": [
+        {
+            "spellcasting": true
+        }
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "WD",
+    "weight": 1
+}

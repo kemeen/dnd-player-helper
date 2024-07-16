@@ -1,0 +1,25 @@
+{
+    "inherits": {
+        "entries": [
+            "{#itemEntry Armor of Resistance}"
+        ],
+        "hasRefs": true,
+        "nameSuffix": " of Radiant Resistance",
+        "page": 152,
+        "rarity": "rare",
+        "reqAttune": true,
+        "resist": [
+            "radiant"
+        ],
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "Armor of Radiant Resistance",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

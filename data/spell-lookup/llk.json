@@ -1,0 +1,25 @@
+{
+    "flock of familiars": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "galder's speedy courier": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "galder's tower": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            }
+        }
+    }
+}

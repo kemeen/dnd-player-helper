@@ -1,0 +1,17 @@
+{
+    "detail1": "violet",
+    "entries": [
+        "{#itemEntry Absorbing Tattoo|TCE}"
+    ],
+    "hasRefs": true,
+    "name": "Poison Absorbing Tattoo",
+    "page": 119,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "resist": [
+        "poison"
+    ],
+    "source": "TCE",
+    "tattoo": true,
+    "wondrous": true
+}

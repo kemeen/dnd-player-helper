@@ -1,0 +1,63 @@
+{
+    "areaTags": [
+        "C"
+    ],
+    "components": {
+        "m": "a drop of water if creating water or a few grains of sand if destroying it",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You either create or destroy water.",
+        {
+            "entries": [
+                "You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area."
+            ],
+            "name": "Create Water",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range."
+            ],
+            "name": "Destroy Water",
+            "type": "entries"
+        }
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "miscTags": [
+        "PRM"
+    ],
+    "name": "Create or Destroy Water",
+    "page": 229,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

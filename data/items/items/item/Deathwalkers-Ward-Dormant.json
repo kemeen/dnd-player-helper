@@ -1,0 +1,27 @@
+{
+    "ac": 12,
+    "baseItem": "studded leather armor|PHB",
+    "bonusAc": "+1",
+    "bonusSavingThrow": "+1",
+    "entries": [
+        "This beautiful black leather armor is covered in intricate scrollwork, and has a mantle bearing the black feathers of {@deity The Matron of Ravens|Exandria|TDCSR}. Legends say that it has been worn by a number of that deity's champions over the centuries\u2014most recently, {@creature Champion of Ravens|TDCSR|Vax'ildan of Vox Machina}.",
+        {
+            "entries": [
+                "When the Deathwalker's Ward is in a dormant state, you gain a +1 bonus to AC and you have {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on death {@quickref saving throws|PHB|2|1} while wearing the armor."
+            ],
+            "name": "Dormant",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Deathwalker's Ward (Dormant)",
+    "page": 204,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "type": "LA",
+    "weight": 13
+}

@@ -1,0 +1,38 @@
+{
+    "ammoType": "crossbow bolt|phb",
+    "attachedSpells": [
+        "fog cloud",
+        "silence",
+        "hold person",
+        "blight"
+    ],
+    "baseItem": "heavy crossbow|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d10",
+    "dmgType": "P",
+    "entries": [
+        "This shadow-touched {@item heavy crossbow|phb} once served as the weapon of choice for the legendary assassin Todora. Though few know this, Condemner is now in the possession of an equally infamous assassin named {@book Ixrattu Khar|TDCSR|2|Ixrattu Khar}."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Condemner (Dormant)|TDCSR",
+        "Condemner (Awakened)|TDCSR",
+        "Condemner (Exalted)|TDCSR"
+    ],
+    "name": "Condemner",
+    "page": 204,
+    "property": [
+        "A",
+        "H",
+        "LD",
+        "2H",
+        "Vst"
+    ],
+    "range": "100/400",
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "type": "R",
+    "weaponCategory": "martial",
+    "weight": 18
+}

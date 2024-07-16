@@ -1,0 +1,9 @@
+{
+    "abbreviation": "S",
+    "name": "Shield",
+    "entries": [
+        "A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your {@ac 2} while you {@action use} it. You can benefit from only one shield at a time."
+    ],
+    "page": 146,
+    "source": "PHB"
+}

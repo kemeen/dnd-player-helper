@@ -1,0 +1,58 @@
+{
+    "components": {
+        "m": {
+            "consume": true,
+            "cost": 10000,
+            "text": "a delerium fragment worth 100 gp, which the spell consumes"
+        },
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "necrotic"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "When you cast this spell, you gain one {@adventure level of contamination|DoDk|12}. An octarine ray springs from your pointing finger to a creature that you can see within range. The target must succeed on a Constitution saving throw. On a failed save, a creature takes {@damage 16d6} necrotic damage and gains {@dice 1d4} {@adventure levels of contamination|DoDk|12}. On a successful save, a target takes half as much damage and does not gain any {@adventure contamination levels|DoDk|12}."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 7th level or higher, you can target one additional creature for each slot level above 6th. The creatures must be within 30 feet of each other when you target them."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 6,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Ray of Contamination",
+    "page": 229,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "school": "N",
+    "source": "DoDk",
+    "subschools": [
+        "contaminated"
+    ],
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

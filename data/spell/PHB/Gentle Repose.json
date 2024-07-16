@@ -1,0 +1,41 @@
+{
+    "components": {
+        "m": "a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 10,
+                "type": "day"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.",
+        "The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as {@spell raise dead}."
+    ],
+    "level": 2,
+    "meta": {
+        "ritual": true
+    },
+    "name": "Gentle Repose",
+    "page": 245,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "N",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

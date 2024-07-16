@@ -1,0 +1,21 @@
+{
+    "age": "modern",
+    "ammoType": "modern bullet",
+    "dmg1": "2d8",
+    "dmgType": "P",
+    "firearm": true,
+    "name": "Revolver",
+    "page": 268,
+    "property": [
+        "AF",
+        "RLD"
+    ],
+    "range": "40/120",
+    "rarity": "none",
+    "reload": 6,
+    "source": "DMG",
+    "type": "R",
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 3
+}

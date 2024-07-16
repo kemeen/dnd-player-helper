@@ -1,0 +1,22 @@
+{
+    "ac": 18,
+    "baseItem": "plate armor|PHB",
+    "bonusAc": "+1",
+    "entries": [
+        "This armor, fashioned from the body of an {@creature Empyrean brazen bull|GHLoE}, gleams brightly in direct sunlight. While wearing this armor, you gain a +1 bonus to AC. In addition, you have resistance to fire and radiant damage.",
+        "Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body."
+    ],
+    "name": "Brazen Armor",
+    "page": 111,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "resist": [
+        "fire",
+        "radiant"
+    ],
+    "source": "GHLoE",
+    "stealth": true,
+    "strength": "15",
+    "type": "HA",
+    "weight": 65
+}

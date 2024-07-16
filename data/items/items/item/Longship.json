@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "capCargo": 10,
+    "capPassenger": 150,
+    "crew": 40,
+    "name": "Longship",
+    "page": 119,
+    "rarity": "none",
+    "seeAlsoVehicle": [
+        "Longship"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "type": "SHP",
+    "value": 1000000,
+    "vehAc": 15,
+    "vehDmgThresh": 15,
+    "vehHp": 300,
+    "vehSpeed": 3
+}

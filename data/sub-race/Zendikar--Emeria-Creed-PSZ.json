@@ -1,0 +1,51 @@
+{
+    "ability": [
+        {
+            "wis": 2
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "known": {
+                "1": {
+                    "_": [
+                        {
+                            "choose": "level=0|class=Druid"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You know one cantrip of your choice from the {@filter druid spell list|spells|class=druid|level=0}. Wisdom is your spellcasting ability for it."
+            ],
+            "name": "Cantrip",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Deception} and {@skill Persuasion} skills."
+            ],
+            "name": "Wind Creed Manipulation",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Zendikar; Emeria Creed",
+    "otherSources": null,
+    "page": 13,
+    "raceName": "Merfolk",
+    "raceSource": "PSZ",
+    "skillProficiencies": [
+        {
+            "deception": true,
+            "persuasion": true
+        }
+    ],
+    "source": "PSZ"
+}

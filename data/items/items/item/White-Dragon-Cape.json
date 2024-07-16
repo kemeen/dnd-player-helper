@@ -1,0 +1,13 @@
+{
+    "entries": [
+        "You have resistance to cold damage while wearing this cape."
+    ],
+    "name": "White Dragon Cape",
+    "page": 193,
+    "rarity": "unknown (magic)",
+    "resist": [
+        "cold"
+    ],
+    "source": "TftYP",
+    "type": "OTH"
+}

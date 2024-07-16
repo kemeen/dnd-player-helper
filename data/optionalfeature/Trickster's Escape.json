@@ -1,0 +1,34 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": {
+                    "daily": {
+                        "1e": [
+                            "freedom of movement"
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell freedom of movement} once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Trickster's Escape",
+    "page": 57,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 7
+            }
+        }
+    ],
+    "source": "XGE"
+}

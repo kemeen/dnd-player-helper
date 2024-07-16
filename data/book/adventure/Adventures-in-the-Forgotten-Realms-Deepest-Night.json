@@ -1,0 +1,14 @@
+{
+    "group": "supplement-alt",
+    "id": "AitFR-DN",
+    "level": {
+        "end": 10,
+        "start": 9
+    },
+    "name": "Adventures in the Forgotten Realms: Deepest Night",
+    "parentName": "Adventures in the Forgotten Realms",
+    "parentSource": "AitFR",
+    "published": "2021-07-21",
+    "source": "AitFR-DN",
+    "storyline": "Adventures in the Forgotten Realms"
+}

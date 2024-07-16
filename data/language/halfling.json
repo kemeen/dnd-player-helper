@@ -1,0 +1,9 @@
+{
+    "name": "halfling",
+    "typical_speakers": [
+        "halflings"
+    ],
+    "script": "common",
+    "type": "standard",
+    "parent": null
+}

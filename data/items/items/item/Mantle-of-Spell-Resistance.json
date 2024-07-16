@@ -1,0 +1,17 @@
+{
+    "entries": [
+        "You have advantage on saving throws against spells while you wear this cloak."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Mantle of Spell Resistance",
+    "page": 180,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

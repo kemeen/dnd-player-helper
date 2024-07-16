@@ -1,0 +1,94 @@
+{
+    "ability": [
+        {
+            "dex": 2,
+            "wis": 1
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "entries": [
+        {
+            "entries": [
+                "Kor mature at the same rate as humans and live about as long."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Most kor are lawful good, with a strong dedication to community and the traditions of their ancestors."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Kor average nearly 6 feet tall, but are much lighter and more slender than humans. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws against being {@condition frightened}."
+            ],
+            "name": "Brave",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You also have a climbing speed of 30 feet as long as you are not encumbered or wearing heavy armor."
+            ],
+            "name": "Climbing",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Athletics} and {@skill Acrobatics} skills."
+            ],
+            "name": "Kor Climbing",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common, and communicate in the silent speech of the Kor."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you roll a 1 on the {@dice d20} for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+            ],
+            "name": "Lucky",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Kor",
+    "page": 10,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "acrobatics": true,
+            "athletics": true
+        }
+    ],
+    "source": "PSZ",
+    "speed": {
+        "climb": 30,
+        "walk": 30
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "ac": 15,
+    "armor": true,
+    "basicRules": true,
+    "entries": [
+        "Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps."
+    ],
+    "name": "Half Plate Armor",
+    "page": 145,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "stealth": true,
+    "type": "MA",
+    "value": 75000,
+    "weight": 40
+}

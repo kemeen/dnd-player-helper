@@ -1,0 +1,11 @@
+{
+    "entries": [
+        "While held up to your ear, this horn suppresses the effects of the {@condition deafened} condition on you, allowing you to hear normally."
+    ],
+    "name": "Ear Horn of Hearing",
+    "page": 137,
+    "rarity": "common",
+    "source": "XGE",
+    "tier": "minor",
+    "wondrous": true
+}

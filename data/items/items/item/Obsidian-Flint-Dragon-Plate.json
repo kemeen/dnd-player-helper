@@ -1,0 +1,16 @@
+{
+    "ac": 18,
+    "baseItem": "plate armor|phb",
+    "bonusAc": "+2",
+    "entries": [
+        "You gain a +2 bonus to AC and resistance to poison damage while you wear this armor. In addition, you gain advantage on ability checks and saving throws made to avoid or end the {@condition grappled} condition on yourself."
+    ],
+    "name": "Obsidian Flint Dragon Plate",
+    "page": 224,
+    "rarity": "legendary",
+    "source": "BGDIA",
+    "stealth": true,
+    "strength": "15",
+    "type": "HA",
+    "weight": 65
+}

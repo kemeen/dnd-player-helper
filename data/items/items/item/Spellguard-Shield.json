@@ -1,0 +1,19 @@
+{
+    "ac": 2,
+    "entries": [
+        "While holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Spellguard Shield",
+    "page": 201,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "S",
+    "weight": 6
+}

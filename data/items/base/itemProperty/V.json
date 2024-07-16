@@ -1,0 +1,15 @@
+{
+    "abbreviation": "V",
+    "entries": [
+        {
+            "entries": [
+                "This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
+            ],
+            "name": "Versatile",
+            "type": "entries"
+        }
+    ],
+    "page": 147,
+    "source": "PHB",
+    "template": "{{prop_name}} ({{item.dmg2}})"
+}

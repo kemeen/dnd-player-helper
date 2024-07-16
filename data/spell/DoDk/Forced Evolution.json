@@ -1,0 +1,35 @@
+{
+    "components": {
+        "m": {
+            "consume": true,
+            "text": "An alchemical cocktail made from rare components and delerium dust worth 250 gold, which the target consumes as part of the spell"
+        },
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "By means of this spell, you transform a mutation gained from {@adventure contamination|DoDk|12}. One of the target's existing mutations is removed and is replaced by a different one. This mutation may be chosen by the Game Master or determined randomly (see Appendix C of Dungeons of Drakkenheim)."
+    ],
+    "level": 4,
+    "name": "Forced Evolution",
+    "page": 227,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "DoDk",
+    "time": [
+        {
+            "number": 8,
+            "unit": "hour"
+        }
+    ]
+}

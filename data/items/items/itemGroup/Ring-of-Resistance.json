@@ -1,0 +1,93 @@
+{
+    "entries": [
+        "You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly.",
+        {
+            "colLabels": [
+                "d10",
+                "Damage Type",
+                "Gem"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-5",
+                "col-5"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "{@item ring of acid resistance||Acid}",
+                    "Pearl"
+                ],
+                [
+                    "2",
+                    "{@item ring of cold resistance||Cold}",
+                    "Tourmaline"
+                ],
+                [
+                    "3",
+                    "{@item ring of fire resistance||Fire}",
+                    "Garnet"
+                ],
+                [
+                    "4",
+                    "{@item ring of force resistance||Force}",
+                    "Sapphire"
+                ],
+                [
+                    "5",
+                    "{@item ring of lightning resistance||Lightning}",
+                    "Citrine"
+                ],
+                [
+                    "6",
+                    "{@item ring of necrotic resistance||Necrotic}",
+                    "Jet"
+                ],
+                [
+                    "7",
+                    "{@item ring of poison resistance||Poison}",
+                    "Amethyst"
+                ],
+                [
+                    "8",
+                    "{@item ring of psychic resistance||Psychic}",
+                    "Jade"
+                ],
+                [
+                    "9",
+                    "{@item ring of radiant resistance||Radiant}",
+                    "Topaz"
+                ],
+                [
+                    "10",
+                    "{@item ring of thunder resistance||Thunder}",
+                    "Spinel"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Ring of Acid Resistance",
+        "Ring of Cold Resistance",
+        "Ring of Fire Resistance",
+        "Ring of Force Resistance",
+        "Ring of Lightning Resistance",
+        "Ring of Necrotic Resistance",
+        "Ring of Poison Resistance",
+        "Ring of Psychic Resistance",
+        "Ring of Radiant Resistance",
+        "Ring of Thunder Resistance"
+    ],
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Ring of Resistance",
+    "page": 192,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "tier": "major",
+    "type": "RG"
+}

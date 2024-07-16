@@ -1,0 +1,29 @@
+{
+    "ac": 18,
+    "baseItem": "plate armor|PHB",
+    "bonusAc": "+1",
+    "entries": [
+        "Beautiful silver scrollwork and priceless cut rubies adorn this set of brass-and-gold armor. Legend holds that it was worn by Duana, High Priest of the {@deity The Dawnfather|Exandria|TDCSR}, when she was martyred in the Battle of Ghor Dranas in the final days of the {@book Calamity|TDCSR|1|The Calamity}. In more recent times, it was worn by {@creature Pike Trickfoot|TDCSR}, a legendary cleric of the {@deity The Everlight|Exandria|TDCSR}, while fighting against {@book the Chroma Conclave|TDCSR|1|The Chroma Conclave} and {@deity The Whispered One|Exandria|TDCSR}."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Plate of the Dawnmartyr (Dormant)|TDCSR",
+        "Plate of the Dawnmartyr (Awakened)|TDCSR",
+        "Plate of the Dawnmartyr (Exalted)|TDCSR"
+    ],
+    "name": "Plate of the Dawnmartyr",
+    "page": 208,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "resist": [
+        "fire"
+    ],
+    "source": "TDCSR",
+    "stealth": true,
+    "strength": "15",
+    "type": "HA",
+    "weight": 65
+}

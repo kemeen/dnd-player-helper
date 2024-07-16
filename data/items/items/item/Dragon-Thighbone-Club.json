@@ -1,0 +1,21 @@
+{
+    "baseItem": "greatclub|phb",
+    "dmg1": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "This red dragon's thighbone is 14 feet long, 250 lbs, and is wrapped in old leather, suggesting that it was once used as a giant's greatclub.",
+        "When you hit a creature of the dragon type with this weapon, it deals an extra {@damage 2d8} bludgeoning damage.",
+        "If you attune to the greatclub, it magically shrinks to a size that you can wield effectively."
+    ],
+    "name": "Dragon Thighbone Club",
+    "page": 105,
+    "property": [
+        "2H"
+    ],
+    "rarity": "unknown (magic)",
+    "reqAttune": "optional",
+    "source": "SKT",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 250
+}

@@ -1,0 +1,9 @@
+{
+    "entries": [
+        "This beaded jade necklace bears an ancient symbol of the River Heralds. When worn, the primal amulet allows its wearer to cast {@spell speak with animals}, {@spell locate object}, and {@spell pass without trace}. Once the amulet has been used to cast a spell, it can't be used to cast that spell again until the next dawn."
+    ],
+    "name": "Primal Amulet",
+    "page": 19,
+    "rarity": "unknown (magic)",
+    "source": "XMtS"
+}

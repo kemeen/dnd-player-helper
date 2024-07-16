@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "dmg1": "1d4",
+    "dmgType": "S",
+    "name": "Whip",
+    "page": 149,
+    "property": [
+        "F",
+        "R"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 200,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 3
+}

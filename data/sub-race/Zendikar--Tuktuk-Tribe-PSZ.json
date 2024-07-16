@@ -1,0 +1,34 @@
+{
+    "ability": [
+        {
+            "con": 2
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have resistance to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier."
+            ],
+            "name": "Grit",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency with {@item thieves' tools|phb}."
+            ],
+            "name": "Tuktuk Cunning",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Zendikar; Tuktuk Tribe",
+    "otherSources": null,
+    "page": 17,
+    "raceName": "Goblin",
+    "raceSource": "PSZ",
+    "source": "PSZ",
+    "traitTags": [
+        "Tool Proficiency"
+    ]
+}

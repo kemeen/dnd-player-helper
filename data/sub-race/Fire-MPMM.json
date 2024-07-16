@@ -1,0 +1,61 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "burning hands"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "flame blade"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "produce flame#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have resistance to fire damage."
+            ],
+            "name": "Fire Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell produce flame} cantrip. Starting at 3rd level, you can cast the {@spell burning hands} spell with this trait. Starting at 5th level, you can also cast the {@spell flame blade} spell with this trait, without a material component. Once you cast {@spell burning hands} or {@spell flame blade} with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.",
+                "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+            ],
+            "name": "Reach to the Blaze",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Fire",
+    "page": 17,
+    "raceName": "Genasi",
+    "raceSource": "MPMM",
+    "resist": [
+        "fire"
+    ],
+    "source": "MPMM"
+}

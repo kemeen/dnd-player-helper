@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A flask holds 1 pint of liquid."
+    ],
+    "name": "Flask",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 2,
+    "weight": 1
+}

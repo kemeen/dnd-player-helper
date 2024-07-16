@@ -1,0 +1,13 @@
+{
+    "entries": [
+        "While holding this orb, you can use an action to determine which way is north. This property functions only on the Material Plane."
+    ],
+    "hasFluffImages": true,
+    "name": "Orb of Direction",
+    "page": 138,
+    "rarity": "common",
+    "source": "XGE",
+    "tier": "minor",
+    "weight": 3,
+    "wondrous": true
+}

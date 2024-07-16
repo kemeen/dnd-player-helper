@@ -1,0 +1,14 @@
+{
+    "group": "supplement-alt",
+    "id": "AitFR-FCD",
+    "level": {
+        "end": 10,
+        "start": 10
+    },
+    "name": "Adventures in the Forgotten Realms: From Cyan Depths",
+    "parentName": "Adventures in the Forgotten Realms",
+    "parentSource": "AitFR",
+    "published": "2021-07-28",
+    "source": "AitFR-FCD",
+    "storyline": "Adventures in the Forgotten Realms"
+}

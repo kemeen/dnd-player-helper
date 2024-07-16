@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "WDH",
+    "level": {
+        "end": 5,
+        "start": 1
+    },
+    "name": "Waterdeep: Dragon Heist",
+    "published": "2018-09-18",
+    "source": "WDH",
+    "storyline": "Waterdeep"
+}

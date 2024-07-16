@@ -1,0 +1,109 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "1": [
+                    "disguise self",
+                    "hex"
+                ]
+            }
+        }
+    ],
+    "creatureTypes": [
+        "fey"
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You are a Fey."
+            ],
+            "name": "Creature Type",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You are Medium or Small. You choose the size when you gain this lineage."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it.",
+                "If you don't keep any of those elements or you choose this lineage at character creation, you gain proficiency in two skills of your choice."
+            ],
+            "name": "Ancestral Legacy",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As a bonus action, you can harmlessly remove a lock of your hair, one of your nails, or one of your teeth. This token is imbued with magic until you finish a long rest. While the token is imbued in this way, you can take these actions:",
+                {
+                    "items": [
+                        {
+                            "entry": "As an action, you can send a telepathic message to the creature holding or carrying the token, as long as you are within 10 miles of it. The message can contain up to twenty-five words.",
+                            "name": "Telepathic Message",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "If you are within 10 miles of the token, you can enter a trance as an action. The trance lasts for 1 minute, but it ends early if you dismiss it (no action required) or are {@condition incapacitated}. During this trance, you can see and hear from the token as if you were located where it is. While you are using your senses at the token's location, you are {@condition blinded} and {@condition deafened} in regard to your own surroundings. When the trance ends, the token is harmlessly destroyed.",
+                            "name": "Remote Viewing",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                },
+                "Once you create a token using this feature, you can't do so again until you finish a long rest, at which point your missing part regrows."
+            ],
+            "name": "Eerie Token",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell disguise self} and {@spell hex} spells with this trait. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.",
+                "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose the ability when you gain this lineage).",
+                {
+                    "entries": [
+                        "Hags can undertake a ritual to irreversibly transform a hexblood they created into a new hag, either one of their own kind or that embodies the hexblood's nature. This requires that both the hag and hexblood be in the same place and consent to the lengthy ritual\u2014circumstances most hexbloods shun but might come to accept over the course of centuries. Once a hexblood undergoes this irreversible ritual, they emerge as a hag NPC no longer under the control of the hexblood's player, unless the DM rules otherwise."
+                    ],
+                    "name": "Becoming a Hag",
+                    "type": "inset"
+                }
+            ],
+            "name": "Hex Magic",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Hexblood",
+    "page": 18,
+    "size": [
+        "S",
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "any": 2
+        }
+    ],
+    "source": "VRGR",
+    "speed": 30
+}

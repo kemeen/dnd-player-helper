@@ -1,0 +1,98 @@
+{
+    "age": {
+        "max": 750
+    },
+    "creatureTypeTags": [
+        "elf"
+    ],
+    "creatureTypes": [
+        "humanoid"
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You are a Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf."
+            ],
+            "name": "Creature Type",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your walking speed is 30 feet, and you have a swimming speed equal to your walking speed."
+            ],
+            "name": "Speed",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can breathe air and water, and you have a resistance to cold damage."
+            ],
+            "name": "Child of the Sea",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws you make to avoid or end the {@condition charmed} condition on yourself."
+            ],
+            "name": "Fey Ancestry",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Aquatic animals have an extraordinary affinity with your people. You can communicate simple ideas to any Beast that has a swimming speed. It can understand your words, though you have no special ability to understand it in return."
+            ],
+            "name": "Friend of the Sea",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Perception} skill."
+            ],
+            "name": "Keen Senses",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.",
+                "Whenever you finish this trance, you can gain two proficiencies that you don't have, each one with a weapon or a tool of your choice selected from the Player's Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest."
+            ],
+            "name": "Trance",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Sea Elf",
+    "page": 30,
+    "resist": [
+        "cold"
+    ],
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "perception": true
+        }
+    ],
+    "source": "MPMM",
+    "speed": {
+        "swim": true,
+        "walk": 30
+    },
+    "traitTags": [
+        "Amphibious",
+        "Improved Resting",
+        "Tool Proficiency",
+        "Weapon Proficiency"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become {@condition poisoned} for 24 hours. The {@condition poisoned} creature is {@condition unconscious}. The creature wakes up if it takes damage."
+    ],
+    "name": "Oil of Taggit",
+    "page": 258,
+    "poison": true,
+    "poisonTypes": [
+        "contact"
+    ],
+    "rarity": "none",
+    "source": "DMG",
+    "srd": true,
+    "type": "G",
+    "value": 40000
+}

@@ -1,0 +1,22 @@
+{
+    "age": "renaissance",
+    "ammoType": "renaissance bullet",
+    "dmg1": "1d12",
+    "dmgType": "P",
+    "firearm": true,
+    "name": "Musket",
+    "page": 268,
+    "property": [
+        "AF",
+        "LD",
+        "2H"
+    ],
+    "range": "40/120",
+    "rarity": "none",
+    "source": "DMG",
+    "type": "R",
+    "value": 50000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 10
+}

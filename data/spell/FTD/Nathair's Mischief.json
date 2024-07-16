@@ -1,0 +1,75 @@
+{
+    "components": {
+        "m": "a piece of crust from an apple pie",
+        "s": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You fill a 20-foot cube you can see within range with fey and draconic magic. Roll on the Mischievous Surge table to determine the magical effect produced, and roll again at the start of each of your turns until the spell ends. You can move the cube up to 10 feet before you roll.",
+        {
+            "caption": "Mischievous Surge",
+            "colLabels": [
+                "d4",
+                "Effect"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "The smell of apple pie fills the air, and each creature in the cube must succeed on a Wisdom saving throw or become {@condition charmed} by you until the start of your next turn."
+                ],
+                [
+                    "2",
+                    "Bouquets of flowers appear all around, and each creature in the cube must succeed on a Dexterity saving throw or be {@condition blinded} until the start of your next turn as the flowers spray water in their faces."
+                ],
+                [
+                    "3",
+                    "Each creature in the cube must succeed on a Wisdom saving throw or begin giggling until the start of your next turn. A giggling creature is {@condition incapacitated} and uses all its movement to move in a random direction."
+                ],
+                [
+                    "4",
+                    "Drops of molasses hover in the cube, making it {@quickref difficult terrain||3} until the start of your next turn."
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "level": 2,
+    "miscTags": [
+        "RO",
+        "SGT"
+    ],
+    "name": "Nathair's Mischief",
+    "page": 20,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity",
+        "wisdom"
+    ],
+    "school": "I",
+    "source": "FTD",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

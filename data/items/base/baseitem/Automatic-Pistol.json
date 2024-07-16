@@ -1,0 +1,21 @@
+{
+    "age": "modern",
+    "ammoType": "modern bullet",
+    "dmg1": "2d6",
+    "dmgType": "P",
+    "firearm": true,
+    "name": "Automatic Pistol",
+    "page": 268,
+    "property": [
+        "AF",
+        "RLD"
+    ],
+    "range": "50/150",
+    "rarity": "none",
+    "reload": 15,
+    "source": "DMG",
+    "type": "R",
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 3
+}

@@ -1,0 +1,10 @@
+{
+    "entries": [
+        "When you use an action to trace the edge of this medal, {@quickref difficult terrain||3} doesn't cost you extra movement for 1 hour. Once this property has been used, it can't be used again, and the medal becomes nonmagical."
+    ],
+    "name": "Medal of the Wetlands",
+    "page": 214,
+    "rarity": "common",
+    "source": "CRCotN",
+    "wondrous": true
+}

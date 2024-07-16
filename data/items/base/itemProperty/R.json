@@ -1,0 +1,14 @@
+{
+    "abbreviation": "R",
+    "entries": [
+        {
+            "entries": [
+                "This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon."
+            ],
+            "name": "Reach",
+            "type": "entries"
+        }
+    ],
+    "page": 147,
+    "source": "PHB"
+}

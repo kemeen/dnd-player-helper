@@ -1,0 +1,21 @@
+{
+    "atomicPackContents": true,
+    "basicRules": true,
+    "entries": [
+        "As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw."
+    ],
+    "name": "Caltrops (bag of 20)",
+    "packContents": [
+        {
+            "item": "caltrop|phb",
+            "quantity": 20
+        }
+    ],
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 100,
+    "weight": 2
+}

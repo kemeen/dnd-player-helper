@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "name": "Wooden Staff",
+    "page": 151,
+    "property": [
+        "V"
+    ],
+    "rarity": "none",
+    "scfType": "druid",
+    "source": "PHB",
+    "srd": true,
+    "type": "SCF",
+    "value": 500,
+    "weaponCategory": "simple",
+    "weight": 4
+}

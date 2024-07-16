@@ -1,0 +1,48 @@
+{
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell's duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early."
+    ],
+    "level": 2,
+    "meta": {
+        "ritual": true
+    },
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Skywrite",
+    "otherSources": [
+        {
+            "page": 22,
+            "source": "EEPC"
+        }
+    ],
+    "page": 165,
+    "range": {
+        "distance": {
+            "type": "sight"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

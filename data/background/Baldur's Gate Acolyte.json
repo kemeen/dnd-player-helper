@@ -1,0 +1,33 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": 2,
+                "items": {
+                    "data": {
+                        "isFeature": true
+                    },
+                    "entries": [
+                        "{@note The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate\u2014though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.}",
+                        "You're tightly connected with the religious community of Baldur's Gate. You know if a deity has a following in the city and any places that faith openly congregates and the neighborhoods those faithful typically inhabit. While this isn't remarkable for most of the city's larger faiths, keeping track of the hundreds of religions newcomers bring with them is no mean feat."
+                    ],
+                    "name": "Baldur's Gate Feature: Religious Community",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "name": "Acolyte",
+        "source": "PHB"
+    },
+    "additionalSources": [
+        {
+            "page": 127,
+            "source": "PHB"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Baldur's Gate Acolyte",
+    "page": 202,
+    "source": "BGDIA"
+}

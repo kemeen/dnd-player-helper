@@ -1,0 +1,12 @@
+{
+    "basicRules": true,
+    "carryingCapacity": 540,
+    "name": "Warhorse",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "speed": 60,
+    "srd": true,
+    "type": "MNT",
+    "value": 40000
+}

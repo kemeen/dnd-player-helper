@@ -1,0 +1,56 @@
+{
+    "areaTags": [
+        "S"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "lightning"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "The next time you make a ranged weapon attack during the spell's duration, the weapon's ammunition, or the weapon itself if it's a thrown weapon, transforms into a bolt of lightning. Make the attack roll as normal. The target takes {@damage 4d8} lightning damage on a hit, or half as much damage on a miss, instead of the weapon's normal damage.",
+        "Whether you hit or miss, each creature within 10 feet of the target must make a Dexterity saving throw. Each of these creatures takes {@damage 2d8} lightning damage on a failed save, or half as much damage on a successful one.",
+        "The piece of ammunition or weapon then returns to its normal form."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by {@scaledamage 4d8;2d8|3-9|1d8} for each slot level above 3rd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 3,
+    "name": "Lightning Arrow",
+    "page": 255,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "school": "T",
+    "source": "PHB",
+    "time": [
+        {
+            "number": 1,
+            "unit": "bonus"
+        }
+    ]
+}

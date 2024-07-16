@@ -1,0 +1,16 @@
+{
+    "abbreviation": "ER",
+    "entriesTemplate": [
+        {
+            "entries": [
+                "This weapon adds {{item.reach}} feet to your reach when you attack with it. This property also determines your reach for {@action opportunity attack|PHB|opportunity attacks} with an Extended Reach weapon."
+            ],
+            "name": "Extended Reach",
+            "page": 195,
+            "type": "entries"
+        }
+    ],
+    "page": 195,
+    "source": "TDCSR",
+    "template": "{{prop_name}} ({{item.reach}}\u00a0ft.)"
+}

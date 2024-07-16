@@ -1,0 +1,30 @@
+{
+    "baseItem": "spear|PHB",
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "This spear is made from the ivory bone of an ancient gold dragon and carved with an Orc hymn to Gruumsh."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Ruin's Wake (Dormant)|EGW",
+        "Ruin's Wake (Awakened)|EGW",
+        "Ruin's Wake (Exalted)|EGW"
+    ],
+    "name": "Ruin's Wake",
+    "page": 277,
+    "property": [
+        "T",
+        "V",
+        "Vst"
+    ],
+    "range": "20/60",
+    "rarity": "artifact",
+    "reqAttune": true,
+    "sentient": true,
+    "source": "EGW",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 3
+}

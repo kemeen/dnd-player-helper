@@ -1,0 +1,54 @@
+{
+    "attachedSpells": [
+        "move earth"
+    ],
+    "baseItem": "greataxe|PHB",
+    "bonusWeapon": "+3",
+    "dmg1": "1d12",
+    "dmgType": "S",
+    "entries": [
+        "This massive adze is said to have been wielded by All-Father Annam, not as a weapon but as the tool he used to shape the various worlds of the Material Plane eons ago.",
+        {
+            "entries": [
+                "The adze has the following random properties, determined by rolling on the appropriate table in the Dungeon Master's Guide:",
+                {
+                    "items": [
+                        "2 {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} properties",
+                        "1 {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} property",
+                        "2 {@table Artifact Properties; Minor Detrimental Properties|dmg|minor detrimental} properties"
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Random Properties",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When a creature attunes to the adze, the artifact magically adjusts its size so that creature can wield it as a greataxe. The adze is a magic weapon that grants a +3 bonus to attack and damage rolls made with it. On a hit, the adze deals an additional {@damage 3d12} force damage. It also deals double damage to objects and structures."
+            ],
+            "name": "Magic Weapon",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As an action, you can call upon the might of the All-Father and use the adze to cast {@spell move earth} or {@spell fabricate}. Once this property is used, it can't be used again until the next dawn."
+            ],
+            "name": "Divine Mattock",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Adze of Annam",
+    "page": 110,
+    "property": [
+        "H",
+        "2H"
+    ],
+    "rarity": "artifact",
+    "reqAttune": true,
+    "source": "BGG",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 7
+}

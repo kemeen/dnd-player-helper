@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "{#itemEntry Potion of Resistance}"
+    ],
+    "hasRefs": true,
+    "name": "Potion of Poison Resistance",
+    "page": 188,
+    "rarity": "uncommon",
+    "resist": [
+        "poison"
+    ],
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

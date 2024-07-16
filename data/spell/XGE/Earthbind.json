@@ -1,0 +1,51 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw, or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends."
+    ],
+    "level": 2,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Earthbind",
+    "otherSources": [
+        {
+            "page": 17,
+            "source": "EEPC"
+        }
+    ],
+    "page": 154,
+    "range": {
+        "distance": {
+            "amount": 300,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "strength"
+    ],
+    "school": "T",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

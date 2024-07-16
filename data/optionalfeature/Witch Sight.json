@@ -1,0 +1,22 @@
+{
+    "entries": [
+        "You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Witch Sight",
+    "page": 111,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 15
+            }
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

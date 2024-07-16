@@ -1,0 +1,63 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Includes:",
+        {
+            "items": [
+                "a {@item backpack|phb}",
+                "a {@item Ball Bearings (Bag of 1,000)|phb|bag of 1,000 ball bearings}",
+                "10 feet of string",
+                "a {@item bell|phb}",
+                "5 {@item candle|phb|candles}",
+                "a {@item crowbar|phb}",
+                "a {@item hammer|phb}",
+                "10 {@item piton|phb|pitons}",
+                "a {@item hooded lantern|phb}",
+                "2 {@item Oil (flask)|phb|flasks of oil}",
+                "5 days {@item Rations (1 day)|phb|rations}",
+                "a {@item tinderbox|phb}",
+                "a {@item waterskin|phb}",
+                "{@item Hempen Rope (50 feet)|phb|50 feet of hempen rope}"
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Burglar's Pack",
+    "packContents": [
+        "backpack|phb",
+        "ball bearings (bag of 1,000)|phb",
+        {
+            "special": "10 feet of string"
+        },
+        "bell|phb",
+        {
+            "item": "candle|phb",
+            "quantity": 5
+        },
+        "crowbar|phb",
+        "hammer|phb",
+        {
+            "item": "piton|phb",
+            "quantity": 10
+        },
+        "hooded lantern|phb",
+        {
+            "item": "oil (flask)|phb",
+            "quantity": 2
+        },
+        {
+            "item": "rations (1 day)|phb",
+            "quantity": 5
+        },
+        "tinderbox|phb",
+        "waterskin|phb",
+        "hempen rope (50 feet)|phb"
+    ],
+    "page": 151,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 1600,
+    "weight": 44.5
+}

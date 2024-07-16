@@ -1,0 +1,15 @@
+{
+    "group": "supplement-alt",
+    "id": "NRH-AWoL",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "NERDS Restoring Harmony: A Web of Lies",
+    "parentName": "NERDS Restoring Harmony",
+    "parentSource": "NRH",
+    "published": "2021-09-01",
+    "publishedOrder": 5,
+    "source": "NRH-AWoL",
+    "storyline": "NERDS Restoring Harmony"
+}

@@ -1,0 +1,12 @@
+{
+    "basicRules": true,
+    "carryingCapacity": 195,
+    "name": "Mastiff",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "speed": 40,
+    "srd": true,
+    "type": "MNT",
+    "value": 2500
+}

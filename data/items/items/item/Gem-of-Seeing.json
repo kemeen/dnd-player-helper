@@ -1,0 +1,25 @@
+{
+    "charges": 3,
+    "entries": [
+        "This gem has 3 charges. As an action, you can speak the gem's command word and expend 1 charge. For the next 10 minutes, you have {@sense truesight} out to 120 feet when you peer through the gem.",
+        "The gem regains {@dice 1d3} expended charges daily at dawn."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Gem of Seeing",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 172,
+    "rarity": "rare",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d3}",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "weight": 1,
+    "wondrous": true
+}

@@ -1,0 +1,14 @@
+{
+    "capCargo": 1,
+    "capPassenger": 20,
+    "crew": 10,
+    "name": "Airship",
+    "page": 119,
+    "rarity": "none",
+    "source": "DMG",
+    "type": "AIR",
+    "value": 2000000,
+    "vehAc": 13,
+    "vehHp": 300,
+    "vehSpeed": 8
+}

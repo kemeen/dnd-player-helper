@@ -1,0 +1,15 @@
+{
+    "detail1": "is wreathed in fire",
+    "entries": [
+        "{#itemEntry Chromatic Rose|WBtW}"
+    ],
+    "hasRefs": true,
+    "name": "Red Chromatic Rose",
+    "page": 208,
+    "rarity": "rare",
+    "resist": [
+        "fire"
+    ],
+    "source": "WBtW",
+    "wondrous": true
+}

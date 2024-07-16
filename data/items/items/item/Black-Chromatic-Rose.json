@@ -1,0 +1,15 @@
+{
+    "detail1": "drips acid",
+    "entries": [
+        "{#itemEntry Chromatic Rose|WBtW}"
+    ],
+    "hasRefs": true,
+    "name": "Black Chromatic Rose",
+    "page": 208,
+    "rarity": "rare",
+    "resist": [
+        "acid"
+    ],
+    "source": "WBtW",
+    "wondrous": true
+}

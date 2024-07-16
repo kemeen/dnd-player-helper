@@ -1,0 +1,83 @@
+{
+    "ability": [
+        {
+            "cha": 1
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "entries": [
+        {
+            "entries": [
+                "Merfolk mature at the same rate humans do and reach adulthood around the age of 20. They live considerably longer than humans, though, often reaching well over 100 years."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Most merfolk are neutral, though merfolk of the Emeria and Cosi creeds have chaotic leanings."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can breathe air and water."
+            ],
+            "name": "Amphibious",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Merfolk are about the same size and build as humans. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have a swimming speed of 30 feet."
+            ],
+            "name": "Swimming",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common, Merfolk, and one extra language of your choice."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Merfolk",
+    "otherSources": [
+        {
+            "page": 12,
+            "source": "PSX"
+        }
+    ],
+    "page": 13,
+    "size": [
+        "M"
+    ],
+    "source": "PSZ",
+    "speed": {
+        "swim": 30,
+        "walk": 30
+    },
+    "traitTags": [
+        "Amphibious"
+    ]
+}

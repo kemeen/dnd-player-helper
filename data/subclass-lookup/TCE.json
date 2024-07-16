@@ -1,0 +1,18 @@
+{
+    "Artificer": {
+        "TCE": {
+            "Alchemist": {
+                "name": "Alchemist"
+            },
+            "Armorer": {
+                "name": "Armorer"
+            },
+            "Artillerist": {
+                "name": "Artillerist"
+            },
+            "Battle Smith": {
+                "name": "Battle Smith"
+            }
+        }
+    }
+}

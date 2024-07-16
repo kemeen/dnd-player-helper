@@ -1,0 +1,12 @@
+{
+    "age": "modern",
+    "entries": [
+        "As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away."
+    ],
+    "name": "Grenade Launcher",
+    "page": 268,
+    "rarity": "none",
+    "source": "DMG",
+    "type": "G",
+    "weight": 7
+}

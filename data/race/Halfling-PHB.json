@@ -1,0 +1,81 @@
+{
+    "ability": [
+        {
+            "dex": 2
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 250
+    },
+    "basicRules": true,
+    "entries": [
+        {
+            "entries": [
+                "A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+            ],
+            "name": "Lucky",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws against being {@condition frightened}."
+            ],
+            "name": "Brave",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can move through the space of any creature that is of a size larger than yours."
+            ],
+            "name": "Halfling Nimbleness",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 31,
+        "baseWeight": 35,
+        "heightMod": "2d4"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "halfling": true
+        }
+    ],
+    "name": "Halfling",
+    "page": 26,
+    "size": [
+        "S"
+    ],
+    "soundClip": {
+        "path": "races/halfling.mp3",
+        "type": "internal"
+    },
+    "source": "PHB",
+    "speed": 25,
+    "srd": true
+}

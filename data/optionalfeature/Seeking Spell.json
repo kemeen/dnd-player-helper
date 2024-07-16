@@ -1,0 +1,17 @@
+{
+    "consumes": {
+        "amount": 2,
+        "name": "Sorcery Point"
+    },
+    "entries": [
+        "If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the {@dice d20}, and you must use the new roll.",
+        "You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell."
+    ],
+    "featureType": [
+        "MM"
+    ],
+    "isClassFeatureVariant": true,
+    "name": "Seeking Spell",
+    "page": 66,
+    "source": "TCE"
+}

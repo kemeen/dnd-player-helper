@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "TftYP-TFoF",
+    "level": {
+        "end": 5,
+        "start": 3
+    },
+    "name": "Tales from the Yawning Portal: The Forge of Fury",
+    "parentName": "Tales from the Yawning Portal",
+    "parentSource": "TftYP",
+    "published": "2017-03-24",
+    "publishedOrder": 1,
+    "source": "TftYP-TFoF",
+    "storyline": "Tales from the Yawning Portal"
+}

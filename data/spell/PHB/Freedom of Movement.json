@@ -1,0 +1,46 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "m": "a leather strap, bound around the arm or a similar appendage",
+        "s": true,
+        "v": true
+    },
+    "conditionImmune": [
+        "paralyzed",
+        "restrained"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch a willing creature. For the duration, the target's movement is unaffected by {@quickref difficult terrain||3}, and spells and other magical effects can neither reduce the target's speed nor cause the target to be {@condition paralyzed} or {@condition restrained}.",
+        "The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it {@condition grappled}. Finally, being underwater imposes no penalties on the target's movement or attacks."
+    ],
+    "level": 4,
+    "name": "Freedom of Movement",
+    "page": 244,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "cause fear (ua)": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "ceremony (ua)": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Paladin": true
+            }
+        }
+    },
+    "chaos bolt (ua)": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true
+            }
+        }
+    },
+    "guiding hand (ua)": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Cleric": true,
+                "Druid": true,
+                "Wizard": true
+            }
+        }
+    },
+    "hand of radiance (ua)": {
+        "class": {
+            "PHB": {
+                "Cleric": true
+            }
+        }
+    },
+    "healing elixir (ua)": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "infestation (ua)": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "primal savagery (ua)": {
+        "class": {
+            "PHB": {
+                "Druid": true
+            }
+        }
+    },
+    "puppet (ua)": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "sense emotion (ua)": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "snare (ua)": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true,
+                "Wizard": true
+            }
+        }
+    },
+    "sudden awakening (ua)": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Ranger": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "toll the dead (ua)": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Warlock": true
+            }
+        }
+    },
+    "unearthly chorus (ua)": {
+        "class": {
+            "PHB": {
+                "Bard": true
+            }
+        }
+    },
+    "virtue (ua)": {
+        "class": {
+            "PHB": {
+                "Cleric": true
+            }
+        }
+    },
+    "wild cunning (ua)": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true
+            }
+        }
+    },
+    "zephyr strike (ua)": {
+        "class": {
+            "PHB": {
+                "Ranger": true
+            }
+        }
+    }
+}

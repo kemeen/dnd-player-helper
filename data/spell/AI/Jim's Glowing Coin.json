@@ -1,0 +1,46 @@
+{
+    "areaTags": [
+        "MT"
+    ],
+    "components": {
+        "m": "a coin",
+        "r": true,
+        "s": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Of the many tactics employed by master magician and renowned adventurer Jim Darkmagic, the old glowing coin trick is a time-honored classic. When you cast the spell, you hurl the coin that is the spell's material component to any spot within range. The coin lights up as if under the effect of a {@spell light} spell. Each creature of your choice that you can see within 30 feet of the coin must succeed on a Wisdom saving throw or be distracted for the duration. While distracted, a creature has disadvantage on Wisdom ({@skill Perception}) checks and initiative rolls."
+    ],
+    "level": 2,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Jim's Glowing Coin",
+    "page": 76,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "wisdom"
+    ],
+    "school": "E",
+    "source": "AI",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

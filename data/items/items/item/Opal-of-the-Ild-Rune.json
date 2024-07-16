@@ -1,0 +1,58 @@
+{
+    "entries": [
+        "This triangular fire opal measures about three inches on each side and is half an inch thick. The ild (fire) rune shimmers within its core, causing it to be slightly warm to the touch. The opal has the following properties, which work only while it's on your person.",
+        {
+            "entries": [
+                "As an action, you can ignite an object within 10 feet of you. The object must be flammable, and the fire starts in a circle no larger than 1 foot in diameter."
+            ],
+            "name": "Ignite",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to cold damage."
+            ],
+            "name": "Fires Friend",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As an action, you can extinguish any open flame within 10 feet of you. You choose how much fire to extinguish in that radius."
+            ],
+            "name": "Fire Tamer",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can transfer the opal's magic to a nonmagical item\u2014a weapon or a suit of armor\u2014by tracing the ild rune there with your finger. The transfer takes 8 hours of work that requires the two items to be within 5 feet of each other. At the end, the opal is destroyed, and the rune appears in red on the chosen item, which gains a benefit based on its form:",
+                {
+                    "items": [
+                        {
+                            "entry": "The weapon is now an uncommon magic weapon. It deals an extra {@damage 1d6} fire damage to any target it hits.",
+                            "name": "Weapon",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "The armor is now a rare magic item that requires attunement. You have resistance to cold damage while wearing the armor.",
+                            "name": "Armor",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                }
+            ],
+            "name": "Gift of Flame",
+            "type": "entries"
+        }
+    ],
+    "name": "Opal of the Ild Rune",
+    "page": 235,
+    "rarity": "rare",
+    "reqAttune": true,
+    "resist": [
+        "cold"
+    ],
+    "source": "SKT",
+    "wondrous": true
+}

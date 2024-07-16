@@ -1,0 +1,30 @@
+{
+    "inherits": {
+        "attachedSpells": [
+            "wind wall"
+        ],
+        "entries": [
+            "This fine set of white-and-silver armor bears the wind rune upon its chest.",
+            "While wearing this armor, you have advantage on Dexterity ({@skill Acrobatics}) checks and Dexterity saving throws as your movements are bolstered by gentle currents of wind.",
+            {
+                "entries": [
+                    "As an action, you can invoke the armor's rune to cast the {@spell wind wall} spell (save DC 15) with it. Once the rune has been invoked, it can't be invoked again until the next dawn."
+                ],
+                "name": "Invoking the Rune",
+                "type": "entries"
+            }
+        ],
+        "namePrefix": "Zephyr ",
+        "page": 117,
+        "rarity": "rare",
+        "reqAttune": true,
+        "source": "BGG"
+    },
+    "name": "Zephyr Armor",
+    "requires": [
+        {
+            "type": "LA"
+        }
+    ],
+    "type": "GV"
+}

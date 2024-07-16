@@ -1,0 +1,28 @@
+{
+    "ability": [
+        {
+            "wis": 2
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency in the {@skill Perception} skill. In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls."
+            ],
+            "name": "Hawkeyed",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Hawk-Headed",
+    "page": 16,
+    "raceName": "Aven",
+    "raceSource": "PSA",
+    "skillProficiencies": [
+        {
+            "perception": true
+        }
+    ],
+    "source": "PSA"
+}

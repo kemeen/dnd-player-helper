@@ -1,0 +1,53 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Deathwalker's Ward reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The AC bonus of the armor increases to +3.",
+                                            "As a bonus action, you grow large black raven wings that grant you a flying speed of 60 feet and last for 1 hour. Once this property is used, it can't be used again until you finish a {@quickref resting|PHB|2|0|long rest}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Deathwalker's Ward (Awakened)",
+        "source": "TDCSR"
+    },
+    "bonusWeapon": "+3",
+    "hasFluffImages": true,
+    "modifySpeed": {
+        "static": {
+            "fly": 60
+        }
+    },
+    "name": "Deathwalker's Ward (Exalted)",
+    "recharge": "restLong",
+    "resist": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "necrotic",
+        "poison"
+    ],
+    "source": "TDCSR"
+}

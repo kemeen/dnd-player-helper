@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "OotA",
+    "level": {
+        "end": 15,
+        "start": 1
+    },
+    "name": "Out of the Abyss",
+    "published": "2015-09-15",
+    "source": "OotA",
+    "storyline": "Rage of Demons"
+}

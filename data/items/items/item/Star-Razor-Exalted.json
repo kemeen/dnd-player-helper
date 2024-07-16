@@ -1,0 +1,46 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Star Razor reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The weapon's bonus to attack and damage rolls increases to +3.",
+                                            "The burst of radiance you can create as a reaction when hit with a melee attack deals {@damage 1d12} radiant damage, and you can immediately teleport to an unoccupied space you can see within 15 feet of you as part of the same reaction.",
+                                            "You can cast the {@spell fly} spell from the sword as an action, and the save DC for spells cast using the sword increases to 17."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Star Razor (Awakened)",
+        "source": "TDCSR"
+    },
+    "attachedSpells": [
+        "faerie fire",
+        "see invisibility",
+        "fly"
+    ],
+    "bonusWeapon": "+3",
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Star Razor (Exalted)",
+    "source": "TDCSR"
+}

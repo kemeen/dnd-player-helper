@@ -1,0 +1,29 @@
+{
+    "excludes": {
+        "name": [
+            "Staff",
+            "Rod",
+            "Wand"
+        ]
+    },
+    "inherits": {
+        "entries": [
+            "An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+            "If you're holding the orb when you take fire damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+        ],
+        "namePrefix": "Fernian Basalt ",
+        "page": 278,
+        "rarity": "common",
+        "reqAttune": true,
+        "source": "ERLW",
+        "wondrous": true
+    },
+    "name": "Orb of Shielding (Fernian Basalt)",
+    "requires": [
+        {
+            "scfType": "arcane",
+            "type": "SCF"
+        }
+    ],
+    "type": "GV"
+}

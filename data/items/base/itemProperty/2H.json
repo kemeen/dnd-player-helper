@@ -1,0 +1,14 @@
+{
+    "abbreviation": "2H",
+    "entries": [
+        {
+            "entries": [
+                "This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
+            ],
+            "name": "Two-Handed",
+            "type": "entries"
+        }
+    ],
+    "page": 147,
+    "source": "PHB"
+}

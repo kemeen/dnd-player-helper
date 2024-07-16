@@ -1,0 +1,16 @@
+{
+    "abbreviation": "Vst",
+    "entries": [
+        {
+            "entries": [
+                "{@note This item is a Vestige of Divergence, see {@book Tal'Dorei Treasures|TDCSR|5|Vestiges of Divergence} for more information.}"
+            ],
+            "name": "Vestige of Divergence",
+            "page": 200,
+            "type": "entries"
+        }
+    ],
+    "page": 200,
+    "source": "TDCSR",
+    "template": "Vestige"
+}

@@ -1,0 +1,237 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Sleight of Hand}, {@skill Stealth}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "{@item Disguise kit|phb}, {@item Thieves' tools|phb}",
+                    "name": "Tool Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of {@item common clothes|phb}, and a belt {@item pouch|phb} containing 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You know the secret patterns and flow to cities and can find passages through the urban sprawl that others would miss. When you are not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow."
+            ],
+            "name": "Feature: City Secrets",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Urchins are shaped by lives of desperate poverty, for good and for ill. They tend to be driven either by a commitment to the people with whom they shared life on the street or by a burning desire to find a better life\u2014and maybe get some payback on all the rich people who treated them badly.",
+                {
+                    "colLabels": [
+                        "d8",
+                        "Personality Trait"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-11"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "I hide scraps of food and trinkets away in my pockets."
+                        ],
+                        [
+                            "2",
+                            "I ask a lot of questions."
+                        ],
+                        [
+                            "3",
+                            "I like to squeeze into small places where no one else can get to me."
+                        ],
+                        [
+                            "4",
+                            "I sleep with my back to a wall or tree, with everything I own wrapped in a bundle in my arms."
+                        ],
+                        [
+                            "5",
+                            "I eat like a pig and have bad manners."
+                        ],
+                        [
+                            "6",
+                            "I think anyone who's nice to me is hiding evil intent."
+                        ],
+                        [
+                            "7",
+                            "I don't like to bathe."
+                        ],
+                        [
+                            "8",
+                            "I bluntly say what others are hinting at or hiding."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "colLabels": [
+                        "d6",
+                        "Ideal"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-11"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "Respect. All people, rich or poor, deserve respect. (Good)"
+                        ],
+                        [
+                            "2",
+                            "Community. We have to take care of each other, because no one else is going to do it. (Lawful)"
+                        ],
+                        [
+                            "3",
+                            "Change. The low are lifted up, and the high and mighty are brought down. Change is the nature of things. (Chaotic)"
+                        ],
+                        [
+                            "4",
+                            "Retribution. The rich need to be shown what life and death are like in the gutters. (Evil)"
+                        ],
+                        [
+                            "5",
+                            "People. I help the people who help me\u2014that's what keeps us alive. (Neutral)"
+                        ],
+                        [
+                            "6",
+                            "Aspiration. I'm going to prove that I'm worthy of a better life. (Any)"
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "colLabels": [
+                        "d6",
+                        "Bond"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-11"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "My town or city is my home, and I'll fight to defend it."
+                        ],
+                        [
+                            "2",
+                            "I sponsor an orphanage to keep others from enduring what I was forced to endure."
+                        ],
+                        [
+                            "3",
+                            "I owe my survival to another urchin who taught me to live on the streets."
+                        ],
+                        [
+                            "4",
+                            "I owe a debt I can never repay to the person who took pity on me."
+                        ],
+                        [
+                            "5",
+                            "I escaped my life of poverty by robbing an important person, and I'm wanted for it."
+                        ],
+                        [
+                            "6",
+                            "No one else should have to endure the hardships I've been through."
+                        ]
+                    ],
+                    "type": "table"
+                },
+                {
+                    "colLabels": [
+                        "d6",
+                        "Flaw"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-11"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "If I'm outnumbered, I will run away from a fight."
+                        ],
+                        [
+                            "2",
+                            "Gold seems like a lot of money to me, and I'll do just about anything for more of it."
+                        ],
+                        [
+                            "3",
+                            "I will never fully trust anyone other than myself."
+                        ],
+                        [
+                            "4",
+                            "I'd rather kill someone in their sleep than fight fair."
+                        ],
+                        [
+                            "5",
+                            "It's not stealing if I need it more than someone else."
+                        ],
+                        [
+                            "6",
+                            "People who can't take care of themselves get what they deserve."
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Urchin",
+    "page": 141,
+    "skillProficiencies": [
+        {
+            "sleight of hand": true,
+            "stealth": true
+        }
+    ],
+    "source": "PHB",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "special": "small knife"
+                },
+                {
+                    "special": "map of the city you grew up in"
+                },
+                {
+                    "special": "pet mouse"
+                },
+                {
+                    "special": "token to remember your parents by"
+                },
+                "common clothes|phb",
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "disguise kit": true,
+            "thieves' tools": true
+        }
+    ]
+}

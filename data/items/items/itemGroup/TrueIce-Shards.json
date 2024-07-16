@@ -1,0 +1,79 @@
+{
+    "attachedSpells": [
+        "detect thoughts",
+        "locate animals or plants",
+        "locate creature",
+        "locate object",
+        "scrying"
+    ],
+    "bonusAc": "+3",
+    "bonusWeapon": "+3",
+    "entries": [
+        "Crafted from the very glacier in which he was imprisoned, the True-Ice Shards are a rapier and parrying dagger (main gauche) pair used by Levistus. They exemplify his time spent in the glacier, augmenting telepathy, divination, and defense. Due to his control over ice, Levistus can conjure the True-Ice Shards from anywhere, including if they were destroyed.",
+        "You gain a +3 bonus to attack and damage rolls made with the magical rapier and it does {@damage 1d8} cold damage instead of its regular damage. When using the magic dagger, you gain a +3 bonus to your AC, as long as it is used as your offhand weapon, and it does {@damage 1d6} cold damage instead of its regular damage.",
+        "Because Levistus conjures the True-Ice Shards at will, he often rewards a copy of the artifact to his most loyal followers. The copies are identical to the original with one exception: Levistus can destroy or retrieve a copy at any time.",
+        {
+            "entries": [
+                "The True-Ice Shards have the following random properties:",
+                {
+                    "items": [
+                        "2 {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} properties",
+                        "2 {@table Artifact Properties; Minor Detrimental Properties|dmg|minor detrimental} properties",
+                        "1 {@table Artifact Properties; Major Detrimental Properties|dmg|major detrimental} property"
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Random Properties",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Cold damage dealt with the shards ignores resistances and immunities. Creatures vulnerable to cold damage take triple damage from the True-Ice Shards, rather than double.",
+                "After you damage a creature with the shards, you may use a bonus action to force the creature to make a DC 22 Constitution saving throw. On a failed save, the creature that took the damage becomes vulnerable to cold damage for 24 hours. Once you use this feature, you may not use it again until after you have finished a long rest."
+            ],
+            "name": "Sub-Zero",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As a reaction to being attacked, you use the rapier to increase your defense, adding +3 to your AC until the end of your next turn. If you attack with the rapier before the end of your next turn, you do not have its +3 bonus to attack and damage rolls."
+            ],
+            "name": "The Best Defense",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While attuned to the True-Ice Shards, you can use an action to cast the {@spell Detect Thoughts} spell (save DC 20), targeting any creature you have previously met. If the targeted creature is on a different plane of existence, the spell fails.",
+                "As long as you maintain {@status concentration}, you can use a bonus action to send a telepathic message to the focused creature. It can reply\u2014using a bonus action to do so\u2014as long as the focus and {@status concentration} continue."
+            ],
+            "name": "Mental Command",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can use the True-Ice Shards to cast a variety of divination spells. {@spell Locate Animals or Plants}, {@spell Locate Creature}, and {@spell Locate Object} may be cast at will, and don't have a maximum range. Other limitations of the spells still apply, and they can't detect subjects on other planes of existence.",
+                "Additionally, you may cast {@spell Scrying} (with a spell save DC of 20) and Find the Path. Once either spell is cast, you must finish a long rest before casting either of them again."
+            ],
+            "name": "Omniscient",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While Levistus still lives, destroying the True-Ice Shards serves little purpose, as he is capable of recreating them at will. That aside, the shards can be destroyed when subjected to a sufficient source of heat. A few such sources include the inside of an active volcano, a continuous source of Hellfire, or a powerful fire spell cast at 9th level."
+            ],
+            "name": "Destroying the Shards",
+            "type": "entries"
+        }
+    ],
+    "items": [
+        "True-Ice Shards (Rapier)|CoA",
+        "True-Ice Shards (Dagger)|CoA"
+    ],
+    "name": "True-Ice Shards",
+    "page": 275,
+    "rarity": "artifact",
+    "reqAttune": true,
+    "source": "CoA",
+    "type": "M"
+}

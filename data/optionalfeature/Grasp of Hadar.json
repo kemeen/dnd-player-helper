@@ -1,0 +1,18 @@
+{
+    "entries": [
+        "Once on each of your turns when you hit a creature with your {@spell eldritch blast}, you can move that creature in a straight line 10 feet closer to you."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Grasp of Hadar",
+    "page": 57,
+    "prerequisite": [
+        {
+            "spell": [
+                "eldritch blast#c"
+            ]
+        }
+    ],
+    "source": "XGE"
+}

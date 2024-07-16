@@ -1,0 +1,112 @@
+{
+    "ability": [
+        {
+            "con": 2,
+            "wis": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "expanded": {
+                "s1": [
+                    "compelled duel",
+                    "shield of faith"
+                ],
+                "s2": [
+                    "warding bond",
+                    "zone of truth"
+                ],
+                "s3": [
+                    "counterspell",
+                    "protection from energy"
+                ],
+                "s4": [
+                    "death ward",
+                    "guardian of faith"
+                ],
+                "s5": [
+                    "bigby's hand"
+                ]
+            },
+            "known": {
+                "1": [
+                    "shield"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "When you make a Wisdom ({@skill Insight}) or Wisdom ({@skill Perception}) check, you can roll a {@dice d4} and add the number rolled to the ability check."
+            ],
+            "name": "Sentinel's Intuition",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell shield} spell once with this trait, and you regain the ability to cast it after you finish a long rest. Wisdom is your spellcasting ability for this spell."
+            ],
+            "name": "Guardian's Shield",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When a creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to swap places with that creature, and you are hit by the attack instead. Once you use this trait, you can't do so again until you finish a long rest."
+            ],
+            "name": "Vigilant Guardian",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Sentinel Spells table are added to the spell list of your spellcasting class.",
+                {
+                    "caption": "Mark of Sentinel Spells",
+                    "colLabels": [
+                        "Spell Level",
+                        "Spells"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-10"
+                    ],
+                    "rows": [
+                        [
+                            "1st",
+                            "{@spell compelled duel}, {@spell shield of faith}"
+                        ],
+                        [
+                            "2nd",
+                            "{@spell warding bond}, {@spell zone of truth}"
+                        ],
+                        [
+                            "3rd",
+                            "{@spell counterspell}, {@spell protection from energy}"
+                        ],
+                        [
+                            "4th",
+                            "{@spell death ward}, {@spell guardian of faith}"
+                        ],
+                        [
+                            "5th",
+                            "{@spell Bigby's hand}"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Spells of the Mark",
+            "type": "entries"
+        }
+    ],
+    "name": "Mark of Sentinel",
+    "page": 48,
+    "raceName": "Human",
+    "raceSource": "PHB",
+    "source": "ERLW",
+    "traitTags": [
+        "Dragonmark",
+        "Skill Bonus Dice"
+    ]
+}

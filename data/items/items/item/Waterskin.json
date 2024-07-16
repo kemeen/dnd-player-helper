@@ -1,0 +1,15 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A waterskin can hold up to 4 pints of liquid."
+    ],
+    "name": "Waterskin",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 20,
+    "weight": 5,
+    "weightNote": "(full)"
+}

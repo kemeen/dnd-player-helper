@@ -1,0 +1,19 @@
+{
+    "baseItem": "longsword|phb",
+    "dmg1": "1d8",
+    "dmg2": "1d10",
+    "dmgType": "S",
+    "entries": [
+        "This longsword has a dragon-shaped hilt. While you carry it, you gain the ability to speak and understand the Draconic language."
+    ],
+    "name": "Draconic Longsword",
+    "page": 173,
+    "property": [
+        "V"
+    ],
+    "rarity": "unknown (magic)",
+    "source": "ToA",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

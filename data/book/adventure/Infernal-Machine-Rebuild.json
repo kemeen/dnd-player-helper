@@ -1,0 +1,12 @@
+{
+    "group": "supplement-alt",
+    "id": "IMR",
+    "level": {
+        "end": 10,
+        "start": 5
+    },
+    "name": "Infernal Machine Rebuild",
+    "published": "2019-11-12",
+    "source": "IMR",
+    "storyline": "Extra Life"
+}

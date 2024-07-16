@@ -1,0 +1,24 @@
+{
+    "ability": [
+        {
+            "int": 1
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "A humanoid killed with your Bloodthirst ability becomes a {@creature Vampire Null|PSZ|null}."
+            ],
+            "name": "Null Transformation",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Zendikar",
+    "otherSources": null,
+    "page": 14,
+    "raceName": "Vampire",
+    "raceSource": "PSZ",
+    "source": "PSZ"
+}

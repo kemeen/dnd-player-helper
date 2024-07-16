@@ -1,0 +1,72 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "shield"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "detect thoughts"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "mage hand#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You know the {@spell mage hand} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
+                "Starting at 3rd level, you can cast the {@spell shield} spell with this trait. Starting at 5th level, you can also cast the {@spell detect thoughts} spell with it. Once you cast {@spell shield} or {@spell detect thoughts} spell with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.",
+                "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait."
+            ],
+            "name": "Githzerai Psionics",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the {@condition charmed} and {@condition frightened} conditions on yourself."
+            ],
+            "name": "Mental Discipline",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to psychic damage."
+            ],
+            "name": "Psychic Resilience",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Githzerai",
+    "page": 19,
+    "resist": [
+        "psychic"
+    ],
+    "size": [
+        "M"
+    ],
+    "source": "MPMM",
+    "speed": 30
+}

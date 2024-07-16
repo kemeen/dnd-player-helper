@@ -1,0 +1,9 @@
+{
+    "name": "celestial",
+    "typical_speakers": [
+        "celestials"
+    ],
+    "script": "celestial",
+    "type": "exotic",
+    "parent": null
+}

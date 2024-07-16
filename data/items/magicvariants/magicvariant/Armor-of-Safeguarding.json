@@ -1,0 +1,30 @@
+{
+    "inherits": {
+        "attachedSpells": [
+            "beacon of hope"
+        ],
+        "entries": [
+            "Set in the center of this armor's chest is a citrine engraved with the shield rune.",
+            "While wearing this armor, your hit point maximum increases by an amount equal to 10 + your level.",
+            {
+                "entries": [
+                    "As an action, you can invoke the armor's rune to cast the {@spell beacon of hope} spell with it; the spell has a duration of 1 minute and doesn't require {@status concentration}. Once the rune has been invoked, it can't be invoked again until the next dawn."
+                ],
+                "name": "Invoking the Rune",
+                "type": "entries"
+            }
+        ],
+        "nameSuffix": " of Safeguarding",
+        "page": 111,
+        "rarity": "very rare",
+        "reqAttune": true,
+        "source": "BGG"
+    },
+    "name": "Armor of Safeguarding",
+    "requires": [
+        {
+            "type": "HA"
+        }
+    ],
+    "type": "GV"
+}

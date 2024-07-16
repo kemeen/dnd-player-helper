@@ -1,0 +1,45 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "a handful of oak bark",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing."
+    ],
+    "hasFluffImages": true,
+    "level": 2,
+    "miscTags": [
+        "MAC"
+    ],
+    "name": "Barkskin",
+    "page": 217,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

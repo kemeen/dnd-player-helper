@@ -1,0 +1,31 @@
+{
+    "carryingCapacity": 1500,
+    "entries": [
+        "The hulking plainscow is an exceptionally sturdy beast of burden native to the {@book Dividing Plains|TDCSR|3|Dividing Plains} and used by the people of central Tal'Dorei for centuries. Though many wild herds still roam the plains, domesticated plainscows are more common, used as {@quickref Mounts and Vehicles|PHB|1|0|mounts}, pack animals, and livestock. Plainscows are unusually empathetic for beasts, and often bond with a rider for life. They stand 6 feet tall, weigh about two tons, and live for 70 years.",
+        {
+            "entries": [
+                {
+                    "entries": [
+                        {
+                            "entries": [
+                                "Plainscows can be bought in {@book Westruun|TDCSR|3|Westruun} for 200 gp. A plainscow has a carrying capacity of 1,500 pounds."
+                            ],
+                            "name": "Market Value",
+                            "page": 248,
+                            "type": "entries"
+                        }
+                    ],
+                    "type": "entries"
+                }
+            ],
+            "type": "entries"
+        }
+    ],
+    "name": "Plainscow",
+    "page": 248,
+    "rarity": "none",
+    "source": "TDCSR",
+    "speed": 40,
+    "type": "MNT",
+    "value": 20000
+}

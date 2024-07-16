@@ -1,0 +1,12 @@
+{
+    "bonusSavingThrow": "+1",
+    "entries": [
+        "This golden statuette grants any good-aligned creature that carries it a +1 bonus to saving throws."
+    ],
+    "name": "Statuette of Saint Markovia",
+    "page": 152,
+    "rarity": "unknown (magic)",
+    "source": "CoS",
+    "type": "OTH",
+    "value": 25000
+}

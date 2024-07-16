@@ -1,0 +1,74 @@
+{
+    "baseItem": "whip|PHB",
+    "bonusWeapon": "+3",
+    "dmg1": "1d4",
+    "dmgType": "S",
+    "entries": [
+        "Erebos wields Mastix, a whip capable of extending like an impossibly long shadow. In the hands of the god of the dead, the whip snares the reluctant dead and drags them into his realm. When Erebos grants his weapon to a mortal follower, it's typically to reclaim a powerful soul or to humiliate Heliod.",
+        {
+            "entries": [
+                "Erebos's whip seethes with the enervating energy of the Underworld. This magic whip grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using this whip, the target takes an extra {@damage 2d8} necrotic damage and you regain hit points equal to half the amount of necrotic damage dealt.",
+                "Additionally, when you make an attack with the whip on your turn, you can increase the range of the attack to 300 feet. This property of the weapon can't be used again until the next dusk."
+            ],
+            "name": "Whip of the Dead",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you are a worshiper of Erebos, you gain all the following benefits for which you have the required piety:",
+                {
+                    "items": [
+                        {
+                            "entry": "The whip has 1 randomly determined {@table Artifact Properties; Minor Detrimental Properties|dmg|minor detrimental} property\u2014a burden Erebos imposes to test his faithful.",
+                            "name": "Piety 1+",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "The whip has 1 randomly determined {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} property.",
+                            "name": "Piety 25+",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "The whip has 1 additional randomly determined {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} property.",
+                            "name": "Piety 50+",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                },
+                "If you aren't a worshiper of Erebos, the whip has 2 randomly determined {@table Artifact Properties; Major Detrimental Properties|dmg|major detrimental} properties.",
+                "See \"Artifacts\" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties."
+            ],
+            "name": "Blessing of the Dead",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While carrying the whip, you can use an action to cast either {@spell circle of death} or {@spell dominate monster} (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can't be cast from it again until the next dusk."
+            ],
+            "name": "Erebos's Claim",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "To destroy the whip, it must be taken to the heights of Mount Hiastos in Nyx, unraveled by a Returned, and left to bask in continual daylight for one month."
+            ],
+            "name": "Destroying the Whip",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Mastix, Whip of Erebos",
+    "page": 201,
+    "property": [
+        "F",
+        "R"
+    ],
+    "rarity": "artifact",
+    "reqAttune": true,
+    "source": "MOT",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

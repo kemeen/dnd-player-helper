@@ -1,0 +1,64 @@
+{
+    "entries": [
+        "This mottled green mask is surmounted by a frilled crest and has leathery spiked plates along its jaw. The mask reshapes to fit a wearer attuned to it. While you are wearing the mask and attuned to it, you can access the following properties",
+        {
+            "entries": [
+                "You have resistance against poison damage. If you already have resistance to poison damage from another source, you instead have immunity to poison damage. If you already have immunity to poison damage from another source, whenever you are subjected to poison damage, you take none of that damage and regain a number of hit points equal to half the damage dealt of that type."
+            ],
+            "name": "Damage Absorption",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While you are wearing no armor, you can add your Charisma bonus to your Armor Class."
+            ],
+            "name": "Draconic Majesty",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you have a breath weapon that requires rest to recharge, it gains a recharge of 6."
+            ],
+            "name": "Dragon Breath",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain {@sense darkvision} out to 60 feet, or to an additional 60 feet if you already have that sense. Once per day, you can gain {@sense blindsight} out to 30 feet for 5 minutes."
+            ],
+            "name": "Dragon Sight",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak and understand Draconic. You also have advantage on any Charisma check you make against Green Dragons."
+            ],
+            "name": "Dragon Tongue",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "(1/Day) If you fail a saving throw, you can choose to succeed instead."
+            ],
+            "name": "Legendary Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can breathe underwater."
+            ],
+            "name": "Water Breathing",
+            "type": "entries"
+        }
+    ],
+    "grantsLanguage": true,
+    "name": "Green Dragon Mask",
+    "page": 4,
+    "rarity": "legendary",
+    "reqAttune": true,
+    "resist": [
+        "poison"
+    ],
+    "source": "RoTOS",
+    "wondrous": true
+}

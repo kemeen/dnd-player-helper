@@ -1,0 +1,117 @@
+{
+    "ability": [
+        {
+            "dex": 2,
+            "wis": 1
+        }
+    ],
+    "age": {
+        "mature": 100,
+        "max": 750
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in the {@skill Perception} skill."
+            ],
+            "name": "Keen Senses",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+            ],
+            "name": "Elf Weapon Training",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+            ],
+            "name": "Fey Ancestry",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.",
+                "{@note If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.}"
+            ],
+            "name": "Trance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The elves of Kaladesh don't organize themselves into nations or tribes. Still, they recognize three distinct cultural groups among their kind\u2014though in truth these groupings are more like attitudes or alignments with regard to the rest of society and the use of technology. Choose one of these cultures."
+            ],
+            "name": "Elf Culture",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "common": true,
+            "elvish": true
+        }
+    ],
+    "name": "Elf (Kaladesh)",
+    "page": 20,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "perception": true
+        }
+    ],
+    "source": "PSK",
+    "speed": 30,
+    "traitTags": [
+        "Improved Resting"
+    ],
+    "weaponProficiencies": [
+        {
+            "longbow|phb": true,
+            "longsword|phb": true,
+            "shortbow|phb": true,
+            "shortsword|phb": true
+        }
+    ]
+}

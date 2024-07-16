@@ -1,0 +1,12 @@
+{
+    "entries": [
+        "A device that always directs the user to the sun by emitting a small light at the tip of the needle in a glass orb, allowing it to rotate in all directions\u2014a very useful tool when exploring subterranean territory.",
+        "Created by {@book Karaline von Ethro|TDCSR|3|Karaline von Ethro}."
+    ],
+    "name": "Sunbeam Compass",
+    "page": 143,
+    "rarity": "unknown (magic)",
+    "source": "TDCSR",
+    "type": "OTH",
+    "wondrous": true
+}

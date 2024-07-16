@@ -1,0 +1,29 @@
+{
+    "inherits": {
+        "attachedSpells": [
+            "antimagic field"
+        ],
+        "entries": [
+            "While wearing this armor, you can use your reaction to give yourself advantage on a saving throw you make against a spell. Once this property is used, it can't be used again until the next dawn.",
+            "In addition, while you wear this armor, you can use it to cast {@spell Antimagic Field}, requiring no spell components. Once this property is used, it can't be used again until the next dawn."
+        ],
+        "namePrefix": "Antimagic ",
+        "page": 65,
+        "rarity": "very rare",
+        "reqAttune": true,
+        "source": "BMT"
+    },
+    "name": "Antimagic Armor",
+    "requires": [
+        {
+            "type": "LA"
+        },
+        {
+            "type": "MA"
+        },
+        {
+            "type": "HA"
+        }
+    ],
+    "type": "GV"
+}

@@ -1,0 +1,39 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Cabal's Ruin reaches an exalted state, you gain the following benefit:",
+                                    {
+                                        "items": [
+                                            "The cloak has 10 charges and it regains {@dice 1d6 + 4} expended charges daily at dawn."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Cabal's Ruin (Awakened)",
+        "source": "TDCSR"
+    },
+    "charges": 10,
+    "hasFluffImages": true,
+    "name": "Cabal's Ruin (Exalted)",
+    "rechargeAmount": "{@dice 1d6 + 2}",
+    "source": "TDCSR"
+}

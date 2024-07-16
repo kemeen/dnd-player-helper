@@ -1,0 +1,21 @@
+{
+    "basicRules": true,
+    "containerCapacity": {
+        "item": [
+            {
+                "arrow|phb": 20
+            }
+        ]
+    },
+    "entries": [
+        "A quiver can hold up to 20 {@item arrow|phb|arrows}."
+    ],
+    "name": "Quiver",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 100,
+    "weight": 1
+}

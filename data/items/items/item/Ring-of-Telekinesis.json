@@ -1,0 +1,20 @@
+{
+    "attachedSpells": [
+        "telekinesis"
+    ],
+    "entries": [
+        "While wearing this ring, you can cast the {@spell telekinesis} spell at will, but you can target only objects that aren't being worn or carried."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Ring of Telekinesis",
+    "page": 193,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

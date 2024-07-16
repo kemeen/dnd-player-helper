@@ -1,0 +1,121 @@
+{
+    "ability": [
+        {
+            "str": 2,
+            "wis": 1
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "creatureTypes": [
+        "fey"
+    ],
+    "entries": [
+        {
+            "entries": [
+                "Centaurs mature and age at about the same rate as humans."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Centaurs are inclined toward neutrality. Those who join the Selesnya are more often neutral good, while those who join the Gruul are typically chaotic neutral."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Centaurs stand between 6 and 7 feet tall, with their equine bodies reaching about 4 feet at the withers. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your creature type is fey, rather than humanoid."
+            ],
+            "name": "Fey",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves."
+            ],
+            "name": "Charge",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your hooves are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to {@damage 1d4} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+            ],
+            "name": "Hooves",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You count as one size larger when determining your carrying capacity and the weight you can push or drag.",
+                "In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot."
+            ],
+            "name": "Equine Build",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency in one of the following skills of your choice: {@skill Animal Handling}, {@skill Medicine}, {@skill Nature}, or {@skill Survival}."
+            ],
+            "name": "Survivor",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Sylvan. Sylvan is widely spoken in the Selesnya Conclave, for it is rich in vocabulary to describe natural phenomena and spiritual forces."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 72,
+        "baseWeight": 600,
+        "heightMod": "1d10",
+        "weightMod": "2d12"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "sylvan": true
+        }
+    ],
+    "name": "Centaur",
+    "page": 15,
+    "reprintedAs": [
+        "Centaur|MPMM"
+    ],
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "animal handling",
+                    "medicine",
+                    "nature",
+                    "survival"
+                ]
+            }
+        }
+    ],
+    "source": "GGR",
+    "speed": 40,
+    "traitTags": [
+        "Natural Weapon",
+        "Powerful Build"
+    ]
+}

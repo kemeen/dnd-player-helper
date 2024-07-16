@@ -1,0 +1,10 @@
+{
+    "name": "draconic",
+    "typical_speakers": [
+        "dragons",
+        "dragonborn"
+    ],
+    "script": "draconic",
+    "type": "exotic",
+    "parent": null
+}

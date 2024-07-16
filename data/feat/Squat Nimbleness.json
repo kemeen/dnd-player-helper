@@ -1,0 +1,50 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "dex"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You are uncommonly nimble for your race. You gain the following benefits:",
+        {
+            "items": [
+                "Increase your walking speed by 5 feet.",
+                "You gain proficiency in the {@skill Acrobatics} or {@skill Athletics} skill (your choice).",
+                "You have advantage on any Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check you make to escape from being {@condition grappled}."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Squat Nimbleness",
+    "page": 75,
+    "prerequisite": [
+        {
+            "race": [
+                {
+                    "name": "dwarf"
+                },
+                {
+                    "displayEntry": "a Small race",
+                    "name": "small race"
+                }
+            ]
+        }
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "acrobatics",
+                    "athletics"
+                ]
+            }
+        }
+    ],
+    "source": "XGE"
+}

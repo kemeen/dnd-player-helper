@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "club": true,
+    "dmg1": "1d8",
+    "dmgType": "B",
+    "name": "Greatclub",
+    "page": 149,
+    "property": [
+        "2H"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 20,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 10
+}

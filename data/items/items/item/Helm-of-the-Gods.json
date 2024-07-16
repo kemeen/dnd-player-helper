@@ -1,0 +1,89 @@
+{
+    "charges": 3,
+    "entries": [
+        "While wearing this helm, you know whether there is a celestial or fiend within 30 feet of you, as well as where the creature is located, provided the creature isn't behind total cover.",
+        "Whenever you finish a long rest while wearing the helm, you can pray to one of the gods listed on the Helm of the Gods table and store the listed spell in the helm, replacing any spell that is already stored there. The save DC for the spell is 13.",
+        "The helm has 3 charges. To cast a spell from the helm, you must expend 1 charge, and the helm regains {@dice 1d3} charges daily at dawn.",
+        {
+            "colLabels": [
+                "God",
+                "Spell"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10 text-center"
+            ],
+            "rows": [
+                [
+                    "Athreos",
+                    "{@spell protection from evil and good}"
+                ],
+                [
+                    "Ephara",
+                    "{@spell sanctuary}"
+                ],
+                [
+                    "Erebos",
+                    "{@spell inflict wounds}"
+                ],
+                [
+                    "Heliod",
+                    "{@spell guiding bolt}"
+                ],
+                [
+                    "Iroas",
+                    "{@spell heroism}"
+                ],
+                [
+                    "Karametra",
+                    "{@spell goodberry}"
+                ],
+                [
+                    "Keranos",
+                    "{@spell thunderous smite}"
+                ],
+                [
+                    "Klothys",
+                    "{@spell entangle}"
+                ],
+                [
+                    "Kruphix",
+                    "{@spell dissonant whispers}"
+                ],
+                [
+                    "Mogis",
+                    "{@spell hellish rebuke}"
+                ],
+                [
+                    "Nylea",
+                    "{@spell faerie fire}"
+                ],
+                [
+                    "Pharika",
+                    "{@spell lesser restoration}"
+                ],
+                [
+                    "Phenax",
+                    "{@spell charm person}"
+                ],
+                [
+                    "Purphoros",
+                    "{@spell searing smite}"
+                ],
+                [
+                    "Thassa",
+                    "{@spell identify}"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "name": "Helm of the Gods",
+    "page": 196,
+    "rarity": "rare",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d3}",
+    "reqAttune": true,
+    "source": "MOT",
+    "wondrous": true
+}

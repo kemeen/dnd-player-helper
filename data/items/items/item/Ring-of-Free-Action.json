@@ -1,0 +1,20 @@
+{
+    "entries": [
+        "While you wear this ring, {@quickref difficult terrain||3} doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be {@condition paralyzed} or {@condition restrained}."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table G"
+    ],
+    "name": "Ring of Free Action",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 191,
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "RG"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "deep speech",
+    "typical_speakers": [
+        "mind flayers",
+        "beholders"
+    ],
+    "script": null,
+    "type": "exotic",
+    "parent": null
+}

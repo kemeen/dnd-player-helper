@@ -1,0 +1,92 @@
+{
+    "ability": [
+        {
+            "cha": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "cha",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "faerie fire"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "darkness"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "dancing lights#c"
+                ]
+            }
+        }
+    ],
+    "alias": [
+        "Dark"
+    ],
+    "darkvision": 120,
+    "entries": [
+        {
+            "data": {
+                "overwrite": "Darkvision"
+            },
+            "entries": [
+                "Accustomed to the depths of the Underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Superior Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have disadvantage on attack rolls and on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+            ],
+            "name": "Sunlight Sensitivity",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell dancing lights} cantrip. When you reach 3rd level, you can cast the {@spell faerie fire} spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the {@spell darkness} spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+            ],
+            "name": "Drow Magic",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency with {@item rapier|phb|rapiers}, {@item shortsword|phb|shortswords}, and {@item hand crossbow|phb|hand crossbows}."
+            ],
+            "name": "Drow Weapon Training",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "heightAndWeight": {
+        "baseHeight": 53,
+        "baseWeight": 75,
+        "heightMod": "2d6",
+        "weightMod": "1d6"
+    },
+    "name": "Drow",
+    "page": 24,
+    "raceName": "Elf",
+    "raceSource": "PHB",
+    "source": "PHB",
+    "traitTags": [
+        "Sunlight Sensitivity"
+    ],
+    "weaponProficiencies": [
+        {
+            "hand crossbow|phb": true,
+            "rapier|phb": true,
+            "shortsword|phb": true
+        }
+    ]
+}

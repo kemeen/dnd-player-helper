@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Steel Mirror",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 500,
+    "weight": 0.5
+}

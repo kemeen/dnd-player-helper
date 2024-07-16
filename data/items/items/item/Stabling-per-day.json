@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "name": "Stabling (per day)",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "TAH",
+    "value": 50
+}

@@ -1,0 +1,32 @@
+{
+    "entries": [
+        "When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.",
+        "{@note Note: According to the SRD, it is an extra {@dice 2d6} damage, although {@link this is incorrect|https://rpg.stackexchange.com/a/174522/53884}.}"
+    ],
+    "excludes": {
+        "net": true
+    },
+    "hasFluffImages": true,
+    "inherits": {
+        "entries": [
+            "When you roll a 20 with this magic weapon, the target takes an extra 7 {=dmgType} damage.",
+            "{@note Note: According to the SRD, it is an extra {@dice 2d6} {=dmgType} damage, although {@link this is incorrect|https://rpg.stackexchange.com/a/174522/53884}.}"
+        ],
+        "lootTables": [
+            "Magic Item Table G"
+        ],
+        "namePrefix": "Vicious ",
+        "page": 209,
+        "rarity": "rare",
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "Vicious Weapon",
+    "requires": [
+        {
+            "weapon": true
+        }
+    ],
+    "type": "GV"
+}

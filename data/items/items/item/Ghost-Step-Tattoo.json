@@ -1,0 +1,38 @@
+{
+    "charges": 3,
+    "entries": [
+        "Produced by a special needle, this tattoo shifts and wavers on the skin, parts of it appearing blurred.",
+        {
+            "entries": [
+                "To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.",
+                "If your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space."
+            ],
+            "name": "Tattoo Attunement",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The tattoo has 3 charges, and it regains all expended charges daily at dawn. As a bonus action while the tattoo is on your skin, you can expend 1 of the tattoo's charges to become incorporeal until the end of your next turn. For the duration, you gain the following benefits:",
+                {
+                    "items": [
+                        "You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.",
+                        "You can't be {@condition grappled} or {@condition restrained}.",
+                        "You can move through creatures and solid objects as if they were {@quickref difficult terrain||3}. If you end your turn in a solid object, you take {@damage 1d10} force damage. If the effect ends while you are inside a solid object, you instead are shunted to the nearest unoccupied space, and you take {@damage 1d10} force damage for every 5 feet traveled."
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Ghostly Form",
+            "type": "entries"
+        }
+    ],
+    "name": "Ghost Step Tattoo",
+    "page": 128,
+    "rarity": "very rare",
+    "recharge": "dawn",
+    "rechargeAmount": 3,
+    "reqAttune": true,
+    "source": "TCE",
+    "tattoo": true,
+    "wondrous": true
+}

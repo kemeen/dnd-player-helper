@@ -1,0 +1,29 @@
+{
+    "hasFluffImages": true,
+    "inherits": {
+        "bonusWeapon": "+1",
+        "entries": [
+            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
+            "When you hit a giant with it, the giant takes an extra {@dice 2d6} damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall {@condition prone}. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls."
+        ],
+        "lootTables": [
+            "Magic Item Table G"
+        ],
+        "namePrefix": "Giant Slayer ",
+        "page": 172,
+        "rarity": "rare",
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "Giant Slayer",
+    "requires": [
+        {
+            "axe": true
+        },
+        {
+            "sword": true
+        }
+    ],
+    "type": "GV"
+}

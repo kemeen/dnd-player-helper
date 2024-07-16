@@ -1,0 +1,15 @@
+{
+    "group": "supplement-alt",
+    "id": "US",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "Wildemount: Unwelcome Spirits",
+    "parentName": "Explorer\u2019s Guide to Wildemount",
+    "parentSource": "EGW",
+    "published": "2020-03-17",
+    "publishedOrder": 3,
+    "source": "US",
+    "storyline": "Wildemount"
+}

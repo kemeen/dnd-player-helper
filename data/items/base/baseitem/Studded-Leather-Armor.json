@@ -1,0 +1,16 @@
+{
+    "ac": 12,
+    "armor": true,
+    "basicRules": true,
+    "entries": [
+        "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes."
+    ],
+    "name": "Studded Leather Armor",
+    "page": 144,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "LA",
+    "value": 4500,
+    "weight": 13
+}

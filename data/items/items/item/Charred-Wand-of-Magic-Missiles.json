@@ -1,0 +1,15 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "items": "Each time you expend a charge from this wand, there is a {@chance 50|50 percent} chance that nothing happens and the charge is wasted.",
+                "mode": "appendArr"
+            }
+        },
+        "name": "Wand of Magic Missiles",
+        "source": "DMG"
+    },
+    "name": "Charred Wand of Magic Missiles",
+    "page": 77,
+    "source": "WDH"
+}

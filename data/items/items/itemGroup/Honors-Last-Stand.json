@@ -1,0 +1,36 @@
+{
+    "ac": 2,
+    "baseItem": "shield|PHB",
+    "bonusAc": "+3",
+    "entries": [
+        "This massive silvered shield bears the crest of {@deity The Platinum Dragon|Exandria|TDCSR} and never tarnishes. Its metal is always warm to the touch."
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "items": [
+        "Honor's Last Stand (Dormant)|TDCSR",
+        "Honor's Last Stand (Awakened)|TDCSR",
+        "Honor's Last Stand (Exalted)|TDCSR"
+    ],
+    "name": "Honor's Last Stand",
+    "page": 206,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": "by a creature of non-evil alignment",
+    "reqAttuneTags": [
+        {
+            "alignment": [
+                "N",
+                "G",
+                "C",
+                "L",
+                "A"
+            ]
+        }
+    ],
+    "source": "TDCSR",
+    "type": "S",
+    "weight": 6
+}

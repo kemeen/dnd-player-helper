@@ -1,0 +1,24 @@
+{
+    "ac": 16,
+    "bonusAc": "+3",
+    "entries": [
+        "While wearing this armor, you gain a +3 bonus to AC, you are immune to fire damage, and you can understand and speak Primordial. In addition, you can stand on and walk across molten rock as if it were solid ground."
+    ],
+    "hasFluffImages": true,
+    "immune": [
+        "fire"
+    ],
+    "lootTables": [
+        "Magic Item Table I"
+    ],
+    "name": "Efreeti Chain",
+    "page": 167,
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "DMG",
+    "stealth": true,
+    "strength": "13",
+    "tier": "major",
+    "type": "HA",
+    "weight": 55
+}

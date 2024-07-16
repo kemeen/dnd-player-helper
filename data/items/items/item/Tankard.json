@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "A tankard holds 1 pint of liquid."
+    ],
+    "name": "Tankard",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 2,
+    "weight": 1
+}

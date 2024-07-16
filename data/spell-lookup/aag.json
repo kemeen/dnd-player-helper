@@ -1,0 +1,43 @@
+{
+    "air bubble": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true,
+                "Sorcerer": true,
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "create spelljamming helm": {
+        "class": {
+            "PHB": {
+                "Wizard": true
+            },
+            "TCE": {
+                "Artificer": true
+            }
+        }
+    }
+}

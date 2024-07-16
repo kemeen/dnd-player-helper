@@ -1,0 +1,27 @@
+{
+    "attachedSpells": [
+        "mending"
+    ],
+    "baseItem": "dagger|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d4",
+    "dmgType": "P",
+    "entries": [
+        "This weapon is a magic dagger disguised as a sewing needle. When you hold it and use a bonus action to speak its command word, it transforms into a dagger or back into a needle.",
+        "You gain a +1 bonus to attack and damage rolls made with the dagger. While holding it, you can use an action to cast the {@spell mending} cantrip from it."
+    ],
+    "name": "Needle of Mending",
+    "page": 268,
+    "property": [
+        "F",
+        "L",
+        "T"
+    ],
+    "range": "20/60",
+    "rarity": "rare",
+    "reqAttune": true,
+    "source": "EGW",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 1
+}

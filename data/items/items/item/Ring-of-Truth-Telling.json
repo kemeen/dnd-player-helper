@@ -1,0 +1,11 @@
+{
+    "entries": [
+        "While wearing this ring, you have advantage on Wisdom ({@skill Insight}) checks to determine whether someone is lying to you."
+    ],
+    "name": "Ring of Truth Telling",
+    "page": 192,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "WDH",
+    "type": "RG"
+}

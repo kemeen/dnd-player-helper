@@ -1,0 +1,29 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "index": 1,
+                    "items": {
+                        "data": {
+                            "isFeature": true
+                        },
+                        "entries": [
+                            "As elite as they are, the members of the {@book Whitestone Rifle Corps|TDCSR|3|Whitestone Rifle Corps} do not represent the apex of firearms skill in {@book Whitestone|TDCSR|3|Whitestone}. A clandestine group of elite soldiers and survivalists is drawn secretly from the Rifle Corps ranks. Called the {@book Grey Hunters|TDCSR|3|Grey Hunters}, these soldiers are special operatives of the de Rolo family, and loyally serve as spies, bodyguards, and even assassins when the job requires it. Though few officially know of them, rumors of the {@book Grey Hunters'|TDCSR|3|Grey Hunters} existence swirl constantly throughout the city-state, often in response to their activities after having been loaned out to protect {@book Whitestone's|TDCSR|3|Whitestone} allies.",
+                            "You are one of these {@book Grey Hunters|TDCSR|3|Grey Hunters}, even if just a trainee (if you're starting your campaign at low levels). You have the ear of the lord and lady of {@book Whitestone|TDCSR|3|Whitestone}, though you must exercise this privilege graciously lest you lose it."
+                        ],
+                        "name": "Variant: Grey Hunter",
+                        "page": 189,
+                        "type": "entries"
+                    },
+                    "mode": "insertArr"
+                }
+            ]
+        },
+        "name": "Whitestone Rifle Corps",
+        "source": "TDCSR"
+    },
+    "name": "Variant Whitestone Rifle Corps (Grey Hunter)",
+    "page": 182,
+    "source": "TDCSR"
+}

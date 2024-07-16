@@ -1,0 +1,48 @@
+{
+    "basicRules": true,
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its {@book school of magic|PHB|10|The Schools of Magic}, if any.",
+        "The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
+    ],
+    "level": 1,
+    "meta": {
+        "ritual": true
+    },
+    "name": "Detect Magic",
+    "otherSources": [
+        {
+            "page": 52,
+            "source": "RMR"
+        }
+    ],
+    "page": 231,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "D",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

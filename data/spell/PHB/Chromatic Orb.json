@@ -1,0 +1,62 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": {
+            "cost": 5000,
+            "text": "a diamond worth at least 50 gp"
+        },
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "poison",
+        "thunder"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes {@damage 3d8} damage of the type you chose."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by {@scaledamage 3d8|1-9|1d8} for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Chromatic Orb",
+    "page": 221,
+    "range": {
+        "distance": {
+            "amount": 90,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "V",
+    "source": "PHB",
+    "spellAttack": [
+        "R"
+    ],
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

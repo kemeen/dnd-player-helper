@@ -1,0 +1,14 @@
+{
+    "consumes": {
+        "name": "Superiority Die"
+    },
+    "entries": [
+        "When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving."
+    ],
+    "featureType": [
+        "MV:B"
+    ],
+    "name": "Evasive Footwork",
+    "page": 74,
+    "source": "PHB"
+}

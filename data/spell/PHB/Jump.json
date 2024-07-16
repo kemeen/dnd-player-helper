@@ -1,0 +1,40 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "a grasshopper's hind leg",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch a creature. The creature's {@book jump distance|phb|8|Jumping} is tripled until the spell ends."
+    ],
+    "level": 1,
+    "name": "Jump",
+    "page": 254,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "baseItem": "whip|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d4",
+    "dmgType": "S",
+    "entries": [
+        "You gain a +1 bonus to attack and damage rolls made with this magic whip. When you hit a creature or object that is Large or smaller with this whip, you can pull that creature or object 5 feet toward you instead of dealing damage."
+    ],
+    "name": "Grasping Whip",
+    "page": 67,
+    "property": [
+        "F",
+        "R"
+    ],
+    "rarity": "rare",
+    "source": "BMT",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

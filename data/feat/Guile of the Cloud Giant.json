@@ -1,0 +1,41 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "con",
+                    "cha"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You've manifested the confounding magic emblematic of cloud giants, granting you the following benefits:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "When a creature you can see hits you with an attack roll, you can use your reaction to give yourself resistance to that attack's damage. You then teleport to an unoccupied space that you can see within 30 feet of yourself. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+                    ],
+                    "name": "Cloudy Escape",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "name": "Guile of the Cloud Giant",
+    "page": 18,
+    "prerequisite": [
+        {
+            "feat": [
+                "strike of the giants|BGG|strike of the giants (cloud strike)"
+            ],
+            "level": 4
+        }
+    ],
+    "source": "BGG"
+}

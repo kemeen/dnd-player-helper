@@ -1,0 +1,25 @@
+{
+    "inherits": {
+        "entries": [
+            "{#itemEntry Armor of Resistance}"
+        ],
+        "hasRefs": true,
+        "nameSuffix": " of Lightning Resistance",
+        "page": 152,
+        "rarity": "rare",
+        "reqAttune": true,
+        "resist": [
+            "lightning"
+        ],
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "Armor of Lightning Resistance",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

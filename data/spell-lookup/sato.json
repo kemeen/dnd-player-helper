@@ -1,0 +1,85 @@
+{
+    "gate seal": {
+        "class": {
+            "PHB": {
+                "Sorcerer": {
+                    "definedInSources": [
+                        "SatO"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "SatO"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "SatO"
+                    ]
+                }
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "warp sense": {
+        "class": {
+            "PHB": {
+                "Sorcerer": {
+                    "definedInSources": [
+                        "SatO"
+                    ]
+                },
+                "Warlock": {
+                    "definedInSources": [
+                        "SatO"
+                    ]
+                },
+                "Wizard": {
+                    "definedInSources": [
+                        "SatO"
+                    ]
+                }
+            }
+        },
+        "feat": {
+            "DSotDQ": {
+                "Adept of the White Robes": true
+            }
+        },
+        "subclass": {
+            "PHB": {
+                "Fighter": {
+                    "PHB": {
+                        "Eldritch Knight": {
+                            "name": "Eldritch Knight"
+                        }
+                    }
+                },
+                "Rogue": {
+                    "PHB": {
+                        "Arcane Trickster": {
+                            "name": "Arcane Trickster"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

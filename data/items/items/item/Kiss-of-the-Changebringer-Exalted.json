@@ -1,0 +1,47 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Kiss of the Changebringer reaches an exalted state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The bonus to {@quickref saving throws|PHB|2|1} increases to +3.",
+                                            "You are immune to the {@condition paralyzed} and {@condition petrified} conditions.",
+                                            "When you make an attack roll, ability check, or {@quickref saving throws|PHB|2|1|saving throw}, you can roll an additional {@dice d20}. You can choose to do so after you make the attack roll, ability check, or {@quickref saving throws|PHB|2|1|saving throw}, but before the outcome is determined. You choose which of the {@dice 2d20|d20s} to use for your roll. This property of the amulet can't be used again until you finish a {@quickref resting|PHB|2|0|short or long rest}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Kiss of the Changebringer (Awakened)",
+        "source": "TDCSR"
+    },
+    "bonusSavingThrow": "+3",
+    "conditionImmune": [
+        "grappled",
+        "restrained",
+        "paralyzed",
+        "petrified"
+    ],
+    "hasFluffImages": true,
+    "name": "Kiss of the Changebringer (Exalted)",
+    "recharge": "restShort",
+    "source": "TDCSR"
+}

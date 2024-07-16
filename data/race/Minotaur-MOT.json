@@ -1,0 +1,40 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            "Minotaurs mature and age at about the same rate as humans."
+                        ],
+                        "name": "Age",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Age"
+                },
+                {
+                    "items": {
+                        "entries": [
+                            "Minotaurs who leave the walls of Skophos have the opportunity to be free of its culture and pursue chaotic alignments, while those who remain within the polis and its tyrannical regime tend toward lawful alignments."
+                        ],
+                        "name": "Alignment",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Alignment"
+                }
+            ]
+        },
+        "name": "Minotaur",
+        "source": "GGR"
+    },
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Minotaur",
+    "page": 22,
+    "reprintedAs": [
+        "Minotaur|MPMM"
+    ],
+    "source": "MOT"
+}

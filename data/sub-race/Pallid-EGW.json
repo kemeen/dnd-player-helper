@@ -1,0 +1,62 @@
+{
+    "ability": [
+        {
+            "wis": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "wis",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "sleep"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "invisibility"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "light#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have advantage on Intelligence ({@skill Investigation}) and Wisdom ({@skill Insight}) checks."
+            ],
+            "name": "Incisive Sense",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell light} cantrip. When you reach 3rd level, you can cast the {@spell sleep} spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell invisibility} spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells."
+            ],
+            "name": "Blessing of the Moon Weaver",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 54,
+        "baseWeight": 90,
+        "heightMod": "2d10",
+        "weightMod": "1d4"
+    },
+    "name": "Pallid",
+    "page": 21,
+    "raceName": "Elf",
+    "raceSource": "PHB",
+    "source": "EGW"
+}

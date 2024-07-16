@@ -1,0 +1,19 @@
+{
+    "inherits": {
+        "bonusAc": "+2",
+        "entries": [
+            "You have a {=bonusAc} bonus to AC while wearing this armor. This armor loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer."
+        ],
+        "namePrefix": "Drow +2 ",
+        "page": 126,
+        "rarity": "unknown (magic)",
+        "source": "MM"
+    },
+    "name": "Drow +2 Armor",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

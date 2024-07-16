@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "CoS",
+    "level": {
+        "end": 10,
+        "start": 1
+    },
+    "name": "Curse of Strahd",
+    "published": "2016-03-15",
+    "source": "CoS",
+    "storyline": "Ravenloft"
+}

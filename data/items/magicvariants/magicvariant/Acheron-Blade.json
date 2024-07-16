@@ -1,0 +1,34 @@
+{
+    "inherits": {
+        "bonusWeapon": "+1",
+        "entries": [
+            "The black blade of this sword is crafted from a mysterious arcane alloy. You gain a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.",
+            {
+                "entries": [
+                    "While holding the sword, you can use an action to give yourself {@dice 1d4 + 4} temporary hit points. This property can't be used again until the next dusk."
+                ],
+                "name": "Dark Blessing",
+                "type": "entries"
+            },
+            {
+                "entries": [
+                    "When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it's immune to the {@condition frightened} condition. Once you use this property, you can't do so again until the next dusk."
+                ],
+                "name": "Disheartening Strike",
+                "type": "entries"
+            }
+        ],
+        "namePrefix": "Acheron Blade ",
+        "page": 265,
+        "rarity": "rare",
+        "reqAttune": true,
+        "source": "EGW"
+    },
+    "name": "Acheron Blade",
+    "requires": [
+        {
+            "sword": true
+        }
+    ],
+    "type": "GV"
+}

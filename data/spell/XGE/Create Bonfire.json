@@ -1,0 +1,68 @@
+{
+    "areaTags": [
+        "C"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "fire"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take {@damage 1d8} fire damage. A creature must also make the saving throw when it moves into the bonfire's space for the first time on a turn or ends its turn there.",
+        "The bonfire ignites flammable objects in its area that aren't being worn or carried.",
+        "The spell's damage increases by {@dice 1d8} when you reach 5th level ({@damage 2d8}), 11th level ({@damage 3d8}), and 17th level ({@damage 4d8})."
+    ],
+    "level": 0,
+    "miscTags": [
+        "OBJ",
+        "SCL",
+        "SGT"
+    ],
+    "name": "Create Bonfire",
+    "otherSources": [
+        {
+            "page": 16,
+            "source": "EEPC"
+        }
+    ],
+    "page": 152,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "dexterity"
+    ],
+    "scalingLevelDice": {
+        "label": "fire damage",
+        "scaling": {
+            "1": "1d8",
+            "11": "3d8",
+            "17": "4d8",
+            "5": "2d8"
+        }
+    },
+    "school": "C",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

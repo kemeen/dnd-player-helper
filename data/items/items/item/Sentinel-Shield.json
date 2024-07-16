@@ -1,0 +1,16 @@
+{
+    "ac": 2,
+    "entries": [
+        "While holding this shield, you have advantage on initiative rolls and Wisdom ({@skill Perception}) checks. The shield is emblazoned with a symbol of an eye."
+    ],
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Sentinel Shield",
+    "page": 199,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "tier": "major",
+    "type": "S",
+    "weight": 6
+}

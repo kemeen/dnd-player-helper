@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "club": true,
+    "dmg1": "1d4",
+    "dmgType": "B",
+    "name": "Club",
+    "page": 149,
+    "property": [
+        "L"
+    ],
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 10,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 2
+}

@@ -1,0 +1,18 @@
+{
+    "encode thoughts": {
+        "background": {
+            "GGR": {
+                "Dimir Operative": true
+            }
+        },
+        "optionalfeature": {
+            "PHB": {
+                "Pact of the Tome": {
+                    "featureType": [
+                        "PB"
+                    ]
+                }
+            }
+        }
+    }
+}

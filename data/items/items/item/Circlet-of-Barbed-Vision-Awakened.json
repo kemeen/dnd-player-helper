@@ -1,0 +1,44 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Circlet of Barbed Vision reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "You have resistance to poison damage, and you are immune to the {@condition poisoned} condition.",
+                                            "Your ability to gain a bonus to an attack roll can be used twice between rests."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Circlet of Barbed Vision (Dormant)",
+        "source": "TDCSR"
+    },
+    "conditionImmune": [
+        "poisoned"
+    ],
+    "hasFluffImages": true,
+    "name": "Circlet of Barbed Vision (Awakened)",
+    "resist": [
+        "poison"
+    ],
+    "source": "TDCSR"
+}

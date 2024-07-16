@@ -1,0 +1,92 @@
+{
+    "attachedSpells": [
+        "dominate monster",
+        "true polymorph"
+    ],
+    "baseItem": "trident|PHB",
+    "bonusWeapon": "+3",
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "P",
+    "entries": [
+        "Thassa wields Dekella, a two-pronged weapon gifted to her by Purphoros. When the god of the sea bestows her weapon on a mortal, it's often so they might work her will far from the ocean, right some wrong affecting those she'd prefer not to harm, or give a mortal a glimpse of her terrible responsibilities.",
+        {
+            "entries": [
+                "Thassa's signature weapon thrums with the icy currents of the deep ocean. This weapon functions as a trident that grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using the bident, the target takes an extra {@damage 2d10} cold damage."
+            ],
+            "name": "Bident of the Deep",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "If you are a worshiper of Thassa, you gain all the following benefits for which you have the required piety:",
+                {
+                    "items": [
+                        {
+                            "entry": "You can breathe underwater, and you gain a swimming speed of 60 feet.",
+                            "name": "Piety 10+",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "The bident has 1 randomly determined {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} property.",
+                            "name": "Piety 25+",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "The bident has 1 randomly determined {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} property.",
+                            "name": "Piety 50+",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                },
+                "If you aren't a worshiper of Thassa, the bident has 1 {@table Artifact Properties; Minor Detrimental Properties|dmg|minor detrimental} property and 1 {@table Artifact Properties; Major Detrimental Properties|dmg|major detrimental} property, both randomly determined.",
+                "See \"Artifacts\" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties."
+            ],
+            "name": "Blessing of the Deep",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The bident holds the power to command the waves and its creatures. As an action, you can change the condition of the sea within 1 mile of you, creating strong winds and heavy rain that cause violent waves (see \"Weather at Sea\" in chapter 5 of the Dungeon Master's Guide) or calming a storm. In either case, the unnatural weather lasts for 1 hour before returning to normal. Once used, this property of the bident can't be used again until the next dusk.",
+                "Additionally, you can cast the {@spell dominate monster} spell (save DC 18) from the bident, but only on beasts and monstrosities that have an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk."
+            ],
+            "name": "Command the Deep",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell true polymorph} spell (save DC 18) from the bident, but you must cast it on a creature to turn it into a kind of creature that has an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk."
+            ],
+            "name": "Aquatic Metamorphosis",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "To destroy the bident, it must be heated by the breath of an {@creature ancient red dragon} and then, while still hot, immersed in the Tartyx River."
+            ],
+            "name": "Destroying the Bident",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "modifySpeed": {
+        "static": {
+            "swim": 60
+        }
+    },
+    "name": "Dekella, Bident of Thassa",
+    "page": 199,
+    "property": [
+        "T",
+        "V"
+    ],
+    "range": "20/60",
+    "rarity": "artifact",
+    "reqAttune": true,
+    "source": "MOT",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 4
+}

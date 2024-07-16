@@ -1,0 +1,24 @@
+{
+    "ammoType": "crossbow bolt|phb",
+    "basicRules": true,
+    "crossbow": true,
+    "dmg1": "1d10",
+    "dmgType": "P",
+    "name": "Heavy Crossbow",
+    "page": 149,
+    "property": [
+        "A",
+        "H",
+        "LD",
+        "2H"
+    ],
+    "range": "100/400",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "R",
+    "value": 5000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 18
+}

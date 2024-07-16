@@ -1,0 +1,20 @@
+{
+    "basicRules": true,
+    "entries": [
+        "While wearing these dark lenses, you have {@sense darkvision} out to a range of 60 feet. If you already have {@sense darkvision}, wearing the goggles increases its range by 60 feet."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table B"
+    ],
+    "name": "Goggles of Night",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 172,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "wondrous": true
+}

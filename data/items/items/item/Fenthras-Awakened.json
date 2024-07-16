@@ -1,0 +1,40 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Fenthras reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The weapon's bonus to attack and damage rolls increases to +2. Additionally, when you hit with an attack using this weapon, the target takes an extra {@damage 1d4} lightning damage.",
+                                            "When you hit with an attack using this weapon, you can declare it a bramble shot. The attack deals an extra {@damage 3d8} piercing damage, and the target must succeed on a {@dc 15} Strength {@quickref saving throws|PHB|2|1|saving throw} or become {@condition restrained} by steely brambles that burst from the arrow. A {@condition restrained} target can repeat the {@quickref saving throws|PHB|2|1|saving throw} at the end of each of its turns, ending the effect on itself on a success. Once this property is used, it can't be used again until you finish a {@quickref resting|PHB|2|0|short or long rest}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Fenthras (Dormant)",
+        "source": "TDCSR"
+    },
+    "bonusWeapon": "+2",
+    "hasFluffImages": true,
+    "name": "Fenthras (Awakened)",
+    "recharge": "restShort",
+    "source": "TDCSR"
+}

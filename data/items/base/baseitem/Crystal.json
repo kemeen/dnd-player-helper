@@ -1,0 +1,12 @@
+{
+    "basicRules": true,
+    "name": "Crystal",
+    "page": 151,
+    "rarity": "none",
+    "scfType": "arcane",
+    "source": "PHB",
+    "srd": true,
+    "type": "SCF",
+    "value": 1000,
+    "weight": 1
+}

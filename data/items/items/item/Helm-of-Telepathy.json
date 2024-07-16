@@ -1,0 +1,25 @@
+{
+    "attachedSpells": [
+        "detect thoughts",
+        "suggestion"
+    ],
+    "entries": [
+        "While wearing this helm, you can use an action to cast the {@spell detect thoughts} spell (save DC 13) from it. As long as you maintain {@status concentration} on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply\u2014using a bonus action to do so\u2014while your focus on it continues.",
+        "While focusing on a creature with {@spell detect thoughts}, you can use an action to cast the {@spell suggestion} spell (save DC 13) from the helm on that creature. Once used, the suggestion property can't be used again until the next dawn."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Helm of Telepathy",
+    "optionalfeatures": [
+        "replicate magic item|tce"
+    ],
+    "page": 174,
+    "rarity": "uncommon",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

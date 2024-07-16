@@ -1,0 +1,24 @@
+{
+    "baseItem": "whip|PHB",
+    "bonusWeapon": "+1",
+    "dmg1": "1d4",
+    "dmgType": "S",
+    "entries": [
+        "This braided cord is dull bronze in color, ends in a splayed set of three barbs, and gleams like metal under any light. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which has a reach of 20 feet. When you hit a creature or object using this whip, you can attempt to {@action grapple} the target as a bonus action.",
+        "While you have a creature {@condition grappled} using this whip, you can use your action to either pull the creature up to 20 feet toward you, or cause the creature to be {@condition restrained} until you let go of the whip. A creature {@condition restrained} in this way can escape by making a successful Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check as an action. The DC of this check equals 8 + your proficiency bonus + your Strength modifier."
+    ],
+    "hasRefs": true,
+    "name": "Inescapable Lash",
+    "page": 195,
+    "property": [
+        "F",
+        "ER"
+    ],
+    "rarity": "rare",
+    "reach": 20,
+    "reqAttune": true,
+    "source": "TDCSR",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

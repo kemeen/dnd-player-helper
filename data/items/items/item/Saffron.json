@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Saffron",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "TG",
+    "value": 1500,
+    "weight": 1
+}

@@ -1,0 +1,22 @@
+{
+    "inherits": {
+        "basicRules": true,
+        "bonusAc": "+3",
+        "entries": [
+            "You have a {=bonusAc} bonus to AC while wearing this armor."
+        ],
+        "namePrefix": "+3 ",
+        "page": 152,
+        "rarity": "legendary",
+        "source": "DMG",
+        "srd": true,
+        "tier": "major"
+    },
+    "name": "+3 Armor",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

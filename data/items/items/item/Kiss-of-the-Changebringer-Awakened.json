@@ -1,0 +1,48 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Kiss of the Changebringer reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The bonus to {@quickref saving throws|PHB|2|1} increases to +2.",
+                                            "You are immune to the {@condition restrained} condition.",
+                                            "You can use an action to cast the {@spell blink} spell on yourself. This property of the amulet can't be used again until you finish a {@quickref resting|PHB|2|0|long rest}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Kiss of the Changebringer (Dormant)",
+        "source": "TDCSR"
+    },
+    "attachedSpells": [
+        "blink"
+    ],
+    "bonusSavingThrow": "+2",
+    "conditionImmune": [
+        "grappled",
+        "restrained"
+    ],
+    "hasFluffImages": true,
+    "name": "Kiss of the Changebringer (Awakened)",
+    "recharge": "restLong",
+    "source": "TDCSR"
+}

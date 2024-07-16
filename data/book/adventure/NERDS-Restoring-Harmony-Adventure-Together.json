@@ -1,0 +1,15 @@
+{
+    "group": "supplement-alt",
+    "id": "NRH-AT",
+    "level": {
+        "end": 3,
+        "start": 1
+    },
+    "name": "NERDS Restoring Harmony: Adventure Together",
+    "parentName": "NERDS Restoring Harmony",
+    "parentSource": "NRH",
+    "published": "2021-09-01",
+    "publishedOrder": 6,
+    "source": "NRH-AT",
+    "storyline": "NERDS Restoring Harmony"
+}

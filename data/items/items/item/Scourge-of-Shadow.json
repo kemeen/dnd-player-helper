@@ -1,0 +1,68 @@
+{
+    "baseItem": "whip|PHB",
+    "bonusWeapon": "+3",
+    "dmg1": "1d4",
+    "dmgType": "S",
+    "entries": [
+        "Said to be a gift to Glasya from Asmodeus, the Scourge of Shadow is a multi-headed whip constructed from infernal iron. The scourge is nigh-in- destructible, and Glasya carries it with her wherever she goes. When she wields the whip in battle, it shrouds her in an aura of shadow.",
+        "The Scourge of Shadow is a magic whip. You have a +3 bonus to attack and damage rolls made with this weapon, and it does {@damage 3d4} slashing damage instead of its regular damage. When you hit a good aligned creature with it, that creatures takes an extra {@damage 4d4} necrotic damage.",
+        "Whenever an unattuned creature attacks with the weapon, it deals {@damage 2d4} necrotic damage, ignoring resistances and immunities, to them, but otherwise functions normally.",
+        {
+            "entries": [
+                "The Scourge of Shadow has the following random properties:",
+                {
+                    "items": [
+                        "2 {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial} properties",
+                        "1 {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial} property",
+                        "2 {@table Artifact Properties; Minor Detrimental Properties|dmg|minor detrimental} properties",
+                        "1 {@table Artifact Properties; Major Detrimental Properties|dmg|major detrimental} property"
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Random Properties",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The whip scores a critical on a roll of 18, 19, or 20. When it scores a critical, its damage dice are upgraded to {@dice 3d6} instead of {@dice 3d4} for the duration of the attack. If attacking a good aligned creature, or attacking with the weapon unattuned, the necrotic damage dice are also increased to a {@dice d6} instead of a {@dice d4}."
+            ],
+            "name": "Keen",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While attuned to the Scourge of Shadow, you gain advantage on initiative rolls, and you add your Charisma and Dexterity modifiers to the roll. You may use either your Strength, Dexterity, or Charisma modifier for the attack and damage rolls (the same modifier must be used for both attack and damage)."
+            ],
+            "name": "Fast Reflexes",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You're protected by a field of shadow that makes you resistant to radiant and necrotic damage. While in {@quickref Vision and Light||2||dim light} or darkness you gain {@sense blindsight} out to 60 feet and Dexterity ({@skill Stealth}) checks are made with advantage."
+            ],
+            "name": "Veil of Shadow",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Though the process is known only to Glasya and Asmodeus, the Scourge of Shadow can be destroyed. It must be taken to the Pit of Fire in Phlegethos. The scourge, along with the body of an archdevil, must be thrown into the Hellfire together. As they hit the flames, a spell of Darkness must be cast at 9th level on the scourge. If each part of the ritual is performed correctly, the whip disintegrates within the Hellfire."
+            ],
+            "name": "Destroying the Scourge",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Scourge of Shadow",
+    "page": 275,
+    "property": [
+        "F",
+        "R"
+    ],
+    "rarity": "artifact",
+    "reqAttune": true,
+    "source": "CoA",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

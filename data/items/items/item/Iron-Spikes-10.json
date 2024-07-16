@@ -1,0 +1,17 @@
+{
+    "basicRules": true,
+    "name": "Iron Spikes (10)",
+    "packContents": [
+        {
+            "item": "iron spike|phb",
+            "quantity": 10
+        }
+    ],
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 100,
+    "weight": 5
+}

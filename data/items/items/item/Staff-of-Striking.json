@@ -1,0 +1,29 @@
+{
+    "bonusWeapon": "+3",
+    "charges": 10,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.",
+        "The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra {@damage 1d6} force damage. The staff regains {@dice 1d6 + 4} expended charges daily at dawn. If you expend the last charge, roll a {@dice d20}. On a 1, the staff becomes a nonmagical quarterstaff."
+    ],
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Staff of Striking",
+    "page": 203,
+    "property": [
+        "V"
+    ],
+    "rarity": "very rare",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d6 + 4}",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "staff": true,
+    "tier": "major",
+    "weaponCategory": "simple",
+    "weight": 4
+}

@@ -1,0 +1,26 @@
+{
+    "baseItem": "scimitar|phb",
+    "bonusWeapon": "+2",
+    "dmg1": "1d6",
+    "dmgType": "S",
+    "entries": [
+        "You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns."
+    ],
+    "lootTables": [
+        "Magic Item Table H"
+    ],
+    "name": "Scimitar of Speed",
+    "page": 199,
+    "property": [
+        "F",
+        "L"
+    ],
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

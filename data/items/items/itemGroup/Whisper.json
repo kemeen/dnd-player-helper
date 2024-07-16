@@ -1,0 +1,30 @@
+{
+    "baseItem": "dagger|PHB",
+    "bonusWeapon": "+3",
+    "dmg1": "1d4",
+    "dmgType": "P",
+    "entries": [
+        "Forged with a mercurial metal accidentally drawn from the Realms Beyond, this dagger shimmers with an unsettling sourceless light. It was once wielded by {@creature Champion of Ravens|TDCSR|Vax'ildan, a legendary champion of the Matron of Ravens}. Two raven feathers are linked to its pommel as a memento of its former bearer."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Whisper (Dormant)|TDCSR",
+        "Whisper (Awakened)|TDCSR",
+        "Whisper (Exalted)|TDCSR"
+    ],
+    "name": "Whisper",
+    "page": 211,
+    "property": [
+        "F",
+        "L",
+        "T",
+        "Vst"
+    ],
+    "range": "20/60",
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "TDCSR",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 1
+}

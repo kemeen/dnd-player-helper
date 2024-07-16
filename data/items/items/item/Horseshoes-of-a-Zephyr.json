@@ -1,0 +1,15 @@
+{
+    "entries": [
+        "These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores {@quickref difficult terrain||3}. In addition, the creature can move at normal speed for up to 12 hours a day without suffering {@condition exhaustion} from a forced march."
+    ],
+    "lootTables": [
+        "Magic Item Table D"
+    ],
+    "name": "Horseshoes of a Zephyr",
+    "page": 175,
+    "rarity": "very rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "wondrous": true
+}

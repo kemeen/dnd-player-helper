@@ -1,0 +1,47 @@
+{
+    "basicRules": true,
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "round"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from {@spell magic missile}."
+    ],
+    "level": 1,
+    "miscTags": [
+        "MAC"
+    ],
+    "name": "Shield",
+    "otherSources": [
+        {
+            "page": 59,
+            "source": "RMR"
+        }
+    ],
+    "page": 275,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "condition": "which you take when you are hit by an attack or targeted by the {@spell magic missile} spell",
+            "number": 1,
+            "unit": "reaction"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "ability": {
+        "static": {
+            "str": 21
+        }
+    },
+    "entries": [
+        "A Stormgirdle is a wide belt made of thick leather branded with the symbol of Kord. The girdle's clasps are made from dragon ivory."
+    ],
+    "items": [
+        "Stormgirdle (Dormant)|EGW",
+        "Stormgirdle (Awakened)|EGW",
+        "Stormgirdle (Exalted)|EGW"
+    ],
+    "name": "Stormgirdle",
+    "page": 273,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "reqAttune": true,
+    "resist": [
+        "lightning",
+        "thunder"
+    ],
+    "source": "EGW",
+    "wondrous": true
+}

@@ -1,0 +1,23 @@
+{
+    "inherits": {
+        "charges": 4,
+        "entries": [
+            "The outside surface and internal joints of this armor whir with interlocking gears, drawing on the orderly magic of the plane of Mechanus.",
+            "The armor has 4 charges. If you make a {@dice d20} roll while wearing this armor, you can expend 1 charge to change the number rolled to a 10. The armor regains {@dice 1d4} expended charges daily at dawn."
+        ],
+        "namePrefix": "Clockwork ",
+        "page": 67,
+        "rarity": "very rare",
+        "recharge": "dawn",
+        "rechargeAmount": "{@dice 1d4}",
+        "reqAttune": true,
+        "source": "BMT"
+    },
+    "name": "Clockwork Armor",
+    "requires": [
+        {
+            "type": "HA"
+        }
+    ],
+    "type": "GV"
+}

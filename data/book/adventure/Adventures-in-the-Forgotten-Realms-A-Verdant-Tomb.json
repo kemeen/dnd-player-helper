@@ -1,0 +1,14 @@
+{
+    "group": "supplement-alt",
+    "id": "AitFR-AVT",
+    "level": {
+        "end": 9,
+        "start": 9
+    },
+    "name": "Adventures in the Forgotten Realms: A Verdant Tomb",
+    "parentName": "Adventures in the Forgotten Realms",
+    "parentSource": "AitFR",
+    "published": "2021-07-14",
+    "source": "AitFR-AVT",
+    "storyline": "Adventures in the Forgotten Realms"
+}

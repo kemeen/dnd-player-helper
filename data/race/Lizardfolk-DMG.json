@@ -1,0 +1,50 @@
+{
+    "ability": [
+        {
+            "int": -2,
+            "str": 2
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You can hold your breath for up to 15 minutes at a time."
+            ],
+            "name": "Hold Breath",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your scales function as natural armor, granting you a +3 bonus to Armor Class."
+            ],
+            "name": "Natural Armor",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Draconic."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "draconic": true
+        }
+    ],
+    "name": "Lizardfolk",
+    "page": 282,
+    "size": [
+        "M"
+    ],
+    "source": "DMG",
+    "speed": {
+        "swim": 30,
+        "walk": 30
+    },
+    "traitTags": [
+        "Natural Armor",
+        "NPC Race"
+    ]
+}

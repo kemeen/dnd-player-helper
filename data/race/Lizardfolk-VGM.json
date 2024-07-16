@@ -1,0 +1,129 @@
+{
+    "ability": [
+        {
+            "con": 2,
+            "wis": 1
+        }
+    ],
+    "age": {
+        "mature": 14,
+        "max": 60
+    },
+    "entries": [
+        {
+            "entries": [
+                "Lizardfolk reach maturity around age 14 and rarely live longer than 60 years."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Lizardfolk are a little bulkier and taller than humans, and their colorful frills make them appear even larger. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have a swimming speed of 30 feet."
+            ],
+            "name": "Swim Speed",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to {@dice 1d6} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+            ],
+            "name": "Bite",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a {@item shield|phb}, a {@item club|phb}, a {@item javelin|phb}, or {@dice 1d4} {@item dart|phb|darts} or {@item blowgun needle|phb|blowgun needles}. To use this trait, you need a blade, such as a {@item dagger|phb}, or appropriate {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools}, such as {@item leatherworker's tools|phb}."
+            ],
+            "name": "Cunning Artisan",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can hold your breath for up to 15 minutes at a time."
+            ],
+            "name": "Hold Breath",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain proficiency with two of the following skills of your choice: {@skill Animal Handling}, {@skill Nature}, {@skill Perception}, {@skill Stealth}, and {@skill Survival}."
+            ],
+            "name": "Hunter's Lore",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor."
+            ],
+            "name": "Natural Armor",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "In battle, you can throw yourself into a vicious feeding frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points equal to your Constitution modifier (minimum of 1), and you can't use this trait again until you finish a short or long rest."
+            ],
+            "name": "Hungry Jaws",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Draconic."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 57,
+        "baseWeight": 120,
+        "heightMod": "2d10",
+        "weightMod": "2d6"
+    },
+    "languageProficiencies": [
+        {
+            "common": true,
+            "draconic": true
+        }
+    ],
+    "name": "Lizardfolk",
+    "page": 111,
+    "reprintedAs": [
+        "Lizardfolk|MPMM"
+    ],
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "count": 2,
+                "from": [
+                    "animal handling",
+                    "nature",
+                    "perception",
+                    "stealth",
+                    "survival"
+                ]
+            }
+        }
+    ],
+    "source": "VGM",
+    "speed": {
+        "swim": 30,
+        "walk": 30
+    },
+    "traitTags": [
+        "Natural Armor",
+        "Natural Weapon"
+    ]
+}

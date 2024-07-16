@@ -1,0 +1,132 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill Arcana}, {@skill History}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Two of your choice",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A {@item Ink (1-ounce bottle)|PHB|bottle of colored ink}, an {@item ink pen|phb}, a set of {@item common clothes|phb}, and a {@item pouch|phb} containing 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "You gain the {@feat Initiate of High Sorcery|DSotDQ} feat.",
+                "In addition, the Mages of High Sorcery provide you with free, modest lodging and food indefinitely at any occupied Tower of High Sorcery and for one night at the home of an organization member."
+            ],
+            "name": "Feature: Initiate of High Sorcery",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Mages of High Sorcery are typically sorcerers, warlocks, or wizards and might have any subclass. Spellcasters who gain their magic through devotion are less likely to be welcomed among the traditionalist mages. Nevertheless, the Mages of High Sorcery are shrewd, and they rarely let unique opportunities or individuals pass them by. Even members of martial classes who train in magic might find a rare place among the group's three orders.",
+                {
+                    "entries": [
+                        "When you make your character, roll once on the Mage of High Sorcery Trinkets table instead of on the {@item trinket|phb|Trinkets table} in the Player's Handbook for your starting trinket.",
+                        {
+                            "caption": "Mage of High Sorcery Trinkets",
+                            "colLabels": [
+                                "d6",
+                                "Trinket"
+                            ],
+                            "colStyles": [
+                                "col-1 text-center",
+                                "col-11"
+                            ],
+                            "rows": [
+                                [
+                                    "1",
+                                    "An unopened letter from your first teacher"
+                                ],
+                                [
+                                    "2",
+                                    "A broken wand made of black, red, or white wood"
+                                ],
+                                [
+                                    "3",
+                                    "A scroll bearing an incomprehensible formula"
+                                ],
+                                [
+                                    "4",
+                                    "A purposeless device covered in colored stones that can fold into various enigmatic shapes"
+                                ],
+                                [
+                                    "5",
+                                    "A pouch or spellbook emblazoned with the triple moon symbol of the Mages of High Sorcery"
+                                ],
+                                [
+                                    "6",
+                                    "A lens through which you can see Krynn's invisible black moon, Nuitari"
+                                ]
+                            ],
+                            "type": "table"
+                        }
+                    ],
+                    "name": "Mage of High Sorcery Trinkets",
+                    "type": "entries"
+                }
+            ],
+            "name": "Building a Mage of High Sorcery Character",
+            "type": "entries"
+        }
+    ],
+    "feats": [
+        {
+            "initiate of high sorcery|dsotdq": true
+        }
+    ],
+    "fromFeature": {
+        "feats": true
+    },
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "anyStandard": 2
+        }
+    ],
+    "name": "Mage of High Sorcery",
+    "page": 30,
+    "prerequisite": [
+        {
+            "campaign": [
+                "Dragonlance"
+            ]
+        }
+    ],
+    "skillProficiencies": [
+        {
+            "arcana": true,
+            "history": true
+        }
+    ],
+    "source": "DSotDQ",
+    "startingEquipment": [
+        {
+            "_": [
+                "ink (1-ounce bottle)|phb",
+                "ink pen|phb",
+                "common clothes|phb",
+                {
+                    "containsValue": 1000,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ]
+}

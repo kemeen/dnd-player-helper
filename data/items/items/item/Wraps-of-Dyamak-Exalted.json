@@ -1,0 +1,39 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When the Wraps of Dyamak reach an exalted state, they gain the following properties:",
+                                    {
+                                        "items": [
+                                            "The bonus to attack and damage rolls with your unarmed strike increases to +3.",
+                                            "When you hit with an unarmed strike, you can choose to make the attack a ravenous strike. The target takes an extra {@damage 6d6} necrotic damage, and you regain hit points equal to the amount of necrotic damage dealt. This property of the wraps can't be used again until you finish a {@quickref resting|PHB|2|0|long rest}, or until you score a critical hit with an unarmed strike against a hostile creature."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Exalted",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Wraps of Dyamak (Awakened)",
+        "source": "TDCSR"
+    },
+    "bonusWeapon": "+3",
+    "hasFluffImages": true,
+    "name": "Wraps of Dyamak (Exalted)",
+    "source": "TDCSR"
+}

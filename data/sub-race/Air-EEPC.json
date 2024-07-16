@@ -1,0 +1,43 @@
+{
+    "ability": [
+        {
+            "dex": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "con",
+            "known": {
+                "1": [
+                    "levitate"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You can hold your breath indefinitely while you're not {@condition incapacitated}."
+            ],
+            "name": "Unending Breath",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can cast the {@spell levitate} spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell."
+            ],
+            "name": "Mingle with the Wind",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Air",
+    "page": 9,
+    "raceName": "Genasi",
+    "raceSource": "EEPC",
+    "reprintedAs": [
+        "Genasi (Air)|MPMM"
+    ],
+    "source": "EEPC"
+}

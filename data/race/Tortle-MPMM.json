@@ -1,0 +1,75 @@
+{
+    "entries": [
+        {
+            "entries": [
+                "You are Medium or Small. You choose the size when you select this race."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have claws that you can use to make unarmed strikes. When you hit with them, the strike deals {@damage 1d6} + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
+            ],
+            "name": "Claws",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can hold your breath for up to 1 hour."
+            ],
+            "name": "Hold Breath",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Your shell provides you a base AC of 17 (your Dexterity modifier doesn't affect this number). You can't wear light, medium, or heavy armor, but if you are using a shield, you can apply the shield's bonus as normal."
+            ],
+            "name": "Natural Armor",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: {@skill Animal Handling}, {@skill Medicine}, {@skill Nature}, {@skill Perception}, {@skill Stealth}, or {@skill Survival}."
+            ],
+            "name": "Nature's Intuition",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are {@condition prone}, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell."
+            ],
+            "name": "Shell Defense",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Tortle",
+    "page": 34,
+    "size": [
+        "S",
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "animal handling",
+                    "medicine",
+                    "nature",
+                    "perception",
+                    "stealth",
+                    "survival"
+                ]
+            }
+        }
+    ],
+    "source": "MPMM",
+    "speed": 30,
+    "traitTags": [
+        "Natural Armor",
+        "Natural Weapon"
+    ]
+}

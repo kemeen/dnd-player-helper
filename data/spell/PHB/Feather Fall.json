@@ -1,0 +1,47 @@
+{
+    "areaTags": [
+        "MT"
+    ],
+    "components": {
+        "m": "a small feather or a piece of down",
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature."
+    ],
+    "level": 1,
+    "name": "Feather Fall",
+    "otherSources": [
+        {
+            "page": 53,
+            "source": "RMR"
+        }
+    ],
+    "page": 239,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "condition": "which you take when you or a creature within 60 feet of you falls",
+            "number": 1,
+            "unit": "reaction"
+        }
+    ]
+}

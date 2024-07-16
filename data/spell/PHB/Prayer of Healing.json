@@ -1,0 +1,69 @@
+{
+    "affectsCreatureType": [
+        "aberration",
+        "beast",
+        "celestial",
+        "dragon",
+        "elemental",
+        "fey",
+        "fiend",
+        "giant",
+        "humanoid",
+        "monstrosity",
+        "ooze",
+        "plant"
+    ],
+    "areaTags": [
+        "MT"
+    ],
+    "basicRules": true,
+    "components": {
+        "v": true
+    },
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "Up to six creatures of your choice that you can see within range each regain hit points equal to {@dice 2d8} + your spellcasting ability modifier. This spell has no effect on undead or constructs."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 3rd level or higher, the healing increases by {@scaledice 2d8|2-9|1d8} for each slot level above 2nd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "miscTags": [
+        "HL",
+        "SGT"
+    ],
+    "name": "Prayer of Healing",
+    "otherSources": [
+        {
+            "page": 57,
+            "source": "RMR"
+        }
+    ],
+    "page": 267,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "V",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 10,
+            "unit": "minute"
+        }
+    ]
+}

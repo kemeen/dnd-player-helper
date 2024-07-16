@@ -1,0 +1,76 @@
+{
+    "components": {
+        "v": true
+    },
+    "damageInflict": [
+        "force"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "A nature spirit answers your call and transforms you into a powerful guardian. The transformation lasts until the spell ends. You choose one of the following forms to assume: Primal Beast or Great Tree.",
+        {
+            "entries": [
+                "Bestial fur covers your body, your facial features become feral, and you gain the following benefits:"
+            ],
+            "name": "Primal Beast",
+            "type": "entries"
+        },
+        {
+            "items": [
+                "Your walking speed increases by 10 feet.",
+                "You gain {@sense darkvision} with a range of 120 feet.",
+                "You make Strength-based attack rolls with advantage.",
+                "Your melee weapon attacks deal an extra {@damage 1d6} force damage on a hit."
+            ],
+            "type": "list"
+        },
+        {
+            "entries": [
+                "Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:"
+            ],
+            "name": "Great Tree",
+            "type": "entries"
+        },
+        {
+            "items": [
+                "You gain 10 temporary hit points.",
+                "You make Constitution saving throws with advantage.",
+                "You make Dexterity- and Wisdom-based attack rolls with advantage.",
+                "While you are on the ground, the ground within 15 feet of you is {@quickref difficult terrain||3} for your enemies."
+            ],
+            "type": "list"
+        }
+    ],
+    "level": 4,
+    "miscTags": [
+        "AAD",
+        "ADV",
+        "DFT",
+        "THP"
+    ],
+    "name": "Guardian of Nature",
+    "page": 157,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "XGE",
+    "time": [
+        {
+            "number": 1,
+            "unit": "bonus"
+        }
+    ]
+}

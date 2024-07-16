@@ -1,0 +1,16 @@
+{
+    "age": "renaissance",
+    "name": "Renaissance Bullets (10)",
+    "packContents": [
+        {
+            "item": "renaissance bullet",
+            "quantity": 10
+        }
+    ],
+    "page": 268,
+    "rarity": "none",
+    "source": "DMG",
+    "type": "AF",
+    "value": 300,
+    "weight": 2
+}

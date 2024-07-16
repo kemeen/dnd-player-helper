@@ -1,0 +1,12 @@
+{
+    "group": "supplement",
+    "id": "SKT",
+    "level": {
+        "end": 11,
+        "start": 1
+    },
+    "name": "Storm King's Thunder",
+    "published": "2016-09-06",
+    "source": "SKT",
+    "storyline": "Storm King's Thunder"
+}

@@ -1,0 +1,16 @@
+{
+    "entries": [
+        "You regain {@dice 10d4 + 20} hit points when you drink this potion. The potion's red liquid glimmers when agitated."
+    ],
+    "lootTables": [
+        "Magic Item Table D",
+        "Magic Item Table E"
+    ],
+    "name": "Potion of Supreme Healing",
+    "page": 187,
+    "rarity": "very rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

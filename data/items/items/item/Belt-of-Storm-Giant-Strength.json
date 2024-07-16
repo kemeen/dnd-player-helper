@@ -1,0 +1,22 @@
+{
+    "ability": {
+        "static": {
+            "str": 29
+        }
+    },
+    "entries": [
+        "While wearing this belt, your Strength score changes to 29. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table I"
+    ],
+    "name": "Belt of Storm Giant Strength",
+    "page": 155,
+    "rarity": "legendary",
+    "reqAttune": true,
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

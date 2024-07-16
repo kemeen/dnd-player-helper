@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "name": "Perfume (vial)",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 500
+}

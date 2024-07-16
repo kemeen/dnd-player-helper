@@ -1,0 +1,21 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": [
+                    "mage armor"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "You can cast {@spell mage armor} on yourself at will, without expending a spell slot or material components."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Armor of Shadows",
+    "page": 110,
+    "source": "PHB",
+    "srd": true
+}

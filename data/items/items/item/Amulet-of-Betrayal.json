@@ -1,0 +1,11 @@
+{
+    "entries": [
+        "You can use a bonus action to move one of the following conditions from yourself to an ally within 60 feet of you: {@condition blinded}, {@condition deafened}, {@condition frightened}, {@condition poisoned}, {@condition stunned}, {@condition exhaustion}. When transferring {@condition exhaustion}, move all your {@condition exhaustion} levels. If the chosen ally is immune to a transferred condition, the transfer fails."
+    ],
+    "name": "Amulet of Betrayal",
+    "page": 267,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "CoA",
+    "wondrous": true
+}

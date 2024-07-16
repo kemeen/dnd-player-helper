@@ -1,0 +1,11 @@
+{
+    "basicRules": true,
+    "name": "Sling Bullet",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "A",
+    "value": 0.2,
+    "weight": 0.075
+}

@@ -1,0 +1,25 @@
+{
+    "ability": [
+        {
+            "cha": 1
+        }
+    ],
+    "basicRules": true,
+    "entries": [
+        {
+            "entries": [
+                "You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you."
+            ],
+            "name": "Naturally Stealthy",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Lightfoot",
+    "page": 28,
+    "raceName": "Halfling",
+    "raceSource": "PHB",
+    "source": "PHB",
+    "srd": true
+}

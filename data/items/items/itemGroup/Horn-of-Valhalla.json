@@ -1,0 +1,14 @@
+{
+    "hasFluffImages": true,
+    "items": [
+        "Horn of Valhalla, Brass",
+        "Horn of Valhalla, Bronze",
+        "Horn of Valhalla, Iron",
+        "Horn of Valhalla, Silver"
+    ],
+    "name": "Horn of Valhalla",
+    "page": 175,
+    "rarity": "varies",
+    "source": "DMG",
+    "wondrous": true
+}

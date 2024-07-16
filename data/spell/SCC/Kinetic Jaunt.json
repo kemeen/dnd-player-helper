@@ -1,0 +1,46 @@
+{
+    "components": {
+        "s": true
+    },
+    "damageInflict": [
+        "force"
+    ],
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You magically empower your movement with dance-like steps, giving yourself the following benefits for the duration.",
+        {
+            "items": [
+                "Your walking speed increases by 10 feet.",
+                "You don't provoke opportunity attacks.",
+                "You can move through the space of another creature, and it doesn't count as {@quickref difficult terrain||3}. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take {@damage 1d8} force damage."
+            ],
+            "type": "list"
+        }
+    ],
+    "level": 2,
+    "name": "Kinetic Jaunt",
+    "page": 37,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "SCC",
+    "time": [
+        {
+            "number": 1,
+            "unit": "bonus"
+        }
+    ]
+}

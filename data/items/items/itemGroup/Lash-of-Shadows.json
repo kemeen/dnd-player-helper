@@ -1,0 +1,28 @@
+{
+    "baseItem": "whip|PHB",
+    "dmg1": "1d4",
+    "dmgType": "S",
+    "entries": [
+        "This snakeskin whip is touched by the power of Zehir and ends in five animated serpent heads."
+    ],
+    "hasFluffImages": true,
+    "items": [
+        "Lash of Shadows (Dormant)|EGW",
+        "Lash of Shadows (Awakened)|EGW",
+        "Lash of Shadows (Exalted)|EGW"
+    ],
+    "name": "Lash of Shadows",
+    "page": 276,
+    "property": [
+        "F",
+        "R",
+        "Vst"
+    ],
+    "rarity": "artifact",
+    "reqAttune": true,
+    "sentient": true,
+    "source": "EGW",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

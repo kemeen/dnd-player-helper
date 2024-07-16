@@ -1,0 +1,24 @@
+{
+    "entries": [
+        "You have practiced moving in medium armor to gain the following benefits:",
+        {
+            "items": [
+                "Wearing medium armor doesn't impose disadvantage on your Dexterity ({@skill Stealth}) checks.",
+                "When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Medium Armor Master",
+    "page": 168,
+    "prerequisite": [
+        {
+            "proficiency": [
+                {
+                    "armor": "medium"
+                }
+            ]
+        }
+    ],
+    "source": "PHB"
+}

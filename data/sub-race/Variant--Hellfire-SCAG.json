@@ -1,0 +1,70 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 2,
+                "count": 1,
+                "from": [
+                    "dex",
+                    "cha"
+                ]
+            },
+            "int": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "cha",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "burning hands#2"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "darkness"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "thaumaturgy#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose {@dice 1d4+1} of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone."
+            ],
+            "name": "Appearance",
+            "type": "entries"
+        },
+        {
+            "data": {
+                "overwrite": "Infernal Legacy"
+            },
+            "entries": [
+                "You know the {@spell thaumaturgy} cantrip. Once you reach 3rd level, you can cast the {@spell burning hands} spell once per day as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the {@spell darkness} spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+            ],
+            "name": "Hellfire",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Variant; Hellfire",
+    "overwrite": {
+        "ability": true
+    },
+    "page": 118,
+    "raceName": "Tiefling",
+    "raceSource": "PHB",
+    "source": "SCAG"
+}

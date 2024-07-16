@@ -1,0 +1,44 @@
+{
+    "attachedSpells": [
+        "heal",
+        "guiding bolt",
+        "flaming sphere",
+        "flame strike"
+    ],
+    "bonusWeapon": "+2",
+    "charges": 10,
+    "dmg1": "1d6",
+    "dmg2": "1d8",
+    "dmgType": "B",
+    "entries": [
+        "This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: {@spell guiding bolt} (1 charge), {@spell flaming sphere} (2 charges), or {@spell flame strike} (5 charges). The staff regains {@dice 1d6 + 4} expended charges daily at dawn.",
+        {
+            "entries": [
+                "These holy relics of the Sacred Flame were wielded by Saint Vitruvio and are kept in several religious sites throughout Drakkenheim. The Knights of the Silver Order and the Followers of the Falling Fire now seek these relics. Not only do both factions revere Saint Vitruvio, both wish to use these relics to help advance their goals in Drakkenheim.",
+                "A character attuned to three Relics of Saint Vitruvio may cast the {@spell heal} spell three times per day, after which they must finish a long rest before they may do so again. In addition, that character gains the ability to attune to two additional magic items so long as those magic items are both Relics of Saint Vitruvio."
+            ],
+            "name": "Relics of Saint Vitruvio",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Sceptre of Saint Vitruvio",
+    "page": 234,
+    "property": [
+        "V"
+    ],
+    "rarity": "rare",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d6 + 4}",
+    "reqAttune": "by a spellcaster",
+    "reqAttuneTags": [
+        {
+            "spellcasting": true
+        }
+    ],
+    "source": "DoDk",
+    "staff": true,
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 4
+}

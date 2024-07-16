@@ -1,0 +1,33 @@
+{
+    "ability": [
+        {
+            "str": 1
+        }
+    ],
+    "armorProficiencies": [
+        {
+            "heavy": true
+        }
+    ],
+    "entries": [
+        "You have trained to master the use of heavy armor, gaining the following benefits:",
+        {
+            "items": [
+                "You gain proficiency with heavy armor."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Heavily Armored",
+    "page": 167,
+    "prerequisite": [
+        {
+            "proficiency": [
+                {
+                    "armor": "medium"
+                }
+            ]
+        }
+    ],
+    "source": "PHB"
+}

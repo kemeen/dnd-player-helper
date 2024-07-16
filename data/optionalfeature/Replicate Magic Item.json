@@ -1,0 +1,278 @@
+{
+    "entries": [
+        "Using this infusion, you replicate a particular magic item. You can learn this infusion multiple times; each time you do so, choose a magic item that you can make with it, picking from the Replicable Items tables below. A table's title tells you the level you must be in the class to choose an item from the table. Alternatively, you can choose the magic item from among the {@filter common magic items|items|type=!potion;!scroll|rarity=common} in the game, not including potions or scrolls.",
+        "In the tables, an item's entry tells you whether the item requires attunement. See the item's description in the {@book Dungeon Master's Guide|DMG} for more information about it, including the type of object required for its making.",
+        {
+            "caption": "Replicable Items (2nd-Level Artificer)",
+            "colLabels": [
+                "Magic Item",
+                "Attunement"
+            ],
+            "colStyles": [
+                "col-10",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "{@item Alchemy jug}",
+                    "No"
+                ],
+                [
+                    "{@item Bag of holding}",
+                    "No"
+                ],
+                [
+                    "{@item Cap of water breathing}",
+                    "No"
+                ],
+                [
+                    "{@item Goggles of night}",
+                    "No"
+                ],
+                [
+                    "{@item Rope of climbing}",
+                    "No"
+                ],
+                [
+                    "{@item Sending stones}",
+                    "No"
+                ],
+                [
+                    "{@item Wand of magic detection}",
+                    "No"
+                ],
+                [
+                    "{@item Wand of secrets}",
+                    "No"
+                ]
+            ],
+            "type": "table"
+        },
+        {
+            "caption": "Replicable Items (6th-Level Artificer)",
+            "colLabels": [
+                "Magic Item",
+                "Attunement"
+            ],
+            "colStyles": [
+                "col-10",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "{@item Boots of elvenkind}",
+                    "No"
+                ],
+                [
+                    "{@item Cloak of elvenkind}",
+                    "Yes"
+                ],
+                [
+                    "{@item Cloak of the manta ray}",
+                    "No"
+                ],
+                [
+                    "{@item Eyes of charming}",
+                    "Yes"
+                ],
+                [
+                    "{@item Gloves of thievery}",
+                    "No"
+                ],
+                [
+                    "{@item Lantern of revealing}",
+                    "No"
+                ],
+                [
+                    "{@item Pipes of haunting}",
+                    "No"
+                ],
+                [
+                    "{@item Ring of water walking}",
+                    "No"
+                ]
+            ],
+            "type": "table"
+        },
+        {
+            "caption": "Replicable Items (10th-Level Artificer)",
+            "colLabels": [
+                "Magic Item",
+                "Attunement"
+            ],
+            "colStyles": [
+                "col-11",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "{@item Boots of striding and springing}",
+                    "Yes"
+                ],
+                [
+                    "{@item Boots of the winterlands}",
+                    "Yes"
+                ],
+                [
+                    "{@item Bracers of archery}",
+                    "Yes"
+                ],
+                [
+                    "{@item Brooch of shielding}",
+                    "Yes"
+                ],
+                [
+                    "{@item Cloak of protection}",
+                    "Yes"
+                ],
+                [
+                    "{@item Eyes of the eagle}",
+                    "Yes"
+                ],
+                [
+                    "{@item Gauntlets of ogre power}",
+                    "Yes"
+                ],
+                [
+                    "{@item Gloves of missile snaring}",
+                    "Yes"
+                ],
+                [
+                    "{@item Gloves of swimming and climbing}",
+                    "Yes"
+                ],
+                [
+                    "{@item Hat of disguise}",
+                    "Yes"
+                ],
+                [
+                    "{@item Headband of intellect}",
+                    "Yes"
+                ],
+                [
+                    "{@item Helm of telepathy}",
+                    "Yes"
+                ],
+                [
+                    "{@item Medallion of thoughts}",
+                    "Yes"
+                ],
+                [
+                    "{@item Necklace of adaptation}",
+                    "Yes"
+                ],
+                [
+                    "{@item Periapt of wound closure}",
+                    "Yes"
+                ],
+                [
+                    "{@item Pipes of the sewers}",
+                    "Yes"
+                ],
+                [
+                    "{@item Quiver of Ehlonna}",
+                    "No"
+                ],
+                [
+                    "{@item Ring of jumping}",
+                    "Yes"
+                ],
+                [
+                    "{@item Ring of mind shielding}",
+                    "Yes"
+                ],
+                [
+                    "{@item Slippers of spider climbing}",
+                    "Yes"
+                ],
+                [
+                    "{@item Ventilating lungs|ERLW} (detailed in {@book chapter 5|ERLW|13})",
+                    "Yes"
+                ],
+                [
+                    "{@item Winged boots}",
+                    "Yes"
+                ]
+            ],
+            "type": "table"
+        },
+        {
+            "caption": "Replicable Items (14th-Level Artificer)",
+            "colLabels": [
+                "Magic Item",
+                "Attunement"
+            ],
+            "colStyles": [
+                "col-11",
+                "col-1 text-center"
+            ],
+            "rows": [
+                [
+                    "{@item Amulet of health}",
+                    "Yes"
+                ],
+                [
+                    "{@item Arcane propulsion arm|ERLW} (detailed in {@book chapter 5|ERLW|13})",
+                    "Yes"
+                ],
+                [
+                    "{@item Belt of hill giant strength}",
+                    "Yes"
+                ],
+                [
+                    "{@item Boots of levitation}",
+                    "Yes"
+                ],
+                [
+                    "{@item Boots of speed}",
+                    "Yes"
+                ],
+                [
+                    "{@item Bracers of defense}",
+                    "Yes"
+                ],
+                [
+                    "{@item Cloak of the bat}",
+                    "Yes"
+                ],
+                [
+                    "{@item Dimensional shackles}",
+                    "No"
+                ],
+                [
+                    "{@item Gem of seeing}",
+                    "Yes"
+                ],
+                [
+                    "{@item Horn of blasting}",
+                    "No"
+                ],
+                [
+                    "{@item Ring of free action}",
+                    "Yes"
+                ],
+                [
+                    "{@item Ring of protection}",
+                    "Yes"
+                ],
+                [
+                    "{@item Ring of the ram}",
+                    "Yes"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "featureType": [
+        "AI"
+    ],
+    "name": "Replicate Magic Item",
+    "otherSources": [
+        {
+            "page": 63,
+            "source": "ERLW"
+        }
+    ],
+    "page": 22,
+    "source": "TCE"
+}

@@ -1,0 +1,69 @@
+{
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "feather fall"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "levitate"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "shocking grasp#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You can hold your breath indefinitely while you're not {@condition incapacitated}."
+            ],
+            "name": "Unending Breath",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to lightning damage."
+            ],
+            "name": "Lightning Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know the {@spell shocking grasp} cantrip. Starting at 3rd level, you can cast the {@spell feather fall} spell with this trait, without requiring a material component. Starting 5th level, you can also cast the {@spell levitate} spell with this trait, without requiring a material component. Once you cast {@spell feather fall} or {@spell levitate} with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.",
+                "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+            ],
+            "name": "Mingle with the Wind",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Air",
+    "page": 16,
+    "raceName": "Genasi",
+    "raceSource": "MPMM",
+    "resist": [
+        "lightning"
+    ],
+    "source": "MPMM",
+    "speed": 35
+}

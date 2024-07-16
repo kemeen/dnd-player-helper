@@ -1,0 +1,183 @@
+{
+    "_versions": [
+        {
+            "_implementations": [
+                {
+                    "_variables": {
+                        "color": "Amethyst",
+                        "damageType": "force"
+                    },
+                    "resist": [
+                        "force"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "color": "Crystal",
+                        "damageType": "radiant"
+                    },
+                    "resist": [
+                        "radiant"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "color": "Emerald",
+                        "damageType": "psychic"
+                    },
+                    "resist": [
+                        "psychic"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "color": "Sapphire",
+                        "damageType": "thunder"
+                    },
+                    "resist": [
+                        "thunder"
+                    ]
+                },
+                {
+                    "_variables": {
+                        "color": "Topaz",
+                        "damageType": "necrotic"
+                    },
+                    "resist": [
+                        "necrotic"
+                    ]
+                }
+            ],
+            "_template": {
+                "_mod": {
+                    "entries": [
+                        {
+                            "mode": "removeArr",
+                            "names": "Gem Ancestry"
+                        },
+                        {
+                            "items": {
+                                "entries": [
+                                    "When you take the {@action Attack} action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes {@damage 1d10} {{damageType}} damage. On a successful save, it takes half as much damage. This damage increases by {@dice 1d10} when you reach 5th level ({@dice 2d10}), 11th level ({@dice 3d10}), and 17th level ({@dice 4d10}).",
+                                    "You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+                                ],
+                                "name": "Breath Weapon",
+                                "type": "entries"
+                            },
+                            "mode": "replaceArr",
+                            "replace": "Breath Weapon"
+                        },
+                        {
+                            "items": {
+                                "entries": [
+                                    "You have resistance to {{damageType}} damage."
+                                ],
+                                "name": "Draconic Resistance",
+                                "type": "entries"
+                            },
+                            "mode": "replaceArr",
+                            "replace": "Draconic Resistance"
+                        }
+                    ]
+                },
+                "name": "Dragonborn (Gem; {{color}})",
+                "source": "FTD"
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have a gem dragon ancestor, granting you a special magical affinity. Choose one kind of dragon from the Gem Ancestry table. This determines the damage type for your other traits, as shown in the table.",
+                {
+                    "caption": "Gem Ancestry",
+                    "colLabels": [
+                        "Dragon",
+                        "Damage Type"
+                    ],
+                    "colStyles": [
+                        "col-6 text-center",
+                        "col-6 text-center"
+                    ],
+                    "rows": [
+                        [
+                            "Amethyst",
+                            "Force"
+                        ],
+                        [
+                            "Crystal",
+                            "Radiant"
+                        ],
+                        [
+                            "Emerald",
+                            "Psychic"
+                        ],
+                        [
+                            "Sapphire",
+                            "Thunder"
+                        ],
+                        [
+                            "Topaz",
+                            "Necrotic"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Gem Ancestry",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you take the {@action Attack} action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes {@damage 1d10} damage of the type associated with your Gem Ancestry. On a successful save, it takes half as much damage. This damage increases by {@dice 1d10} when you reach 5th level ({@dice 2d10}), 11th level ({@dice 3d10}), and 17th level ({@dice 4d10}).",
+                "You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+            ],
+            "name": "Breath Weapon",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have resistance to the damage type associated with your Gem Ancestry."
+            ],
+            "name": "Draconic Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can send telepathic messages to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them."
+            ],
+            "name": "Psionic Mind",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can't do so again until you finish a long rest."
+            ],
+            "name": "Gem Flight",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Dragonborn (Gem)",
+    "page": 11,
+    "resist": [
+        {
+            "choose": {
+                "from": [
+                    "force",
+                    "radiant",
+                    "psychic",
+                    "thunder",
+                    "necrotic"
+                ]
+            }
+        }
+    ],
+    "size": [
+        "M"
+    ],
+    "source": "FTD",
+    "speed": 30
+}

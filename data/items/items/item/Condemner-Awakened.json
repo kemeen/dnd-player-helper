@@ -1,0 +1,52 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": [
+                {
+                    "items": {
+                        "entries": [
+                            {
+                                "entries": [
+                                    "When Condemner reaches an awakened state, you gain the following benefits:",
+                                    {
+                                        "items": [
+                                            "The weapon's bonus to attack and damage rolls increases to +2.",
+                                            "The extra poison damage dealt by the weapon increases to {@dice 1d6}.",
+                                            "You gain an additional effect that can be triggered in place of dealing damage when you hit with an attack:",
+                                            {
+                                                "items": [
+                                                    "You cast {@spell hold person} on the target (save {@dc 15})."
+                                                ],
+                                                "type": "list"
+                                            },
+                                            "This effect can't be used again until you finish a {@quickref resting|PHB|2|0|short or long rest}."
+                                        ],
+                                        "type": "list"
+                                    }
+                                ],
+                                "name": "Awakened",
+                                "type": "entries"
+                            }
+                        ]
+                    },
+                    "mode": "appendArr"
+                }
+            ]
+        },
+        "_preserve": {
+            "fluff": true,
+            "page": true
+        },
+        "name": "Condemner (Dormant)",
+        "source": "TDCSR"
+    },
+    "attachedSpells": [
+        "fog cloud",
+        "silence",
+        "hold person"
+    ],
+    "bonusWeapon": "+2",
+    "hasFluffImages": true,
+    "name": "Condemner (Awakened)",
+    "source": "TDCSR"
+}

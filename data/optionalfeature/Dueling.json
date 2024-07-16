@@ -1,0 +1,29 @@
+{
+    "entries": [
+        "When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."
+    ],
+    "featureType": [
+        "FS:F",
+        "FS:B",
+        "FS:P",
+        "FS:R"
+    ],
+    "name": "Dueling",
+    "otherSources": [
+        {
+            "page": 15,
+            "source": "XGE"
+        },
+        {
+            "page": 84,
+            "source": "PHB"
+        },
+        {
+            "page": 91,
+            "source": "PHB"
+        }
+    ],
+    "page": 72,
+    "source": "PHB",
+    "srd": true
+}

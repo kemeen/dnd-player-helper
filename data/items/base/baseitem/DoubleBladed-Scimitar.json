@@ -1,0 +1,28 @@
+{
+    "dmg1": "2d4",
+    "dmgType": "S",
+    "entries": [
+        {
+            "entries": [
+                "If you attack with a double-bladed scimitar as part of the {@action Attack} action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals {@dice 1d4} slashing damage on a hit, instead of {@dice 2d4}."
+            ],
+            "name": "Special",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "name": "Double-Bladed Scimitar",
+    "page": 21,
+    "property": [
+        "S",
+        "2H"
+    ],
+    "rarity": "none",
+    "source": "ERLW",
+    "sword": true,
+    "type": "M",
+    "value": 10000,
+    "weapon": true,
+    "weaponCategory": "martial",
+    "weight": 6
+}

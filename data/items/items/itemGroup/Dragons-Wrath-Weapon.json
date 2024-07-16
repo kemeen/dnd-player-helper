@@ -1,0 +1,17 @@
+{
+    "entries": [
+        "This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon's hoard, it absorbs the energy of the dragon's breath weapon and deals damage of that type with its special properties."
+    ],
+    "items": [
+        "Slumbering Dragon's Wrath Weapon|FTD",
+        "Stirring Dragon's Wrath Weapon|FTD",
+        "Wakened Dragon's Wrath Weapon|FTD",
+        "Ascendant Dragon's Wrath Weapon|FTD"
+    ],
+    "name": "Dragon's Wrath Weapon",
+    "page": 25,
+    "rarity": "varies",
+    "reqAttune": true,
+    "source": "FTD",
+    "type": "GV"
+}

@@ -1,0 +1,48 @@
+{
+    "ability": [
+        {
+            "int": 1
+        }
+    ],
+    "age": {
+        "mature": 20,
+        "max": 100
+    },
+    "entries": [
+        {
+            "entries": [
+                "Gith reach adulthood in their late teens and live for about a century."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Gith are taller and leaner than humans, with most a slender 6 feet in height."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Common and Gith."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "languageProficiencies": [
+        {
+            "common": true,
+            "other": true
+        }
+    ],
+    "name": "Gith",
+    "page": 96,
+    "size": [
+        "M"
+    ],
+    "source": "MTF",
+    "speed": 30
+}

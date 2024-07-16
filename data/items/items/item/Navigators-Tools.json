@@ -1,0 +1,66 @@
+{
+    "additionalEntries": [
+        "Proficiency with navigator's tools helps you determine a true course based on observing the stars. It also grants you insight into charts and maps while developing your sense of direction.",
+        {
+            "entries": [
+                "Navigator's tools include a sextant, a compass, calipers, a ruler, parchment, ink, and a quill."
+            ],
+            "name": "Components",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Knowledge of navigator's tools helps you avoid becoming lost and also grants you insight into the most likely location for roads and settlements."
+            ],
+            "name": "Survival",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "By taking careful measurements, you can determine your position on a nautical chart and the time of day."
+            ],
+            "name": "Sighting",
+            "type": "entries"
+        },
+        {
+            "caption": "Navigator's Tools",
+            "colLabels": [
+                "Activity",
+                "DC"
+            ],
+            "colStyles": [
+                "col-10",
+                "col-2 text-center"
+            ],
+            "rows": [
+                [
+                    "Plot a course",
+                    "10"
+                ],
+                [
+                    "Discover your position on a nautical chart",
+                    "15"
+                ]
+            ],
+            "type": "table"
+        }
+    ],
+    "additionalSources": [
+        {
+            "page": 83,
+            "source": "XGE"
+        }
+    ],
+    "basicRules": true,
+    "entries": [
+        "This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea."
+    ],
+    "name": "Navigator's Tools",
+    "page": 154,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "T",
+    "value": 2500,
+    "weight": 2
+}

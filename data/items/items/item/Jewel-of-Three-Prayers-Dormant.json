@@ -1,0 +1,38 @@
+{
+    "attachedSpells": [
+        "invisibility"
+    ],
+    "bonusAc": "+1",
+    "charges": 3,
+    "entries": [
+        "The Jewel of Three Prayers is a Vestige of Divergence (see the \"Vestiges of Divergence\" sidebar). In ancient times, Alyxian the Apotheon bore this amulet as a symbol of his covenant with three Prime Deities: Sehanine the Moon Weaver, Avandra the Change Bringer, and Corellon the Arch Heart. When the jewel is found, only Sehanine's power thrums within its dormant heart. The power of the other two deities waits to be reawakened by a hero\u2014or heroes\u2014who can follow in Alyxian's footsteps.",
+        {
+            "entries": [
+                "In this state, the Jewel of Three Prayers is a glittering golden disk attached to a fine golden chain. The chain magically resizes to function as a necklace for the creature that wears it.",
+                "In its Dormant State, the jewel has the following properties:",
+                {
+                    "items": [
+                        "You gain a +1 bonus to AC while wearing the jewel.",
+                        "While wearing or holding the jewel, you can use an action to cause it to shed bright light in a 15-foot radius and dim light for an additional 15 feet. The light lasts until you extinguish it (no action required).",
+                        "The jewel has 3 charges and regains all its expended charges daily at dawn. While holding the jewel, you can expend 1 charge from it to cast the {@spell invisibility} spell."
+                    ],
+                    "type": "list"
+                }
+            ],
+            "name": "Dormant State",
+            "type": "entries"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Jewel of Three Prayers (Dormant)",
+    "page": 213,
+    "property": [
+        "Vst"
+    ],
+    "rarity": "legendary",
+    "recharge": "dawn",
+    "rechargeAmount": 3,
+    "reqAttune": true,
+    "source": "CRCotN",
+    "wondrous": true
+}

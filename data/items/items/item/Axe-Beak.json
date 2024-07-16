@@ -1,0 +1,12 @@
+{
+    "entries": [
+        "An {@creature axe beak}'s splayed toes allow it to run across snow, and it can carry as much weight as a mule. A domesticated axe beak can be purchased in Ten-Towns for 50 gp."
+    ],
+    "hasFluffImages": true,
+    "name": "Axe Beak",
+    "page": 20,
+    "rarity": "none",
+    "source": "IDRotF",
+    "type": "MNT",
+    "value": 5000
+}

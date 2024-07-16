@@ -1,0 +1,35 @@
+{
+    "additionalSpells": [
+        {
+            "innate": {
+                "_": {
+                    "ritual": [
+                        "find familiar"
+                    ]
+                }
+            }
+        }
+    ],
+    "entries": [
+        "You have learned how to summon a Strixhaven mascot to assist you, granting you these benefits:",
+        {
+            "items": [
+                "You can cast the {@spell find familiar} spell as a ritual. Your familiar can take the form of the mascot associated with the college you chose for the Strixhaven Initiate feat: a {@creature spirit statue mascot|scc} (Lorehold), an {@creature art elemental mascot|scc} (Prismari), a {@creature fractal mascot|scc} (Quandrix), an {@creature inkling mascot|scc} (Silverquill), or a {@creature pest mascot|scc} (Witherbloom).",
+                "When you take the {@action Attack} action on your turn, you can forgo one attack to allow your mascot familiar to make one attack of its own with its reaction.",
+                "If your mascot familiar is within 60 feet of you, you can teleport as an action, swapping places with the familiar. If your destination space is too small for you to occupy, the teleportation fails and is wasted. Once you teleport in this way, you can't do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to do it again."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Strixhaven Mascot",
+    "page": 37,
+    "prerequisite": [
+        {
+            "feat": [
+                "strixhaven initiate|scc"
+            ],
+            "level": 4
+        }
+    ],
+    "source": "SCC"
+}

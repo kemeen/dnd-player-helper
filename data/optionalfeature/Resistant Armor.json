@@ -1,0 +1,30 @@
+{
+    "entries": [
+        "While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder."
+    ],
+    "featureType": [
+        "AI"
+    ],
+    "name": "Resistant Armor",
+    "otherSources": [
+        {
+            "page": 63,
+            "source": "ERLW"
+        }
+    ],
+    "page": 23,
+    "prerequisite": [
+        {
+            "item": [
+                "A suit of armor (requires attunement)"
+            ],
+            "level": {
+                "class": {
+                    "name": "Artificer"
+                },
+                "level": 6
+            }
+        }
+    ],
+    "source": "TCE"
+}

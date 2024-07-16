@@ -1,0 +1,34 @@
+{
+    "entries": [
+        "Includes:",
+        {
+            "items": [
+                "a {@item pouch|PHB|small pouch}",
+                "a quill",
+                "{@item Ink (1-ounce bottle)|PHB|ink}",
+                "{@item Parchment (one sheet)|PHB|folded parchment}",
+                "a penknife"
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Writing Kit",
+    "packContents": [
+        "pouch|PHB",
+        {
+            "special": "a quill"
+        },
+        "Ink (1-ounce bottle)|PHB",
+        {
+            "item": "Parchment (one sheet)|PHB",
+            "quantity": 10
+        },
+        {
+            "special": "a penknife"
+        }
+    ],
+    "page": 183,
+    "rarity": "none",
+    "source": "TDCSR",
+    "type": "G"
+}

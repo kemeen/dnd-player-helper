@@ -1,0 +1,14 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts."
+    ],
+    "name": "Rations (1 day)",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 50,
+    "weight": 2
+}

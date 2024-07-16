@@ -1,0 +1,112 @@
+{
+    "entries": [
+        "Produced by a special needle, this magic tattoo features designs that emphasize one color.",
+        {
+            "entries": [
+                "To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.",
+                "If your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space."
+            ],
+            "name": "Tattoo Attunement",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "While the tattoo is on your skin, you have resistance to a type of damage associated with that color, as shown on the table below. The DM chooses the color or determines it randomly.",
+                {
+                    "caption": "Absorbing Tattoo",
+                    "colLabels": [
+                        "d10",
+                        "Color",
+                        "Tattoo"
+                    ],
+                    "colStyles": [
+                        "col-2 text-center",
+                        "col-2 text-center",
+                        "col-8 text-center"
+                    ],
+                    "rows": [
+                        [
+                            "1",
+                            "Green",
+                            "{@item Acid Absorbing Tattoo|TCE}"
+                        ],
+                        [
+                            "2",
+                            "Blue",
+                            "{@item Cold Absorbing Tattoo|TCE}"
+                        ],
+                        [
+                            "3",
+                            "Red",
+                            "{@item Fire Absorbing Tattoo|TCE}"
+                        ],
+                        [
+                            "4",
+                            "White",
+                            "{@item Force Absorbing Tattoo|TCE}"
+                        ],
+                        [
+                            "5",
+                            "Yellow",
+                            "{@item Lightning Absorbing Tattoo|TCE}"
+                        ],
+                        [
+                            "6",
+                            "Black",
+                            "{@item Necrotic Absorbing Tattoo|TCE}"
+                        ],
+                        [
+                            "7",
+                            "Violet",
+                            "{@item Poison Absorbing Tattoo|TCE}"
+                        ],
+                        [
+                            "8",
+                            "Silver",
+                            "{@item Psychic Absorbing Tattoo|TCE}"
+                        ],
+                        [
+                            "9",
+                            "Gold",
+                            "{@item Radiant Absorbing Tattoo|TCE}"
+                        ],
+                        [
+                            "10",
+                            "Orange",
+                            "{@item Thunder Absorbing Tattoo|TCE}"
+                        ]
+                    ],
+                    "type": "table"
+                }
+            ],
+            "name": "Damage Resistance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you take damage of the chosen type, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can't be used again until the next dawn."
+            ],
+            "name": "Damage Absorption",
+            "type": "entries"
+        }
+    ],
+    "items": [
+        "Acid Absorbing Tattoo|TCE",
+        "Cold Absorbing Tattoo|TCE",
+        "Fire Absorbing Tattoo|TCE",
+        "Force Absorbing Tattoo|TCE",
+        "Lightning Absorbing Tattoo|TCE",
+        "Necrotic Absorbing Tattoo|TCE",
+        "Poison Absorbing Tattoo|TCE",
+        "Psychic Absorbing Tattoo|TCE",
+        "Radiant Absorbing Tattoo|TCE",
+        "Thunder Absorbing Tattoo|TCE"
+    ],
+    "name": "Absorbing Tattoo",
+    "page": 119,
+    "rarity": "very rare",
+    "reqAttune": true,
+    "source": "TCE",
+    "tattoo": true,
+    "wondrous": true
+}

@@ -1,0 +1,47 @@
+{
+    "additionalSpells": [
+        {
+            "ability": "cha",
+            "innate": {
+                "3": {
+                    "daily": {
+                        "1": [
+                            "tenser's floating disk"
+                        ]
+                    }
+                },
+                "5": {
+                    "daily": {
+                        "1": [
+                            "arcane lock"
+                        ]
+                    }
+                }
+            },
+            "known": {
+                "1": [
+                    "mage hand#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        {
+            "data": {
+                "overwrite": "Infernal Legacy"
+            },
+            "entries": [
+                "You know the {@spell mage hand} cantrip. When you reach 3rd level, you can cast the {@spell Tenser's floating disk} spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the {@spell arcane lock} spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+            ],
+            "name": "Legacy of Minauros",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Mammon",
+    "page": 22,
+    "raceName": "Tiefling",
+    "raceSource": "PHB",
+    "source": "MTF"
+}

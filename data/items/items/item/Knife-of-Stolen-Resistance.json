@@ -1,0 +1,21 @@
+{
+    "baseItem": "dagger|PHB",
+    "dmg1": "1d4",
+    "dmgType": "P",
+    "entries": [
+        "Using an action, you carve a single infernal rune into the flesh of an {@condition unconscious} Beast, Celestial, Dragon, Fey, or Giant with this knife. Over the next 10 minutes the creature dies an agonizing death that can't be prevented short of the {@spell Wish} spell. If the creature has any resistances or immunities, you gain those resistances and immunities until the creature dies or a {@spell Wish} spell is used to save the creature. The knife's power can't be used again until you finish a long rest."
+    ],
+    "name": "Knife of Stolen Resistance",
+    "page": 268,
+    "property": [
+        "F",
+        "L",
+        "T"
+    ],
+    "range": "20/60",
+    "rarity": "rare",
+    "source": "CoA",
+    "type": "M",
+    "weaponCategory": "simple",
+    "weight": 1
+}

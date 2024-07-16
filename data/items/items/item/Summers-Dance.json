@@ -1,0 +1,28 @@
+{
+    "attachedSpells": [
+        "misty step"
+    ],
+    "baseItem": "scimitar|PHB",
+    "bonusWeapon": "+1",
+    "charges": 3,
+    "dmg1": "1d6",
+    "dmgType": "S",
+    "entries": [
+        "This beautiful golden blade appears to bend and flex like a reed with your movements. You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
+        "Additionally, the scimitar has 3 charges and regains 1 expended charge daily at dawn. While wielding this {@item scimitar|PHB}, you can expend 1 charge as a bonus action to cast the {@spell misty step} spell."
+    ],
+    "name": "Summer's Dance",
+    "page": 197,
+    "property": [
+        "F",
+        "L"
+    ],
+    "rarity": "rare",
+    "recharge": "dawn",
+    "rechargeAmount": 1,
+    "reqAttune": true,
+    "source": "TDCSR",
+    "type": "M",
+    "weaponCategory": "martial",
+    "weight": 3
+}

@@ -1,0 +1,22 @@
+{
+    "basicRules": true,
+    "dagger": true,
+    "dmg1": "1d4",
+    "dmgType": "P",
+    "name": "Dagger",
+    "page": 149,
+    "property": [
+        "F",
+        "L",
+        "T"
+    ],
+    "range": "20/60",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 200,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 1
+}

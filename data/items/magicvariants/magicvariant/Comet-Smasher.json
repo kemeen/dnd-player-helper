@@ -1,0 +1,21 @@
+{
+    "inherits": {
+        "entries": [
+            "The head of this bludgeoning weapon is made from a massive delerium crystal that crackles with arcane energies. When you hit with an attack using this weapon, the target takes an extra ({@dice 3d6}) necrotic damage.",
+            "When you roll a 20 on an attack roll made with this weapon, it unleashes an arcane anomaly (see Dungeons of Drakkenheim). You can roll twice on the table and choose either result."
+        ],
+        "namePrefix": "Comet Smasher ",
+        "page": 230,
+        "rarity": "very rare",
+        "reqAttune": true,
+        "source": "DoDk"
+    },
+    "name": "Comet Smasher",
+    "requires": [
+        {
+            "dmgType": "B",
+            "type": "M"
+        }
+    ],
+    "type": "GV"
+}

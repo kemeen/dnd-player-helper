@@ -1,0 +1,78 @@
+{
+    "ability": [
+        {
+            "int": 1
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "int",
+            "known": {
+                "1": {
+                    "_": [
+                        {
+                            "choose": "level=0|class=Wizard"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "basicRules": true,
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+            ],
+            "name": "Elf Weapon Training",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You know one {@filter cantrip of your choice from the wizard spell list|spells|level=0|class=Wizard}. Intelligence is your spellcasting ability for it."
+            ],
+            "name": "Cantrip",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write one extra language of your choosing."
+            ],
+            "name": "Extra Language",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "heightAndWeight": {
+        "baseHeight": 54,
+        "baseWeight": 90,
+        "heightMod": "2d10",
+        "weightMod": "1d4"
+    },
+    "languageProficiencies": [
+        {
+            "anyStandard": 1,
+            "common": true,
+            "elvish": true
+        }
+    ],
+    "name": "High",
+    "overwrite": {
+        "languageProficiencies": true
+    },
+    "page": 23,
+    "raceName": "Elf",
+    "raceSource": "PHB",
+    "source": "PHB",
+    "speed": 30,
+    "srd": true,
+    "weaponProficiencies": [
+        {
+            "longbow|phb": true,
+            "longsword|phb": true,
+            "shortbow|phb": true,
+            "shortsword|phb": true
+        }
+    ]
+}

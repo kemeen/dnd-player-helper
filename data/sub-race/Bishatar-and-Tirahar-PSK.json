@@ -1,0 +1,29 @@
+{
+    "entries": [
+        {
+            "data": {
+                "overwrite": "Elf Culture"
+            },
+            "entries": [
+                "Your ground speed increases to 35 feet."
+            ],
+            "name": "Fleet of Foot",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+            ],
+            "name": "Mask of the Wild",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Bishatar and Tirahar",
+    "page": 21,
+    "raceName": "Elf (Kaladesh)",
+    "raceSource": "PSK",
+    "source": "PSK",
+    "speed": 35
+}

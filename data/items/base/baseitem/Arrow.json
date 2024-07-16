@@ -1,0 +1,12 @@
+{
+    "arrow": true,
+    "basicRules": true,
+    "name": "Arrow",
+    "page": 150,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "A",
+    "value": 5,
+    "weight": 0.05
+}

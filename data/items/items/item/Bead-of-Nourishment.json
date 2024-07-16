@@ -1,0 +1,14 @@
+{
+    "entries": [
+        "This spongy, flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of rations."
+    ],
+    "miscTags": [
+        "CF/W"
+    ],
+    "name": "Bead of Nourishment",
+    "page": 136,
+    "rarity": "common",
+    "source": "XGE",
+    "tier": "minor",
+    "wondrous": true
+}

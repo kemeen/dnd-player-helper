@@ -1,0 +1,61 @@
+{
+    "affectsCreatureType": [
+        "celestial",
+        "elemental",
+        "fey",
+        "fiend",
+        "undead"
+    ],
+    "components": {
+        "m": {
+            "consume": "optional",
+            "cost": 100000,
+            "text": "a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp"
+        },
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "necrotic",
+        "radiant"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "day"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the {@spell gate} spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the {@spell plane shift} spell.",
+        "In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the spell's area for the first time on a turn or starts its turn there, the creature takes {@damage 5d10} radiant or necrotic damage (your choice when you cast this spell).",
+        "When you cast this spell, you can designate a password. A creature that speaks the password as it enters the area takes no damage from the spell.",
+        "The spell's area can't overlap with the area of another forbiddance spell. If you cast forbiddance every day for 30 days in the same location, the spell lasts until it is dispelled, and the material components are consumed on the last casting."
+    ],
+    "level": 6,
+    "meta": {
+        "ritual": true
+    },
+    "miscTags": [
+        "PRM"
+    ],
+    "name": "Forbiddance",
+    "page": 243,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 10,
+            "unit": "minute"
+        }
+    ]
+}

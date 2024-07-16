@@ -1,0 +1,27 @@
+{
+    "inherits": {
+        "entries": [
+            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
+        ],
+        "lootTables": [
+            "Magic Item Table B"
+        ],
+        "modifySpeed": {
+            "equal": {
+                "swim": "walk"
+            }
+        },
+        "namePrefix": "Mariner's ",
+        "page": 181,
+        "rarity": "uncommon",
+        "source": "DMG",
+        "tier": "minor"
+    },
+    "name": "Mariner's Armor",
+    "requires": [
+        {
+            "armor": true
+        }
+    ],
+    "type": "GV"
+}

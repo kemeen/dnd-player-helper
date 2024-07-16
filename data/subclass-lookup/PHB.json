@@ -1,0 +1,538 @@
+{
+    "Barbarian": {
+        "BGG": {
+            "Giant": {
+                "name": "Path of the Giant"
+            }
+        },
+        "PHB": {
+            "Berserker": {
+                "name": "Path of the Berserker"
+            },
+            "Totem Warrior": {
+                "name": "Path of the Totem Warrior"
+            }
+        },
+        "SCAG": {
+            "Battlerager": {
+                "name": "Path of the Battlerager"
+            }
+        },
+        "TCE": {
+            "Beast": {
+                "name": "Path of the Beast"
+            },
+            "Wild Magic": {
+                "name": "Path of Wild Magic"
+            }
+        },
+        "TDCSR": {
+            "Juggernaut": {
+                "name": "Path of the Juggernaut"
+            }
+        },
+        "XGE": {
+            "Ancestral Guardian": {
+                "name": "Path of the Ancestral Guardian"
+            },
+            "Storm Herald": {
+                "name": "Path of the Storm Herald"
+            },
+            "Zealot": {
+                "name": "Path of the Zealot"
+            }
+        }
+    },
+    "Bard": {
+        "PHB": {
+            "Lore": {
+                "name": "College of Lore"
+            },
+            "Valor": {
+                "name": "College of Valor"
+            }
+        },
+        "TCE": {
+            "Creation": {
+                "name": "College of Creation"
+            },
+            "Eloquence": {
+                "name": "College of Eloquence"
+            }
+        },
+        "TDCSR": {
+            "Tragedy": {
+                "name": "College of Tragedy"
+            }
+        },
+        "VRGR": {
+            "Spirits": {
+                "name": "College of Spirits"
+            }
+        },
+        "XGE": {
+            "Glamour": {
+                "name": "College of Glamour"
+            },
+            "Swords": {
+                "name": "College of Swords"
+            },
+            "Whispers": {
+                "name": "College of Whispers"
+            }
+        }
+    },
+    "Cleric": {
+        "DMG": {
+            "Death": {
+                "name": "Death Domain"
+            }
+        },
+        "PHB": {
+            "Knowledge": {
+                "name": "Knowledge Domain"
+            },
+            "Life": {
+                "name": "Life Domain"
+            },
+            "Light": {
+                "name": "Light Domain"
+            },
+            "Nature": {
+                "name": "Nature Domain"
+            },
+            "Tempest": {
+                "name": "Tempest Domain"
+            },
+            "Trickery": {
+                "name": "Trickery Domain"
+            },
+            "War": {
+                "name": "War Domain"
+            }
+        },
+        "PSA": {
+            "Ambition (PSA)": {
+                "name": "Ambition Domain (PSA)"
+            },
+            "Knowledge (PSA)": {
+                "isReprinted": true,
+                "name": "Knowledge Domain (PSA)"
+            },
+            "Solidarity (PSA)": {
+                "name": "Solidarity Domain (PSA)"
+            },
+            "Strength (PSA)": {
+                "name": "Strength Domain (PSA)"
+            },
+            "Zeal (PSA)": {
+                "name": "Zeal Domain (PSA)"
+            }
+        },
+        "SCAG": {
+            "Arcana": {
+                "name": "Arcana Domain"
+            }
+        },
+        "TCE": {
+            "Order": {
+                "name": "Order Domain"
+            },
+            "Peace": {
+                "name": "Peace Domain"
+            },
+            "Twilight": {
+                "name": "Twilight Domain"
+            }
+        },
+        "TDCSR": {
+            "Blood": {
+                "name": "Blood Domain"
+            },
+            "Moon": {
+                "name": "Moon Domain"
+            }
+        },
+        "XGE": {
+            "Forge": {
+                "name": "Forge Domain"
+            },
+            "Grave": {
+                "name": "Grave Domain"
+            }
+        }
+    },
+    "Druid": {
+        "PHB": {
+            "Land": {
+                "name": "Circle of the Land"
+            },
+            "Moon": {
+                "name": "Circle of the Moon"
+            }
+        },
+        "TCE": {
+            "Spores": {
+                "name": "Circle of Spores"
+            },
+            "Stars": {
+                "name": "Circle of Stars"
+            },
+            "Wildfire": {
+                "name": "Circle of Wildfire"
+            }
+        },
+        "TDCSR": {
+            "Blighted": {
+                "name": "Circle of the Blighted"
+            }
+        },
+        "XGE": {
+            "Dreams": {
+                "name": "Circle of Dreams"
+            },
+            "Shepherd": {
+                "name": "Circle of the Shepherd"
+            }
+        }
+    },
+    "Fighter": {
+        "EGW": {
+            "Echo Knight": {
+                "name": "Echo Knight"
+            }
+        },
+        "PHB": {
+            "Battle Master": {
+                "name": "Battle Master"
+            },
+            "Champion": {
+                "name": "Champion"
+            },
+            "Eldritch Knight": {
+                "name": "Eldritch Knight"
+            }
+        },
+        "SCAG": {
+            "Purple Dragon Knight (Banneret)": {
+                "name": "Purple Dragon Knight (Banneret)"
+            }
+        },
+        "TCE": {
+            "Psi Warrior": {
+                "name": "Psi Warrior"
+            },
+            "Rune Knight": {
+                "name": "Rune Knight"
+            }
+        },
+        "XGE": {
+            "Arcane Archer": {
+                "name": "Arcane Archer"
+            },
+            "Cavalier": {
+                "name": "Cavalier"
+            },
+            "Samurai": {
+                "name": "Samurai"
+            }
+        }
+    },
+    "Monk": {
+        "FTD": {
+            "Ascendant Dragon": {
+                "name": "Way of the Ascendant Dragon"
+            }
+        },
+        "PHB": {
+            "Four Elements": {
+                "name": "Way of the Four Elements"
+            },
+            "Open Hand": {
+                "name": "Way of the Open Hand"
+            },
+            "Shadow": {
+                "name": "Way of Shadow"
+            }
+        },
+        "SCAG": {
+            "Long Death": {
+                "name": "Way of the Long Death"
+            }
+        },
+        "TCE": {
+            "Astral Self": {
+                "name": "Way of the Astral Self"
+            },
+            "Mercy": {
+                "name": "Way of Mercy"
+            }
+        },
+        "TDCSR": {
+            "Cobalt Soul": {
+                "name": "Way of the Cobalt Soul"
+            }
+        },
+        "XGE": {
+            "Drunken Master": {
+                "name": "Way of the Drunken Master"
+            },
+            "Kensei": {
+                "name": "Way of the Kensei"
+            },
+            "Sun Soul": {
+                "name": "Way of the Sun Soul"
+            }
+        }
+    },
+    "Paladin": {
+        "DMG": {
+            "Oathbreaker": {
+                "name": "Oathbreaker"
+            }
+        },
+        "PHB": {
+            "Ancients": {
+                "name": "Oath of the Ancients"
+            },
+            "Devotion": {
+                "name": "Oath of Devotion"
+            },
+            "Vengeance": {
+                "name": "Oath of Vengeance"
+            }
+        },
+        "SCAG": {
+            "Crown": {
+                "name": "Oath of the Crown"
+            }
+        },
+        "TCE": {
+            "Glory": {
+                "name": "Oath of Glory"
+            },
+            "Watchers": {
+                "name": "Oath of the Watchers"
+            }
+        },
+        "TDCSR": {
+            "Open Sea": {
+                "name": "Oath of the Open Sea"
+            }
+        },
+        "XGE": {
+            "Conquest": {
+                "name": "Oath of Conquest"
+            },
+            "Redemption": {
+                "name": "Oath of Redemption"
+            }
+        }
+    },
+    "Ranger": {
+        "FTD": {
+            "Drakewarden": {
+                "name": "Drakewarden"
+            }
+        },
+        "PHB": {
+            "Beast Master": {
+                "name": "Beast Master"
+            },
+            "Hunter": {
+                "name": "Hunter"
+            }
+        },
+        "TCE": {
+            "Fey Wanderer": {
+                "name": "Fey Wanderer"
+            },
+            "Swarmkeeper": {
+                "name": "Swarmkeeper"
+            }
+        },
+        "XGE": {
+            "Gloom Stalker": {
+                "name": "Gloom Stalker"
+            },
+            "Horizon Walker": {
+                "name": "Horizon Walker"
+            },
+            "Monster Slayer": {
+                "name": "Monster Slayer"
+            }
+        }
+    },
+    "Rogue": {
+        "PHB": {
+            "Arcane Trickster": {
+                "name": "Arcane Trickster"
+            },
+            "Assassin": {
+                "name": "Assassin"
+            },
+            "Thief": {
+                "name": "Thief"
+            }
+        },
+        "TCE": {
+            "Phantom": {
+                "name": "Phantom"
+            },
+            "Soulknife": {
+                "name": "Soulknife"
+            }
+        },
+        "XGE": {
+            "Inquisitive": {
+                "name": "Inquisitive"
+            },
+            "Mastermind": {
+                "name": "Mastermind"
+            },
+            "Scout": {
+                "name": "Scout"
+            },
+            "Swashbuckler": {
+                "name": "Swashbuckler"
+            }
+        }
+    },
+    "Sorcerer": {
+        "DSotDQ": {
+            "Lunar": {
+                "name": "Lunar Sorcery"
+            }
+        },
+        "PHB": {
+            "Draconic": {
+                "name": "Draconic Bloodline"
+            },
+            "Wild": {
+                "name": "Wild Magic"
+            }
+        },
+        "PSK": {
+            "Pyromancer (PSK)": {
+                "name": "Pyromancer (PSK)"
+            }
+        },
+        "TCE": {
+            "Aberrant Mind": {
+                "name": "Aberrant Mind"
+            },
+            "Clockwork Soul": {
+                "name": "Clockwork Soul"
+            }
+        },
+        "TDCSR": {
+            "Runechild": {
+                "name": "Runechild"
+            }
+        },
+        "XGE": {
+            "Divine Soul": {
+                "name": "Divine Soul"
+            },
+            "Shadow": {
+                "name": "Shadow Magic"
+            },
+            "Storm": {
+                "name": "Storm Sorcery"
+            }
+        }
+    },
+    "Warlock": {
+        "PHB": {
+            "Archfey": {
+                "name": "The Archfey"
+            },
+            "Fiend": {
+                "name": "The Fiend"
+            },
+            "Great Old One": {
+                "name": "The Great Old One"
+            }
+        },
+        "SCAG": {
+            "Undying": {
+                "name": "The Undying"
+            }
+        },
+        "TCE": {
+            "Fathomless": {
+                "name": "The Fathomless"
+            },
+            "Genie": {
+                "name": "The Genie"
+            }
+        },
+        "VRGR": {
+            "Undead": {
+                "name": "The Undead"
+            }
+        },
+        "XGE": {
+            "Celestial": {
+                "name": "The Celestial"
+            },
+            "Hexblade": {
+                "name": "The Hexblade"
+            }
+        }
+    },
+    "Wizard": {
+        "EGW": {
+            "Chronurgy": {
+                "name": "Chronurgy Magic"
+            },
+            "Graviturgy": {
+                "name": "Graviturgy Magic"
+            }
+        },
+        "PHB": {
+            "Abjuration": {
+                "name": "School of Abjuration"
+            },
+            "Conjuration": {
+                "name": "School of Conjuration"
+            },
+            "Divination": {
+                "name": "School of Divination"
+            },
+            "Enchantment": {
+                "name": "School of Enchantment"
+            },
+            "Evocation": {
+                "name": "School of Evocation"
+            },
+            "Illusion": {
+                "name": "School of Illusion"
+            },
+            "Necromancy": {
+                "name": "School of Necromancy"
+            },
+            "Transmutation": {
+                "name": "School of Transmutation"
+            }
+        },
+        "TCE": {
+            "Bladesinging": {
+                "name": "Bladesinging"
+            },
+            "Scribes": {
+                "name": "Order of Scribes"
+            }
+        },
+        "TDCSR": {
+            "Blood Magic": {
+                "name": "Blood Magic"
+            }
+        },
+        "XGE": {
+            "War": {
+                "name": "War Magic"
+            }
+        }
+    }
+}

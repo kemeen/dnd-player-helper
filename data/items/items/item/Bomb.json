@@ -1,0 +1,13 @@
+{
+    "age": "renaissance",
+    "entries": [
+        "As an action, a character can light this bomb and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must succeed on a DC 12 Dexterity saving throw or take {@damage 3d6} fire damage."
+    ],
+    "name": "Bomb",
+    "page": 268,
+    "rarity": "none",
+    "source": "DMG",
+    "type": "EXP",
+    "value": 15000,
+    "weight": 1
+}

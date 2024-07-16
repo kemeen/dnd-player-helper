@@ -1,0 +1,36 @@
+{
+    "_copy": {
+        "_mod": {
+            "entries": {
+                "index": -1,
+                "items": {
+                    "entries": [
+                        "While wearing the Stormgirdle in its exalted state, you gain the following benefits:",
+                        {
+                            "items": [
+                                "Your Strength score becomes 25 if it isn't already 25 or higher.",
+                                "Your Storm Avatar's lightning strike deals {@damage 5d6} lightning damage (instead of {@dice 3d6}).",
+                                "You can cast the {@spell control weather} spell from the girdle. This property can't be used again until the next dawn."
+                            ],
+                            "type": "list"
+                        }
+                    ],
+                    "name": "Exalted",
+                    "type": "entries"
+                },
+                "mode": "insertArr"
+            }
+        },
+        "_preserve": {
+            "hasFluffImages": true,
+            "page": true
+        },
+        "name": "Stormgirdle (Awakened)",
+        "source": "EGW"
+    },
+    "attachedSpells": [
+        "control weather"
+    ],
+    "name": "Stormgirdle (Exalted)",
+    "source": "EGW"
+}

@@ -1,0 +1,80 @@
+{
+    "ability": [
+        {
+            "con": 1
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You have proficiency with the {@item spear|phb}, {@item trident|phb}, {@item light crossbow|phb}, and {@item net|phb}."
+            ],
+            "name": "Sea Elf Training",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have a swimming speed of 30 feet, and you can breathe air and water."
+            ],
+            "name": "Child of the Sea",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+            ],
+            "name": "Friend of the Sea",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write Aquan."
+            ],
+            "name": "Extra Language",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "heightAndWeight": {
+        "baseHeight": 54,
+        "baseWeight": 90,
+        "heightMod": "2d8",
+        "weightMod": "1d4"
+    },
+    "languageProficiencies": [
+        {
+            "aquan": true,
+            "common": true,
+            "elvish": true
+        }
+    ],
+    "name": "Sea",
+    "otherSources": [
+        {
+            "page": 163,
+            "source": "EGW"
+        }
+    ],
+    "page": 62,
+    "raceName": "Elf",
+    "raceSource": "PHB",
+    "reprintedAs": [
+        "Sea Elf|MPMM"
+    ],
+    "source": "MTF",
+    "speed": {
+        "swim": 30,
+        "walk": 30
+    },
+    "traitTags": [
+        "Amphibious"
+    ],
+    "weaponProficiencies": [
+        {
+            "light crossbow|phb": true,
+            "net|phb": true,
+            "spear|phb": true,
+            "trident|phb": true
+        }
+    ]
+}

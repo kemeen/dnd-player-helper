@@ -1,0 +1,15 @@
+{
+    "hasFluffImages": true,
+    "items": [
+        "Bag of Tricks, Gray",
+        "Bag of Tricks, Rust",
+        "Bag of Tricks, Tan"
+    ],
+    "name": "Bag of Tricks",
+    "page": 154,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "tier": "major",
+    "weight": 0.5,
+    "wondrous": true
+}

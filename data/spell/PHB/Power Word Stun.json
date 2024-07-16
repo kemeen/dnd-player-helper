@@ -1,0 +1,46 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "v": true
+    },
+    "conditionInflict": [
+        "stunned"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is {@condition stunned}. Otherwise, the spell has no effect.",
+        "The {@condition stunned} target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends."
+    ],
+    "level": 8,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Power Word Stun",
+    "page": 267,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "constitution"
+    ],
+    "school": "E",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

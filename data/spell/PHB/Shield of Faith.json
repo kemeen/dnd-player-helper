@@ -1,0 +1,52 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "basicRules": true,
+    "components": {
+        "m": "a small parchment with a bit of holy text written on it",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 10,
+                "type": "minute"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration."
+    ],
+    "level": 1,
+    "miscTags": [
+        "MAC"
+    ],
+    "name": "Shield of Faith",
+    "otherSources": [
+        {
+            "page": 59,
+            "source": "RMR"
+        }
+    ],
+    "page": 275,
+    "range": {
+        "distance": {
+            "amount": 60,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "bonus"
+        }
+    ]
+}

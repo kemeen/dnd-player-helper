@@ -1,0 +1,88 @@
+{
+    "entries": [
+        {
+            "items": [
+                {
+                    "entry": "{@skill History}, {@skill Insight}",
+                    "name": "Skill Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "One type of {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools}",
+                    "name": "Tool Proficiencies:",
+                    "type": "item"
+                },
+                {
+                    "entry": "Dwarvish or one of your choice if you already speak Dwarvish",
+                    "name": "Languages:",
+                    "type": "item"
+                },
+                {
+                    "entry": "A set of {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools} with which you are proficient, a maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from, a set of {@item traveler's clothes|phb}, and a {@item pouch|phb} containing 5 gp and a gem worth 10 gp",
+                    "name": "Equipment:",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        },
+        {
+            "data": {
+                "isFeature": true
+            },
+            "entries": [
+                "As well respected as clan crafters are among outsiders, no one esteems them quite so highly as dwarves do. You always have free room and board in any place where shield dwarves or gold dwarves dwell, and the individuals in such a settlement might vie among themselves to determine who can offer you (and possibly your companions) the finest accommodations and assistance."
+            ],
+            "name": "Feature: Respect of the Stout Folk",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Use the tables for the {@background guild artisan} background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a clan crafter. (For instance, consider the words \"guild\" and \"clan\" to be interchangeable.)",
+                "Your bond is almost certainly related to the master or the clan that taught you, or else to the work that you produce. Your ideal might have to do with maintaining the high quality of your work or preserving the dwarven traditions of craftsmanship."
+            ],
+            "name": "Suggested Characteristics",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "languageProficiencies": [
+        {
+            "dwarvish": true
+        },
+        {
+            "anyStandard": 1
+        }
+    ],
+    "name": "Clan Crafter",
+    "page": 145,
+    "skillProficiencies": [
+        {
+            "history": true,
+            "insight": true
+        }
+    ],
+    "source": "SCAG",
+    "startingEquipment": [
+        {
+            "_": [
+                {
+                    "equipmentType": "toolArtisan"
+                },
+                {
+                    "special": "maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from"
+                },
+                "traveler's clothes|phb",
+                {
+                    "containsValue": 1500,
+                    "item": "pouch|phb"
+                }
+            ]
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "anyArtisansTool": 1
+        }
+    ]
+}

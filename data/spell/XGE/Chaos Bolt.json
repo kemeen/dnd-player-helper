@@ -1,0 +1,153 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "acid",
+        "cold",
+        "fire",
+        "force",
+        "lightning",
+        "poison",
+        "psychic",
+        "thunder"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes {@damage 2d8 + 1d6} damage. Choose one of the {@dice d8}s. The number rolled on that die determines the attack's damage type, as shown below.",
+        {
+            "caption": "Chaos Bolt",
+            "colLabels": [
+                "{@dice d8}",
+                "Damage Type"
+            ],
+            "colStyles": [
+                "col-2 text-center",
+                "col-10"
+            ],
+            "rows": [
+                [
+                    {
+                        "roll": {
+                            "exact": 1
+                        },
+                        "type": "cell"
+                    },
+                    "Acid"
+                ],
+                [
+                    {
+                        "roll": {
+                            "exact": 2
+                        },
+                        "type": "cell"
+                    },
+                    "Cold"
+                ],
+                [
+                    {
+                        "roll": {
+                            "exact": 3
+                        },
+                        "type": "cell"
+                    },
+                    "Fire"
+                ],
+                [
+                    {
+                        "roll": {
+                            "exact": 4
+                        },
+                        "type": "cell"
+                    },
+                    "Force"
+                ],
+                [
+                    {
+                        "roll": {
+                            "exact": 5
+                        },
+                        "type": "cell"
+                    },
+                    "Lightning"
+                ],
+                [
+                    {
+                        "roll": {
+                            "exact": 6
+                        },
+                        "type": "cell"
+                    },
+                    "Poison"
+                ],
+                [
+                    {
+                        "roll": {
+                            "exact": 7
+                        },
+                        "type": "cell"
+                    },
+                    "Psychic"
+                ],
+                [
+                    {
+                        "roll": {
+                            "exact": 8
+                        },
+                        "type": "cell"
+                    },
+                    "Thunder"
+                ]
+            ],
+            "type": "table"
+        },
+        "If you roll the same number on both {@dice d8}s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.",
+        "A creature can be targeted only once by each casting of this spell."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 2nd level or higher, each target takes {@scaledamage 2d8 + 1d6|1-9|1d6} extra damage of the type rolled for each slot level above 1st."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 1,
+    "miscTags": [
+        "RO"
+    ],
+    "name": "Chaos Bolt",
+    "otherSources": [
+        {
+            "source": "GGR"
+        }
+    ],
+    "page": 151,
+    "range": {
+        "distance": {
+            "amount": 120,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "V",
+    "source": "XGE",
+    "spellAttack": [
+        "R"
+    ],
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

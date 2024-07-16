@@ -1,0 +1,43 @@
+{
+    "charges": 6,
+    "entries": [
+        "This wand is shaped like a drop spindle wrapped in red thread. The wand has 6 charges that can be used for the following properties:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "When you roll initiative, you can expend 1 charge to add or subtract your proficiency bonus from the total roll."
+                    ],
+                    "name": "Battle Foreknowledge",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "As an action, you can expend 2 charges to target a creature within 30 feet of yourself and invoke that creature's doom. While the target is on the same plane of existence as you, you can sense the direction to its location, and you know the direction of its movement if it's in motion. Additionally, once per turn when you deal damage to the doomed creature, you can roll {@dice 1d6} and add the number rolled to the damage roll. These benefits persist for 1 hour or until you target another creature with this effect."
+                    ],
+                    "name": "Doom Foretold",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "When a creature within 60 feet of you makes a saving throw or an attack roll, you can use your reaction to expend 3 charges and alter the outcome, turning a failed saving throw into a successful one, a missed attack roll into a hit, or vice versa.",
+                        "The wand regains {@dice 1d6} expended charges daily at dawn."
+                    ],
+                    "name": "Twist of Fate",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Spindle of Fate",
+    "page": 38,
+    "rarity": "legendary",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d6}",
+    "reqAttune": true,
+    "source": "BMT",
+    "type": "WD"
+}

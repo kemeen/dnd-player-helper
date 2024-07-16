@@ -1,0 +1,40 @@
+{
+    "components": {
+        "s": true,
+        "v": true
+    },
+    "damageResist": [
+        "bludgeoning",
+        "piercing",
+        "slashing"
+    ],
+    "duration": [
+        {
+            "duration": {
+                "amount": 1,
+                "type": "round"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks."
+    ],
+    "level": 0,
+    "name": "Blade Ward",
+    "page": 218,
+    "range": {
+        "distance": {
+            "type": "self"
+        },
+        "type": "point"
+    },
+    "school": "A",
+    "source": "PHB",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

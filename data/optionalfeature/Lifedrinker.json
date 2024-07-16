@@ -1,0 +1,23 @@
+{
+    "entries": [
+        "When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum of 1)."
+    ],
+    "featureType": [
+        "EI"
+    ],
+    "name": "Lifedrinker",
+    "page": 111,
+    "prerequisite": [
+        {
+            "level": {
+                "class": {
+                    "name": "Warlock"
+                },
+                "level": 12
+            },
+            "pact": "Blade"
+        }
+    ],
+    "source": "PHB",
+    "srd": true
+}

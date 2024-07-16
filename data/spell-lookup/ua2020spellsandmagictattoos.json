@@ -1,0 +1,100 @@
+{
+    "acid stream": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "otherworldly form": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "spirit shroud": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Paladin": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "summon aberrant spirit": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "summon bestial spirit": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Ranger": true
+            }
+        }
+    },
+    "summon celestial spirit": {
+        "class": {
+            "PHB": {
+                "Cleric": true,
+                "Paladin": true
+            }
+        }
+    },
+    "summon elemental spirit": {
+        "class": {
+            "PHB": {
+                "Druid": true,
+                "Sorcerer": true,
+                "Wizard": true
+            }
+        }
+    },
+    "summon fey spirit": {
+        "class": {
+            "PHB": {
+                "Bard": true,
+                "Druid": true,
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "summon fiendish spirit": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "summon shadow spirit": {
+        "class": {
+            "PHB": {
+                "Sorcerer": true,
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    },
+    "summon undead spirit": {
+        "class": {
+            "PHB": {
+                "Warlock": true,
+                "Wizard": true
+            }
+        }
+    }
+}

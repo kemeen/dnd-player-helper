@@ -1,0 +1,23 @@
+{
+    "bonusAc": "+1",
+    "entries": [
+        "This ornament can be jewelry, a cloak, or another wearable accessory. It appears to be fashioned from a dragon's scale, tooth, or claw, or it incorporates images in those shapes."
+    ],
+    "items": [
+        "Slumbering Scaled Ornament|FTD",
+        "Stirring Scaled Ornament|FTD",
+        "Wakened Scaled Ornament|FTD",
+        "Ascendant Scaled Ornament|FTD"
+    ],
+    "modifySpeed": {
+        "equal": {
+            "fly": "walk"
+        }
+    },
+    "name": "Scaled Ornament",
+    "page": 27,
+    "rarity": "varies",
+    "reqAttune": true,
+    "source": "FTD",
+    "wondrous": true
+}

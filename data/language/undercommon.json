@@ -1,0 +1,9 @@
+{
+    "name": "undercommon",
+    "typical_speakers": [
+        "underdark traders"
+    ],
+    "script": "elvish",
+    "type": "exotic",
+    "parent": null
+}

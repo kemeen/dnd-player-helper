@@ -1,0 +1,12 @@
+{
+    "group": "supplement-alt",
+    "id": "TLK",
+    "level": {
+        "end": 4,
+        "start": 4
+    },
+    "name": "The Lost Kenku",
+    "published": "2017-11-28",
+    "source": "TLK",
+    "storyline": "Extra Life"
+}

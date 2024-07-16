@@ -1,0 +1,57 @@
+{
+    "creatureTypeTags": [
+        "goblinoid"
+    ],
+    "creatureTypes": [
+        "humanoid"
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You are a Humanoid. You are also considered a goblinoid for any prerequisite or effect that requires you to be a goblinoid."
+            ],
+            "name": "Creature Type",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were in dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have advantage on saving throws you make to avoid or end the {@condition charmed} condition on yourself."
+            ],
+            "name": "Fey Ancestry",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your proficiency bonus.",
+                "You can use this trait a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest, and you can use it no more than once per turn."
+            ],
+            "name": "Fury of the Small",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can take the {@action Disengage} or {@action Hide} action as a bonus action on each of your turns."
+            ],
+            "name": "Nimble Escape",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Goblin",
+    "page": 20,
+    "size": [
+        "S"
+    ],
+    "source": "MPMM",
+    "speed": 30
+}

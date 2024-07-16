@@ -1,0 +1,15 @@
+{
+    "group": "supplement",
+    "id": "TftYP-THSoT",
+    "level": {
+        "end": 8,
+        "start": 5
+    },
+    "name": "Tales from the Yawning Portal: The Hidden Shrine of Tamoachan",
+    "parentName": "Tales from the Yawning Portal",
+    "parentSource": "TftYP",
+    "published": "2017-03-24",
+    "publishedOrder": 2,
+    "source": "TftYP-THSoT",
+    "storyline": "Tales from the Yawning Portal"
+}

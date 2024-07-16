@@ -1,0 +1,47 @@
+{
+    "areaTags": [
+        "MT"
+    ],
+    "components": {
+        "m": "a short reed or piece of straw",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "duration": {
+                "amount": 24,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration."
+    ],
+    "level": 3,
+    "meta": {
+        "ritual": true
+    },
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Water Breathing",
+    "page": 287,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

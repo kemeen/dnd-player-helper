@@ -1,0 +1,51 @@
+{
+    "components": {
+        "m": "a playing card depicting a rogue",
+        "s": true,
+        "v": true
+    },
+    "damageInflict": [
+        "psychic"
+    ],
+    "duration": [
+        {
+            "type": "instant"
+        }
+    ],
+    "entries": [
+        "You whisper magical words that antagonize one creature of your choice within range. The target must make a Wisdom saving throw. On a failed save, the target takes {@damage 4d4} psychic damage and must immediately use its reaction to make a melee attack against another creature of your choice that you can see. If the target can't make this attack (for example, because there is no one within its reach or because its reaction is unavailable), the target instead has disadvantage on the next attack roll it makes before the start of your next turn. On a successful save, the target takes half as much damage only."
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 4th level or higher, the damage increases by {@dice 1d4} for each slot level above 3rd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 3,
+    "miscTags": [
+        "SGT"
+    ],
+    "name": "Antagonize",
+    "page": 50,
+    "range": {
+        "distance": {
+            "amount": 30,
+            "type": "feet"
+        },
+        "type": "point"
+    },
+    "savingThrow": [
+        "wisdom"
+    ],
+    "school": "E",
+    "source": "BMT",
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

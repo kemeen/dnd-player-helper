@@ -1,0 +1,12 @@
+{
+    "basicRules": true,
+    "carryingCapacity": 480,
+    "name": "Camel",
+    "page": 157,
+    "rarity": "none",
+    "source": "PHB",
+    "speed": 50,
+    "srd": true,
+    "type": "MNT",
+    "value": 5000
+}

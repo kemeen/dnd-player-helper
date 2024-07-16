@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "name": "Fine Wine (Bottle)",
+    "page": 158,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "FD",
+    "value": 1000
+}

@@ -1,0 +1,19 @@
+{
+    "attachedSpells": [
+        "gust of wind"
+    ],
+    "entries": [
+        "While holding this fan, you can use an action to cast the {@spell gust of wind} spell (save DC 13) from it. Once used, the fan shouldn't be used again until the next dawn. Each time it is used again before then, it has a cumulative {@chance 20} chance of not working and tearing into useless, nonmagical tatters."
+    ],
+    "hasFluffImages": true,
+    "lootTables": [
+        "Magic Item Table F"
+    ],
+    "name": "Wind Fan",
+    "page": 213,
+    "rarity": "uncommon",
+    "source": "DMG",
+    "srd": true,
+    "tier": "major",
+    "wondrous": true
+}

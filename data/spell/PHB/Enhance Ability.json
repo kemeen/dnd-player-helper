@@ -1,0 +1,96 @@
+{
+    "areaTags": [
+        "ST"
+    ],
+    "components": {
+        "m": "fur or a feather from a beast",
+        "s": true,
+        "v": true
+    },
+    "duration": [
+        {
+            "concentration": true,
+            "duration": {
+                "amount": 1,
+                "type": "hour"
+            },
+            "type": "timed"
+        }
+    ],
+    "entries": [
+        "You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.",
+        {
+            "entries": [
+                "The target has advantage on Constitution checks. It also gains {@dice 2d6} temporary hit points, which are lost when the spell ends."
+            ],
+            "name": "Bear's Endurance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The target has advantage on Strength checks, and his or her carrying capacity doubles."
+            ],
+            "name": "Bull's Strength",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't {@condition incapacitated}."
+            ],
+            "name": "Cat's Grace",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The target has advantage on Charisma checks."
+            ],
+            "name": "Eagle's Splendor",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The target has advantage on Intelligence checks."
+            ],
+            "name": "Fox's Cunning",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "The target has advantage on Wisdom checks."
+            ],
+            "name": "Owl's Wisdom",
+            "type": "entries"
+        }
+    ],
+    "entriesHigherLevel": [
+        {
+            "entries": [
+                "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd."
+            ],
+            "name": "At Higher Levels",
+            "type": "entries"
+        }
+    ],
+    "level": 2,
+    "miscTags": [
+        "ADV",
+        "THP"
+    ],
+    "name": "Enhance Ability",
+    "page": 237,
+    "range": {
+        "distance": {
+            "type": "touch"
+        },
+        "type": "point"
+    },
+    "school": "T",
+    "source": "PHB",
+    "srd": true,
+    "time": [
+        {
+            "number": 1,
+            "unit": "action"
+        }
+    ]
+}

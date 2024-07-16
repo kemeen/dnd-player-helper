@@ -1,0 +1,91 @@
+{
+    "ability": [
+        {
+            "con": 1,
+            "str": 2
+        }
+    ],
+    "age": {
+        "mature": 14,
+        "max": 75
+    },
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "Orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years."
+            ],
+            "name": "Age",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Most orcs lean toward chaotic alignments, and many serve on pirate ships that encourage an inclination toward evil."
+            ],
+            "name": "Alignment",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Orcs average over 6 feet in height, and they have strong, stocky builds. Your size is Medium."
+            ],
+            "name": "Size",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You gain proficiency in the {@skill Intimidation} skill."
+            ],
+            "name": "Menacing",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest."
+            ],
+            "name": "Relentless Endurance",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
+            ],
+            "name": "Savage Attacks",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You can speak, read, and write {@language Common Trade Pidgin|PSX|Common} (if it exists in your campaign) and {@language Orc|PHB}."
+            ],
+            "name": "Languages",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "languageProficiencies": [
+        {
+            "common": true,
+            "orc": true
+        }
+    ],
+    "name": "Orc (Ixalan)",
+    "page": 15,
+    "size": [
+        "M"
+    ],
+    "skillProficiencies": [
+        {
+            "intimidation": true
+        }
+    ],
+    "source": "PSX",
+    "speed": 30
+}

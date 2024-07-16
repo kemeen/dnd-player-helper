@@ -1,0 +1,15 @@
+{
+    "consumes": {
+        "name": "Arcane Shot"
+    },
+    "entries": [
+        "You weave necromantic magic into your arrow. The creature hit by the arrow takes an extra {@damage 2d6} necrotic damage. The target must also succeed on a Constitution saving throw, or the damage dealt by its weapon attacks is halved until the start of your next turn.",
+        "The necrotic damage increases to {@damage 4d6} when you reach 18th level in this class."
+    ],
+    "featureType": [
+        "AS"
+    ],
+    "name": "Enfeebling Arrow",
+    "page": 29,
+    "source": "XGE"
+}

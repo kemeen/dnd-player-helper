@@ -1,0 +1,44 @@
+{
+    "entries": [
+        "You can draw on the forces of the multiverse to survive cosmic extremes and to traverse its infinite realms, granting you these benefits:",
+        {
+            "items": [
+                {
+                    "entries": [
+                        "When you finish a long rest, you gain resistance to either acid, cold, or fire damage (your choice) until you finish your next long rest."
+                    ],
+                    "name": "Planar Adaptation",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "Your experience with portals allows you to open them without a portal key. As an action, you can concentrate on a portal you're aware of that is within 5 feet of yourself and make a DC 20 Intelligence ({@skill Arcana}) check. On a failed check, you take {@damage 3d8} psychic damage and can't use this benefit on that portal again until you finish a long rest. On a successful check, you can force the portal open or closed for 1 hour. For that duration, the portal doesn't respond to its portal key unless a creature employing the key succeeds on a DC 20 Intelligence ({@skill Arcana}) check as an action."
+                    ],
+                    "name": "Portal Cracker",
+                    "type": "item"
+                },
+                {
+                    "entries": [
+                        "You know the direction to the last planar portal you used while you and the portal are on the same plane of existence. Moreover, as an action, you can detect the location of any portals within 30 feet of you that aren't behind total cover. Once you detect a portal with this action, you can't use the action again until you finish a long rest."
+                    ],
+                    "name": "Portal Sense",
+                    "type": "item"
+                }
+            ],
+            "style": "list-hang-notitle",
+            "type": "list"
+        }
+    ],
+    "hasFluffImages": true,
+    "name": "Planar Wanderer",
+    "page": 11,
+    "prerequisite": [
+        {
+            "feat": [
+                "scion of the outer planes|sato"
+            ],
+            "level": 4
+        }
+    ],
+    "source": "SatO"
+}

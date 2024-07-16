@@ -1,0 +1,146 @@
+{
+    "_versions": [
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "You have proficiency in one of the following skills of your choice: {@skill Arcana}, {@skill Investigation}, {@skill Medicine}, {@skill Sleight of Hand}, or {@skill Survival}."
+                        ],
+                        "name": "Kobold Legacy (Craftiness)",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Kobold Legacy"
+                }
+            },
+            "additionalSpells": null,
+            "name": "Kobold; Craftiness",
+            "source": "MPMM"
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "You have advantage on saving throws to avoid or end the {@condition frightened} condition on yourself."
+                        ],
+                        "name": "Kobold Legacy (Defiance)",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Kobold Legacy"
+                }
+            },
+            "additionalSpells": null,
+            "name": "Kobold; Defiance",
+            "skillProficiencies": null,
+            "source": "MPMM"
+        },
+        {
+            "_mod": {
+                "entries": {
+                    "items": {
+                        "entries": [
+                            "You know one {@filter cantrip of your choice from the sorcerer spell list|spells|level=0|class=Sorcerer}. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip (choose when you select this race)."
+                        ],
+                        "name": "Kobold Legacy (Draconic Sorcery)",
+                        "type": "entries"
+                    },
+                    "mode": "replaceArr",
+                    "replace": "Kobold Legacy"
+                }
+            },
+            "name": "Kobold; Draconic Sorcery",
+            "skillProficiencies": null,
+            "source": "MPMM"
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    {
+                        "choose": "level=0|class=Sorcerer",
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    ],
+    "darkvision": 60,
+    "entries": [
+        {
+            "entries": [
+                "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were in dim light. You discern colors in that darkness only as shades of gray."
+            ],
+            "name": "Darkvision",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "As a bonus action, you let out a cry at your enemies within 10 feet of you. Until the start of your next turn, you and your allies have advantage on attack rolls against any of those enemies who could hear you. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+            ],
+            "name": "Draconic Cry",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "Kobold's connections to dragons can manifest in unpredictable ways in an individual kobold. Choose one of the following legacy options for your kobold.",
+                {
+                    "items": [
+                        {
+                            "entry": "You have proficiency in one of the following skills of your choice: {@skill Arcana}, {@skill Investigation}, {@skill Medicine}, {@skill Sleight of Hand}, or {@skill Survival}.",
+                            "name": "Craftiness",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "You have advantage on saving throws to avoid or end the {@condition frightened} condition on yourself.",
+                            "name": "Defiance",
+                            "type": "item"
+                        },
+                        {
+                            "entry": "You know one {@filter cantrip of your choice from the sorcerer spell list|spells|level=0|class=Sorcerer}. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip (choose when you select this race).",
+                            "name": "Draconic Sorcery",
+                            "type": "item"
+                        }
+                    ],
+                    "style": "list-hang-notitle",
+                    "type": "list"
+                }
+            ],
+            "name": "Kobold Legacy",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "lineage": "VRGR",
+    "name": "Kobold",
+    "page": 25,
+    "size": [
+        "S"
+    ],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "arcana",
+                    "investigation",
+                    "medicine",
+                    "sleight of hand",
+                    "survival"
+                ]
+            }
+        }
+    ],
+    "source": "MPMM",
+    "speed": 30
+}

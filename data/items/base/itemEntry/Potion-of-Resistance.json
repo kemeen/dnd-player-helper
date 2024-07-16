@@ -1,0 +1,7 @@
+{
+    "entriesTemplate": [
+        "When you drink this potion, you gain resistance to {{item.resist}} damage for 1 hour."
+    ],
+    "name": "Potion of Resistance",
+    "source": "DMG"
+}

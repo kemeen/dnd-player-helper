@@ -1,0 +1,21 @@
+{
+    "ability": {
+        "static": {
+            "str": 23
+        }
+    },
+    "entries": [
+        "When you drink this potion, your Strength score changes to 23 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.",
+        "This potion's transparent liquid has floating in it a sliver of fingernail from a {@creature frost giant}."
+    ],
+    "lootTables": [
+        "Magic Item Table C"
+    ],
+    "name": "Potion of Frost Giant Strength",
+    "page": 187,
+    "rarity": "rare",
+    "source": "DMG",
+    "srd": true,
+    "tier": "minor",
+    "type": "P"
+}

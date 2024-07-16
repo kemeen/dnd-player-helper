@@ -1,0 +1,10 @@
+{
+    "basicRules": true,
+    "entries": [
+        "Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations."
+    ],
+    "name": "History",
+    "page": 177,
+    "source": "PHB",
+    "srd": true
+}

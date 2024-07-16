@@ -1,0 +1,21 @@
+{
+    "axe": true,
+    "basicRules": true,
+    "dmg1": "1d6",
+    "dmgType": "S",
+    "name": "Handaxe",
+    "page": 149,
+    "property": [
+        "L",
+        "T"
+    ],
+    "range": "20/60",
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "M",
+    "value": 500,
+    "weapon": true,
+    "weaponCategory": "simple",
+    "weight": 2
+}

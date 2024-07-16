@@ -1,0 +1,22 @@
+{
+    "charges": 3,
+    "entries": [
+        "These tinker's goggles have 3 charges. As an action, you can expend 1 charge to shoot a beam of fiery light from the goggles at a creature you can see within 120 feet of yourself. The target must succeed on a DC 15 Dexterity saving throw or take {@damage 3d6} fire damage. The goggles regain {@dice 1d3} expended charges daily at dawn.",
+        {
+            "entries": [
+                "The goggles are cursed, and becoming attuned to them extends the curse to you. You can't remove the goggles or end your attunement to them until you are targeted by a {@spell Remove Curse} spell or similar magic.",
+                "Whenever you use the goggles' fiery beam and the target rolls a 20 on the {@dice d20} for the saving throw, the goggles expose you to a flash of violent {@quickref Vision and Light||2||bright light}. As a result, you have the blinded condition for 24 hours."
+            ],
+            "name": "Cursed",
+            "type": "entries"
+        }
+    ],
+    "name": "Blasted Goggles",
+    "page": 174,
+    "rarity": "uncommon",
+    "recharge": "dawn",
+    "rechargeAmount": "{@dice 1d3}",
+    "reqAttune": true,
+    "source": "BMT",
+    "wondrous": true
+}

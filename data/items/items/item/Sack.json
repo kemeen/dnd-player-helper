@@ -1,0 +1,19 @@
+{
+    "basicRules": true,
+    "containerCapacity": {
+        "weight": [
+            30
+        ]
+    },
+    "entries": [
+        "A sack can hold up to 1 cubic foot or 30 pounds of gear."
+    ],
+    "name": "Sack",
+    "page": 153,
+    "rarity": "none",
+    "source": "PHB",
+    "srd": true,
+    "type": "G",
+    "value": 1,
+    "weight": 0.5
+}

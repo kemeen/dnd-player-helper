@@ -1,0 +1,53 @@
+{
+    "ability": [
+        {
+            "int": 2
+        }
+    ],
+    "additionalSpells": [
+        {
+            "ability": "int",
+            "known": {
+                "1": {
+                    "_": [
+                        {
+                            "choose": "level=0|class=Wizard"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "entries": [
+        {
+            "entries": [
+                "You know one cantrip of your choice from the {@filter wizard spell list|spells|class=wizard|level=0}. Intelligence is your spellcasting ability for it."
+            ],
+            "name": "Cantrip",
+            "type": "entries"
+        },
+        {
+            "entries": [
+                "You have proficiency with {@item navigator's tools|phb} and in the {@skill Survival} skill."
+            ],
+            "name": "Water Creed Navigation",
+            "type": "entries"
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true,
+    "name": "Zendikar; Ula Creed",
+    "otherSources": null,
+    "page": 13,
+    "raceName": "Merfolk",
+    "raceSource": "PSZ",
+    "skillProficiencies": [
+        {
+            "survival": true
+        }
+    ],
+    "source": "PSZ",
+    "traitTags": [
+        "Tool Proficiency"
+    ]
+}

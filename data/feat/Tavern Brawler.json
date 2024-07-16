@@ -1,0 +1,27 @@
+{
+    "ability": [
+        {
+            "choose": {
+                "amount": 1,
+                "from": [
+                    "str",
+                    "con"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:",
+        {
+            "items": [
+                "You are proficient with improvised weapons.",
+                "Your unarmed strike uses a {@damage d4} for damage.",
+                "When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target."
+            ],
+            "type": "list"
+        }
+    ],
+    "name": "Tavern Brawler",
+    "page": 170,
+    "source": "PHB"
+}
