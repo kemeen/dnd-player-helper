@@ -1,4 +1,3 @@
-from os import path
 import pathlib
 
 from dnd_player_helper.dnd_model.dnd_model import DNDModel

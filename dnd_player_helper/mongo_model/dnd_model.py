@@ -45,10 +45,6 @@ class DnDModel(BaseModel):
         return entries
 
 
-
-
-
-
 if __name__ == "__main__":
     model = DnDModel(uri="mongodb://localhost:27017", db_name="session_zero")   
     try:
