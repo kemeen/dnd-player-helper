@@ -107,7 +107,7 @@ class SpellHeader(ft.UserControl):
 class SpellView:
     def __init__(self):
         super().__init__()
-        self.spell_presenter: SpellPresenter = None
+        self.spell_presenter: SpellPresenter|None = None
         self.spell_selection = ft.Dropdown(
             label="Spell",
             hint_text="Select a Spell",
